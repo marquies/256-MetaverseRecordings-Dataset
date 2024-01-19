@@ -1,0 +1,401 @@
+Video;Metaverse name;Editor;Timestamp (from);Timestamp (to, optional);Action;Relevant Objects;Description
+10_Video_01.mp4;Fortnite;10;00:00:00;00:00:08;A1;avatar;running through the virtual world
+10_Video_01.mp4;Fortnite;10;00:00:08;00:00:16;A4;avatar;attempt to gain attention
+10_Video_01.mp4;Fortnite;10;00:00:22;00:00:27;A4;avatar;attempt to gain attention
+10_Video_01.mp4;Fortnite;10;00:00:28;00:00:30;A1;avatar;running through the virtual world
+10_Video_01.mp4;Fortnite;10;00:00:30;;A9;avatar;stop and go
+10_Video_01.mp4;Fortnite;10;00:00:31;;A8;avatar;change direction
+10_Video_01.mp4;Fortnite;10;00:00:33;;A7;avatar;teleport
+10_Video_01.mp4;Fortnite;10;00:00:35;00:00:45;A6;avatar, vehicle;moving in a vehicle
+10_Video_01.mp4;Fortnite;10;00:00:45;;A6;avatar, vehicle;exiting vehicle
+10_Video_01.mp4;Fortnite;10;00:00:45;00:01:26;A1;avatar;falling through the virtual world
+10_Video_01.mp4;Fortnite;10;00:00:54;;A6;avatar, parachute;opening a parachute
+10_Video_01.mp4;Fortnite;10;00:01:06;;A6;avatar, parachute;closing parachute
+10_Video_01.mp4;Fortnite;10;00:01:12;;A6;avatar, parachute;opening a parachute
+10_Video_01.mp4;Fortnite;10;00:01:23;;A8;avatar, parachute;change direction
+10_Video_01.mp4;Fortnite;10;00:01:24;;A8;avatar, parachute;change direction
+10_Video_01.mp4;Fortnite;10;00:01:26;;A6;avatar, parachute;closing parachute
+10_Video_01.mp4;Fortnite;10;00:01:29;;A6;avatar, bottle;picking up item
+10_Video_01.mp4;Fortnite;10;00:01:30;;A1;avatar;running through the virtual world
+10_Video_01.mp4;Fortnite;10;00:01:36;;A6;avaar, item;picking up item
+10_Video_01.mp4;Fortnite;10;00:01:37;;A8;avatar;change direction
+10_Video_01.mp4;Fortnite;10;00:01:39;;A2;avatar, container;blocked by obstacle
+10_Video_01.mp4;Fortnite;10;00:01:39;;A1;avatar;running through the virtual world
+10_Video_01.mp4;Fortnite;10;00:01:40;;A6;avatar, item;picking up item
+10_Video_01.mp4;Fortnite;10;00:01:40;00:01:45;A6;avatar, item;picking up item
+10_Video_01.mp4;Fortnite;10;00:01:40;00:01:46;A6;avatar, item;picking up item
+10_Video_01.mp4;Fortnite;10;00:01:48;;A6;avatar, container;hitting container
+10_Video_01.mp4;Fortnite;10;00:01:48;00:01:52;A1;avatar;running through the virtual world
+10_Video_01.mp4;Fortnite;10;00:01:52;;A8;avatar;change direction
+10_Video_01.mp4;Fortnite;10;00:01:54;00:02:02;A6;avatar, item;consume item
+10_Video_01.mp4;Fortnite;10;00:02:02;00:02:03;A1;avatar;running through the virtual world
+10_Video_01.mp4;Fortnite;10;00:02:03;;A8;avatar;change direction
+10_Video_01.mp4;Fortnite;10;00:02:03;00:02:06;A1;avatar;running through the virtual world
+10_Video_01.mp4;Fortnite;10;00:02:06;;A8;avatar;change direction
+10_Video_01.mp4;Fortnite;10;00:02:06;;A1;avatar;jump into water
+10_Video_01.mp4;Fortnite;10;00:02:06;00:02:14;A1;avatar;swimming through virtual world
+10_Video_01.mp4;Fortnite;10;00:02:14;00:02:19;A1;avatar;running through the virtual world
+10_Video_01.mp4;Fortnite;10;00:02:19;;A8;avatar;change direction
+10_Video_01.mp4;Fortnite;10;00:02:19;00:02:23;A1;avatar;running through the virtual world
+10_Video_01.mp4;Fortnite;10;00:02:23;;A8;avatar;change direction
+10_Video_01.mp4;Fortnite;10;00:02:24;;A8;avatar;change direction
+10_Video_01.mp4;Fortnite;10;00:02:26;;A8;avatar;change direction
+10_Video_01.mp4;Fortnite;10;00:02:26;00:02:37;A1;avatar;running through the virtual world
+10_Video_01.mp4;Fortnite;10;00:02:38;00:02:42;A6;avatar, vending machine;interacting with vending machine
+10_Video_01.mp4;Fortnite;10;00:02:42;00:02:42;A1;avatar;running through the virtual world
+10_Video_01.mp4;Fortnite;10;00:02:42;;A3;avatar;entering a building
+10_Video_01.mp4;Fortnite;10;00:02:42;;A9;avatar;stop and go
+10_Video_01.mp4;Fortnite;10;00:02:42;00:02:45;A6;avatar, item;picking up item
+10_Video_01.mp4;Fortnite;10;00:02:45;00:02:49;A1;avatar;running through the virtual world
+10_Video_01.mp4;Fortnite;10;00:02:49;;A6;avatar, item;picking up item
+10_Video_01.mp4;Fortnite;10;00:02:49;00:02:53;A1;avatar;running through the virtual world
+10_Video_01.mp4;Fortnite;10;00:02:53;;A8;avatar;change direction
+10_Video_01.mp4;Fortnite;10;00:02:53;00:02:55;A1;avatar;running through the virtual world
+10_Video_01.mp4;Fortnite;10;00:02:55;;A6;avatar, item;picking up item
+10_Video_01.mp4;Fortnite;10;00:02:55;00:03:00;A1;avatar;running through the virtual world
+10_Video_01.mp4;Fortnite;10;00:03:00;;A8;avatar;change direction
+10_Video_01.mp4;Fortnite;10;00:03:00;;A3;avatar;exiting a building
+10_Video_01.mp4;Fortnite;10;00:03:00;00:03:03;A1;avatar;running through the virtual world
+10_Video_01.mp4;Fortnite;10;00:03:03;;A8;avatar;change direction
+10_Video_01.mp4;Fortnite;10;00:03:03;00:03:04;A1;avatar;running through the virtual world
+10_Video_01.mp4;Fortnite;10;00:03:04;;A3;avatar;entering a building
+10_Video_01.mp4;Fortnite;10;00:03:04;00:03:08;A1;avatar;running through the virtual world
+10_Video_02.mp4;Fortnite;10;00:00:02;;A8;avatar;change direction
+10_Video_02.mp4;Fortnite;10;00:00:11;00:00:15;A6;avatar, ui-element;viewing ui-element
+10_Video_02.mp4;Fortnite;10;00:00:15;00:00:24;A5;avatar, avatar;communication through emotes
+10_Video_02.mp4;Fortnite;10;00:00:24;00:00:24;A6;avatar, ui-element;viewing ui-element
+10_Video_02.mp4;Fortnite;10;00:00:25;00:00:32;A5;avatar, avatar;communication through emotes
+10_Video_02.mp4;Fortnite;10;00:00:32;00:00:34;A6;avatar, ui-element;viewing ui-element
+10_Video_02.mp4;Fortnite;10;00:00:34;;A8;avatar;change direction
+10_Video_02.mp4;Fortnite;10;00:00:34;00:00:37;A1;avatar;running through the virtual world
+10_Video_02.mp4;Fortnite;10;00:00:38;;A7;avatar;teleport
+10_Video_02.mp4;Fortnite;10;00:00:38;00:00:54;A1;avatar;moving in a vehicle
+10_Video_03.mp4;Fortnite;10;00:00:00;00:00:01;A1;avatar;running through the virtual world
+10_Video_03.mp4;Fortnite;10;00:00:01;;A6;avatar, item;picking up item
+10_Video_03.mp4;Fortnite;10;00:00:01;;A8;avatar;change direction
+10_Video_03.mp4;Fortnite;10;00:00:01;00:00:03;A1;avatar;running through the virtual world
+10_Video_03.mp4;Fortnite;10;00:00:03;00:00:04;A8;avatar;change direction
+10_Video_03.mp4;Fortnite;10;00:00:04;;A6;avatar, item;picking up item
+10_Video_03.mp4;Fortnite;10;00:00:04;;A8;avatar;change direction
+10_Video_03.mp4;Fortnite;10;00:00:05;;A3;Avatar, door, building;entering a building
+10_Video_03.mp4;Fortnite;10;00:00:05;00:00:07;A1;avatar;running through the virtual world
+10_Video_03.mp4;Fortnite;10;00:00:07;;A8;avatar;change direction
+10_Video_03.mp4;Fortnite;10;00:00:07;;A6;avatar, item;picking up item
+10_Video_03.mp4;Fortnite;10;00:00:07;00:00:09;A1;avatar;running through the virtual world
+10_Video_03.mp4;Fortnite;10;00:00:10;;A6;avatar, chest;opening chest
+10_Video_03.mp4;Fortnite;10;00:00:12;;A6;avatar, item;picking up item
+10_Video_03.mp4;Fortnite;10;00:00:13;;A8;avatar;change direction
+10_Video_03.mp4;Fortnite;10;00:00:15;00:00:20;A6;avatar, item;consume item
+10_Video_03.mp4;Fortnite;10;00:00:20;00:00:21;A1;avatar;running through the virtual world
+10_Video_03.mp4;Fortnite;10;00:00:21;;A3;Avatar, door, building;exiting building
+10_Video_04.mp4;Fortnite;10;00:00:00;00:00:10;A1;avatar;running through the virtual world
+10_Video_04.mp4;Fortnite;10;00:00:10;;A3;avatar, building;entering a building
+10_Video_04.mp4;Fortnite;10;00:00:10;00:00:13;A1;avatar;running through the virtual world
+10_Video_04.mp4;Fortnite;10;00:00:13;;A8;avatar;change direction
+10_Video_04.mp4;Fortnite;10;00:00:13;;A6;avatar, item;picking up item
+10_Video_04.mp4;Fortnite;10;00:00:13;00:00:15;A1;avatar;running through the virtual world
+10_Video_04.mp4;Fortnite;10;00:00:15;;A6;avatar, item;picking up item
+10_Video_04.mp4;Fortnite;10;00:00:15;00:00:19;A9;avatar;stop and go
+10_Video_04.mp4;Fortnite;10;00:00:19;;A3;avatar, building;exiting building
+10_Video_04.mp4;Fortnite;10;00:00:19;00:00:23;A1;avatar;running through the virtual world
+10_Video_05.mp4;Fortnite;10;00:00:00;00:00:05;A1;avatar;running through the virtual world
+10_Video_05.mp4;Fortnite;10;00:00:05;;A8;avatar;change direction
+10_Video_05.mp4;Fortnite;10;00:00:10;00:00:17;;avatar, ui-element;viewing ui-element
+10_Video_05.mp4;Fortnite;10;00:00:17;00:00:23;A4;avatar, avatar;attempt to gain attention
+10_Video_05.mp4;Fortnite;10;00:00:23;00:00:34;A1;avatar;running through the virtual world
+10_Video_05.mp4;Fortnite;10;00:00:34;;A7;avatar;teleport
+10_Video_05.mp4;Fortnite;10;00:00:35;00:00:47;A1;avatar, vehicle;moving in a vehicle
+10_Video_05.mp4;Fortnite;10;00:00:47;;A6;avatar, vehicle;exiting vehicle
+10_Video_05.mp4;Fortnite;10;00:00:47;00:01:10;A1;avatar;falling through the virtual world
+10_Video_05.mp4;Fortnite;10;00:01:10;;A6;avatar, parachute;opening a parachute
+10_Video_05.mp4;Fortnite;10;00:01:10;00:01:15;A1;avatar;flying through the virtual world
+10_Video_06.mp4;Fortnite;10;00:00:00;00:00:05;A1;avatar;running through the virtual world
+10_Video_06.mp4;Fortnite;10;00:00:05;00:00:09;A6;avatar, ui-element;viewing ui-element
+10_Video_06.mp4;Fortnite;10;00:00:10;00:00:12;A1;avatar;running through the virtual world
+10_Video_06.mp4;Fortnite;10;00:00:12;00:00:15;A7;avatar;teleport
+10_Video_06.mp4;Fortnite;10;00:00:15;00:00:22;A1;avatar;falling through the virtual world
+10_Video_06.mp4;Fortnite;10;00:00:22;;A6;avatar, parachute;opening a parachute
+10_Video_06.mp4;Fortnite;10;00:00:22;00:00:28;A1;avatar, parachute;flying through the virtual world
+10_Video_06.mp4;Fortnite;10;00:00:28;00:00:33;A1;avatar;running through the virtual world
+10_Video_06.mp4;Fortnite;10;00:00:33;00:00:34;A2;avatar, building;blocked by building
+10_Video_06.mp4;Fortnite;10;00:00:34;00:00:36;A1;avatar;running through the virtual world
+10_Video_06.mp4;Fortnite;10;00:00:36;;A2;avatar, building;blocked by door
+10_Video_06.mp4;Fortnite;10;00:00:36;00:00:38;A1;avatar;sneaking through virtual world
+10_Video_06.mp4;Fortnite;10;00:00:38;;A3;avatar, building;entering a building
+10_Video_06.mp4;Fortnite;10;00:00:38;00:00:40;A1;avatar;running through the virtual world
+10_Video_06.mp4;Fortnite;10;00:00:40;;A3;Avatar, door, building;opening door and exiting building
+10_Video_06.mp4;Fortnite;10;00:00:40;00:00:43;A1;avatar;running through the virtual world
+10_Video_06.mp4;Fortnite;10;00:00:43;00:00:49;A9;avatar;stop and go
+10_Video_06.mp4;Fortnite;10;00:00:49;;A8;avatar;change direction
+10_Video_06.mp4;Fortnite;10;00:00:49;00:00:58;A1;avatar;running through the virtual world
+10_Video_06.mp4;Fortnite;10;00:00:58;;A8;avatar;change direction
+10_Video_06.mp4;Fortnite;10;00:00:58;00:01:02;A1;avatar;running through the virtual world
+10_Video_06.mp4;Fortnite;10;00:01:02;00:01:20;A6;avatar;placing building blueprint
+10_Video_07.mp4;Fortnite;10;00:00:00;00:00:02;A1;avatar, car;running towards vehicle
+10_Video_07.mp4;Fortnite;10;00:00:02;;A6;avatar, car;entering a vehicle
+10_Video_07.mp4;Fortnite;10;00:00:03;;A8;avatar, car;change direction
+10_Video_07.mp4;Fortnite;10;00:00:03;00:00:12;A1;avatar, car;moving in a vehicle
+10_Video_07.mp4;Fortnite;10;00:00:12;;A6;avatar, car, tree;moving through obstacle
+10_Video_07.mp4;Fortnite;10;00:00:12;00:00:14;A1;avatar, car;moving in a vehicle
+10_Video_07.mp4;Fortnite;10;00:00:12;00:00:15;A2;avatar, car, rock;blocked by obstacle
+10_Video_07.mp4;Fortnite;10;00:00:15;00:00:21;A1;avatar, car;moving in a vehicle
+10_Video_07.mp4;Fortnite;10;00:00:21;;A6;avatar, car, tree;moving through obstacle
+10_Video_07.mp4;Fortnite;10;00:00:21;00:00:24;A1;avatar, car;moving in a vehicle
+10_Video_07.mp4;Fortnite;10;00:00:24;00:00:25;A2;avatar, car, rock;blocked by obstacle
+10_Video_07.mp4;Fortnite;10;00:00:25;;A6;avatar, car;exiting vehicle
+10_Video_07.mp4;Fortnite;10;00:00:25;00:00:27;A2;avatar, rock;blocked by obstacle
+10_Video_07.mp4;Fortnite;10;00:00:27;00:00:34;A1;avatar, car;moving around car
+10_Video_07.mp4;Fortnite;10;00:00:35;;A1;avatar, rock;jumping on rock
+10_Video_07.mp4;Fortnite;10;00:00:36;;A6;avatar, chest;opening chest
+10_Video_07.mp4;Fortnite;10;00:00:37;;A6;avatar, item;picking up item
+10_Video_07.mp4;Fortnite;10;00:00:40;;A6;avatar, car;entering vehicle
+10_Video_07.mp4;Fortnite;10;00:00:40;00:00:43;A1;avatar, car;moving backwards in a vehicle
+10_Video_07.mp4;Fortnite;10;00:00:43;;A8;avatar, car;change direction
+10_Video_07.mp4;Fortnite;10;00:00:43;00:00:45;A6;avatar, car;exiting vehicle
+10_Video_08.mp4;Fortnite;10;00:00:00;00:00:05;A1;avatar;running through the virtual world
+10_Video_08.mp4;Fortnite;10;00:00:05;;A8;avatar;change direction
+10_Video_08.mp4;Fortnite;10;00:00:05;00:00:06;A1;avatar, motorcycle;running towards vehicle
+10_Video_08.mp4;Fortnite;10;00:00:06;;A6;avatar, motorcycle;entering vehicle
+10_Video_08.mp4;Fortnite;10;00:00:06;;A8;avatar, motorcycle;change direction
+10_Video_08.mp4;Fortnite;10;00:00:06;00:00:08;A1;avatar, motorcycle;moving in a vehicle
+10_Video_08.mp4;Fortnite;10;00:00:08;00:00:09;A2;avatar, motorcycle;blocked by obstacle
+10_Video_08.mp4;Fortnite;10;00:00:09;00:00:15;A1;avatar, motorcycle;moving in a vehicle
+10_Video_08.mp4;Fortnite;10;00:00:15;;A2;avatar, motorcycle;blocked by obstacle
+10_Video_08.mp4;Fortnite;10;00:00:15;00:00:27;A1;avatar, motorcycle;moving in a vehicle
+10_Video_08.mp4;Fortnite;10;00:00:27;;A8;avatar, motorcycle;change direction
+10_Video_08.mp4;Fortnite;10;00:00:27;00:00:40;A1;avatar, motorcycle;moving in a vehicle
+10_Video_08.mp4;Fortnite;10;00:00:40;;A2;avatar, motorcycle, wall;blocked by obstacle
+10_Video_08.mp4;Fortnite;10;00:00:40;00:00:42;A1;avatar, motorcycle;moving in a vehicle
+10_Video_08.mp4;Fortnite;10;00:00:42;;A6;avatar, motorcycle, plant;moving through obstacle
+10_Video_08.mp4;Fortnite;10;00:00:42;00:00:57;A1;avatar, motorcycle;moving in a vehicle
+10_Video_08.mp4;Fortnite;10;00:00:57;00:00:58;A2;avatar, motorcycle, tree;blocked by obstacle
+10_Video_08.mp4;Fortnite;10;00:00:58;;A6;avatar, motorcycle;exiting vehicle
+10_Video_08.mp4;Fortnite;10;00:00:58;00:01:00;A1;avatar;running through the virtual world
+10_Video_08.mp4;Fortnite;10;00:01:00;;A6;avatar, chest;opening chest
+10_Video_08.mp4;Fortnite;10;00:01:02;;A6;avatar, item;picking up item
+10_Video_08.mp4;Fortnite;10;00:01:02;00:01:04;A1;avatar;running through the virtual world
+10_Video_08.mp4;Fortnite;10;00:01:04;;A3;avatar, building;entering building
+10_Video_08.mp4;Fortnite;10;00:01:05;;A6;avatar, chest;opening chest
+10_Video_08.mp4;Fortnite;10;00:01:05;00:01:12;;avatar, item;picking up item
+10_Video_08.mp4;Fortnite;10;00:01:15;00:01:17;A6;avatar, item;consume item
+10_Video_08.mp4;Fortnite;10;00:01:17;00:01:19;A1;avatar;sneaking through virtual world
+10_Video_08.mp4;Fortnite;10;00:01:19;00:01:21;A2;avatar, wall;blocked by obstacle
+10_Video_08.mp4;Fortnite;10;00:01:21;00:01:23;A6;avatar, item;consume item
+10_Video_08.mp4;Fortnite;10;00:01:23;00:01:32;A6;avatar, ui-element;viewing ui-element
+10_Video_08.mp4;Fortnite;10;00:01:33;;A3;avatar, building;exiting building
+10_Video_09.mp4;Fortnite;10;00:00:00;00:00:02;A1;avatar;running through the virtual world
+10_Video_09.mp4;Fortnite;10;00:00:03;;A6;avatar, parachute;opening parachute
+10_Video_09.mp4;Fortnite;10;00:00:03;00:00:09;A1;avatar, parachute;flying through the virtual world
+10_Video_09.mp4;Fortnite;10;00:00:09;00:00:15;A7;avatar;teleport
+10_Video_09.mp4;Fortnite;10;00:00:15;00:00:17;A1;avatar;falling through the virtual world
+10_Video_09.mp4;Fortnite;10;00:00:17;;A6;avatar, parachute;opening parachute
+10_Video_09.mp4;Fortnite;10;00:00:17;00:00:21;A1;avatar, parachute;flying through the virtual world
+10_Video_09.mp4;Fortnite;10;00:00:21;00:00:24;A1;avatar;running through the virtual world
+10_Video_09.mp4;Fortnite;10;00:00:24;00:00:29;A4;avatar, avatar;shooting at avatar
+10_Video_09.mp4;Fortnite;10;00:00:29;00:00:35;A1;avatar;running through the virtual world
+10_Video_09.mp4;Fortnite;10;00:00:35;;A4;avatar, building, door;entering building
+10_Video_09.mp4;Fortnite;10;00:00:35;00:00:38;A1;avatar;sneaking through virtual world
+10_Video_09.mp4;Fortnite;10;00:00:38;;A2;avatar, wall;blocked by obstacle
+10_Video_09.mp4;Fortnite;10;00:00:38;;A8;avatar;change direction
+10_Video_09.mp4;Fortnite;10;00:00:38;00:00:42;A1;avatar;sneaking through virtual world
+10_Video_09.mp4;Fortnite;10;00:00:42;;A3;avatar, building, door;exiting building
+10_Video_10.mp4;Fortnite;10;00:00:00;00:00:07;A1;avatar;running through the virtual world
+10_Video_10.mp4;Fortnite;10;00:00:07;00:00:14;A6;avatar, ui-element;viewing ui-element
+10_Video_10.mp4;Fortnite;10;00:00:14;00:00:21;A4;avatar, avatar;attempt to gain attention
+10_Video_10.mp4;Fortnite;10;00:00:21;00:00:30;A5;avatar, avatar;communication through emotes
+10_Video_10.mp4;Fortnite;10;00:00:43;00:00:45;A1;avatar;running through the virtual world
+10_Video_10.mp4;Fortnite;10;00:00:45;00:00:46;A2;avatar, pillar;blocked by obstacle
+10_Video_10.mp4;Fortnite;10;00:00:46;00:00:49;A1;avatar;running through the virtual world
+10_Video_10.mp4;Fortnite;10;00:00:49;;A8;avatar;change direction
+10_Video_10.mp4;Fortnite;10;00:00:49;00:00:54;A1;avatar;running through the virtual world
+10_Video_10.mp4;Fortnite;10;00:00:54;00:00:56;A2;avatar, pillar;blocked by obstacle
+10_Video_10.mp4;Fortnite;10;00:00:57;;A8;avatar;change direction
+10_Video_10.mp4;Fortnite;10;00:00:57;00:01:02;A1;avatar;running through the virtual world
+10_Video_10.mp4;Fortnite;10;00:01:02;00:01:04;A6;avatar, vending machine;interacting with vending machine
+10_Video_10.mp4;Fortnite;10;00:01:04;;A8;avatar;change direction
+10_Video_10.mp4;Fortnite;10;00:01:04;00:01:10;A1;avatar;running through the virtual world
+10_Video_11.mp4;Fortnite;10;00:00:00;00:00:03;A1;avatar;falling through the virtual world
+10_Video_11.mp4;Fortnite;10;00:00:03;00:00:08;A1;avatar;flying through the virtual world
+10_Video_11.mp4;Fortnite;10;00:00:08;00:00:10;A1;avatar, building;falling through the virtual world
+10_Video_11.mp4;Fortnite;10;00:00:11;;A8;avatar;change direction
+10_Video_11.mp4;Fortnite;10;00:00:11;00:00:18;A1;avatar, building;running through the virtual world
+10_Video_11.mp4;Fortnite;10;00:00:18;00:00:20;A6;avatar, item;picking up item
+10_Video_11.mp4;Fortnite;10;00:00:20;00:00:26;A1;avatar, building;running through the virtual world
+10_Video_11.mp4;Fortnite;10;00:00:27;00:00:27;A2;avatar, wall;blocked by obstacle
+10_Video_11.mp4;Fortnite;10;00:00:27;;A3;avatar, building;entering building
+10_Video_11.mp4;Fortnite;10;00:00:29;;A8;avatar;change direction
+10_Video_11.mp4;Fortnite;10;00:00:33;00:00:38;A6;avatar;flying through the virtual world
+10_Video_11.mp4;Fortnite;10;00:00:38;00:00:41;A8;avatar;change direction
+10_Video_11.mp4;Fortnite;10;00:00:41;00:00:47;A1;avatar, building;running towards building
+10_Video_11.mp4;Fortnite;10;00:00:47;;A3;avatar, building;entering building
+10_Video_11.mp4;Fortnite;10;00:00:48;00:00:48;A2;avatar, wall;blocked by obstacle
+10_Video_11.mp4;Fortnite;10;00:00:49;;A3;avatar, building;exiting building
+10_Video_11.mp4;Fortnite;10;00:00:49;00:00:54;A1;avatar;running through the virtual world
+10_Video_11.mp4;Fortnite;10;00:00:54;00:01:01;A1;avatar;flying through the virtual world
+10_Video_11.mp4;Fortnite;10;00:01:03;;A3;avatar, building, door;opening door and entering building
+10_Video_11.mp4;Fortnite;10;00:01:03;00:01:07;A1;avatar;running through the virtual world
+10_Video_11.mp4;Fortnite;10;00:01:07;;A2;avatar, door;opening door and entering different room
+10_Video_11.mp4;Fortnite;10;00:01:09;;A6;avatar, chest;opening chest
+10_Video_11.mp4;Fortnite;10;00:01:10;00:01:12;A6;avatar, item;picking up item
+10_Video_11.mp4;Fortnite;10;00:01:12;00:01:17;A1;avatar;sneaking through virtual world
+10_Video_11.mp4;Fortnite;10;00:01:18;;A3;avatar, building, door;exiting building
+10_Video_12.mp4;Fortnite;10;00:00:00;00:00:03;A1;avatar;running through the virtual world
+10_Video_12.mp4;Fortnite;10;00:00:03;00:00:10;A9;avatar;stop and go
+10_Video_12.mp4;Fortnite;10;00:00:10;00:00:11;A2;avatar, chair;blocked by obstacle
+10_Video_12.mp4;Fortnite;10;00:00:11;00:00:18;A9;avatar;stop and go
+10_Video_12.mp4;Fortnite;10;00:00:18;00:00:22;A4;avatar, avatar;attempt to gain attention
+10_Video_12.mp4;Fortnite;10;00:00:23;00:00:26;A5;avatar, avatar;communication through emotes
+10_Video_12.mp4;Fortnite;10;00:00:26;00:00:28;A6;avatar, ui-element;viewing ui-element
+10_Video_12.mp4;Fortnite;10;00:00:28;00:00:35;A5;avatar, avatar;communication through emotes
+10_Video_12.mp4;Fortnite;10;00:00:40;00:00:48;A1;avatar;running through the virtual world
+10_Video_12.mp4;Fortnite;10;00:00:48;;A3;avatar, building;entering building
+10_Video_12.mp4;Fortnite;10;00:00:49;00:00:50;A2;avatar, wall;blocked by obstacle
+10_Video_12.mp4;Fortnite;10;00:00:50;00:00:52;A1;avatar;running through the virtual world
+10_Video_12.mp4;Fortnite;10;00:00:52;;A2;avatar, wall;blocked by obstacle
+10_Video_12.mp4;Fortnite;10;00:00:52;;A8;avatar;change direction
+10_Video_12.mp4;Fortnite;10;00:00:52;00:00:54;A1;avatar;running through the virtual world
+10_Video_12.mp4;Fortnite;10;00:00:54;;A3;avatar, building;exiting building
+10_Video_12.mp4;Fortnite;10;00:00:54;00:01:06;A1;avatar;running through the virtual world
+10_Video_12.mp4;Fortnite;10;00:01:07;00:01:14;A5;avatar, group of avatars;communication through emotes
+10_Video_13.mp4;Fortnite;10;00:00:00;00:00:03;A1;avatar;running through the virtual world
+10_Video_13.mp4;Fortnite;10;00:00:03;00:00:07;A6;avatar, door;opening and closing door
+10_Video_13.mp4;Fortnite;10;00:00:07;00:00:09;A2;avatar, door;blocked by obstacle
+10_Video_13.mp4;Fortnite;10;00:00:09;;A3;avatar, building, door;opening door and entering building
+10_Video_13.mp4;Fortnite;10;00:00:11;;A6;avatar, item;picking up item
+10_Video_13.mp4;Fortnite;10;00:00:11;00:00:16;A1;avatar;running through the virtual world
+10_Video_13.mp4;Fortnite;10;00:00:16;;A6;avatar, item;picking up item
+10_Video_13.mp4;Fortnite;10;00:00:17;00:00:20;A1;avatar;running through the virtual world
+10_Video_13.mp4;Fortnite;10;00:00:20;00:00:021;A2;avatar, wall;blocked by obstacle
+10_Video_13.mp4;Fortnite;10;00:00:23;;A6;avatar, chest;opening chest
+10_Video_13.mp4;Fortnite;10;00:00:23;00:00:27;A1;avatar;running through the virtual world
+10_Video_13.mp4;Fortnite;10;00:00:26;00:00:28;A2;avatar, wall, door;blocked by obstacle
+10_Video_13.mp4;Fortnite;10;00:00:28;;A3;avatar, building, door;opening door and exiting building
+10_Video_13.mp4;Fortnite;10;00:00:28;00:00:46;A1;avatar;running through the virtual world
+10_Video_13.mp4;Fortnite;10;00:00:47;00:00:57;A6;avatar, ui-element;viewing ui-element
+10_Video_13.mp4;Fortnite;10;00:00:57;00:01:00;A1;avatar;running through the virtual world
+10_Video_14.mp4;Fortnite;10;00:00:00;00:00:03;A1;avatar;running through the virtual world
+10_Video_14.mp4;Fortnite;10;00:00:03;;A3;avatar, building;entering building
+10_Video_14.mp4;Fortnite;10;00:00:03;00:00:07;A1;avatar;running through the virtual world
+10_Video_14.mp4;Fortnite;10;00:00:07;00:00:08;A6;avatar;interacting with workbench
+10_Video_14.mp4;Fortnite;10;00:00:08;00:00:10;A1;avatar;running through the virtual world
+10_Video_14.mp4;Fortnite;10;00:00:10;;A3;avatar, building;exiting building
+10_Video_14.mp4;Fortnite;10;00:00:10;00:00:14;A1;avatar, building;running towards building
+10_Video_14.mp4;Fortnite;10;00:00:14;;A2;avatar, building, door;entering building
+10_Video_14.mp4;Fortnite;10;00:00:14;00:00:16;A1;avatar;running through the virtual world
+10_Video_14.mp4;Fortnite;10;00:00:16;;A8;avatar;change direction
+10_Video_14.mp4;Fortnite;10;00:00:17;00:00:22;A6;avatar, item;picking up item
+10_Video_14.mp4;Fortnite;10;00:00:22;00:00:27;A1;avatar;running through the virtual world
+10_Video_14.mp4;Fortnite;10;00:00:27;;A6;avatar, door;opening door
+10_Video_14.mp4;Fortnite;10;00:00:30;;A8;avatar;change direction
+10_Video_14.mp4;Fortnite;10;00:00:31;;A6;avatar, door;closing door
+10_Video_14.mp4;Fortnite;10;00:00:31;;A8;avatar;change direction
+10_Video_14.mp4;Fortnite;10;00:00:31;;A6;avatar, door;closing door
+10_Video_14.mp4;Fortnite;10;00:00:32;00:00:33;A2;avatar, door;blocked by obstacle
+10_Video_14.mp4;Fortnite;10;00:00:34;;A3;avatar, door;opending door and entering different room
+10_Video_14.mp4;Fortnite;10;00:00:34;00:00:36;A1;avatar;running through the virtual world
+10_Video_14.mp4;Fortnite;10;00:00:36;;A8;avatar;change direction
+10_Video_14.mp4;Fortnite;10;00:00:36;00:00:40;A9;avatar;stop and go
+10_Video_14.mp4;Fortnite;10;00:00:40;00:00:46;A2;avatar, shop counter;blocked by obstacle
+10_Video_14.mp4;Fortnite;10;00:00:46;00:00:48;A1;avatar;running through the virtual world
+10_Video_14.mp4;Fortnite;10;00:00:48;00:00:49;A2;avatar, wall;blocked by obstacle
+10_Video_14.mp4;Fortnite;10;00:00:50;;A3;avatar, building, door;exiting building
+10_Video_14.mp4;Fortnite;10;00:00:51;00:00:54;A4;avatar, avatar;shooting at avatar
+10_Video_15.mp4;Fortnite;10;00:00:00;00:00:02;A1;avatar;running through the virtual world
+10_Video_15.mp4;Fortnite;10;00:00:03;00:00:05;A6;avatar;interaction with missive board
+10_Video_15.mp4;Fortnite;10;00:00:06;00:00:10;A1;avatar;running through the virtual world
+10_Video_15.mp4;Fortnite;10;00:00:11;;A6;avatar, item;picking up item
+10_Video_15.mp4;Fortnite;10;00:00:11;00:00:14;A1;avatar;running through the virtual world
+10_Video_15.mp4;Fortnite;10;00:00:15;;A3;avatar, building, door;opening door and entering building
+10_Video_15.mp4;Fortnite;10;00:00:15;00:00:17;A1;avatar;running through the virtual world
+10_Video_15.mp4;Fortnite;10;00:00:17;;A6;avatar, item;picking up item
+10_Video_15.mp4;Fortnite;10;00:00:17;00:00:20;A1;avatar;running through the virtual world
+10_Video_15.mp4;Fortnite;10;00:00:20;;A6;avatar, item;setting object on fire
+10_Video_15.mp4;Fortnite;10;00:00:21;00:00:32;A1;avatar;running through the virtual world
+10_Video_15.mp4;Fortnite;10;00:00:32;00:00:38;A7;avatar;teleport
+10_Video_16.mp4;Fortnite;10;00:00:00;00:00:03;A1;avatar, motorcycle;running towards vehicle
+10_Video_16.mp4;Fortnite;10;00:00:03;;A6;avatar, motorcycle;entering vehicle
+10_Video_16.mp4;Fortnite;10;00:00:04;00:00:11;A1;avatar, motorcycle;moving in a vehicle
+10_Video_16.mp4;Fortnite;10;00:00:11;;A2;avatar, motorcycle;moving through obstacle
+10_Video_16.mp4;Fortnite;10;00:00:11;00:00:23;A1;avatar, motorcycle;moving in a vehicle
+10_Video_16.mp4;Fortnite;10;00:00:23;00:00:25;A8;avatar, motorcycle;change direction
+10_Video_16.mp4;Fortnite;10;00:00:25;00:00:30;A1;avatar, motorcycle;moving in a vehicle
+10_Video_16.mp4;Fortnite;10;00:00:30;00:00:31;A2;avatar, motorcycle;blocked by obstacle
+10_Video_16.mp4;Fortnite;10;00:00:31;00:00:35;A1;avatar, motorcycle;moving in a vehicle
+10_Video_16.mp4;Fortnite;10;00:00:35;00:00:36;A2;avatar, motorcycle;blocked by obstacle
+10_Video_16.mp4;Fortnite;10;00:00:36;;A6;avatar, motorcycle;exiting vehicle
+10_Video_16.mp4;Fortnite;10;00:00:36;00:00:40;A2;avatar, motorcycle;blocked by obstacle
+10_Video_16.mp4;Fortnite;10;00:00:40;00:00:55;A1;avatar;running through the virtual world
+10_Video_16.mp4;Fortnite;10;00:00:55;;A8;avatar;change direction
+10_Video_16.mp4;Fortnite;10;00:00:55;00:01:05;A1;avatar;running towards a building
+10_Video_16.mp4;Fortnite;10;00:01:05;00:01:06;A2;avatar, door;blocked by door
+10_Video_16.mp4;Fortnite;10;00:01:06;;A3;avatar, building, door;opeing door and entering building
+10_Video_16.mp4;Fortnite;10;00:01:06;00:01:11;A1;avatar;running through the virtual world
+10_Video_16.mp4;Fortnite;10;00:01:11;00:01:13;A2;avatar, door;blocked by door
+10_Video_16.mp4;Fortnite;10;00:01:13;;A3;avatar, building, door;opening door and exiting building
+10_Video_17.mp4;Fortnite;10;00:00:00;;A2;avatar, building, door;opening door and exiting building
+10_Video_17.mp4;Fortnite;10;00:00:00;00:00:03;A1;avatar;running through the virtual world
+10_Video_17.mp4;Fortnite;10;00:00:03;00:00:05;A6;avatar, rails;jumping on rails
+10_Video_17.mp4;Fortnite;10;00:00:05;00:00:10;A8;avatar, rails;moving on rails
+10_Video_17.mp4;Fortnite;10;00:00:11;00:00:15;A9;avatar, rails;stop and go
+10_Video_17.mp4;Fortnite;10;00:00:15;;A8;avatar, rails;change direction
+10_Video_17.mp4;Fortnite;10;00:00:15;00:00:18;A1;avatar, rails;moving on rails
+10_Video_17.mp4;Fortnite;10;00:00:18;;A8;avatar, rails;change direction
+10_Video_17.mp4;Fortnite;10;00:00:18;00:00:20;A1;avatar, rails;moving on rails
+10_Video_17.mp4;Fortnite;10;00:00:20;00:00:25;A8;avatar, rails;change direction
+10_Video_17.mp4;Fortnite;10;00:00:25;00:00:32;A1;avatar, rails;moving on rails
+10_Video_17.mp4;Fortnite;10;00:00:32;00:00:35;A8;avatar, rails;change direction
+10_Video_17.mp4;Fortnite;10;00:00:35;;A6;avatar, rails;changing rails
+10_Video_17.mp4;Fortnite;10;00:00:35;00:00:43;A1;avatar, rails;moving on rails
+10_Video_17.mp4;Fortnite;10;00:00:44;00:00:47;A9;avatar, rails;stop and go
+10_Video_17.mp4;Fortnite;10;00:00:47;;A8;avatar, rails;change direction
+10_Video_17.mp4;Fortnite;10;00:00:48;00:01:00;A9;avatar, rails;stop and go
+10_Video_18.mp4;Fortnite;10;00:00:00;00:00:03;A1;avatar;running through the virtual world
+10_Video_18.mp4;Fortnite;10;00:00:03;00:00:04;A2;avatar, street lamp;blocked by obstacle
+10_Video_18.mp4;Fortnite;10;00:00:05;00:00:10;A1;avatar;running through the virtual world
+10_Video_18.mp4;Fortnite;10;00:00:10;00:00:14;A6;avatar, ui-element;viewing ui-element
+10_Video_18.mp4;Fortnite;10;00:00:14;00:00:16;A4;avatar, group of avatars;attempt to gain attention
+10_Video_18.mp4;Fortnite;10;00:00:20;00:00:23;A1;avatar;running through the virtual world
+10_Video_18.mp4;Fortnite;10;00:00:23;;A8;avatar;change direction
+10_Video_18.mp4;Fortnite;10;00:00:23;00:00:29;A9;avatar;stop and go
+10_Video_18.mp4;Fortnite;10;00:00:29;00:00:32;A2;avatar, signpost;blocked by obstacle
+10_Video_18.mp4;Fortnite;10;00:00:36;00:00:53;A1;avatar;running through the virtual world
+10_Video_18.mp4;Fortnite;10;00:00:53;;A2;avatar, building;entering building
+10_Video_18.mp4;Fortnite;10;00:00:53;00:00:56;A1;avatar;running through the virtual world
+10_Video_18.mp4;Fortnite;10;00:00:56;;A2;avatar, building;exiting building
+10_Video_19.mp4;Fortnite;10;00:00:00;00:00:03;A1;avatar;running through the virtual world
+10_Video_19.mp4;Fortnite;10;00:00:03;00:00:05;A7;avatar;teleport
+10_Video_19.mp4;Fortnite;10;00:00:05;00:00:14;A1;avatar;falling through the virtual world
+10_Video_19.mp4;Fortnite;10;00:00:14;00:00:16;A6;avatar, ui-element;viewing ui-element
+10_Video_19.mp4;Fortnite;10;00:00:17;00:00:19;A7;avatar;teleport
+10_Video_19.mp4;Fortnite;10;00:00:19;00:00:25;A6;avatar, ui-element;viewing ui-element
+10_Video_19.mp4;Fortnite;10;00:00:25;00:00:31;A4;avatar;attempt to gain attention
+10_Video_19.mp4;Fortnite;10;00:00:32;00:00:35;A1;avatar;running through the virtual world
+10_Video_19.mp4;Fortnite;10;00:00:35;00:00:37;A7;avatar;teleport
+10_Video_19.mp4;Fortnite;10;00:00:37;00:00:45;A1;avatar;falling through the virtual world
+10_Video_19.mp4;Fortnite;10;00:00:45;00:00:48;A1;avatar;running through the virtual world
+10_Video_19.mp4;Fortnite;10;00:00:48;00:00:51;A9;avatar;stop and go
+10_Video_19.mp4;Fortnite;10;00:00:51;;A8;avatar;change direction
+10_Video_19.mp4;Fortnite;10;00:00:51;00:01:00;A1;avatar;running through the virtual world
+10_Video_19.mp4;Fortnite;10;00:01:00;00:01:02;A6;avatar, ui-element;viewing ui-element
+10_Video_19.mp4;Fortnite;10;00:01:02;00:01:04;A7;avatar;teleport
+10_Video_20.mp4;Fortnite;10;00:00:00;00:00:06;A1;avatar;running through the virtual world
+10_Video_20.mp4;Fortnite;10;00:00:07;;A3;avatar, building, door;open door and enter bulding
+10_Video_20.mp4;Fortnite;10;00:00:07;00:00:10;A1;avatar;running through the virtual world
+10_Video_20.mp4;Fortnite;10;00:00:10;;A3;avatar,  door;open door and enter different room
+10_Video_20.mp4;Fortnite;10;00:00:10;00:00:14;A1;avatar;running through the virtual world
+10_Video_20.mp4;Fortnite;10;00:00:14;;A3;avatar, building, door;open door and exit building
+10_Video_20.mp4;Fortnite;10;00:00:14;00:00:22;A1;avatar;running through the virtual world
+10_Video_20.mp4;Fortnite;10;00:00:22;;A3;avatar, building, door;open door and enter bulding
+10_Video_20.mp4;Fortnite;10;00:00:22;00:00:26;A1;avatar;running through the virtual world
+10_Video_20.mp4;Fortnite;10;00:00:27;00:00:28;A2;avatar;blocked by obstacle
+10_Video_20.mp4;Fortnite;10;00:00:28;;A3;avatar, door;enter different room
+10_Video_20.mp4;Fortnite;10;00:00:28;00:00:30;A1;avatar;running through the virtual world
+10_Video_20.mp4;Fortnite;10;00:00:30;;A3;avatar, building, door;open door and exit building
+10_Video_20.mp4;Fortnite;10;00:00:30;00:00:36;A1;avatar;running through the virtual world
+10_Video_20.mp4;Fortnite;10;00:00:36;;A3;avatar, building, door;opening door and entering building
+10_Video_20.mp4;Fortnite;10;00:00:36;00:00:38;A1;avatar;running through the virtual world
+10_Video_20.mp4;Fortnite;10;00:00:38;00:00:42;A3;avatar, building, door;opening door and exiting building
+10_Video_20.mp4;Fortnite;10;00:00:42;;A8;avatar;change direction
+10_Video_20.mp4;Fortnite;10;00:00:42;;A3;avatar, building, door;entering building
+10_Video_20.mp4;Fortnite;10;00:00:42;00:00:45;A1;avatar;running through the virtual world
+10_Video_20.mp4;Fortnite;10;00:00:45;;A3;avatar, building, door;exiting building

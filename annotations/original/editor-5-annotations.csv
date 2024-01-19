@@ -1,0 +1,209 @@
+Video;Metaverse name;Editor;Second (from);Second (to, optional);Action;Relevant Objects;Description
+5_TS_1.mkv;The Sandbox;5;2.0;11.0;A1;avatar;running through the virtual world
+5_TS_1.mkv;The Sandbox;5;12.0;30.0;A6;avatar, water;Interacting with water
+5_TS_1.mkv;The Sandbox;5;31.0;41.0;A2;avatar, wall;running towards and bumbing into a wall
+5_TS_1.mkv;The Sandbox;5;42.0;53.0;A2;avatar, car;trying to jump on a car
+5_TS_1.mkv;The Sandbox;5;54.0;69.0;A6;avatar, NPC, animal, tree;Observing objects
+5_TS_1.mkv;The Sandbox;5;69.0;74.0;A2;avatar, wall;running towards and bumbing into a wall
+5_TS_1.mkv;The Sandbox;5;74.0;82.0;A6;avatar, npc ;Observing npc and avatar
+5_TS_1.mkv;The Sandbox;5;83.0;114.0;A6;avatar, animal ;Observing and jumping on animal
+5_TS_1.mkv;The Sandbox;5;114.0;122.0;A6;avatar, car;jumping on and observing car
+5_TS_1.mkv;The Sandbox;5;122.0;124.0;A8;avatar, wall;Runing against wall and changing direction 
+5_TS_13.mkv;The Sandbox;5;0.0;3.0;A3;Avatar, Door Frame;Avatar enters the world through a door
+5_TS_13.mkv;The Sandbox;5;3.0;8.0;A8;Avatar ;Avatar changes direction 
+5_TS_13.mkv;The Sandbox;5;8.0;27.0;A6, A1;Avatar, NPC Zombies;Avatar rus around and fights Zombies
+5_TS_13.mkv;The Sandbox;5;26.0;28.0;A2;Avatar, Boxes;Avatar runs against boxes and eventually jumpes over them 
+5_TS_13.mkv;The Sandbox;5;40.0;47.0;A6, A1;Avatar, Zombie dogs;Avatar fights zombie dogs
+5_TS_13.mkv;The Sandbox;5;48.0;60.0;A1;Avatar, Zombie elke;Avatar observes Zombie elkes
+5_TS_13.mkv;The Sandbox;5;70.0;75.0;A2;Avatar, Wall;Avatar runs against Wall 
+5_TS_13.mkv;The Sandbox;5;76.0;78.0;A9;Avatar;Avatar stops and runs again 
+5_TS_13.mkv;The Sandbox;5;80.0;86.0;A8;Avatar, Wall;Avatar runs towards wall but turns 360° before hitting it
+5_TS_13.mkv;The Sandbox;5;87.0;94.0;A8;Avatar, Zombie;Avatar turns in multiple circles, trying to escape a zombie
+5_TS_13.mkv;The Sandbox;5;100.0;106.0;A10;Avatar, NPC Soldier;Avatar reads message from NPC, and looks around 
+5_TS_13.mkv;The Sandbox;5;118.0;122.0;A2;Avatar, Plant;Avatar runs against plant before eventually jumping over it 
+5_TS_12.mkv;The Sandbox;5;0.0;9.0;A6;Avatar, NPC, Hot Dog Stand;Avatar runs twards NPC and Hot Dog Stand and tries to give them sword cuts
+5_TS_12.mkv;The Sandbox;5;9.0;30.0;A1,A8;Avatar, Water;Avatar runs through Water and does multiple 90° turns
+5_TS_12.mkv;The Sandbox;5;30.0;36.0;A2;Avatar, Pillar;Avatar runs again Pillar, is stopped and falls
+5_TS_12.mkv;The Sandbox;5;47.0;49.0;A8;Avatar;Avatar runs toward edge of the map and does a 360° turn
+5_TS_12.mkv;The Sandbox;5;50.0;55.0;A7;Avatar;"Plaqyers orders a ""restart"" and Avat respwans at beginning"
+5_TS_12.mkv;The Sandbox;5;55.0;75.0;A1;Avatar,customized NPC, broke car;Avatar runs around and observers broke car and NPC
+5_TS_12.mkv;The Sandbox;5;75.0;85.0;A6;Avatar, Animal (Ape);Avatar fights against and kills ape
+5_TS_12.mkv;The Sandbox;5;85.0;109.0;A1 ;Avatar, Animal (Ape), Trees;Avatar runs around climbs on trees and observes ape
+5_TS_12.mkv;The Sandbox;5;109.0;120.0;A1 ;Avatar, Forest;Avatar runs around in a forest
+5_TS_12.mkv;The Sandbox;5;120.0;129.0;A1;Avatar;Avatar runs fast
+5_TS_12.mkv;The Sandbox;5;129.0;132.0;A8;Avatar;Avatar makes 90° turn 
+5_TS_12.mkv;The Sandbox;5;140.0;155.0;A1;Avatar, Birds;Avatar observes Birds
+5_TS_11.mkv;The Sandbox;5;0.0;16.0;A8;Avatar;Avatar turns directions 3 times 90°
+5_TS_11.mkv;The Sandbox;5;16.0;18.0;A2;Avatar;Avatar runs towards void and is blocked at the edge of the map
+5_TS_11.mkv;The Sandbox;5;18.0;48.0;A1,A9, A8;Avatar, Animal (Deer);Avatar runs around stops to observe deer and stops and turns multiple times
+5_TS_11.mkv;The Sandbox;5;49.0;62.0;A6;Avatar, Animal (Hounds);Avatar fights Animals (Hounds)
+5_TS_11.mkv;The Sandbox;5;62.0;90.0;A1;Avatar, flying sphere;Avatar runs around and observes flighing sphere
+5_TS_11.mkv;The Sandbox;5;90.0;93.0;A9;Avatar, Water;Avatar runs, stops and runs again, also in Water
+5_TS_11.mkv;The Sandbox;5;97.0;100.0;A6,A7;Avatar, Animal (Boar);Avatar fights Boar, Dies, and respawns
+5_TS_10.mkv;The Sandbox;5;6.0;23.0;A10;Avatar, Computers;Avatar chats with Computer about a system status
+5_TS_10.mkv;The Sandbox;5;28.0;30.0;A3;Avatar, Door;Avatar enters a room through a door
+5_TS_10.mkv;The Sandbox;5;30.0;32.0;A6;Avatar, explosing object;Avatar approaches an object which explodes because of that
+5_TS_10.mkv;The Sandbox;5;36.0;41.0;A10;Avatar, Computers;Avatar chats with Computer
+5_TS_10.mkv;The Sandbox;5;44.0;52.0;A6;Avatar, Door Screen;Avatar is denied acces through the door by a screen, Avatartries to punch control panel
+5_TS_10.mkv;The Sandbox;5;56.0;72.0;A3, A6;Avatar, Door, Door control panel;Avatar tries to enter door, tries to punch it and succeeds through the door control screen. Avatar enters dor into elevator 
+5_TS_10.mkv;The Sandbox;5;72.0;76.0;A3;Avatar, Elevator, Door ;Avater rises up through elevator and exits it
+5_TS_10.mkv;The Sandbox;5;86.0;91.0;A10;Avatar, NPC;Avatar talks with NPC
+5_TS_10.mkv;The Sandbox;5;95.0;98.0;A3;Avatar, Electrical Door;Avatar enters room thorugh Electrical Door
+5_TS_10.mkv;The Sandbox;5;100.0;117.0;A10;Avatar, NPC;Avatar talks with NPC
+5_TS_10.mkv;The Sandbox;5;117.0;118.0;A6;Avatar, Light Object;Avatar picks up light object
+5_TS_10.mkv;The Sandbox;5;118.0;133.0;A1, A3;Avatar, Elevator, Doors;Avatar enters and exits Elevator and 4 open doors runs to Door control screen
+5_TS_10.mkv;The Sandbox;5;133.0;135.0;A3;Avatar, Door with control Screen;Avatar uses light object to open and pass by the door
+5_TS_10.mkv;The Sandbox;5;139.0;142.0;A10;Avatar, NPC;Avatar talks with NPC
+5_TS_10.mkv;The Sandbox;5;149.0;152.0;A7;Avatar, Gate;Avatar enters Gate and teleports into darkness
+5_TS_9.mkv;The Sandbox;5;0.0;3.0;A9;Avatar;Running, stopping and Running again 
+5_TS_9.mkv;The Sandbox;5;3.0;42.0;A1;Avatar, Animals (Squirrels and Fish), horizontal NPC;Running around and observing objects
+5_TS_9.mkv;The Sandbox;5;42.0;45.0;A9;Avatar;Running up, stopping to look at an npc shortly, running on 
+5_TS_9.mkv;The Sandbox;5;45.0;48.0;A1;Avatar, animal (wolf);Running up, observing wolf
+5_TS_9.mkv;The Sandbox;5;49.0;51.0;A8;Avatar;Turning direction 270°
+5_TS_9.mkv;The Sandbox;5;59.0;61.0;A6;Avatar, Dor;Unsucessfully trying to open a door
+5_TS_9.mkv;The Sandbox;5;66.0;68.0;A8;Avatar;Change of direction 360°
+5_TS_9.mkv;The Sandbox;5;69.0;80.0;A1;Avatar;Running around at full speed
+5_TS_9.mkv;The Sandbox;5;80.0;88.0;A2;Avatar, House, Bin, Horizontal NPC;Running against trash bin, house and Horizontal NPC
+5_TS_9.mkv;The Sandbox;5;97.0;100.0;A2;Avatar, flying papers;Running against flying papers
+5_TS_9.mkv;The Sandbox;5;106.0;107.0;A7;Avatar, NPC;NPC kills Avatar and Avatar respawns
+5_TS_9.mkv;The Sandbox;5;107.0;126.0;A1;Avatar, Camels, flying pyramid;Running and observing camels and flying pyramid
+5_TS_9.mkv;The Sandbox;5;126.0;133.0;A9;Avatar;Running and stopping multiple times
+5_TS_9.mkv;The Sandbox;5;133.0;136.0;A8;Avatar, NPC, Animals (Camel, Wolf);Truning and observing objects
+5_TS_8.mkv;The Sandbox;5;0.0;18.0;A1;dolls;Avatar walks around and observes dolls
+5_TS_8.mkv;The Sandbox;5;18.0;23.0;A3;dor;Openening and walking through door
+5_TS_8.mkv;The Sandbox;5;23.0;63.0;A1;dog, drumsticks, toy panda;Avatar walks around and observes toys and animals
+5_TS_8.mkv;The Sandbox;5;53.0;58.0;A8;;Change directionb
+5_TS_8.mkv;The Sandbox;5;63.0;80.0;A6;NPC;trying to interact with NPC
+5_TS_8.mkv;The Sandbox;5;82.0;86.0;A9;;walking, stopping and continuing
+5_TS_8.mkv;The Sandbox;5;90.0;108.0;A1;stairs;Walking up and down stairs
+5_TS_8.mkv;The Sandbox;5;108.0;129.0;A6;sword;picking up and dropping sword
+5_TS_7.mkv;The Sandbox;5;0.0;6.0;A1;Avatar, NPC, Ladder;Getting good luck wishes from NPC, balancing over a laddar
+5_TS_7.mkv;The Sandbox;5;7.0;9.0;A8;Avatar ;Avatar changing direction 90°
+5_TS_7.mkv;The Sandbox;5;10.0;11.0;A1, A2;Avatar;Doing a forward flip against a wall 
+5_TS_7.mkv;The Sandbox;5;16.0;27.0;A6;Avatar, NPC ;Talking with a NPC
+5_TS_7.mkv;The Sandbox;5;29.0;31.0;A1;Avatar, Ice Axe;Picking up an Ice Axe 
+5_TS_7.mkv;The Sandbox;5;41.0;58.0;A6;Avatar, Inventar Objects;Checking out the Inventar
+5_TS_7.mkv;The Sandbox;5;60.0;71.0;A2, A8;Avatar, Walls;Running against Walls and turning
+5_TS_7.mkv;The Sandbox;5;112.0;116.0;A6;Avatar, Backpack;Equiping Backpack from Inventar
+5_TS_7.mkv;The Sandbox;5;134.0;136.0;A1;Avatar;Double Jumping onto a Window
+5_TS_7.mkv;The Sandbox;5;150.0;153.0;A7;Avatar, Ice  ;Encountering Ice, Dieng and Respawning somwhere else
+5_TS_5.mkv;The Sandbox;5;0.0;33.0;A1;Avatar,flying robot, tree;Running around and observing tree and flyng robot
+5_TS_5.mkv;The Sandbox;5;33.0;36.0;A3;Avatar, Door;Avatar presses E to open a door and go through a tree
+5_TS_5.mkv;The Sandbox;5;36.0;67.0;A1;Avatar, Alien NPCs;Running around a room and observing Alien NPCs
+5_TS_5.mkv;The Sandbox;5;67.0;77.0;A10;Avatar, Hologhrapic Table;Talking with  Hologhrapic Table
+5_TS_5.mkv;The Sandbox;5;84.0;86.0;A3;Avatar, Big Gate;Exiting through Big Gate
+5_TS_5.mkv;The Sandbox;5;86.0;98.0;A1;Avatar, One trie robot;Running around and observing 1 tire robot
+5_TS_5.mkv;The Sandbox;5;98.0;117.0;A1;Avatar, Water;Swimming around in Water
+5_TS_5.mkv;The Sandbox;5;117.0;119.0;A8;Avatar, Water;Change of direction in water
+5_TS_5.mkv;The Sandbox;5;103.0;106.0;A2;Avatar, Void;Trieng to swim into the void and getting stuck 
+5_TS_4.mkv;The Sandbox;5;0.0;37.0;A1,A2;Avatar, Stoneblocks;Avatar climbs an assembly of stone blocks and bumbs into them
+5_TS_4.mkv;The Sandbox;5;38.0;44.0;A6;Avatar, Animal(Wolf);Avatar tries to hit an animal (wolf)
+5_TS_4.mkv;The Sandbox;5;45.0;70.0;A1;Avatar, Waterblocks;Avatar swims around in Lava looking Lava blocks
+5_TS_4.mkv;The Sandbox;5;70.0;77.0;A8;Avatar;Avatar switches directions 
+5_TS_4.mkv;The Sandbox;5;78.0;105.0;A1;Avatar, Stoneblocks;Avatar climbs an assembly of stone blocks and bumbs into them
+5_TS_4.mkv;The Sandbox;5;105.0;112.0;A8;Avatar, Waterblocks, Stoneblocks;Avatar turns around and jumps down into the water
+5_TS_3.mkv;The Sandbox;5;0.0;19.0;A10;avatar, rooster;Talking with a rooster
+5_TS_3.mkv;The Sandbox;5;19.0;21.0;A2;avatar, toppled car;Runnning against a car
+5_TS_3.mkv;The Sandbox;5;21.0;43.0;A6;avatar, npcs;fightning npc and zombies
+5_TS_3.mkv;The Sandbox;5;49.0;51.0;A3;avatar, door;opening and going through a wooden door
+5_TS_3.mkv;The Sandbox;5;56.0;60.0;A10;avatar, npc, animal (dog);Talking with a NPC who has a dog
+5_TS_3.mkv;The Sandbox;5;68.0;70.0;A3;avatar, door;exiting the wooden door
+5_TS_3.mkv;The Sandbox;5;74.0;82.0;A6;avatar, animal (squirrel);Observing a squirrel 
+5_TS_3.mkv;The Sandbox;5;82.0;110.0;A6;avatar, npcs;fightning npc and zombies
+5_TS_2.mkv;The Sandbox;5;10.0;14.0;A9;avatar;running, standing, and running again
+5_TS_2.mkv;The Sandbox;5;15.0;18.0;A8;avatar;changing direction while running
+5_TS_2.mkv;The Sandbox;5;21.0;35.0;A6;avatar, flying dog;observing flying dog
+5_TS_2.mkv;The Sandbox;5;35.0;;A1;avatar, car, tires;Runing around and jumping on a car
+5_TS_2.mkv;The Sandbox;5;61.0;;A6;avatar, NPC, animal, tree;fighting a NPC
+5_TS_2.mkv;The Sandbox;5;82.0;;A2;avatar, npc ;running towards and bumbing into a wall
+5_TS_2.mkv;The Sandbox;5;91.0;;A6;avatar, animal (wolf);Trying to fight an animal (wolf)
+5_TS_2.mkv;The Sandbox;5;104.0;;A1;avatar;Running and trying to enter a bus
+5_TS_2.mkv;The Sandbox;5;115.0;118.0;A3;avatar, house;entering a house
+5_TS_2.mkv;The Sandbox;5;122.0;125.0;A3;avatar, house;exiting a house 
+5_TS_20.mkv;The Sandbox;5;0.0;9.0;A1;Avatar, Camel;Avatar observes camel and runs around
+5_TS_20.mkv;The Sandbox;5;10.0;11.0;A9;Avatar ;Avatar runs, stops and runs again 
+5_TS_20.mkv;The Sandbox;5;14.0;16.0;A4;Avatar, NPC, Camel ;Avatar waves at NPC and camel 
+5_TS_20.mkv;The Sandbox;5;19.0;28.0;A6;Avatar, NPC, Camel ;Avatar hits Camel NPC 
+5_TS_20.mkv;The Sandbox;5;29.0;48.0;A1;Avatar, Enemy NPCs;Avatar runs around and gets attacked by enemy NPCs
+5_TS_20.mkv;The Sandbox;5;48.0;53.0;A6;Avatar, Enemy NPCs, Animal(Giant Wasp);Avatar gets attacked by many enemies and dies
+5_TS_20.mkv;The Sandbox;5;53.0;55.0;A7;Avatar;After death Avatar respanwns somewhere else
+5_TS_20.mkv;The Sandbox;5;59.0;61.0;A2;Avatar, Tent;Avatar tries to enter tent but is blocked
+5_TS_20.mkv;The Sandbox;5;63.0;87.0;A1;Avatar, Animals (Horse, ostriches, giant wasp);Avatar runs around and observes a horse an austrich 
+5_TS_20.mkv;The Sandbox;5;88.0;96.0;A6;Avatar, giant wasp;Avatar fights and kills giant wasp
+5_TS_20.mkv;The Sandbox;5;99.0;103.0;A4;Avatar;Avatar waves   
+5_TS_19.mkv;The Sandbox;5;3.0;4.0;A3;Avatar, Building;Avatar enters building with huge open door
+5_TS_19.mkv;The Sandbox;5;7.0;10.0;A7;Avatar, Teleportation device;Avatar teleports to other floor in the building 
+5_TS_19.mkv;The Sandbox;5;23.0;38.0;A10;Avatar, NPC;Avatar has long conversation with NPC
+5_TS_19.mkv;The Sandbox;5;38.0;61.0;A1;Avatar, Building;Avatar runs around in a circle around the floor and has a little fall into water
+5_TS_19.mkv;The Sandbox;5;63.0;65.0;A7;Avatar, Teleportation device;Avatar teleports to other floor in the building 
+5_TS_19.mkv;The Sandbox;5;70.0;78.0;A10;Avatar, NPC;Avatar has conversation with NPC
+5_TS_19.mkv;The Sandbox;5;79.0;85.0;A1;Avatar, Building;Avatar jumps down from second floor
+5_TS_19.mkv;The Sandbox;5;85.0;87.0;A9;Avatar;Avatar runs, stops and runs again at full speed
+5_TS_19.mkv;The Sandbox;5;95.0;98.0;A10;Avatar, Sign;Avatar receives message from sign
+5_TS_19.mkv;The Sandbox;5;102.0;120.0;A10;Avatar, NPC;Avatar talks to NPC
+5_TS_19.mkv;The Sandbox;5;122.0;125.0;A4;Avatar;Avatar waves
+5_TS_18.mkv;The Sandbox;5;1.0;6.0;A1;Avatar, flying square;Avatar runs around and collects squares
+5_TS_18.mkv;The Sandbox;5;6.0;8.0;A4;Avatar, giant millipede;Avatar greats giant millipede
+5_TS_18.mkv;The Sandbox;5;13.0;24.0;A10;Avatar, giant millipede;Avatar receives quest from giant millipede
+5_TS_18.mkv;The Sandbox;5;32.0;33.0;A9;Avatar ;Avatar runs, stops and continues
+5_TS_18.mkv;The Sandbox;5;34.0;54.0;A1, A8;Avatar, stairs;Avatar runs around and up stairs, making a lot of turns
+5_TS_18.mkv;The Sandbox;5;54.0;57.0;A10;Avatar, NPC;Avatar talks to NPC
+5_TS_18.mkv;The Sandbox;5;58.0;77.0;A1;Avatar;Avatar runs around including a big fall
+5_TS_18.mkv;The Sandbox;5;78.0;80.0;A2;Avatar, Wall;Avatr runs against a wall block
+5_TS_18.mkv;The Sandbox;5;88.0;92.0;A8;Avatar, Wall;Avatar runs towards dead end and does 360° turn 
+5_TS_18.mkv;The Sandbox;5;93.0;107.0;A1;Avatar;Avatar runs around and makes front roll
+5_TS_17.mkv;The Sandbox;5;6.0;8.0;A9;Avatar;Avatar runs at full speed, stops and starts again
+5_TS_17.mkv;The Sandbox;5;12.0;18.0;A10;Avatar, NPC Bear;Talking with bear, recceiving objective
+5_TS_17.mkv;The Sandbox;5;19.0;25.0;A8;Avatar;Avaater changes direction at full speed 90°
+5_TS_17.mkv;The Sandbox;5;26.0;27.0;A9;Avatar;Avatar runs , stops and starts again
+5_TS_17.mkv;The Sandbox;5;27.0;45.0;A1;Aatar, signs, flieng items;Avaatr reads signs, and collects item s
+5_TS_17.mkv;The Sandbox;5;46.0;48.0;A8;Avatar, sign ;Avatar changes direction 360° at sign
+5_TS_17.mkv;The Sandbox;5;49.0;51.0;A9;Avatar;Avatar runs , stops and starts again
+5_TS_17.mkv;The Sandbox;5;51.0;54.0;A4;Avatar;Avatar waves, camara give 360° view of it
+5_TS_17.mkv;The Sandbox;5;66.0;69.0;A10;Avatar, NPC Bear;Avatar talks to NPC bear
+5_TS_17.mkv;The Sandbox;5;72.0;74.0;A9;Avatar ;Avatar runs , stops and starts again
+5_TS_17.mkv;The Sandbox;5;76.0;83.0;A1, A8;Avatar, sign ;Avatar runs to sign, collects objective, does 360° turn and runs around 
+5_TS_17.mkv;The Sandbox;5;84.0;86.0;A2;Avatar, tree;Avatar runs against tree
+5_TS_17.mkv;The Sandbox;5;86.0;94.0;A1;Avatar;Avtar runs around and does a front roll
+5_TS_17.mkv;The Sandbox;5;94.0;97.0;A10;Avatar, NPC Bear;Avatar talks to NPC bear
+5_TS_17.mkv;The Sandbox;5;98.0;121.0;A1, A8;Avatar, sign ;Avatar runs to sign, collects objective, does 360° turn and runs around 
+5_TS_17.mkv;The Sandbox;5;84.0;86.0;A2;Avatar, house;Avatar runs against door of a house
+5_TS_16.mkv;The Sandbox;5;5.0;8.0;A4;Avatar, NPC;Avatar Waves towards NPC
+5_TS_16.mkv;The Sandbox;5;12.0;24.0;A10;Avatar, NPC;Avatar chats with NPC
+5_TS_16.mkv;The Sandbox;5;25.0;45.0;A1 ;Avatar, NPC;Avatar runs around, messages frm NPCs are shown
+5_TS_16.mkv;The Sandbox;5;46.0;53.0;A9;Avatar ;Avatar runs , stops and runs again 2 times
+5_TS_16.mkv;The Sandbox;5;55.0;67.0;A1;Avatar, NPC;Avatar runs around, messages frm NPCs are shown, NPC walks through Avatar
+5_TS_16.mkv;The Sandbox;5;68.0;89.0;A10;Avatar, NPC;Avatar chats with NPC
+5_TS_16.mkv;The Sandbox;5;94.0;96.0;A3;Avatar, Tent;Avatar enters tent
+5_TS_16.mkv;The Sandbox;5;98.0;105.0;A6;Avatar, Holographic Message;Avatar reads the holographic message
+5_TS_16.mkv;The Sandbox;5;114.0;116.0;A3;Avatar, Tent;Avatar exits tent
+5_TS_16.mkv;The Sandbox;5;125.0;128.0;A8;Avatar;Avatar changes direction 360°
+5_TS_16.mkv;The Sandbox;5;134.0;136.0;A9;Avatar ;Avatar runs , stops and runs again 
+5_TS_16.mkv;The Sandbox;5;137.0;139.0;A2;Avatar, Stone Wall;Avatar runs against stone Wall
+5_TS_16.mkv;The Sandbox;5;143.0;145.0;A8;Avatar;Avatar changes direction 90° twice
+5_TS_15.mkv;The Sandbox;5;0.0;15.0;A1;Avatar, QR Code, Billboard, NPC;Avatar looks at QR code and Billboar and attemps to talk to NPC
+5_TS_15.mkv;The Sandbox;5;16.0;22.0;A4;Avatar ;Avatar Waves
+5_TS_15.mkv;The Sandbox;5;24.0;28.0;A4;Avatar ;Avatar agrees
+5_TS_15.mkv;The Sandbox;5;33.0;51.0;A4;Avatar ;Avatar dances
+5_TS_15.mkv;The Sandbox;5;53.0;55.0;A4;Avatar;Avatar Waves
+5_TS_15.mkv;The Sandbox;5;58.0;62.0;A9;Avatar;Avatar runs at full speed, stops  and then runs again
+5_TS_15.mkv;The Sandbox;5;64.0;67.0;A2;Avatar;Avatar runs against a Wall
+5_TS_15.mkv;The Sandbox;5;70.0;116.0;A1;Avatar, NPC;Avatar runs around observes NPCs and 
+5_TS_15.mkv;The Sandbox;5;116.0;;A1;Avatar, Arrow laddar;Avatar climbs up a ladder, falls down, and continues
+5_TS_15.mkv;The Sandbox;5;126.0;130.0;A2;Avatar, NPC;Avatar get's stuck against objects and NPCs
+5_TS_15.mkv;The Sandbox;5;131.0;162.0;A1;Avatar, coins;Avatar runs around and collects coins 
+5_TS_15.mkv;The Sandbox;5;161.0;163.0;A9;Avatar;Avatar runs , stops and then runs again
+5_TS_15.mkv;The Sandbox;5;163.0;166.0;A3;Avatar, Subway;Avatar enters subway
+5_TS_15.mkv;The Sandbox;5;172.0;174.0;A3;Avatar, Subway;Avatar exits subway
+5_TS_15.mkv;The Sandbox;5;177.0;179.0;A8;Avatar;Avatar runs into dead end and changes direction
+5_TS_14.mkv;The Sandbox;5;0.0;5.0;A9;Avatar;Avatar runs and stops multiple times
+5_TS_14.mkv;The Sandbox;5;5.0;15.0;A1;Avatar, Animal (Squirrel);Avatar observes Squirrel 
+5_TS_14.mkv;The Sandbox;5;18.0;19.0;A8, A2;Avatar, Tree;Avatar bumbs into tree and turn saround 360°
+5_TS_14.mkv;The Sandbox;5;20.0;43.0;A1;Avatar, Animal (Birds);Avatar runs aroud, looks up for a few seconds observes a birds
+5_TS_14.mkv;The Sandbox;5;51.0;53.0;A9;Avatar;Avatar runs and stops and runs again 
+5_TS_14.mkv;The Sandbox;5;53.0;63.0;A1;Avatar, Gras;Avatar runs very fast through gras
+5_TS_14.mkv;The Sandbox;5;63.0;65.0;A9;Avatar;Avatar stops, turns slightly and continues running
+5_TS_14.mkv;The Sandbox;5;83.0;86.0;A10, A7;Avatar, Teleportation platform ;Teleportation Platform asks Avatar if he wishes to teleport, Avatar affirms and teleports
+5_TS_14.mkv;The Sandbox;5;98.0;100.0;A10;Avatar, Control Screen;Avatar unsuccessfully tries to talk to control screen
+5_TS_14.mkv;The Sandbox;5;101.0;104.0;A2;Avatar, Electrical Door;Avatar tries to pass through electrical door but doe not suceed
+5_TS_14.mkv;The Sandbox;5;122.0;124.0;A7;Avatar, Teleportation platform ;Teleportation Platform asks Avatar if he wishes to teleport, Avatar affirms and teleports back to where he came from 

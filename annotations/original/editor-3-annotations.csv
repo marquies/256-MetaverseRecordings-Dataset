@@ -1,0 +1,256 @@
+Video;Metaverse name;Editor;Timestamp start;Timestamp End;Action;Relevant Objects;Description
+3_Video_01;VR-Chat;3;00:06:00;00:29:00;A5;2 kleine Katzen, 1 Pflanze;Dritte unterhalten sich
+3_Video_01;VR-Chat;3;00:33:00;00:36:00;A5;2 kleine Katzen, 1 Pflanze;Dritte unterhalten sich
+3_Video_01;VR-Chat;3;00:38:00;00:40:00;A5;2 kleine Katzen, 1 Pflanze;Dritte unterhalten sich
+3_Video_01;VR-Chat;3;00:43:00;01:26:00;A5;2 kleine Katzen;Dritte unterhalten sich 
+3_Video_01;VR-Chat;3;01:38:00;01:48:00;A5;2 kleine Katzen;Dritte unterhalten sich
+3_Video_01;VR-Chat;3;00:00:00;00:04:00;A1;1 Pflanze, 1 Katze;Dritte bewegen sich
+3_Video_01;VR-Chat;3;00:17:00;00:17:00;A1;Aufnehmender User;Wir laufen durch die Welt
+3_Video_01;VR-Chat;3;00:52:00;00:56:00;A1;Aufnehmender User;Wir laufen durch die Welt
+3_Video_01;VR-Chat;3;01:14:00;01:16:00;A1;Aufnehmender User;Wir laufen durch die Welt
+3_Video_01;VR-Chat;3;01:40:00;01:45:00;A1;1 Pflanze;Dritter User läuft durch die Welt
+3_Video_01;VR-Chat;3;00:18:00;00:19:00;A9;Aufnehmender User;Wir stoppen und gehen weiter
+3_Video_01;VR-Chat;3;00:24:00;00:28:00;A8;1 kleine Katze;Dritter läuft vor und zurück
+3_Video_01;VR-Chat;3;00:29:00;00:30:00;A8;1 kleine Katze;Dritter läuft vor und zurück
+3_Video_01;VR-Chat;3;00:32:00;00:36:00;A8;1 kleine Katze;Dritter läuft vor und zurück
+3_Video_01;VR-Chat;3;00:44:00;00:45:00;A8;1 kleine Katze;Dritter läuft vor und zurück
+3_Video_01;VR-Chat;3;01:22:00;01:29:00;A8;1 kleine Katze;Dritter läuft vor und zurück und seitwärts
+3_Video_01;VR-Chat;3;01:29:00;01:32:00;A4;Aufnehmender User;"Geste ""Auf jemanden zeigen"""
+3_Video_01;VR-Chat;3;01:35:00;01:40:00;A4;Aufnehmender User;"Geste ""Die"" (Sterben, fällt um)"
+3_Video_02;VR-Chat;3;00:00:00;00:11:00;A1;Aufnehmender User;Wir laufen durch die Welt
+3_Video_02;VR-Chat;3;00:16:00;00:24:00;A1;Aufnehmender User;Wir laufen durch die Welt
+3_Video_02;VR-Chat;3;00:25:00;00:27:00;A9;Aufnehmender User;Wir bleiben stehen und gehen weiter
+3_Video_02;VR-Chat;3;00:03:00;00:03:00;A3;Aufnehmender User;Betritt Gebäude
+3_Video_02;VR-Chat;3;00:07:00;00:07:00;A3;Aufnehmender User;Verlässt Gebäude
+3_Video_02;VR-Chat;3;00:14:00;00:18:00;A5;Swat-Avater;Dritte unterhalten sich
+3_Video_02;VR-Chat;3;00:32:00;00:35:00;A5;Swat-Avater;Dritte unterhalten sich
+3_Video_02;VR-Chat;3;00:24:00;00:25:00;A7;Aufnehmender User, Teleportbutton;Teleportieren innerhalb der Welt
+3_Video_02;VR-Chat;3;00:30:00;00:30:00;A7;Aufnehmender User, Teleportbutton;Teleportieren innerhalb der Welt
+3_Video_03;VR-Chat;3;00:04:00;00:21:00;A1;Aufnehmender User;Wir laufen durch die Welt
+3_Video_03;VR-Chat;3;00:06:00;00:06:00;A8;Aufnehmender User;Wir wechseln die Richtung
+3_Video_03;VR-Chat;3;00:12:00;00:12:00;A8;Aufnehmender User;Wir wechseln die Richtung
+3_Video_03;VR-Chat;3;00:22:00;00:26:00;A6;Aufnehmender User, Dose;Interaktion mit Dose
+3_Video_03;VR-Chat;3;00:30:00;00:32:00;A6;Aufnehmender User, Dose;Interaktion mit Dose
+3_Video_03;VR-Chat;3;00:35:00;00:36:00;A6;Aufnehmender User, Dose;Interaktion mit Dose
+3_Video_03;VR-Chat;3;00:37:00;00:40:00;A1;Aufnehmender User;Wir laufen durch die Welt
+3_Video_03;VR-Chat;3;00:41:00;00:43:00;A6;Aufnehmender User, Becher;Interaktion mit Becher
+3_Video_03;VR-Chat;3;00:46:00;00:55:00;A1;Aufnehmender User;Wir laufen durch die Welt
+3_Video_03;VR-Chat;3;00:48:00;00:48:00;A9;Aufnehmender User;Bleibt stehen und läuft dann weiter
+3_Video_03;VR-Chat;3;00:55:00;01:04:00;A6;Aufnehmender User, Sirupflasche;Wir schütten Sirup auf die Pancakes
+3_Video_03;VR-Chat;3;01:05:00;01:22:00;A1;Aufnehmender User;Wir laufen durch die Welt
+3_Video_04;VR-Chat;3;00:00:00;00:10:00;A1;Aufnehmender User;Wir laufen durch die Welt
+3_Video_04;VR-Chat;3;00:02:00;00:02:00;A8;Aufnehmender User;Wir wechseln die Richtung
+3_Video_04;VR-Chat;3;00:10:00;00:11:00;A6;Aufnehmender User, Würfel;Interaktion mit Würfel
+3_Video_04;VR-Chat;3;00:12:00;00:15:00;A1;Aufnehmender User;Wir laufen durch die Welt
+3_Video_04;VR-Chat;3;00:15:00;00:17:00;A6;Aufnehmender User, Würfel;Interaktion mit Würfel
+3_Video_04;VR-Chat;3;00:20:00;00:21:00;A6;Aufnehmender User, Würfel;Interaktion mit Würfel
+3_Video_04;VR-Chat;3;00:18:00;00:20:00;A1;Aufnehmender User;Wir laufen ein Stück
+3_Video_04;VR-Chat;3;00:25:00;00:30:00;A6;Aufnehmender User, Würfel;Interaktion mit Würfel
+3_Video_04;VR-Chat;3;00:25:00;00:27:00;A1;Aufnehmender User;Wir laufen ein Stück
+3_Video_04;VR-Chat;3;00:34:00;00:40:00;A6;Aufnehmender User, Pancakes;Interaktion mit dem Teller Pancakes
+3_Video_04;VR-Chat;3;00:40:00;00:48:00;A1;Aufnehmender User;Wir laufen durch die Welt
+3_Video_04;VR-Chat;3;00:47:00;00:56:00;A6;Aufnehmender User, Control Panel;Interaktion mit dem Control Panel
+3_Video_04;VR-Chat;3;00:59:00;01:02:00;A6;Aufnehmender User, Sessel;Wir sitzen auf dem Sessel
+3_Video_04;VR-Chat;3;01:05:00;01:13:00;A6;Aufnehmender User, Couch;Wir sitzen auf der Couch
+3_Video_05;VR-Chat;3;00:00:00;00:05:00;A1;Aufnehmender User;Wir laufen durch die Welt
+3_Video_05;VR-Chat;3;00:05:00;00:06:00;A9;Aufnehmender User;Wir bleiben stehen und laufen dann weiter
+3_Video_05;VR-Chat;3;00:06:00;00:08:00;A1;Aufnehmender User;Wir laufen durch die Welt
+3_Video_05;VR-Chat;3;00:13:00;00:15:00;A10;Aufnehmender User, System;Sucheingabe im System
+3_Video_05;VR-Chat;3;00:24:00;00:40:00;A7;Aufnehmender User;"""Teleportieren"" in eine neue Welt"
+3_Video_05;VR-Chat;3;00:40:00;00:41:00;A8;Aufnehmender User;Wir wechseln die Richtung
+3_Video_05;VR-Chat;3;00:43:00;00:47:00;A6;Aufnehmender User, Control Panel;Interaktion mit dem Control Panel
+3_Video_05;VR-Chat;3;00:47:00;00:49:00;A1;Aufnehmender User;Wir laufen durch die Welt
+3_Video_06;VR-Chat;3;00:00:00;00:17:00;A1;Aufnehmender User;Wir laufen durch die Welt
+3_Video_06;VR-Chat;3;00:04:00;00:04:00;A3;Aufnehmender User;Wir betreten ein Gebäude
+3_Video_06;VR-Chat;3;00:08:00;00:08:00;A8;Aufnehmender User;Richtungswechsel
+3_Video_06;VR-Chat;3;00:08:00;00:08:00;A9;Aufnehmender User;Stehen bleiben und weiter gehen
+3_Video_06;VR-Chat;3;00:13:00;00:13:00;A8;Aufnehmender User;Richtungswechsel
+3_Video_06;VR-Chat;3;00:13:00;00:13:00;A9;Aufnehmender User;Stehen bleiben und weiter gehen
+3_Video_06;VR-Chat;3;00:13:00;00:13:00;A6;Aufnehmender User, Türbutton;Knopf zum Tür öffnen gedrückt
+3_Video_06;VR-Chat;3;00:19:00;00:30:00;A1;Aufnehmender User;Wir laufen durch das Klassenzimmer
+3_Video_06;VR-Chat;3;00:21:00;00:24:00;A9;Aufnehmender User;Mehrfaches stehenbleiben u. weitergehen
+3_Video_06;VR-Chat;3;00:23:00;00:23:00;A6;Aufnehmender User, Stühlebutton;Der Stühlebutton funktioniert nicht
+3_Video_06;VR-Chat;3;00:34:00;00:34:00;A6;Aufnehmender User, Stiftebutton;Stiftebutton gedrückt, Stifte erscheinen
+3_Video_06;VR-Chat;3;00:38:00;00:59:00;A6;Aufnehmender User, weißer Stift;User interagiert mit dem Stift
+3_Video_07;VR-Chat;3;00:03:00;00:14:00;A6;Aufnehmender User, Roter Stift;Der User interagiert mit dem Stift
+3_Video_07;VR-Chat;3;00:16:00;00:34:00;A6;Aufnehmender User, Roter Stift;Der User interagiert mit dem Stift
+3_Video_07;VR-Chat;3;00:00:00;00:02:00;A9;Aufnehmender User;Mehrfaches stehenbleiben u. weitergehen
+3_Video_07;VR-Chat;3;00:14:00;00:16:00;A8;Aufnehmender User;Richtungswechsel seitwärts
+3_Video_07;VR-Chat;3;00:34:00;00:38:00;A1;Aufnehmender User ;Wir laufen durch die Gänge
+3_Video_07;VR-Chat;3;00:38:00;00:41:00;A9;Aufnehmender User;Mehrfaches stehenbleiben u. weitergehen
+3_Video_07;VR-Chat;3;00:41:00;00:41:00;A6;Aufnehmender User, Türbutton;User drückt Button, es funktioniert nicht
+3_Video_07;VR-Chat;3;00:47:00;00:47:00;A8;Aufnehmender User;Richtungswechsel beim laufen
+3_Video_07;VR-Chat;3;00:55:00;00:55:00;A8;Aufnehmender User;Richtungswechsel beim laufen
+3_Video_07;VR-Chat;3;00:41:00;01:00:00;A1;Aufnehmender User;Wir laufen durch die Gänge und den Hof
+3_Video_08;VR-Chat;3;00:02:00;00:06:00;A6;Aufnehmender User, Kissen ;User trägt ein Kissen umher
+3_Video_08;VR-Chat;3;00:10:00;00:20:00;A6;Aufnehmender User, Kissen ;User trägt ein Kissen umher
+3_Video_08;VR-Chat;3;00:21:00;00:21:00;A6;Aufnehmender User, Kissenbutton;User deaktiviert die Kissen
+3_Video_08;VR-Chat;3;00:02:00;00:04:00;A1;Aufnehmender User;User bewegt sich durch den Hof
+3_Video_08;VR-Chat;3;00:09:00;00:11:00;A1;Aufnehmender User;User bewegt sich durch den Hof
+3_Video_08;VR-Chat;3;00:16:00;00:19:00;A1;Aufnehmender User;User bewegt sich durch den Hof
+3_Video_08;VR-Chat;3;00:18:00;00:18:00;A8;Aufnehmender User;Richtungswechsel vorwärts rückwärts
+3_Video_08;VR-Chat;3;00:22:00;00:27:00;A1;Aufnehmender User;User bewegt sich durch den Hof
+3_Video_08;VR-Chat;3;00:28:00;00:28:00;A7;Aufnehmender User, Teleportbutton;Der User teleportiert sich innerhalb der Welt
+3_Video_08;VR-Chat;3;00:31:00;00:31:00;A7;Aufnehmender User, Teleportbutton;Der User teleportiert sich innerhalb der Welt
+3_Video_08;VR-Chat;3;00:33:00;00:33:00;A7;Aufnehmender User, Teleportbutton;Der User teleportiert sich innerhalb der Welt
+3_Video_08;VR-Chat;3;00:34:00;00:34:00;A7;Aufnehmender User, Teleportbutton;Der User teleportiert sich innerhalb der Welt
+3_Video_08;VR-Chat;3;00:38:00;00:38:00;A8;Aufnehmender User;Richtungswechsel beim Gehen
+3_Video_08;VR-Chat;3;00:37:00;01:00:00;A1;Aufnehmender User;User läuft durch die Welt
+3_Video_08;VR-Chat;3;00:48:00;00:48:00;A3;Aufnehmender User;User verlässt das Gebäude
+3_Video_09;VR-Chat;3;00:00:00;00:03:00;A1;Anderer  Nutzer (ein Monster?);Anderer Nutzer läuft durchs Bild
+3_Video_09;VR-Chat;3;00:04:00;00:09:00;A4;Aufnehmender User;"User führt die Geste ""Die""(sterben) aus"
+3_Video_09;VR-Chat;3;00:10:00;00:23:00;A5;2 kleine Katzen;Katzen unterhalten sich 
+3_Video_09;VR-Chat;3;00:32:00;00:33:00;A1;Samuraiähnlicher Avatar;Anderer Nutzer läuft durchs Bild
+3_Video_09;VR-Chat;3;00:33:00;00:36:00;A5;2 kleine Katzen;Katzen unterhalten sich 
+3_Video_09;VR-Chat;3;00:42:00;00:50:00;A5;2 kleine Katzen;Katzen unterhalten sich 
+3_Video_09;VR-Chat;3;00:59:00;01:06:00;A5;2 kleine Katzen;Katzen unterhalten sich 
+3_Video_09;VR-Chat;3;00:15:00;00:18:00;A8;1 kleine Katze;Läuft hin und her (Richtungswechsel)
+3_Video_09;VR-Chat;3;00:22:00;00:22:00;A8;1 kleine Katze;Läuft vorwärts und rückwärts
+3_Video_09;VR-Chat;3;00:47:00;00:53:00;A8;1 kleine Katze;Läuft hin und her (Richtungswechsel)
+3_Video_09;VR-Chat;3;00:55:00;01:00:00;A1;Animeavatar;Anderer Nutzer gesellt sich zur Gruppe
+3_Video_09;VR-Chat;3;01:00:00;01:06:00;A8;2 kleine Katzen;Bewegen sich hin und her
+3_Video_10;VR-Chat;3;00:00:00;00:04:00;A2;Aufnehmender User, Zaun;User kommt nicht auf/über den Zaun
+3_Video_10;VR-Chat;3;00:00:00;00:08:00;A1;Aufnehmender User;User läuft durch den Garten
+3_Video_10;VR-Chat;3;00:10:00;00:10:00;A6;Aufnehmender User, Mirrorbutton;User schaltet den Spiegel ein
+3_Video_10;VR-Chat;3;00:14:00;00:21:00;A9;Aufnehmender User, Spiegelbild;Wiederholtes Stehenbleiben und weitergehen
+3_Video_10;VR-Chat;3;00:27:00;00:28:00;A4;Aufnehmender User;"User führt Geste ""Backflip"" aus"
+3_Video_10;VR-Chat;3;00:32:00;00:35:00;A4;Aufnehmender User;"User führt Geste ""Winken"" aus"
+3_Video_10;VR-Chat;3;00:40:00;00:42:00;A4;Aufnehmender User;"User führt Geste ""Winken"" aus"
+3_Video_10;VR-Chat;3;00:43:00;00:49:00;A1;Aufnehmender User;User läuft durch den Garten
+3_Video_10;VR-Chat;3;00:47:00;00:47:00;A8;Aufnehmender User;User dreht um
+3_Video_10;VR-Chat;3;00:50:00;00:50:00;A6;Aufnehmender User, Mirrorbutton;User schaltet Spiegel aus
+3_Video_10;VR-Chat;3;00:52:00;00:52:00;A6;Aufnehmender User, Mirrorbutton;User schaltet den Spiegel ein
+3_Video_10;VR-Chat;3;00:55:00;00:55:00;A6;Aufnehmender User, Mirrorbutton;User schaltet Spiegel aus
+3_Video_10;VR-Chat;3;00:55:00;00:59:00;A1;Aufnehmender User;User läuft durch den Garten
+3_Video_11;VR-Chat;3;00:00:00;00:17:00;A1;Aufnehmender User;User läuft durch die Welt
+3_Video_11;VR-Chat;3;00:02:00;00:03:00;A3;Aufnehmender User;User betritt das Gebäude
+3_Video_11;VR-Chat;3;00:01:00;00:01:00;A8;Aufnehmender User;User wechselt die Laufrichtung
+3_Video_11;VR-Chat;3;00:05:00;00:06:00;A3;Aufnehmender User;User verlässt das Gebäude
+3_Video_11;VR-Chat;3;00:08:00;00:12:00;A9;Aufnehmender User;Wiederholtes Stehenbleiben und Weitergehen
+3_Video_11;VR-Chat;3;00:20:00;00:20:00;A7;Aufnehmender User, Teleportbutton;User teleportiert sich innerhalb der Welt
+3_Video_11;VR-Chat;3;00:25:00;00:25:00;A6;Aufnehmender User, Kissenbutton;User versucht Kissenbutton zu benutzen 
+3_Video_11;VR-Chat;3;00:30:00;00:30:00;A6;Aufnehmender User, Kissenbutton;User benutzt Kissenbutton
+3_Video_11;VR-Chat;3;00:35:00;00:40:00;A1;Aufnehmender User;User läuft durch die Welt
+3_Video_11;VR-Chat;3;00:37:00;00:37:00;A8;Aufnehmender User;User wechselt die Laufrichtung
+3_Video_11;VR-Chat;3;00:36:00;00:36:00;A9;Aufnehmender User;User bleibt stehen und geht weiter
+3_Video_11;VR-Chat;3;00:38:00;00:38:00;A9;Aufnehmender User;User bleibt stehen und geht weiter
+3_Video_11;VR-Chat;3;00:38:00;00:38:00;A8;Aufnehmender User;User wechselt die Laufrichtung
+3_Video_11;VR-Chat;3;00:41:00;00:56:00;A6;Aufnehmender User, Kissen;User spielt mit dem Kissen
+3_Video_11;VR-Chat;3;00:58:00;01:00:00;A6;Aufnehmender User, Kissen;User spielt mit dem Kissen
+3_Video_11;VR-Chat;3;01:11:00;01:11:00;A7;Aufnehmender User, Teleportbutton;User teleportiert sich innerhalb der Welt
+3_Video_11;VR-Chat;3;01:15:00;01:15:00;A7;Aufnehmender User, Teleportbutton;User teleportiert sich innerhalb der Welt
+3_Video_11;VR-Chat;3;01:18:00;01:18:00;A7;Aufnehmender User, Teleportbutton;User teleportiert sich innerhalb der Welt
+3_Video_12;VR-Chat;3;00:00:00;00:14:00;A5;Aufnehmender User, anderer User;Beide User unterhalten sich
+3_Video_12;VR-Chat;3;00:13:00;00:20:00;A4;Anderer Nutzer;"Wir sehen den anderen Nutzer das ""Garfield"" Emote benutzen "
+3_Video_12;VR-Chat;3;00:29:00;00:42:00;A5;Aufnehmender User, anderer User;Beide User unterhalten sich
+3_Video_12;VR-Chat;3;00:44:00;00:49:00;A5;Anderer Nutzer;Wir sehen den anderen Nutzer tanzen
+3_Video_12;VR-Chat;3;00:55:00;00:56:00;A7;Aufnehmender User, Teleportbutton;User teleportiert sich innerhalb der Welt
+3_Video_12;VR-Chat;3;00:57:00;01:04:00;A5;Kleingruppe von Nutzern;Nutzer unterhalten sich 
+3_Video_12;VR-Chat;3;01:10:00;01:10:00;A7;Aufnehmender User, Teleportbutton;User teleportiert sich innerhalb der Welt
+3_Video_12;VR-Chat;3;00:12:00;00:14:00;A9;Aufnehmender User;User bewegt sich wiederholt mit stops zwischendrin
+3_Video_12;VR-Chat;3;00:50:00;00:54:00;A1;Aufnehmender User;User bewegt sich in der Welt
+3_Video_13;VR-Chat;3;00:00:00;00:07:00;A1;Aufnehmender User;User bewegt sich in der Welt
+3_Video_13;VR-Chat;3;00:02:00;00:02:00;A9;Aufnehmender User;User bleibt stehen und geht weiter
+3_Video_13;VR-Chat;3;00:04:00;00:04:00;A6;Aufnehmender User, Mirrorbutton;User aktiviert den Spiegel
+3_Video_13;VR-Chat;3;00:09:00;00:18:00;A4;Aufnehmender User, Spiegelbild;Man sieht den User im Spiegel tanzen
+3_Video_13;VR-Chat;3;00:19:00;00:25:00;A1;Aufnehmender User;User bewegt sich in der Welt
+3_Video_13;VR-Chat;3;00:21:00;00:21:00;A9;Aufnehmender User;User bleibt stehen und geht weiter
+3_Video_13;VR-Chat;3;00:21:00;00:22:00;A8;Aufnehmender User;User wechselt die Richtung
+3_Video_13;VR-Chat;3;00:35:00;00:47:00;A10;Aufnehmender User, Chatbox;User nutzt die Chatbox (Eingaben werden auf oder am User anschließend angezeigt)
+3_Video_13;VR-Chat;3;00:59:00;01:02:00;A10;Aufnehmender User, Chatbox;User nutzt die Chatbox
+3_Video_14;VR-Chat;3;00:02:00;00:08:00;A10;Aufnehmender User, Chatbox;User nutzt die Chatbox
+3_Video_14;VR-Chat;3;00:07:00;00:14:00;A5;Aufnehmender User, Anderer User;User reden
+3_Video_14;VR-Chat;3;00:20:00;00:24:00;A1;Anderer User;Anderer User läuft
+3_Video_14;VR-Chat;3;00:22:00;00:22:00;A9;Anderer User;Anderer User bleibt kurz stehen und läuft weiter
+3_Video_14;VR-Chat;3;00:25:00;00:36:00;A5;Aufnehmender User, Anderer User;User reden
+3_Video_14;VR-Chat;3;00:39:00;00:42:00;A10;Anderer User, Chat;Über dem anderen User ist eine Chatnachricht
+3_Video_14;VR-Chat;3;00:42:00;00:45:00;A10;Aufnehmender User, Chatbox;User nutzt die Chatbox
+3_Video_14;VR-Chat;3;00:45:00;00:58:00;A10;Anderer User, Chat;Über dem anderen User ist eine Chatnachricht
+3_Video_14;VR-Chat;3;00:48:00;01:01:00;A5;Aufnehmender User, Anderer User;User reden
+3_Video_15;VR-Chat;3;00:00:00;00:02:00;A6;Aufnehmender User, Türbutton;User versucht Türbutton zu nutzen, geht nicht
+3_Video_15;VR-Chat;3;00:05:00;00:07:00;A6;Aufnehmender User, Türbutton;User versucht Türbutton zu nutzen, geht nicht
+3_Video_15;VR-Chat;3;00:10:00;00:12:00;A6;Aufnehmender User, Türbutton;User versucht Türbutton zu nutzen, geht nicht
+3_Video_15;VR-Chat;3;00:15:00;00:17:00;A6;Aufnehmender User, Teleportbutton;User versucht zu Teleportieren, geht nicht
+3_Video_15;VR-Chat;3;00:19:00;00:21:00;A5;Aufnehmender User, Anderer User;Wir reden mit dem anderen User
+3_Video_15;VR-Chat;3;00:24:00;00:26:00;A6;Aufnehmender User, Teleportbutton;User versucht zu Teleportieren, geht nicht
+3_Video_15;VR-Chat;3;00:31:00;00:32:00;A7;Aufnehmender User, Teleportbutton;User teleportiert sich innerhalb der Welt
+3_Video_15;VR-Chat;3;00:35:00;00:39:00;A5;Dritte;Gespräche Dritter
+3_Video_15;VR-Chat;3;00:42:00;00:42:00;A6;Aufnehmender User, Mirrorbutton;User aktiviert den Spiegel
+3_Video_15;VR-Chat;3;00:43:00;01:02:00;A5;Dritte;Gespräche Dritter
+3_Video_15;VR-Chat;3;00:52:00;00:54:00;A4;Aufnehmender User, Spiegelbild;User winkt
+3_Video_15;VR-Chat;3;01:08:00;01:08:00;A7;Aufnehmender User, Teleportbutton;User teleportiert sich innerhalb der Welt
+3_Video_15;VR-Chat;3;01:12:00;01:15:00;A1;Aufnehmender User;User  geht durch den Innenhof
+3_Video_15;VR-Chat;3;00:18:00;00:24:00;A9;Aufnehmender User;Wir laufen und bleiben wiederholt stehen
+3_Video_16;VR-Chat;3;00:01:00;00:02:00;A2;Aufnehmender User, Blumenkasten mit Baum;User stößt gegen den Kasten 
+3_Video_16;VR-Chat;3;00:03:00;00:13:00;A1;Aufnehmender User;User läuft durch die Welt
+3_Video_16;VR-Chat;3;00:03:00;00:03:00;A3;Aufnehmender User;User betritt Gebäude
+3_Video_16;VR-Chat;3;00:05:00;00:05:00;A9;Aufnehmender User;User bleibt stehen und geht weiter
+3_Video_16;VR-Chat;3;00:07:00;00:08:00;A9;Aufnehmender User;User bleibt stehen und geht weiter
+3_Video_16;VR-Chat;3;00:13:00;00:13:00;A6;Aufnehmender User, Interaktiver Avater;User wechselt per Click den Avatar
+3_Video_16;VR-Chat;3;00:15:00;00:16:00;A6;Aufnehmender User, Sitz;User setzt sich hin 
+3_Video_16;VR-Chat;3;00:16:00;00:41:00;A1;Aufnehmender User;User läuft durch die Welt
+3_Video_16;VR-Chat;3;00:32:00;00:32:00;A9;Aufnehmender User;User bleibt stehen und geht weiter
+3_Video_16;VR-Chat;3;00:42:00;00:42:00;A6;Aufnehmender User, Teleportbutton;User teleportiert sich innerhalb der Welt
+3_Video_16;VR-Chat;3;00:49:00;00:49:00;A6;Aufnehmender User, Teleportbutton;User teleportiert sich innerhalb der Welt
+3_Video_16;VR-Chat;3;00:52:00;01:16:00;A1;Aufnehmender User;User läuft durch die Welt
+3_Video_16;VR-Chat;3;01:05:00;01:05:00;A8;Aufnehmender User;User wechselt die Richtung
+3_Video_16;VR-Chat;3;01:19:00;01:26:00;A7;Aufnehmender User, Portal;User teleportiert sich in eine neue Welt
+3_Video_17;VR-Chat;3;00:06:00;00:07:00;A3;Aufnehmender User;User betritt Gebäude
+3_Video_17;VR-Chat;3;00:01:00;00:01:00;A8;Aufnehmender User;User wechselt die Richtung
+3_Video_17;VR-Chat;3;00:04:00;00:04:00;A8;Aufnehmender User;User wechselt die Richtung
+3_Video_17;VR-Chat;3;00:00:00;00:08:00;A1;Aufnehmender User;User läuft durch die Welt
+3_Video_17;VR-Chat;3;00:08:00;00:10:00;A2;Aufnehmender User, Tisch;User stößt gegen Tisch
+3_Video_17;VR-Chat;3;00:15:00;00:17:00;A2;Aufnehmender User, Tisch;User stößt gegen Tisch
+3_Video_17;VR-Chat;3;00:22:00;00:23:00;A4;Aufnehmender User;User wnutzt Geste Winken
+3_Video_17;VR-Chat;3;00:49:00;00:49:00;A6;Aufnehmender User, UI Button;User drückt Button
+3_Video_17;VR-Chat;3;00:55:00;00:55:00;A7;Aufnehmender User, UI Button;User drückt Button
+3_Video_17;VR-Chat;3;00:59:00;01:02:00;A2;Aufnehmender User, Tresen;User stößt gegen Tresen
+3_Video_17;VR-Chat;3;01:05:00;01:07:00;A2;Aufnehmender User, Treppe;User bleibt an Treppe hängen
+3_Video_17;VR-Chat;3;01:07:00;01:13:00;A1;Aufnehmender User;User läuft die Treppe hoch
+3_Video_18;VR-Chat;3;00:10:00;00:22:00;A1;Aufnehmender User;User läuft durch die Welt
+3_Video_18;VR-Chat;3;00:14:00;00:14:00;A9;Aufnehmender User;User bleibt kurz stehen
+3_Video_18;VR-Chat;3;00:17:00;00:18:00;A9;Aufnehmender User;User bleibt kurz stehen
+3_Video_18;VR-Chat;3;00:20:00;00:21:00;A9;Aufnehmender User;User bleibt kurz stehen
+3_Video_18;VR-Chat;3;00:27:00;00:35:00;A1;Aufnehmender User;User läuft durch die Welt
+3_Video_18;VR-Chat;3;00:33:00;00:34:00;A9;Aufnehmender User;User bleibt kurz stehen
+3_Video_18;VR-Chat;3;00:35:00;00:35:00;A6;Aufnehmender User, Mirrorbutton;User aktiviert den Spiegel
+3_Video_18;VR-Chat;3;00:36:00;00:40:00;A1;Aufnehmender User;User läuft durch die Welt
+3_Video_18;VR-Chat;3;00:40:00;00:42:00;A2;Aufnehmender user, Fenster;User stößt gegen das Fenster
+3_Video_18;VR-Chat;3;00:44:00;00:44:00;A2;Aufnehmender user, Wand;User stößt gegen die Wand
+3_Video_18;VR-Chat;3;00:47:00;00:47:00;A2;Aufnehmender user, Treppe;User stößt gegen die Treppe
+3_Video_18;VR-Chat;3;00:50:00;00:50:00;A2;Aufnehmender user, Wand;User stößt gegen die Wand
+3_Video_18;VR-Chat;3;01:00:00;01:04:00;A2;Aufnehmender user, Glasscheibe;User stößt gegen die Glasscheibe
+3_Video_18;VR-Chat;3;00:50:00;01:00:00;A1;Aufnehmender User;User läuft durch die Welt
+3_Video_18;VR-Chat;3;01:06:00;01:08:00;A6;Aufnehmender User, Lautstärkeregler;User stellt die Musik leiser
+3_Video_19;VR-Chat;3;00:00:00;00:02:00;A4;Anderer User;Anderer User winkt
+3_Video_19;VR-Chat;3;00:05:00;00:05:00;A4;Aufnehmender User;"User wählt Geste ""winken"" aus"
+3_Video_19;VR-Chat;3;00:04:00;00:08:00;A4;Anderer User;Anderer User tanzt
+3_Video_19;VR-Chat;3;00:10:00;00:14:00;A5;Aufnehmender User, Anderer User;User reden
+3_Video_19;VR-Chat;3;00:21:00;00:24:00;A5;Anderer User;Anderer User redet
+3_Video_19;VR-Chat;3;00:23:00;00:23:00;A6;Anderer User, Couch;Anderer User setzt sich ihn
+3_Video_19;VR-Chat;3;00:26:00;00:26:00;A6;Aufnehmender User, Couch;Wir setzen uns hin
+3_Video_19;VR-Chat;3;00:29:00;00:40:00;A5;Aufnehmender User, Anderer User;User reden
+3_Video_19;VR-Chat;3;00:44:00;00:45:00;A10;Aufnehmender User, Chatbox;User nutzt die Chatbox (Musik, System)
+3_Video_19;VR-Chat;3;00:50:00;00:57:00;A1;Aufnehmender User;User läuft durch die Welt
+3_Video_19;VR-Chat;3;00:57:00;01:09:00;A6;Aufnehmender User, Weinglas;User nimmt Weinglas
+3_Video_19;VR-Chat;3;01:01:00;01:03:00;A1;Aufnehmender User;User läuft zurück
+3_Video_19;VR-Chat;3;01:03:00;01:18:00;A5;Aufnehmender User, Anderer User;User reden
+3_Video_19;VR-Chat;3;01:09:00;01:15:00;A6;Anderer User, Weinglas;Anderer User nimmt unserem User das Glas aus der Hand
+3_Video_19;VR-Chat;3;01:15:00;01:18:00;A6;Aufnehmender User, Weinglas;Wir nehmen dem anderen User das Glas aus der Hand
+3_Video_20;VR-Chat;3;00:03:00;00:06:00;A6;Aufnehmender User, Orcakuscheltier;User nimmt Kuscheltier
+3_Video_20;VR-Chat;3;00:09:00;00:09:00;A6;Aufnehmender User, Mirrorbutton;User aktiviert Low Quality Mirror
+3_Video_20;VR-Chat;3;00:10:00;00:10:00;A6;Aufnehmender User, Mirrorbutton;User aktiviert High Quality Mirror
+3_Video_20;VR-Chat;3;00:16:00;00:19:00;A4;Aufnehmender User, Spiegelbild;Wir winken unserem Spiegelbild
+3_Video_20;VR-Chat;3;00:23:00;00:39:00;A6;Aufnehmender User, Stift;Wir malen etwas
+3_Video_20;VR-Chat;3;00:45:00;00:47:00;A5;Aufnehmender User, anderer User;Wir reden mit dem anderen User
+3_Video_20;VR-Chat;3;00:48:00;01:09:00;A1;Aufnehmender User;Wir laufen raus in den Garten 
+3_Video_20;VR-Chat;3;00:59:00;01:01:00;A3;Aufnehmender User;Wir verlassen das Gebäude
+3_Video_20;VR-Chat;3;00:50:00;00:50:00;A9;Aufnehmender User;Wir bleiben kurz stehen 
+3_Video_20;VR-Chat;3;00:51:00;00:51:00;A8;Aufnehmender User;Wir wechseln die Richtung
+3_Video_20;VR-Chat;3;00:53:00;00:54:00;A9;Aufnehmender user;Wir bleiben kurz stehen 
+3_Video_20;VR-Chat;3;00:56:00;00:58:00;A9;Aufnehmender User;Wir bleiben kurz stehen 
+3_Video_20;VR-Chat;3;00:54:00;00:54:00;A8;aufnehmender User;WIr wechseln die Richtung
+3_Video_20;VR-Chat;3;01:13:00;01:15:00;A4;Anderer User;User winkt uns zu
+3_Video_20;VR-Chat;3;01:19:00;01:21:00;A4;Anderer User;User winkt uns zu
+3_Video_20;VR-Chat;3;01:23:00;01:24:00;A4;Anderer User;User klatscht
+3_Video_20;VR-Chat;3;00:59:00;01:01:00;A5;Gruppe anderer User;User redet mit der Gruppe

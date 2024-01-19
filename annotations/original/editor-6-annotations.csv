@@ -1,0 +1,140 @@
+Video;Metaverse name;Editor;Sekunde (from);Sekunde (to, optional);Action;Relevant Objects;Description
+6_Video_001.mp4;Virtual Museum;6;0.0;;N1;Webseite;Beginn
+6_Video_001.mp4;Virtual Museum;6;10.0;23.0;N2;Menü;Auswahl Scrollen
+6_Video_001.mp4;Virtual Museum;6;23.0;26.0;N3;virtuelle Welt;virtuellen Rundgang auswählen
+6_Video_001.mp4;Virtual Museum;6;28.0;32.0;N4;Kontext Menü testen;"Kontext Menü des Browser nicht verfügbar; alternatives Kontext Menü der 3DWelt"
+6_Video_001.mp4;Virtual Museum;6;35.0;63.0;N5;Blumenbild;Blumenbild wird vergrößert (in Lightbox angezeigt)
+6_Video_001.mp4;Virtual Museum;6;63.0;;N6;Blumenbild;Blumenbild wird verkleinert (in Lightbox wid geschlossen)
+6_Video_001.mp4;Virtual Museum;6;67.0;72.0;N5;Bild mit Menschen;Bild mit Menschen wird vergrößert (in Lightbox angezeigt)
+6_Video_001.mp4;Virtual Museum;6;72.0;;N6;Bild mit Menschen;Bild mit Menschen wird verkleinert (in Lightbox wid geschlossen)
+6_Video_001.mp4;Virtual Museum;6;86.0;;N7;Raum;Klick auf Kreis
+6_Video_001.mp4;Virtual Museum;6;95.0;;N7;Raum;Klick auf Kreis
+6_Video_001.mp4;Virtual Museum;6;105.0;;N5;Bild mit Frau;Bild mit Frau wird vergrößert (in Lightbox angezeigt)
+6_Video_001.mp4;Virtual Museum;6;108.0;;N8;"""i""-Symbol";"Klick auf ""i"""
+6_Video_001.mp4;Virtual Museum;6;110.0;;N9;Text;Text wird selektiert
+6_Video_001.mp4;Virtual Museum;6;120.0;;N8;Hyperlink;Neue Seite wird geöffnet
+6_Video_001.mp4;Virtual Museum;6;150.0;;N8;Hyperlink;Neue Seite wird geöffnet
+6_Video_002.mp4;Virtual Museum;6;5.0;;N3;Menü;Galerie wird geöffnet
+6_Video_002.mp4;Virtual Museum;6;23.0;23.0;N5;Bild mit Goldfink;Bild wird vergrößert
+6_Video_002.mp4;Virtual Museum;6;13.0;18.0;N8;"Symbol ""Download""";Informationen zum Download
+6_Video_002.mp4;Virtual Museum;6;30.0;;N6;"Symbol ""Kreuz""";Bild wird verkleinert
+6_Video_002.mp4;Virtual Museum;6;24.0;60.0;N9;Seite;Seite wird gescrollt
+6_Video_002.mp4;Virtual Museum;6;60.0;65.0;N10;Text selketieren;
+6_Video_002.mp4;Virtual Museum;6;65.0;;N11;Seite;Schema.org nicht relevant für weitere Informationen zum Bild
+6_Video_003.mp4;Virtual Museum;6;0.0;10.0;N2;Seite;Seite wird gescrollt
+6_Video_003.mp4;Virtual Museum;6;12.0;23.0;N3;Web-Seite-Element;
+6_Video_003.mp4;Virtual Museum;6;15.0;;N8;"""i""-Symbol";
+6_Video_003.mp4;Virtual Museum;6;24.0;;N11;Hamburger icon;Menüauswahl uninteressant
+6_Video_003.mp4;Virtual Museum;6;29.0;;N8;"""i""-Symbol";
+6_Video_003.mp4;Virtual Museum;6;32.0;40.0;N12;virtuelle Welt;Mehfacher Richtungswechsel
+6_Video_003.mp4;Virtual Museum;6;40.0;45.0;N2;Seite;
+6_Video_003.mp4;Virtual Museum;6;45.0;;N3;Web-Seite-Element;
+6_Video_003.mp4;Virtual Museum;6;53.0;60.0;N8;"""i""-Symbol";"Bild mit See und Boot; Seite scheint ein Onlinshop zu sein, Bild hat einen Preis und kann gekauft werden"
+6_Video_003.mp4;Virtual Museum;6;78.0;;N3;Web-Seite-Element;
+6_Video_003.mp4;Virtual Museum;6;80.0;87.0;N14;Icon-Leiste;Tooltips werden angezeigt
+6_Video_003.mp4;Virtual Museum;6;87.0;90.0;N12;;
+6_Video_003.mp4;Virtual Museum;6;90.0;;N3;Web-Seite-Element;
+6_Video_003.mp4;Virtual Museum;6;93.0;;N7;Symbol Auge;Auge schließt sich beim drüberfahren mit der Maus
+6_Video_003.mp4;Virtual Museum;6;112.0;;N8;"""i""-Symbol";
+6_Video_003.mp4;Virtual Museum;6;115.0;;N7;;
+6_Video_003.mp4;Virtual Museum;6;115.0;123.0;N12;;
+6_Video_003.mp4;Virtual Museum;6;123.0;;N8;"""i""-Symbol";
+6_Video_004.mp4;Virtual Museum;6;0.0;7.0;N2;Seite;Unterseite öffent sich
+6_Video_004.mp4;Virtual Museum;6;7.0;23.0;N3;Bild abstrakt;Unterseite öffent sich
+6_Video_004.mp4;Virtual Museum;6;7.0;14.0;N2;Seite;
+6_Video_004.mp4;Virtual Museum;6;15.0;21.0;N5;Bild mit Menschen;Bild vergrößert sich
+6_Video_004.mp4;Virtual Museum;6;21.0;;N6;Kreuz-Symbol;Bild vergrößert sich
+6_Video_004.mp4;Virtual Museum;6;21.0;;N8;Akkordion;Weitere Information werden angezeigt
+6_Video_004.mp4;Virtual Museum;6;21.0;38.0;N2;Seite;
+6_Video_004.mp4;Virtual Museum;6;38.0;;N5;Hyperlink;Unterseite öffent sich
+6_Video_004.mp4;Virtual Museum;6;38.0;42.0;N2;Seite;
+6_Video_004.mp4;Virtual Museum;6;42.0;;N5;Hyperlink;Unterseite öffent sich
+6_Video_004.mp4;Virtual Museum;6;43.0;59.0;N2;Seite;
+6_Video_004.mp4;Virtual Museum;6;59.0;75.0;N11;Seite;Quelltext wird angezeig Schema.org nicht interessant
+6_Video_004.mp4;Virtual Museum;6;75.0;85.0;N2;;
+6_Video_004.mp4;Virtual Museum;6;85.0;;N5;Hyperlink;Unterseite öffent sich
+6_Video_005.mp4;Virtual Museum;6;0.0;8.0;N2;Seite;
+6_Video_005.mp4;Virtual Museum;6;8.0;23.0;N3;buntes Bild;Unterseite öffnet sich
+6_Video_005.mp4;Virtual Museum;6;8.0;42.0;N2;Seite;
+6_Video_005.mp4;Virtual Museum;6;16.0;;N9;Text auf Seite;Text wird markiert
+6_Video_005.mp4;Virtual Museum;6;42.0;;N8;"""i""-Symbol";Weitere Informationen werden angezgeit/ Unterseite öffnet sich
+6_Video_005.mp4;Virtual Museum;6;42.0;58.0;N2;Seite;
+6_Video_005.mp4;Virtual Museum;6;58.0;;N5;buntes Bild;Bild vergrößert sich
+6_Video_005.mp4;Virtual Museum;6;65.0;;N3;Bild mit Insekt;Unterseite öffnet sich
+6_Video_005.mp4;Virtual Museum;6;65.0;98.0;N2;Seite, Information zum Bild werden angezeigt;
+6_Video_005.mp4;Virtual Museum;6;98.0;108.0;N14;Icon-Leiste;Keine Tooltips
+6_Video_005.mp4;Virtual Museum;6;110.0;;N5;Bild;Bild vergrößert sich
+6_Video_006.mp4;Virtual Museum;6;1.0;8.0;N2;Seite;
+6_Video_006.mp4;Virtual Museum;6;8.0;23.0;N3;Bild mit zwei Häusern;Unterseite öffnet sich
+6_Video_006.mp4;Virtual Museum;6;9.0;;N2;Seite ;"Interessante Informationen werden angzeigt; Bild verändert Auschnitt"
+6_Video_007.mp4;Virtual Museum;6;5.0;;N3;Bild;3D-Welt öffnet sich
+6_Video_007.mp4;Virtual Museum;6;5.0;23.0;N16;Treppe;
+6_Video_007.mp4;Virtual Museum;6;15.0;35.0;N12;Pfeile;Mehre Richtungswechsel
+6_Video_007.mp4;Virtual Museum;6;52.0;52.0;N7;Tür;Klick auf Tür
+6_Video_007.mp4;Virtual Museum;6;67.0;67.0;N7;Tür;Klick auf Tür
+6_Video_007.mp4;Virtual Museum;6;74.0;80.0;N5;Lupe bei Objekt;Objekt wird in Lightbox geöffnet
+6_Video_007.mp4;Virtual Museum;6;80.0;;N6;Kreuzsymobl;Lightbox wird geschlossen
+6_Video_007.mp4;Virtual Museum;6;80.0;100.0;N12;Pfeile;Mehre Richtungswechsel
+6_Video_007.mp4;Virtual Museum;6;100.0;;N8;"""Fragezeichen""-Symbol";Weitere Informationen werden angezeigt
+6_Video_007.mp4;Virtual Museum;6;113.0;;N5;Lupe bei Objekt;Objekt wird in Lightbox geöffnet
+6_Video_007.mp4;Virtual Museum;6;113.0;123.0;N12;Pfeile;
+6_Video_007.mp4;Virtual Museum;6;123.0;;N8;"""Fragezeichen""-Symbol";Weitere Informationen werden angezeigt
+6_Video_007.mp4;Virtual Museum;6;133.0;;N5;Lupe bei Objekt;Objekt wird in Lightbox geöffnet
+6_Video_008.mp4;Virtual Museum;6;18.0;;N2;Bild;3D-Welt wird geeöffnet
+6_Video_008.mp4;Virtual Museum;6;18.0;23.0;N16;Kreise;Klick auf Kreise
+6_Video_008.mp4;Virtual Museum;6;30.0;;N7;Tür;Klick auf Tür, Neuer Raum öffnet sich
+6_Video_008.mp4;Virtual Museum;6;30.0;49.0;N12;Pfeile;Klick auf Pfeile, mehre Richtungswechsel
+6_Video_008.mp4;Virtual Museum;6;51.0;;N8;"""i""-Symbol";Weitere Infromationen werden geöffnet
+6_Video_008.mp4;Virtual Museum;6;65.0;;N5;Lupe bei Objekt;Objekt wird in Lightbox geöffnet
+6_Video_008.mp4;Virtual Museum;6;95.0;;N8;"""i""-Symbol";Weitere Infromationen werden geöffnet
+6_Video_008.mp4;Virtual Museum;6;98.0;;N5;Lupe bei Objekt;Objekt wird in Lightbox geöffnet
+6_Video_008.mp4;Virtual Museum;6;98.0;106.0;N12;Pfeile;Richtungswechsel
+6_Video_008.mp4;Virtual Museum;6;106.0;;N8;"""i""-Symbol";Weitere Infromationen werden geöffnet
+6_Video_008.mp4;Virtual Museum;6;106.0;115.0;N12;Pfeile;Richtungswechsel (mehre Richtungswechsel)
+6_Video_008.mp4;Virtual Museum;6;119.0;;N5;Lupe bei Objekt;Objekt wird in Lightbox geöffnet
+6_Video_008.mp4;Virtual Museum;6;123.0;;N8;"""i""-Symbol";Weitere Infromationen werden geöffnet
+6_Video_009.mp4;Virtual Museum;6;8.0;;N3;Bild;3D-Welt wird betreten
+6_Video_009.mp4;Virtual Museum;6;8.0;23.0;N16;Pfeile;Vorwärts gehen
+6_Video_009.mp4;Virtual Museum;6;15.0;;N7;Tür;weiter Raum wird betreten
+6_Video_009.mp4;Virtual Museum;6;16.0;;N8;"""i""-Symbol";Weiter Information werden angezeigt
+6_Video_009.mp4;Virtual Museum;6;31.0;33.0;N9;Text;Text lässt sich nicht selektieren, ist Bild
+6_Video_010.mp4;Virtual Museum;6;5.0;;N4;;"Kontext Menü des Browser nicht verfügbar; alternatives Kontext Menü der 3DWelt"
+6_Video_010.mp4;Virtual Museum;6;11.0;23.0;N17;Flyer-Symbol;Grunriss öffnet sich
+6_Video_010.mp4;Virtual Museum;6;19.0;;N18;Roter Kreis;Standort wird gewechslet
+6_Video_010.mp4;Virtual Museum;6;22.0;;N8;"""i""-Symbol";Weitere Informationen werden angezeigt
+6_Video_010.mp4;Virtual Museum;6;;;;;
+6_Video_011.mp4;Virtual Museum;6;5.0;;N3;Icon;Museum wird betreten
+6_Video_011.mp4;Virtual Museum;6;12.0;17.0;N12;Navigation;Richtungswechsel / Perspektivwechsel
+6_Video_011.mp4;Virtual Museum;6;25.0;28.0;N7;Tür ;Raumwechsel nicht möglich
+6_Video_011.mp4;Virtual Museum;6;38.0;;N8;Sternsymbol;weitere Information mit der Möglichkeit, Audio abzuspielen
+6_Video_011.mp4;Virtual Museum;6;45.0;52.0;N12;Navigation;Richtungswechsel / Perspektivwechsel
+6_Video_011.mp4;Virtual Museum;6;57.0;58.0;N6;Symbole im Rundgang ;
+6_Video_012.mp4;Virtual Museum;6;5.0;;N3;Bild;Galerie betreten Unterseite
+6_Video_012.mp4;Virtual Museum;6;12.0;;N19;Bild Sonnenblumen van Goch;Detailseite wird geöffnet.
+6_Video_012.mp4;Virtual Museum;6;13.0;19.0;N20;Seite;
+6_Video_012.mp4;Virtual Museum;6;20.0;;N8;Accordion;Accordion wird geöffnet mit weiteren Informationen zum Bild
+6_Video_012.mp4;Virtual Museum;6;21.0;35.0;N20;Seite;
+6_Video_012.mp4;Virtual Museum;6;35.0;;N10;Seite;Schema.org Daten nicht vorhanden
+6_Video_013.mp4;Virtual Museum;6;5.0;;N3;Menü-Item;Virtueller Rundgang wird betreten
+6_Video_013.mp4;Virtual Museum;6;15.0;;N7;Navigation;Raum wird gewählt
+6_Video_013.mp4;Virtual Museum;6;30.0;35.0;N12;Navigation;Richtungswechsel
+6_Video_013.mp4;Virtual Museum;6;35.0;;N5;Bild;Bild wird herangezoomt
+6_Video_013.mp4;Virtual Museum;6;50.0;55.0;N16;Navigation;Raum wird suchen durchschritten
+6_Video_013.mp4;Virtual Museum;6;65.0;;N8;"""i""-Symbol";Weitere Information wird angezeigt
+6_Video_013.mp4;Virtual Museum;6;70.0;;N8;"""i""-Symbol";Weitere Information wird angezeigt
+6_Video_013.mp4;Virtual Museum;6;78.0;105.0;N21;Video-Symbol;Video abspielen funktioniert nicht
+6_Video_013.mp4;Virtual Museum;6;105.0;110.0;N12;Navigation;Richtungswechsel
+6_Video_013.mp4;Virtual Museum;6;110.0;130.0;N16;Navigation;Raum wird suchen durchschritten
+6_Video_014.mp4;Virtual Museum;6;5.0;;N3;Bild ;Raum wird betreten
+6_Video_014.mp4;Virtual Museum;6;;;N20;Seite;
+6_Video_015.mp4;Virtual Museum;6;3.0;;N3;Bild;Gallerie wird betreten
+6_Video_015.mp4;Virtual Museum;6;9.0;;N19;Bild;Detailseite wird geöffnet
+6_Video_015.mp4;Virtual Museum;6;10.0;23.0;N20;Seite;Deitails werden angezeigt
+6_Video_015.mp4;Virtual Museum;6;24.0;;N5;Bild;
+6_Video_015.mp4;Virtual Museum;6;25.0;;N5;Bild;
+6_Video_015.mp4;Virtual Museum;6;26.0;;N20;Seite;
+6_Video_015.mp4;Virtual Museum;6;42.0;;N10;Seite;Schema.org vorhanen
+6_Video_016.mp4;Virtual Museum;6;15.0;;N3;Bild;Virtuelle Gallerie wird betreten
+6_Video_016.mp4;Virtual Museum;6;31.0;;N8;Bild;Link zur Detailseite wird angeboten
+6_Video_016.mp4;Virtual Museum;6;33.0;;N15;Link;Unterseite wird geöffnet
+6_Video_016.mp4;Virtual Museum;6;35.0;;N10;Seite;Schema.org vorhanden

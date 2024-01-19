@@ -1,0 +1,464 @@
+Video;Metaverse name;Editor;Timestamp (from);Timestamp (to);Action;Relevant Objects;Description
+11_Video_1;Minecraft;11;00:01:00;;A2;avatar, fence gate;walking against closed fence gate
+11_Video_1;Minecraft;11;00:02:00;;A6;avatar, fence gate;opening fence gate
+11_Video_1;Minecraft;11;00:03:00;;A1;avatar, fence gate;walking through open fence gate
+11_Video_1;Minecraft;11;00:03:00;;A8;avatar;turning around
+11_Video_1;Minecraft;11;00:04:00;;A6;avatar, fence gate;closing fence gate
+11_Video_1;Minecraft;11;00:04:00;;A8;avatar;turning around
+11_Video_1;Minecraft;11;00:05:00;;A1;avatar, building;walking around building to entrance door
+11_Video_1;Minecraft;11;00:08:00;;A6;avatar, door;opening entrance door
+11_Video_1;Minecraft;11;00:08:00;;A3;avatar, building;entering building
+11_Video_1;Minecraft;11;00:09:00;;A8;avatar;turning around
+11_Video_1;Minecraft;11;00:10:00;;A6;avatar, door;closing door
+11_Video_1;Minecraft;11;00:10:00;;A8;avatar;turning around
+11_Video_1;Minecraft;11;00:10:00;;A1;avatar, furnace;walking towards furnace
+11_Video_1;Minecraft;11;00:12:00;;A6;avatar, furnace, inventory;taking cooked beef from furnace to inventory
+11_Video_1;Minecraft;11;00:16:00;;A8;avatar;turning around
+11_Video_1;Minecraft;11;00:18:00;;A6;avatar, crafting table, inventory;crafting axe with materials from inventory
+11_Video_1;Minecraft;11;00:27:00;;A1;avatar, door;walking towards door
+11_Video_1;Minecraft;11;00:28:00;;A6;avatar, door;opening door
+11_Video_1;Minecraft;11;00:29:00;;A1;avatar;leaving building
+11_Video_1;Minecraft;11;00:29:00;;A8;avatar;turning around
+11_Video_1;Minecraft;11;00:30:00;;A6;avatar, door;closing door
+11_Video_1;Minecraft;11;00:30:00;;A8;avatar;turning around
+11_Video_1;Minecraft;11;00:30:00;;A1;avatar;walking through world
+11_Video_1;Minecraft;11;00:33:00;;A8;avatar;turning around
+11_Video_1;Minecraft;11;00:33:00;;A1;avatar;walking through world
+11_Video_1;Minecraft;11;00:39:00;;A9;avatar;stops then keeps walking
+11_Video_1;Minecraft;11;00:43:00;;A8;avatar, tree;changing direction to not walk into tree
+11_Video_1;Minecraft;11;00:44:00;;A8;avatar, tree;changing direction to not walk into tree
+11_Video_1;Minecraft;11;00:46:00;;A8;avatar;changing direction to avoid tree and water
+11_Video_1;Minecraft;11;00:49:00;;A8;avatar;chaning direction
+11_Video_1;Minecraft;11;00:57:00;;A11;avatar;swimming through world
+11_Video_2;Minecraft;11;00:00:00;;A6;avatar tree;chopping tree
+11_Video_2;Minecraft;11;00:07:00;;A8;avatar;turning around
+11_Video_2;Minecraft;11;00:08:00;;A1;avatar;walking through world
+11_Video_2;Minecraft;11;00:09:00;;A8;avatar;changing direction
+11_Video_2;Minecraft;11;00:19:00;;A9;avatar;stops then keeps walking
+11_Video_2;Minecraft;11;00:26:00;;A8;avatar;changing direction
+11_Video_2;Minecraft;11;00:33:00;;A9;avatar;stops then keeps walking
+11_Video_2;Minecraft;11;00:37:00;;A8;avatar, tree;changing direction to walk around tree
+11_Video_2;Minecraft;11;00:47:00;00:55:00;A8;avatar;changing direction several times to walk around trees
+11_Video_2;Minecraft;11;00:57:00;;A1;avatar, building;walking towards building
+11_Video_2;Minecraft;11;01:03:00;;A6;avatar, door;opening door
+11_Video_2;Minecraft;11;01:03:00;;A3;avatar, building;entering building
+11_Video_2;Minecraft;11;01:03:00;;A8;avatar;turning around
+11_Video_2;Minecraft;11;01:04:00;;A6;avatar, door;closing door
+11_Video_2;Minecraft;11;01:05:00;;A8;avatar;turning around
+11_Video_2;Minecraft;11;01:06:00;;A6;avatar, chest, inventory;opening chest, putting items from inventory in chest
+11_Video_2;Minecraft;11;01:15:00;;A8;avatar;turning around
+11_Video_2;Minecraft;11;01:16:00;;A1;avatar, crafting table;walking towards crafting table
+11_Video_2;Minecraft;11;01:17:00;;A6;avatar, crafting table, inventory;crafting with materials from inventory
+11_Video_3;Minecraft;11;00:00:00;;A1;avatar;walking through world
+11_Video_3;Minecraft;11;00:02:00;;A8;avatar;changing direction
+11_Video_3;Minecraft;11;00:02:00;;A1;avatar, building;walking towards building
+11_Video_3;Minecraft;11;00:04:00;;A6;avatar, door;opening door
+11_Video_3;Minecraft;11;00:04:00;;A3;avatar, building;entering building
+11_Video_3;Minecraft;11;00:05:00;;A8;avatar;turning around
+11_Video_3;Minecraft;11;00:06:00;;A6;avatar, door;closing door
+11_Video_3;Minecraft;11;00:07:00;;A8;avatar;turning around
+11_Video_3;Minecraft;11;00:09:00;;A6;avatar, bed;clicking bed
+11_Video_3;Minecraft;11;00:10:00;;A8;avatar;turning around
+11_Video_3;Minecraft;11;00:15:00;;A6;avatar, door;opening door
+11_Video_3;Minecraft;11;00:19:00;;A1;avatar, door;moving towards door
+11_Video_3;Minecraft;11;00:20:00;;A6;avatar, door;closing door
+11_Video_3;Minecraft;11;00:21:00;;A8;avatar;turning around
+11_Video_3;Minecraft;11;00:22:00;;A6;avatar,bed;laying into bed
+11_Video_3;Minecraft;11;00:28:00;;A8;avatar;turning around
+11_Video_3;Minecraft;11;00:29:00;;A6;avatar, door;opening door
+11_Video_3;Minecraft;11;00:29:00;;A1;avatar;leaving building
+11_Video_3;Minecraft;11;00:30:00;;A8;avatar;turning around
+11_Video_3;Minecraft;11;00:31:00;;A6;avatar;closing door
+11_Video_3;Minecraft;11;00:32:00;;A8;avatar;turning around
+11_Video_3;Minecraft;11;00:32:00;;A1;avatar;walking through world
+11_Video_3;Minecraft;11;00:34:00;;A8;avatar;changing direction
+11_Video_3;Minecraft;11;00:39:00;;A8;avatar;changing direction
+11_Video_3;Minecraft;11;00:39:00;;A1;avatar, building;walking towards building
+11_Video_3;Minecraft;11;00:41:00;;A6;avatar, door;opening door
+11_Video_3;Minecraft;11;00:41:00;;A3;avatar, building;entering building
+11_Video_3;Minecraft;11;00:42:00;;A8;avatar;turning around
+11_Video_3;Minecraft;11;00:43:00;;A6;avatar, door;closing door
+11_Video_3;Minecraft;11;00:44:00;;A6;avatar, crafting table, inventory;crafting pickaxe with materials from inventory
+11_Video_3;Minecraft;11;00:54:00;;A6;avatar, door;opening door
+11_Video_3;Minecraft;11;00:55:00;;A1;avatar;leaving building and walking through world
+11_Video_3;Minecraft;11;01:06:00;;A9;avatar;stops then keeps walking
+11_Video_3;Minecraft;11;01:12:00;;A8;avatar;changing direction
+11_Video_3;Minecraft;11;01:28:00;;A2;avatar, tree;walking into tree
+11_Video_3;Minecraft;11;01:29:00;;A8;avatar,tree;changing direction to walk around tree
+11_Video_3;Minecraft;11;01:39:00;;A6;avatar, tree;chopping tree
+11_Video_3;Minecraft;11;01:45:00;;A1;avatar;walking through world
+11_Video_3;Minecraft;11;01:59:00;;A8;avatar;changing direction
+11_Video_4;Minecraft;11;00:02:00;;A1;avatar, building;walking towards building
+11_Video_4;Minecraft;11;00:09:00;;A6;avatar, door;opening door
+11_Video_4;Minecraft;11;00:09:00;;A3;avatar, building;entering building
+11_Video_4;Minecraft;11;00:10:00;;A6;avatar, chest, inventory;opening chest, moving objects from chest to inventory
+11_Video_4;Minecraft;11;00:21:00;;A1;avatar;walking through house
+11_Video_4;Minecraft;11;00:22:00;;A8;avatar;changing direction
+11_Video_4;Minecraft;11;00:23:00;;A8;avatar;changing direction
+11_Video_4;Minecraft;11;00:25:00;;A8;avatar;changing direction
+11_Video_4;Minecraft;11;00:26:00;;A8;avatar;changing direction
+11_Video_4;Minecraft;11;00:28:00;;A6;avatar, door;opening door
+11_Video_4;Minecraft;11;00:29:00;;A1;avatar;stepping on balcony
+11_Video_4;Minecraft;11;00:31:00;;A8;avatar;turning around
+11_Video_4;Minecraft;11;00:33:00;;A1;avatar, building;entering building
+11_Video_4;Minecraft;11;00:33:00;;A8;avatar;turning around
+11_Video_4;Minecraft;11;00:34:00;;A6;avatar, door;closing door
+11_Video_4;Minecraft;11;00:35:00;;A8;avatar;turning around
+11_Video_4;Minecraft;11;00:36:00;;A1;avatar;walking through building
+11_Video_4;Minecraft;11;00:39:00;;A8;avatar;changing direction
+11_Video_4;Minecraft;11;00:40:00;;A8;avatar;changing direction
+11_Video_4;Minecraft;11;00:42:00;;A1;avatar;leaving building and walking through world
+11_Video_4;Minecraft;11;00:47:00;;A8;avatar;changing direction
+11_Video_4;Minecraft;11;00:50:00;;A9;avatar;stops then keeps walking
+11_Video_4;Minecraft;11;00:53:00;;A8;avatar;changing direction
+11_Video_5;Minecraft;11;00:01:00;;A1;avatar;walching through world
+11_Video_5;Minecraft;11;00:04:00;;A6;avatar;opening chest
+11_Video_5;Minecraft;11;00:06:00;;A1;avatar;walking through world
+11_Video_5;Minecraft;11;00:14:00;;A8;avatar;turning around
+11_Video_5;Minecraft;11;00:15:00;;A3;avatar, building;entering building
+11_Video_5;Minecraft;11;00:15:00;;A1;avatar, chest;walking towards chest
+11_Video_5;Minecraft;11;00:17:00;;A6;avatar, chest, inventory;moving objects from chest to inventory
+11_Video_5;Minecraft;11;00:21:00;;A8;avatar;turning around
+11_Video_5;Minecraft;11;00:22:00;;A1;avatar;walking towards door
+11_Video_5;Minecraft;11;00:24:00;;A1;avatar;leaving building and walking through world
+11_Video_5;Minecraft;11;00:24:00;;A8;avatar;changing direction
+11_Video_5;Minecraft;11;00:41:00;;A8;avatar;changing direction
+11_Video_5;Minecraft;11;00:45:00;;A8;avatar;changing direction
+11_Video_5;Minecraft;11;00:47:00;;A8;avatar;changing direction
+11_Video_6;Minecraft;11;00:00:00;;A1;avatar;walking through world towards buildings
+11_Video_6;Minecraft;11;00:12:00;;A8;avatar;changing direction
+11_Video_6;Minecraft;11;00:12:00;;A1;avatar, path;walking along path
+11_Video_6;Minecraft;11;00:18:00;;A1;avatar, chest;walking towards chest
+11_Video_6;Minecraft;11;00:20:00;;A6;avatar, chest;opening chest
+11_Video_6;Minecraft;11;00:21:00;;A8;avatar;turning around
+11_Video_6;Minecraft;11;00:22:00;;A1;avatar;walking through world
+11_Video_6;Minecraft;11;00:24:00;;A8;avatar;changing direction
+11_Video_6;Minecraft;11;00:24:00;;A1;avatar, path;walking along path
+11_Video_6;Minecraft;11;00:31:00;;A6;avatar, chest;opening chest
+11_Video_6;Minecraft;11;00:32:00;;A1;avatar;walking along path
+11_Video_6;Minecraft;11;00:39:00;;A8;avatar;changing direction
+11_Video_6;Minecraft;11;00:41:00;;A6;avatar, door;opening door
+11_Video_6;Minecraft;11;00:41:00;;A3;avatar, building;entering building
+11_Video_6;Minecraft;11;00:42:00;;A1;avatar, chest;walking towards chest
+11_Video_6;Minecraft;11;00:42:00;;A6;avatar, chest, inventory;moving objects from chest to inventory
+11_Video_6;Minecraft;11;00:46:00;;A8;avatar;turning around
+11_Video_6;Minecraft;11;00:48:00;;A1;avatar;walking towards door
+11_Video_6;Minecraft;11;00:49:00;;A1;avatar;leaving building and walking through world
+11_Video_6;Minecraft;11;00:50:00;;A8;avatar;changing direction
+11_Video_6;Minecraft;11;00:50:00;;A1;avatar;following path
+11_Video_6;Minecraft;11;01:08:00;;A8;avatar;changing direction
+11_Video_6;Minecraft;11;01:09:00;;A8;avatar;changing direction
+11_Video_6;Minecraft;11;01:18:00;;A8;avatar;changing direction
+11_Video_6;Minecraft;11;01:21:00;;A1;avatar;walking through castle gate
+11_Video_6;Minecraft;11;01:27:00;;A9;avatar;stops then keeps walking
+11_Video_6;Minecraft;11;01:36:00;;A3;avatar, castle;entering castle
+11_Video_6;Minecraft;11;01:36:00;;A1;avatar;walking through dining room
+11_Video_6;Minecraft;11;01:40:00;;A8;avatar;changing direction
+11_Video_7;Minecraft;11;00:00:00;;A1;avatar;walking through world
+11_Video_7;Minecraft;11;00:15:00;;A8;avatar;changing direction
+11_Video_7;Minecraft;11;00:20:00;00:28:00;A9;avatar;stops to eat, then keeps walking
+11_Video_7;Minecraft;11;00:34:00;;A8;avatar;changing direction
+11_Video_7;Minecraft;11;00:34:00;;A1;avatar, portal;walking towards portal
+11_Video_7;Minecraft;11;00:40:00;00:49:00;A7;avatar, portal;teleporting to Nether
+11_Video_7;Minecraft;11;00:50:00;;A1;avatar;walking through Nether
+11_Video_7;Minecraft;11;00:51:00;;A2;avatar, block;getting stuck at block
+11_Video_7;Minecraft;11;00:55:00;;A8;avatar;turning around to fight ghast
+11_Video_7;Minecraft;11;01:04:00;;A6;avatar, crafting table;placing crafting table
+11_Video_7;Minecraft;11;01:05:00;;A6;avatar, crafting table, inventory;crafting chest with materials from inventory
+11_Video_7;Minecraft;11;01:15:00;;A1;avatar;walkinh through Nether
+11_Video_7;Minecraft;11;01:23:00;;A8;avatar;changing direction
+11_Video_7;Minecraft;11;01:29:00;;A8;avatar;changing direction
+11_Video_7;Minecraft;11;01:31:00;;A8;avatar;changing direction
+11_Video_7;Minecraft;11;01:39:00;;A6;avatar, glowstone;mining glowstone
+11_Video_7;Minecraft;11;01:54:00;;A8;avatar;turning around
+11_Video_7;Minecraft;11;01:55:00;;A1;avatar;walking through Nether
+11_Video_7;Minecraft;11;02:03:00;;A8;avatar;changing direction
+11_Video_7;Minecraft;11;02:08:00;;A8;avatar;changing direction
+11_Video_7;Minecraft;11;02:13:00;;A8;avatar;turning around
+11_Video_7;Minecraft;11;02:13:00;;A1;avatar;walking towards crafting table
+11_Video_7;Minecraft;11;02:18:00;;A6;avatar, crafting table, inventory;crafting glowstone with materials from inventory
+11_Video_7;Minecraft;11;02:33:00;;A8;avatar;turning around
+11_Video_7;Minecraft;11;02:34:00;;A1;avatar;walking through Nether
+11_Video_7;Minecraft;11;02:35:00;;A9;avatar;stops to put out fire, then keeps walking
+11_Video_7;Minecraft;11;02:41:00;02:49:00;A7;avatar, portal;teleporting to overworld
+11_Video_7;Minecraft;11;02:49:00;;A1;avatar;walking through world
+11_Video_8;Minecraft;11;00:00:00;;A1;avatar;walking throuh world
+11_Video_8;Minecraft;11;00:08:00;;A11;avatar;diving/swimming
+11_Video_8;Minecraft;11;00:10:00;;A1;avatar;walking through world
+11_Video_8;Minecraft;11;00:24:00;;A8;avatar;changing direction
+11_Video_8;Minecraft;11;00:28:00;;A8;avatar;changing direction
+11_Video_8;Minecraft;11;00:28:00;;A8;avatar, building;walking to building
+11_Video_8;Minecraft;11;00:31:00;;A8;avatar;turning around
+11_Video_8;Minecraft;11;00:32:00;;A6;avatar, button;pressing button to open door
+11_Video_8;Minecraft;11;00:33:00;;A3;avatar, building;entering building
+11_Video_8;Minecraft;11;00:34:00;;A1;avatar;walking down stairs
+11_Video_8;Minecraft;11;00:34:00;;A8;avatar;changing direction
+11_Video_8;Minecraft;11;00:38:00;;A8;avatar;changing direction
+11_Video_8;Minecraft;11;00:43:00;;A8;avatar;changing direction
+11_Video_8;Minecraft;11;00:44:00;;A8;avatar;changing direction
+11_Video_8;Minecraft;11;00:45:00;;A8;avatar;changing direction
+11_Video_8;Minecraft;11;00:47:00;;A8;avatar;changing direction
+11_Video_8;Minecraft;11;00:48:00;;A8;avatar;changing direction
+11_Video_8;Minecraft;11;00:49:00;;A6;avatar, door;opening door
+11_Video_8;Minecraft;11;00:49:00;;A1;avatar, door;walking through door
+11_Video_8;Minecraft;11;00:50:00;;A8;avatar;turning around
+11_Video_8;Minecraft;11;00:51:00;;A6;avatar, door;closing door
+11_Video_8;Minecraft;11;00:51:00;;A8;avatar;turning around
+11_Video_8;Minecraft;11;00:52:00;;A1;avatar;entering room
+11_Video_8;Minecraft;11;00:53:00;;A8;avatar;turning around
+11_Video_8;Minecraft;11;00:55:00;;A6;avatar, chest, inventory;opening chest and moving items from inventory to chest
+11_Video_8;Minecraft;11;01:08:00;;A8;avatar;turning around
+11_Video_8;Minecraft;11;01:09:00;;A1;avatar;walking through mine
+11_Video_8;Minecraft;11;01:10:00;;A9;avatar;stops to select pickaxe, then keeps walking
+11_Video_8;Minecraft;11;01:13:00;;A8;avatar;turning around
+11_Video_8;Minecraft;11;01:15:00;;A6;avatar, blocks;mining blocks
+11_Video_8;Minecraft;11;01:20:00;;A6;avatar, torch;placing torch
+11_Video_8;Minecraft;11;01:22:00;;A1;avatar, blocks;moving closer to blocks
+11_Video_8;Minecraft;11;01:22:00;;A2;avatar, blocks;walking against blocks
+11_Video_8;Minecraft;11;01:23:00;;A6;avatar, blocks;mining blocks
+11_Video_8;Minecraft;11;01:46:00;;A1;avatar;moving forward
+11_Video_8;Minecraft;11;01:47:00;;A8;avatar;turning around
+11_Video_8;Minecraft;11;01:47:00;;A6;avatar;mining blocks
+11_Video_8;Minecraft;11;01:54:00;;A1;avatar;moving forward to collect blocks
+11_Video_8;Minecraft;11;01:55:00;;A8;avatar;turning around
+11_Video_8;Minecraft;11;01:56:00;;A8;avatar;changing direction
+11_Video_9;Minecraft;11;00:00:00;;A6;avatar, flower petals;collecting flower petals
+11_Video_9;Minecraft;11;00:03:00;;A1;avatar;walking to collect flower petals
+11_Video_9;Minecraft;11;00:11:00;;A8;avatar;turning around
+11_Video_9;Minecraft;11;00:17:00;;A10;avatar, chat;chat with other avatar
+11_Video_9;Minecraft;11;00:24:00;;A6;avatar, flower petals;collecting flower petals
+11_Video_9;Minecraft;11;00:25:00;;A8;avatar;turning around
+11_Video_9;Minecraft;11;00:25:00;;A10;avatar, chat;chat with other avatar
+11_Video_9;Minecraft;11;00:26:00;;A1;avatar;walking to collect flower petals
+11_Video_9;Minecraft;11;00:29:00;;A1;avatar;walking through world
+11_Video_9;Minecraft;11;00:34:00;;A1;avatar, other avatar, building;walking to building and other avatar
+11_Video_9;Minecraft;11;00:38:00;;A4;avatar, other avatar;other avatar is waving
+11_Video_9;Minecraft;11;00:42:00;;A8;avatar;changing direction
+11_Video_9;Minecraft;11;00:42:00;;A6;avatar, door;opening door
+11_Video_9;Minecraft;11;00:43:00;;A3;avatar, building;entering building
+11_Video_9;Minecraft;11;00:43:00;;A8;avatar;turning around
+11_Video_9;Minecraft;11;00:44:00;;A1;avatar, crafting table;walking to crafting table
+11_Video_9;Minecraft;11;00:44:00;00:53:00;A6;avatar, crafting table, inventory;crafting chests with materials from inventory
+11_Video_9;Minecraft;11;00:55:00;;A8;avatar;turning around
+11_Video_9;Minecraft;11;00:55:00;;A1;avatar, wall;moving towards wall
+11_Video_9;Minecraft;11;00:56:00;;A6;avatar, chests, wall;placing chests at wall
+11_Video_9;Minecraft;11;00:58:00;01:03:00;A6;avatar, chest, inventory;moving objects from inventory to chest
+11_Video_9;Minecraft;11;01:04:00;;A8;avatar;turning around
+11_Video_10;Minecraft;11;00:00:00;;A1;avatar;walking through world
+11_Video_10;Minecraft;11;00:08:00;;A9;avatar;stops then keeps walking
+11_Video_10;Minecraft;11;00:13:00;00:25:00;A10;avatar, chat;writing teleport command in chat
+11_Video_10;Minecraft;11;00:26:00;;A7;avatar;teleporting
+11_Video_10;Minecraft;11;00:28:00;;A11;avatar;swimming through world
+11_Video_10;Minecraft;11;00:40:00;;A1;avatar;walking through world
+11_Video_10;Minecraft;11;00:45:00;;A8;avatar;changing direction
+11_Video_10;Minecraft;11;00:49:00;;A9;avatar;stops, turns, then keeps walking
+11_Video_10;Minecraft;11;01:01:00;;A6;avatar, boat;placing boat in water, then getting in boat
+11_Video_11;Minecraft;11;00:01:00;;A1;avatar;walking to door
+11_Video_11;Minecraft;11;00:01:00;;A6;avatar, door;opening door
+11_Video_11;Minecraft;11;00:01:00;;A1;avatar;leaving building
+11_Video_11;Minecraft;11;00:02:00;;A8;avatar;turning around
+11_Video_11;Minecraft;11;00:02:00;;A6;avatar, door;closing door
+11_Video_11;Minecraft;11;00:03:00;;A8;avatar;turning
+11_Video_11;Minecraft;11;00:03:00;;A2;avatar, block;getting stuck at block
+11_Video_11;Minecraft;11;00:03:00;;A1;avatar;walking through world
+11_Video_11;Minecraft;11;00:07:00;;A9;avatar;stops, then keeps walking
+11_Video_11;Minecraft;11;00:09:00;;A8;avatar;changing direction
+11_Video_11;Minecraft;11;00:21:00;;A9;avatar;stops to select shovel, then moving toward snow
+11_Video_11;Minecraft;11;00:23:00;;A6;avatar, snow;mining snow
+11_Video_11;Minecraft;11;00:34:00;;A1;avatar;moving to collect snow
+11_Video_11;Minecraft;11;00:37:00;;A2;avatar, snow;walking against snow block
+11_Video_11;Minecraft;11;00:37:00;;A8;avatar;changing direction
+11_Video_11;Minecraft;11;00:39:00;;A8;avatar;changing direction
+11_Video_11;Minecraft;11;00:40:00;;A2;avatar, snow;walking against snow block
+11_Video_11;Minecraft;11;00:40:00;;A8;avatar;changing direction
+11_Video_11;Minecraft;11;00:41:00;;A1;avatar;walking through world
+11_Video_11;Minecraft;11;00:44:00;;A8;avatar;changing direction
+11_Video_11;Minecraft;11;00:58:00;;A8;avatar;changing direction
+11_Video_11;Minecraft;11;01:01:00;;A8;avatar;changing direction
+11_Video_11;Minecraft;11;01:02:00;;A6;avatar, door;opening door
+11_Video_11;Minecraft;11;01:02:00;;A3;avatar, building;entering building
+11_Video_11;Minecraft;11;01:03:00;;A8;avatar;turning around
+11_Video_11;Minecraft;11;01:04:00;;A6;avatar, door;closing door
+11_Video_11;Minecraft;11;01:04:00;;A8;avatar;turning around
+11_Video_11;Minecraft;11;01:05:00;;A1;avatar, chest;moving to chest
+11_Video_11;Minecraft;11;01:06:00;;A6;avatar, chest, inventory;moving objects from inventory to chest
+11_Video_11;Minecraft;11;01:16:00;;A8;avatar;turning around
+11_Video_11;Minecraft;11;01:17:00;;A1;avatar, door;moving towards door
+11_Video_11;Minecraft;11;01:17:00;;A6;avatar, door;opening door
+11_Video_11;Minecraft;11;01:18:00;;A1;avatar;leaving building
+11_Video_11;Minecraft;11;01:19:00;;A8;avatar;turning around
+11_Video_11;Minecraft;11;01:19:00;;A6;avatar, door;closing door
+11_Video_11;Minecraft;11;01:20:00;;A8;avatar;turning around
+11_Video_11;Minecraft;11;01:20:00;;A1;avatar, portal;walking towards portal
+11_Video_11;Minecraft;11;01:25:00;;A6;avatar, fence gate;opening gate
+11_Video_11;Minecraft;11;01:26:00;;A8;avatar;turning around
+11_Video_11;Minecraft;11;01:28:00;;A6;avatar, fence gate;closing fence gate
+11_Video_11;Minecraft;11;01:29:00;;A8;avatar;turning around
+11_Video_11;Minecraft;11;01:29:00;;A1;avatar, portal;entering portal
+11_Video_11;Minecraft;11;01:30:00;01:39:00;A7;avatar, portal;teleporting
+11_Video_11;Minecraft;11;01:39:00;;A1;avatar;walking through Nether
+11_Video_12;Minecraft;11;00:01:00;;A6;avatar, blocks;breaking blocks
+11_Video_12;Minecraft;11;00:04:00;;A6;avatar, blocks;breaking blocks
+11_Video_12;Minecraft;11;00:11:00;;A6;avatar, blocks;placing blocks
+11_Video_12;Minecraft;11;00:20:00;;A1;avatar;moving forward to collect blocks
+11_Video_12;Minecraft;11;00:21:00;;A6;avatar, portal;lighting the portal
+11_Video_12;Minecraft;11;00:23:00;;A1;avatar, portal;walking into portal
+11_Video_12;Minecraft;11;00:23:00;00:34:00;A7;avatar, portal;teleporting to Nether
+11_Video_12;Minecraft;11;00:34:00;;A1;avatar;leaving portal
+11_Video_12;Minecraft;11;00:35:00;;A8;avatar;changing direction
+11_Video_12;Minecraft;11;00:36:00;;A1;avatar;walking through Nether
+11_Video_12;Minecraft;11;00:46:00;;A8;avatar;changing direction
+11_Video_12;Minecraft;11;00:49:00;;A2;avatar, tree;walking into tree
+11_Video_12;Minecraft;11;00:50:00;;A1;avatar;moving backwards
+11_Video_12;Minecraft;11;00:51:00;;A1;avatar, tree;walking around tree
+11_Video_12;Minecraft;11;00:52:00;;A1;avatar, piglin;moving backwards to avoid piglin
+11_Video_12;Minecraft;11;00:57:00;;A1;avatar, piglin;moving forward to fight piglin
+11_Video_12;Minecraft;11;01:01:00;;A1;avatar;walking through Nether
+11_Video_13;Minecraft;11;00:00:00;;A1;avatar;walking through world
+11_Video_13;Minecraft;11;00:04:00;;A6;avatar, flowers;collecting flowers
+11_Video_13;Minecraft;11;00:04:00;00:10:00;A8;avatar;turning several times while breaking and collecting flowers
+11_Video_13;Minecraft;11;00:05:00;00:10:00;A9;avatar;moving to collect flowers
+11_Video_13;Minecraft;11;00:10:00;;A1;avatar;walking through forest
+11_Video_13;Minecraft;11;00:22:00;;A2;avatar, leaves;walking into leaves
+11_Video_13;Minecraft;11;00:23:00;;A6;avatar, leaves;breaking leaves
+11_Video_13;Minecraft;11;00:26:00;;A9;avatar, leaves;stops to break leaves, then keeps walking
+11_Video_13;Minecraft;11;00:27:00;;A8;avatar;changing direction
+11_Video_13;Minecraft;11;00:28:00;;A8;avatar;changing direction
+11_Video_13;Minecraft;11;00:37:00;;A6;avatar, flowers;placing flowers
+11_Video_13;Minecraft;11;00:38:00;00:44:00;A8;avatar;turning several times to place flowers
+11_Video_13;Minecraft;11;00:38:00;00:44:00;A1;avatar;walking to place flowers
+11_Video_13;Minecraft;11;00:45:00;;A8;avatar;turning around
+11_Video_13;Minecraft;11;00:45:00;;A1;avatar, building;walking to entrance of building
+11_Video_13;Minecraft;11;00:48:00;;A6;avatar, door;opening door
+11_Video_13;Minecraft;11;00:48:00;;A3;avatar, building;entering building
+11_Video_13;Minecraft;11;00:49:00;;A8;avatar;turning around
+11_Video_13;Minecraft;11;00:50:00;;A6;avatar, door;closing door
+11_Video_13;Minecraft;11;00:50:00;;A8;avatar;turning around
+11_Video_14;Minecraft;11;00:00:00;;A1;avatar, tree;walking to tree
+11_Video_14;Minecraft;11;00:01:00;;A1;avatar, leaves;walking into leaves
+11_Video_14;Minecraft;11;00:02:00;;A6;avatar, leaves;breaking leaves
+11_Video_14;Minecraft;11;00:04:00;;A1;avatar, forest;walking through forest avoiding trees
+11_Video_14;Minecraft;11;00:11:00;;A8;avatar;changing direction
+11_Video_14;Minecraft;11;00:12:00;;A8;avatar;changing direction
+11_Video_14;Minecraft;11;00:14:00;;A9;avatar;stops, turns, then keeps walking
+11_Video_14;Minecraft;11;00:21:00;;A8;avatar;turning
+11_Video_14;Minecraft;11;00:21:00;;A9;avatar;stops, then keeps walking
+11_Video_14;Minecraft;11;00:23:00;;A1;avatar, stairs;walking towards, then up the stairs
+11_Video_14;Minecraft;11;00:28:00;;A8;avatar;changing direction
+11_Video_14;Minecraft;11;00:29:00;;A3;avatar, building;entering building
+11_Video_14;Minecraft;11;00:30:00;;A8;avatar;changing direction
+11_Video_14;Minecraft;11;00:34:00;;A8;avatar;changing direction
+11_Video_14;Minecraft;11;00:37:00;;A9;avatar;stops, then keeps walking
+11_Video_14;Minecraft;11;00:41:00;;A8;avatar;changing direction
+11_Video_14;Minecraft;11;00:42:00;;A1;avatar;entering room
+11_Video_14;Minecraft;11;00:44:00;00:46:00;A6;avatar, chest, inventory;moving flowers from inventory to chest
+11_Video_14;Minecraft;11;00:46:00;;A8;avatar;turning around
+11_Video_14;Minecraft;11;00:47:00;;A6;avatar, portal;moving to and into portal
+11_Video_14;Minecraft;11;00:50:00;01:07:00;A9;avatar, portal;teleporting to Nether
+11_Video_15;Minecraft;11;00:00:00;;A1;avatar, building;walking to building
+11_Video_15;Minecraft;11;00:03:00;;A6;avatar, door;opening door
+11_Video_15;Minecraft;11;00:03:00;;A3;avatar, building;entering building
+11_Video_15;Minecraft;11;00:04:00;;A8;avatar;turning around
+11_Video_15;Minecraft;11;00:05:00;;A1;avatar;leaving building
+11_Video_15;Minecraft;11;00:05:00;;A8;avatar;turning around
+11_Video_15;Minecraft;11;00:06:00;;A6;avatar, door;closing door
+11_Video_15;Minecraft;11;00:06:00;;A8;avatar;turning around
+11_Video_15;Minecraft;11;00:07:00;;A1;avatar, building;walking to building
+11_Video_15;Minecraft;11;00:11:00;;A6;avatar, door;opening door
+11_Video_15;Minecraft;11;00:12:00;;A3;avatar, building;entering building
+11_Video_15;Minecraft;11;00:12:00;;A1;avatar;moving through room
+11_Video_15;Minecraft;11;00:13:00;;A8;avatar;turning around
+11_Video_15;Minecraft;11;00:14:00;;A1 ;avatar;leaving building
+11_Video_15;Minecraft;11;00:14:00;;A10;avatar, chat;chat message pops up
+11_Video_15;Minecraft;11;00:16:00;;A8;avatar;turning around
+11_Video_15;Minecraft;11;00:17:00;;A6;avatar, door;closing door
+11_Video_15;Minecraft;11;00:18:00;00:23:00;A10;avatar, chat;typing in chat
+11_Video_15;Minecraft;11;00:23:00;;A8;avatar;turning around
+11_Video_15;Minecraft;11;00:23:00;;A1;avatar;walking through village
+11_Video_15;Minecraft;11;00:33:00;;A4;avatar;other avatar using emote to point to building
+11_Video_15;Minecraft;11;00:35:00;;A1;avatar;walking wackwards
+11_Video_15;Minecraft;11;00:37:00;;A4;avatar;other avatar using emote to point to building
+11_Video_15;Minecraft;11;00:38:00;;A1;avatar;walking closer to building
+11_Video_16;Minecraft;11;00:00:00;;A6;avatar, blocks;mining blocks
+11_Video_16;Minecraft;11;00:05:00;;A1;avatar;moving to collect blocks
+11_Video_16;Minecraft;11;00:09:00;00:17:00;A10;avatar, chat;opening and typing in chat
+11_Video_16;Minecraft;11;00:18:00;;A1;avatar;moving closer to mine blocks
+11_Video_16;Minecraft;11;00:18:00;00:23:00;A6;avatar, blocks;mining blocks
+11_Video_16;Minecraft;11;00:20:00;;A10;avatar, chat;chat message pops up
+11_Video_16;Minecraft;11;00:23:00;;A8;avatar;turning to collect blocks
+11_Video_16;Minecraft;11;00:23:00;;A1;avatar;walking to collect blocks
+11_Video_16;Minecraft;11;00:25:00;;A8;avatar;turning around
+11_Video_16;Minecraft;11;00:26:00;;A2;avatar, blocks;walking into blocks
+11_Video_16;Minecraft;11;00:26:00;;A8;avatar;turning around
+11_Video_16;Minecraft;11;00:26:00;;A1;avatar;walking to collect blocks
+11_Video_16;Minecraft;11;00:27:00;;A2;avatar, blocks;walking into blocks
+11_Video_16;Minecraft;11;00:27:00;;A8;avatar;turning around
+11_Video_16;Minecraft;11;00:30:00;;A1;avatar;walking through world
+11_Video_17;Minecraft;11;00:01:00;00:06:00;A6;avatar, chest, inventory;moving items from chest to inventory
+11_Video_17;Minecraft;11;00:06:00;;A8;avatar;turning around
+11_Video_17;Minecraft;11;00:07:00;;A1;avatar;walking through mineshaft
+11_Video_17;Minecraft;11;00:11:00;00:17:00;A6;avatar, chest, inventory;moving items from chest to inventory
+11_Video_17;Minecraft;11;00:17:00;;A8;avatar;turning around
+11_Video_17;Minecraft;11;00:18:00;;A1;avatar;walking through mine
+11_Video_17;Minecraft;11;00:20:00;;A8;avatar;changing direction
+11_Video_17;Minecraft;11;00:21:00;;A1;avatar;leaving mine
+11_Video_17;Minecraft;11;00:23:00;;A8;avatar;changing direction
+11_Video_17;Minecraft;11;00:24:00;;A8;avatar;changing direction
+11_Video_17;Minecraft;11;00:24:00;;A1;avatar, building;walking to other avatar/building
+11_Video_17;Minecraft;11;00:28:00;;A4;avatar;other avatar is waving
+11_Video_17;Minecraft;11;00:31:00;;A8;avatar;turning around
+11_Video_17;Minecraft;11;00:31:00;00:35:00;A6;avatar, chest, inventory;moving objects from chest to inventory
+11_Video_17;Minecraft;11;00:35:00;;A8;avatar;turning around
+11_Video_17;Minecraft;11;00:36:00;;A1;avatar;walking through mineshaft
+11_Video_17;Minecraft;11;00:43:00;;A8;avatar;turning around
+11_Video_17;Minecraft;11;00:44:00;;A6;avatar, blocks;mining blocks
+11_Video_17;Minecraft;11;00:51:00;;A1;avatar;moving down the blocks
+11_Video_17;Minecraft;11;00:52:00;;A8;avatar;turning around
+11_Video_17;Minecraft;11;00:54:00;;A8;avatar;turning around
+11_Video_17;Minecraft;11;00:59:00;;A1;avatar;moving forward to collect items
+11_Video_17;Minecraft;11;01:01:00;;A6;avatar, torch;placing torch on wall
+11_Video_17;Minecraft;11;01:07:00;;A1;avatar;walking through mineshaft
+11_Video_17;Minecraft;11;01:08:00;;A9;avatar;stops, then keeps walking
+11_Video_18;Minecraft;11;00:00:00;00:22:00;A6 ;avatar, ice;breaking ice
+11_Video_18;Minecraft;11;00:02:00;00:23:00;A1;avatar;walking and stopping in between to collect ice
+11_Video_18;Minecraft;11;00:23:00;;A8;avatar;turning around
+11_Video_18;Minecraft;11;00:23:00;;A10;avatar, chat;chat message pops up
+11_Video_18;Minecraft;11;00:24:00;00:26:00;A6;avatar, ice;breaking ice
+11_Video_18;Minecraft;11;00:26:00;;A1;avatar;walking to collect ice
+11_Video_18;Minecraft;11;00:29:00;00:31:00;A10;avatar, chat;typing in chat
+11_Video_18;Minecraft;11;00:31:00;00:36:00;A6;avatar, ice;breaking ice
+11_Video_18;Minecraft;11;00:37:00;;A1;avatar;leaving ice cave
+11_Video_18;Minecraft;11;00:40:00;;A8;avatar;changing direction
+11_Video_18;Minecraft;11;00:40:00;00:45:00;A4;avatar;other avatar jumping to draw attention
+11_Video_18;Minecraft;11;00:41:00;;A1;avatar, boat;walking to avatar and boat
+11_Video_18;Minecraft;11;00:52:00;;A6;avatar, boat;getting on the boat
+11_Video_19;Minecraft;11;00:01:00;;A1;avatar, mangrove forest;walking through mangrove forest
+11_Video_19;Minecraft;11;00:06:00;;A2;avatar, tree;walking into tree
+11_Video_19;Minecraft;11;00:07:00;;A1;avatar;walking out of mangrove forest
+11_Video_19;Minecraft;11;00:18:00;;A7;avatar;teleporting with ender eye
+11_Video_19;Minecraft;11;00:19:00;;A1;avatar;walking through village
+11_Video_19;Minecraft;11;00:28:00;;A8;avatar;changing direction
+11_Video_19;Minecraft;11;00:28:00;;A1;avatar, building;walking to building
+11_Video_19;Minecraft;11;00:30:00;;A6;avatar, door;opening door
+11_Video_19;Minecraft;11;00:31:00;;A3;avatar, building;entering building
+11_Video_19;Minecraft;11;00:31:00;;A8;avatar;turning around
+11_Video_19;Minecraft;11;00:31:00;;A6;avatar, door;closing door
+11_Video_19;Minecraft;11;00:32:00;;A8;avatar;turning around
+11_Video_19;Minecraft;11;00:33:00;;A8;avatar;turning around
+11_Video_19;Minecraft;11;00:34:00;;A6;avatar, door;opening door
+11_Video_19;Minecraft;11;00:34:00;;A1;avatar;leaving building
+11_Video_19;Minecraft;11;00:35:00;;A8;avatar;turning around
+11_Video_19;Minecraft;11;00:36:00;;A6;avatar, door;closing door
+11_Video_19;Minecraft;11;00:36:00;;A8;avatar;turning around
+11_Video_19;Minecraft;11;00:37:00;;A1;avatar;walking to other house
+11_Video_19;Minecraft;11;00:39:00;;A8;avatar;changing direction
+11_Video_20;Minecraft;11;00:02:00;;A4;avatar;other avatar drawing attention using emotes
+11_Video_20;Minecraft;11;00:12:00;00:14:00;A10;avatar, chat;typing in chat
+11_Video_20;Minecraft;11;00:15:00;;A8;avatar;turning around
+11_Video_20;Minecraft;11;00:16:00;;A1;avatar;walking on ice
+11_Video_20;Minecraft;11;00:24:00;;A8;avatar;changing direction
+11_Video_20;Minecraft;11;00:30:00;;A3;avatar, igloo;entering igloo
+11_Video_20;Minecraft;11;00:31:00;;A8;avatar;turning around
+11_Video_20;Minecraft;11;00:32:00;00:35:00;A6;avatar, furnace, inventory;moving salmon from inventory to furnace
+11_Video_20;Minecraft;11;00:37:00;;A8;avatar;turning around
+11_Video_20;Minecraft;11;00:38:00;;A1;avatar;leaving igloo and walking through world

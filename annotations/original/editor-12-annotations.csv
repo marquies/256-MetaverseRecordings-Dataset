@@ -1,0 +1,1911 @@
+Video;Metaverse name;Editor;Frame (from);Frame (to, optional);Action;Relevant Objects;Description
+12_Video_1.mp4;Unreal;12;00:21:00;00:26:00;A10;avatar, HUD;tutorial for teleport
+12_Video_1.mp4;Unreal;12;00:27:00;;A7;avatar ;teleport on balcony
+12_Video_1.mp4;Unreal;12;00:32:00;00:36:00;A10;avatar, HUD;tutorial quickturn
+12_Video_1.mp4;Unreal;12;00:37:00;;A8;avatar;quickturn right 45 degrees
+12_Video_1.mp4;Unreal;12;00:38:00;;A8;avatar;quickturn right 45 degrees
+12_Video_1.mp4;Unreal;12;00:42:00;;A8;avatar;quickturn left 45 degrees
+12_Video_1.mp4;Unreal;12;00:43:00;;A8;avatar;quickturn left 45 degrees
+12_Video_1.mp4;Unreal;12;00:52:00;00:53:00;A6;avatar, radio antenna;pulling out radio antenna
+12_Video_1.mp4;Unreal;12;01:00:00;01:05:00;A6;avatar, radio dial;turning radio dial
+12_Video_1.mp4;Unreal;12;01:07:00;01:09:00;A1;avatar;walking along balcony
+12_Video_1.mp4;Unreal;12;01:10:00;01:19:00;A6;avatar, soda can;grabbing and throwing soda can 
+12_Video_1.mp4;Unreal;12;01:23:00;01:26:00;A6;avatar, soda can;grabbing and dropping soda can 
+12_Video_1.mp4;Unreal;12;01:28:00;01:31:00;A6;avatar, tape roll;grabbing and dropping tape roll
+12_Video_1.mp4;Unreal;12;01:33:00;01:39:00;A6;avatar, cardboard box;grabbing and dropping cardboard box
+12_Video_1.mp4;Unreal;12;01:41:00;01:50:00;A6;avatar, watering can;grabbing watering can and throwing it over balcony railing
+12_Video_1.mp4;Unreal;12;01:43:00;01:46:00;A6;avatar, soda can;grabbing soda can and dropping it into watering can
+12_Video_1.mp4;Unreal;12;01:52:00;01:54:00;A6;avatar, beer bottle;grabbing beer bottle and throwing it on the floor
+12_Video_1.mp4;Unreal;12;02:01:00;;A7;avatar;teleport on balcony
+12_Video_1.mp4;Unreal;12;02:04:00;02:07:00;A1;avatar;walking along balcony
+12_Video_1.mp4;Unreal;12;02:09:00;02:13:00;A2;avatar, balcony railing;walking against balcony railing
+12_Video_1.mp4;Unreal;12;02:13:00;02:15:00;A8;avatar;manual turning 180 degrees
+12_Video_1.mp4;Unreal;12;02:17:00;;A8;avatar;quickturn left 45 degrees
+12_Video_1.mp4;Unreal;12;02:21:00;;A7;avatar;teleport on balcony
+12_Video_1.mp4;Unreal;12;02:22:00;02:24:00;A1;avatar;walking along balcony
+12_Video_1.mp4;Unreal;12;02:24:00;02:27:00;A6;avatar, glas bottle;grabbing and dropping glas bottle
+12_Video_1.mp4;Unreal;12;02:28:00;02:36:00;A6;avatar, wooden crate;grabbing wooden crate, turning it upside down and dropping it
+12_Video_1.mp4;Unreal;12;02:41:00;02:43:00;A4;avatar;waving with right hand
+12_Video_1.mp4;Unreal;12;02:44:00;02:46:00;A4;avatar;waving with left hand
+12_Video_1.mp4;Unreal;12;02:49:00;;A8;avatar;quickturn left 45 degrees
+12_Video_1.mp4;Unreal;12;02:53:00;;A7;avatar;teleport on balcony
+12_Video_1.mp4;Unreal;12;02:57:00;02:59:00;A8;avatar;manual turning 180 degrees
+12_Video_1.mp4;Unreal;12;02:59:00;03:01:00;A1;avatar;walking along balcony
+12_Video_1.mp4;Unreal;12;03:01:00;03:02:00;A8;avatar;manual turning 180 degrees
+12_Video_1.mp4;Unreal;12;03:04:00;;A7;avatar;teleport onto stairs
+12_Video_1.mp4;Unreal;12;03:07:00;;A7;avatar;teleport onto pedestal
+12_Video_1.mp4;Unreal;12;03:09:00;03:10:00;A4;avatar;waving with right hand
+12_Video_1.mp4;Unreal;12;03:12:00;;A7;avatar;teleport on pedestal
+12_Video_1.mp4;Unreal;12;03:14:00;03:15:00;A6;avatar, plastic bottle;grabbing plastic bottle and throwing it onto gutter
+12_Video_2.mp4;Unreal;12;00:03:00;;A7;avatar;teleport into conservatory
+12_Video_2.mp4;Unreal;12;00:03:00;;A3;avatar;entering conservatory
+12_Video_2.mp4;Unreal;12;00:09:00;;A7;avatar;teleport inside conservatory
+12_Video_2.mp4;Unreal;12;00:12:00;;A8;avatar;quickturn right 45 degrees
+12_Video_2.mp4;Unreal;12;00:15:00;;A7;avatar;teleport inside conservatory
+12_Video_2.mp4;Unreal;12;00:16:00;00:17:00;A1;avatar;walking inside conservatory
+12_Video_2.mp4;Unreal;12;00:17:00;00:20:00;A8;avatar;manual turning 180 degrees
+12_Video_2.mp4;Unreal;12;00:21:00;;A7;avatar;teleport inside conservatory
+12_Video_2.mp4;Unreal;12;00:22:00;00:24:00;A1;avatar;walking inside conservatory towards shelf
+12_Video_2.mp4;Unreal;12;00:27:00;00:53:00;A6;avatar, red whiteboard marker;grabbing red whiteboard marker
+12_Video_2.mp4;Unreal;12;00:30:00;00:32:00;A1;avatar;walking from shelf to window
+12_Video_2.mp4;Unreal;12;00:33:00;00:35:00;A6;red whiteboard marker, window;"writing letter ""H"" with red whiteboard marker on window"
+12_Video_2.mp4;Unreal;12;00:35:00;00:36:00;A6;red whiteboard marker, window;"writing letter ""e"" with red whiteboard marker on window"
+12_Video_2.mp4;Unreal;12;00:37:00;00:38:00;A6;red whiteboard marker, window;"writing letter ""l"" with red whiteboard marker on window"
+12_Video_2.mp4;Unreal;12;00:38:00;00:39:00;A6;red whiteboard marker, window;"writing letter ""l"" with red whiteboard marker on window"
+12_Video_2.mp4;Unreal;12;00:40:00;00:40:00;A6;red whiteboard marker, window;"writing letter ""o"" with red whiteboard marker on window"
+12_Video_2.mp4;Unreal;12;00:41:00;00:42:00;A6;red whiteboard marker, window;"writing letter ""w"" with red whiteboard marker on window"
+12_Video_2.mp4;Unreal;12;00:42:00;00:43:00;A6;red whiteboard marker, window;"writing letter ""o"" with red whiteboard marker on window"
+12_Video_2.mp4;Unreal;12;00:43:00;00:44:00;A6;red whiteboard marker, window;"writing letter ""r"" with red whiteboard marker on window"
+12_Video_2.mp4;Unreal;12;00:45:00;00:45:00;A6;red whiteboard marker, window;"writing letter ""l"" with red whiteboard marker on window"
+12_Video_2.mp4;Unreal;12;00:46:00;00:47:00;A6;red whiteboard marker, window;"writing letter ""d"" with red whiteboard marker on window"
+12_Video_2.mp4;Unreal;12;00:47:00;00:49:00;A6;red whiteboard marker, window;"writing ""!"" with red whiteboard marker on window"
+12_Video_2.mp4;Unreal;12;00:50:00;00:51:00;A6;red whiteboard marker, window;"drawing ""wink smiley"" ;-)  with red whiteboard marker on window"
+12_Video_2.mp4;Unreal;12;00:51:00;00:53:00;A1;avatar;walking from window to shelf
+12_Video_2.mp4;Unreal;12;00:54:00;;A6;avatar, whiteboard eraser;grabbing whiteboard eraser
+12_Video_2.mp4;Unreal;12;00:55:00;00:56:00;A1;avatar;walking from shelf to window
+12_Video_2.mp4;Unreal;12;;;;;
+12_Video_2.mp4;Unreal;12;00:56:00;01:00:00;A6;whiteboard eraser, window;"erasing ""wink smiley"" ;-)  with whiteboard eraser from window"
+12_Video_2.mp4;Unreal;12;01:01:00;01:03:00;A6;whiteboard eraser, window;"erasing ""!"" with whiteboard eraser from window"
+12_Video_2.mp4;Unreal;12;01:03:00;01:04:00;A1;avatar;walking from window to shelf
+12_Video_2.mp4;Unreal;12;01:05:00;01:10:00;A6;avatar, green whiteboard marker;grabbing green whiteboard marker
+12_Video_2.mp4;Unreal;12;01:07:00;01:08:00;A6;green whiteboard marker, window;"writing ""?"" with green whiteboard marker on window"
+12_Video_2.mp4;Unreal;12;01:11:00;01:18:00;A6;avatar, plastic lid;grabbing and dropping plastic lid from shelf
+12_Video_2.mp4;Unreal;12;01:15:00;01:17:00;A6;avatar, black whiteboard marker;grabbing and dropping black whiteboard marker
+12_Video_2.mp4;Unreal;12;01:19:00;;A8;avatar;quickturn left 45 degrees
+12_Video_2.mp4;Unreal;12;01:19:00;01:20:00;A8;avatar;manual turning left 90 degrees
+12_Video_2.mp4;Unreal;12;01:20:00;01:22:00;A1;avatar;walking inside conservatory
+12_Video_2.mp4;Unreal;12;01:24:00;01:25:00;A1;avatar;walking inside conservatory towards wall
+12_Video_2.mp4;Unreal;12;01:25:00;;A2;avatar, wall;walking against wall
+12_Video_2.mp4;Unreal;12;01:27:00;;A8;avatar;quickturn left 45 degrees
+12_Video_2.mp4;Unreal;12;01:27:00;01:29:00;A8;avatar;manual turning left 135 degrees
+12_Video_2.mp4;Unreal;12;01:30:00;01:32:00;A1;avatar;walking inside conservatory
+12_Video_2.mp4;Unreal;12;01:33:00;;A8;avatar;quickturn right 45 degrees
+12_Video_2.mp4;Unreal;12;;;;;
+12_Video_2.mp4;Unreal;12;01:33:00;01:34:00;A8;avatar;manual turning right 45 degrees
+12_Video_2.mp4;Unreal;12;01:36:00;;A7;avatar;teleport inside conservatory
+12_Video_2.mp4;Unreal;12;01:41:00;;A6;avatar, microphone switch;pressing blinking microphone switch
+12_Video_2.mp4;Unreal;12;01:42:00;01:58:00;A5;avatar, Dad;"conversation with ""Alyx dad"""
+12_Video_2.mp4;Unreal;12;;;;;
+12_Video_2.mp4;Unreal;12;01:57:00;22:01:00;A6;avatar, matchbox;grabbing and dropping matchbox
+12_Video_2.mp4;Unreal;12;01:59:00;02:10:00;A5;avatar, Russel;"conversation with ""Russel"""
+12_Video_2.mp4;Unreal;12;;;;;
+12_Video_2.mp4;Unreal;12;02:10:00;02:29:00;A5;avatar, Dad;"conversation with ""Alyx dad"""
+12_Video_2.mp4;Unreal;12;;;;;
+12_Video_2.mp4;Unreal;12;02:35:00;02:39:00;A6;avatar, coffee mug;grabbing and dropping coffee mug
+12_Video_2.mp4;Unreal;12;02:41:00; 02:41;A8;avatar;manual turning right 90 degrees
+12_Video_2.mp4;Unreal;12;02:46:00;;A7;avatar;teleport inside conservatory
+12_Video_2.mp4;Unreal;12;02:50:00;02:54:00;A6;avatar, door handle bar;grabbing door handle bar, opening sliding door 
+12_Video_2.mp4;Unreal;12;02:56:00;02:58:00;A8;avatar;manual turning 180 degrees
+12_Video_2.mp4;Unreal;12;03:00:00;03:02:00;A1;avatar;walking inside conservatory towards metall shelf
+12_Video_2.mp4;Unreal;12;03:02:00;03:03:00;A2;avatar, metall shelf;walking against metall shelf
+12_Video_2.mp4;Unreal;12;03:04:00;03:05:00;A2;avatar, metall shelf;walking against metall shelf
+12_Video_2.mp4;Unreal;12;03:06:00;03:07:00;A8;avatar;manual turning  right 135 degrees
+12_Video_2.mp4;Unreal;12;03:09:00;;A7;avatar;teleporting onto stairwell pedestal
+12_Video_2.mp4;Unreal;12;03:15:00;;A8;avatar;quickturn right 45 degrees
+12_Video_2.mp4;Unreal;12;03:15:00;;A8;avatar;quickturn right 45 degrees
+12_Video_2.mp4;Unreal;12;03:21:00;;A7;avatar;teleporting on stairwell pedestal
+12_Video_2.mp4;Unreal;12;03:21:00;03:27:00;A10;avatar, HUD;tutorial menu
+12_Video_2.mp4;Unreal;12;03:27:00;03:29:00;A10;menu;opening menu
+12_Video_2.mp4;Unreal;12;03:31:00;;A7;avatar;teleporting into hallway
+12_Video_2.mp4;Unreal;12;03:34:00;03:37:00;A1;avatar;walking inside hallway
+12_Video_2.mp4;Unreal;12;03:37:00;03:40:00;A8;avatar;manual turning  180 degrees
+12_Video_2.mp4;Unreal;12;03:40:00;03:42:00;A1;avatar;walking inside hallway
+12_Video_2.mp4;Unreal;12;03:42:00;03:44:00;A8;avatar;manual turning  180 degrees
+12_Video_2.mp4;Unreal;12;03:45:00;;A8;avatar;quickturn left 45 degrees
+12_Video_2.mp4;Unreal;12;03:48:00;;A7;avatar;teleporting inside hallway
+12_Video_2.mp4;Unreal;12;03:49:00;03:50:00;A8;avatar;manual turning right 90 degrees
+12_Video_2.mp4;Unreal;12;03:51:00;03:53:00;A6;avatar, paint bucket;grabbing and dropping paint bucket
+12_Video_2.mp4;Unreal;12;03:54:00;03:55:00;A8;avatar;manual turning left 90 degrees
+12_Video_2.mp4;Unreal;12;03:57:00;;A7;avatar;teleporting inside hallway
+12_Video_2.mp4;Unreal;12;03:57:00;03:59:00;A8;avatar;manual turning right 90 degrees
+12_Video_2.mp4;Unreal;12;04:01:00;;A7;avatar;teleporting inside hallway
+12_Video_2.mp4;Unreal;12;04:02:00;;A7;avatar;teleporting inside hallway
+12_Video_2.mp4;Unreal;12;04:02:00;04:04:00;A1;avatar;walking inside hallway towards door
+12_Video_2.mp4;Unreal;12;04:06:00;04:08:00;A6;avatar, door handle  ;grabbing and pressing door handle, opening door to balcony
+12_Video_2.mp4;Unreal;12;04:11:00;;A7;avatar;teleporting onto balcony
+12_Video_2.mp4;Unreal;12;04:12:00;04:13:00;A8;avatar;manual turning 180 degrees
+12_Video_2.mp4;Unreal;12;04:14:00;;A8;avatar;manual turning 180 degrees
+12_Video_2.mp4;Unreal;12;04:17:00;04:18:00;A4;avatar, walking robot;waving with right hand at walking robot
+12_Video_3.mp4;Unreal;12;00:00:00;00:01:00;A4;avatar, walking robot;waving with right hand at walking robot
+12_Video_3.mp4;Unreal;12;00:15:00;00:16:00;A8;avatar;manual turning 180 degrees
+12_Video_3.mp4;Unreal;12;00:19:00;;A7;avatar;teleporting into hallway
+12_Video_3.mp4;Unreal;12;00:19:00;;A3;avatar;entering hallway
+12_Video_3.mp4;Unreal;12;00:21:00;00:22:00;A8;avatar;manual turning 180 degrees
+12_Video_3.mp4;Unreal;12;00:24:00;;A7;avatar;teleporting onto balcony
+12_Video_3.mp4;Unreal;12;00:29:00;;A7;avatar;teleport on balcony
+12_Video_3.mp4;Unreal;12;00:33:00;;A7;avatar, balcony railing;teleport on balcony next to railing
+12_Video_3.mp4;Unreal;12;00:34:00;00:43:00;A1;avatar, balcony railing;walking through balcony railing into the air
+12_Video_3.mp4;Unreal;12;00:34:00;00:50:00;A2;avatar, balcony railing;yellow fade out with arrow pointing backwards
+12_Video_3.mp4;Unreal;12;00:45:00;00:47:00;A8;avatar;manual turning 180 degrees
+12_Video_3.mp4;Unreal;12;00:47:00;00:52:00;A1;avatar, balcony railing;walking back from air through balcony railing onto balcony
+12_Video_3.mp4;Unreal;12;00:54:00;;A7;avatar;teleport on balcony
+12_Video_3.mp4;Unreal;12;;;;;
+12_Video_3.mp4;Unreal;12;00:55:00;00:56:00;A1;avatar;walking on balcony
+12_Video_3.mp4;Unreal;12;00:57:00;00:58:00;A6;avatar, flower pot;grabbing and dropping flower pot
+12_Video_3.mp4;Unreal;12;00:58:00;01:01:00;A8;avatar;manual turning 180 degrees
+12_Video_3.mp4;Unreal;12;01:02:00;01:05:00;A1;avatar;walking on balcony
+12_Video_3.mp4;Unreal;12;01:06:00;;A8;avatar;quickturn left 45 degrees
+12_Video_3.mp4;Unreal;12;01:10:00;;A7;avatar;teleport on balcony
+12_Video_3.mp4;Unreal;12;01:10:00;01:11:00;A8 ;avatar;manual turning right 135 degrees
+12_Video_3.mp4;Unreal;12;01:12:00;01:14:00;A1;avatar;walking on balcony
+12_Video_3.mp4;Unreal;12;01:15:00;;A8;avatar;quickturn left 45 degrees
+12_Video_3.mp4;Unreal;12;01:15:00;;A8;avatar;quickturn left 45 degrees
+12_Video_3.mp4;Unreal;12;01:16:00;;A8;avatar;quickturn left 45 degrees
+12_Video_3.mp4;Unreal;12;01:17:00;;A8;avatar;quickturn left 45 degrees
+12_Video_3.mp4;Unreal;12;01:21:00;;A7;avatar;teleporting onto small stairwell
+12_Video_3.mp4;Unreal;12;01:22:00;01:23:00;A1;avatar, door;walking on small stairwell towards dorr
+12_Video_3.mp4;Unreal;12;01:23:00;01:24:00;A6;avatar, door;pushing door open by hand
+12_Video_3.mp4;Unreal;12;01:29:00;;A7;avatar;teleport into small hallway
+12_Video_3.mp4;Unreal;12;01:29:00;;A3;avatar;entering small hallway
+12_Video_3.mp4;Unreal;12;01:29:00;01:31:00;A8;avatar;manual turning right 135 degrees
+12_Video_3.mp4;Unreal;12;01:32:00;01:36:00;A1;avatar, wall;walking back through door out of the small hallway against a wall
+12_Video_3.mp4;Unreal;12;01:36:00;01:37:00;A2;avatar, wall;yellow fade out colliding with wall
+12_Video_3.mp4;Unreal;12;01:37:00;01:38:00;A1;avatar, wall;walking backwards out of wall
+12_Video_3.mp4;Unreal;12;01:38:00;01:39:00;A1;avatar, wall;walking towards wall 
+12_Video_3.mp4;Unreal;12;01:39:00;01:39:00;A2;avatar, wall;yellow fade out colliding with wall
+12_Video_3.mp4;Unreal;12;01:39:00;01:40:00;A1;avatar, wall;walking backwards out of wall
+12_Video_3.mp4;Unreal;12;01:40:00;01:41:00;A8;avatar;manual turning left 45 degrees
+12_Video_3.mp4;Unreal;12;01:41:00;;A7;avatar;teleporting onto balcony
+12_Video_3.mp4;Unreal;12;01:41:00;01:42:00;A8;avatar;manual turning right 90 degrees
+12_Video_3.mp4;Unreal;12;01:42:00;01:44:00;A1;avatar;walking on balcony
+12_Video_3.mp4;Unreal;12;01:44:00;01:46:00;A8;avatar;manual turning 180 degrees
+12_Video_3.mp4;Unreal;12;01:47:00;;A7;avatar;teleporting on balcony
+12_Video_3.mp4;Unreal;12;01:49:00;;A7;avatar;teleporting on balcony
+12_Video_3.mp4;Unreal;12;01:49:00;01:50:00;A8;avatar;manual turning left 45 degrees
+12_Video_3.mp4;Unreal;12;01:52:00;;A7;avatar;teleporting into small hallway
+12_Video_3.mp4;Unreal;12;01:52:00;;A3;avatar;entering small hallway
+12_Video_3.mp4;Unreal;12;01:52:00;;A8;avatar;quickturn right 45 degrees
+12_Video_3.mp4;Unreal;12;01:55:00;;A7;avatar;observation room
+12_Video_3.mp4;Unreal;12;01:59:00;;A7;avatar;teleporting into observation room
+12_Video_3.mp4;Unreal;12;02:06:00;02:09:00;A4;avatar, glowing insect;waving at glowing insect with right hand
+12_Video_3.mp4;Unreal;12;02:10:00;02:11:00;A4;avatar, glowing insect;waving at glowing insect with right hand
+12_Video_3.mp4;Unreal;12;02:13:00;;A7;avatar;teleporting inside of observation room
+12_Video_3.mp4;Unreal;12;02:14:00;;A8;avatar;manual turning right 45 degrees
+12_Video_3.mp4;Unreal;12;02:15:00;02:32:00;A6;avatar, feeding can, insect jar;grabbing feeding can, shaking can above insect jar, dropping can on table
+12_Video_3.mp4;Unreal;12;02:37:00;22:48:00;A6;avatar, black whiteboard marker;grabbing and dropping black whiteboard marker
+12_Video_3.mp4;Unreal;12;02:40:00;02:42:00;A1;avatar;walking inside observation room towards whiteboard
+12_Video_3.mp4;Unreal;12;02:42:00;02:44:00;A6;avatar, black whiteboard marker, whiteboard;drawing checkbox with black whiteboard marker onto whiteboard
+12_Video_3.mp4;Unreal;12;02:44:00;02:46:00;A6;avatar, black whiteboard marker, whiteboard;drawing checkmark with black whiteboard marker onto whiteboard
+12_Video_3.mp4;Unreal;12;02:46:00;02:47:00;A8;avatar;manual turning left 90 degrees
+12_Video_3.mp4;Unreal;12;02:50:00;02:52:00;A1;avatar;walking inside observation room
+12_Video_3.mp4;Unreal;12;02:52:00;02:53:00;A8;avatar;manual turning right 135 degrees
+12_Video_3.mp4;Unreal;12;02:53:00;02:56:00;A1;avatar;walking inside observation room
+12_Video_3.mp4;Unreal;12;02:54:00;02:56:00;A8;avatar;manual turning right 90 degrees
+12_Video_3.mp4;Unreal;12;02:56:00;02:57:00;A6;avatar, insect jar;touching insect jar
+12_Video_3.mp4;Unreal;12;02:58:00;02:59:00;A6;avatar, insect jar;trying to lift insect jar
+12_Video_3.mp4;Unreal;12;02:59:00;03:00:00;A8;avatar;manual turning left 90 degrees
+12_Video_3.mp4;Unreal;12;03:00:00;03:01:00;A8;avatar;manual turning right 45 degrees
+12_Video_3.mp4;Unreal;12;03:01:00;;A7;avatar;teleporting inside observation room
+12_Video_3.mp4;Unreal;12;03:02:00;03:03:00;A1;avatar;walking inside observation room
+12_Video_3.mp4;Unreal;12;03:03:00;03:15:00;A6;avatar, camera;grabbing and releasing camera handle
+12_Video_3.mp4;Unreal;12;03:05:00;03:06:00;A6;avatar, camera;looking through camera
+12_Video_3.mp4;Unreal;12;03:09:00;03:11:00;A6;avatar, camera;watching camera monitor
+12_Video_3.mp4;Unreal;12;03:11:00;03:12:00;A6;avatar, camera;looking through camera
+12_Video_3.mp4;Unreal;12;03:17:00;03:20:00;A8;avatar;manual turning 180 degrees
+12_Video_3.mp4;Unreal;12;03:21:00;;A8 ;avatar;manual turning right 45 degrees
+12_Video_3.mp4;Unreal;12;03:22:00;;A7;avatar;teleporting inside observation room
+12_Video_3.mp4;Unreal;12;03:22:00;03:23:00;A8 ;avatar;manual turning right 45 degrees
+12_Video_3.mp4;Unreal;12;03:26:00;03:29:00;A6;avatar, video tape;grabbing and dropping video tape
+12_Video_3.mp4;Unreal;12;03:29:00;03:30:00;A8;avatar;manual turning 180 degrees
+12_Video_3.mp4;Unreal;12;03:30:00;03:32:00;A1;avatar;walking inside observation room
+12_Video_3.mp4;Unreal;12;03:32:00;03:33:00;A8;avatar;manual turning right 270 degrees
+12_Video_3.mp4;Unreal;12;03:33:00;03:36:00;A8;avatar;manual turning 180 degrees
+12_Video_3.mp4;Unreal;12;03:36:00;03:40:00;A6;avatar, chair;grabbing and dropping chair
+12_Video_3.mp4;Unreal;12;03:38:00;03:39:00;A8 ;avatar;manual turning left 90 degrees
+12_Video_3.mp4;Unreal;12;03:40:00;03:41:00;A8;avatar;manual turning right 90 degrees
+12_Video_3.mp4;Unreal;12;03:42:00;03:43:00;A8;avatar;manual turning right 45 degrees
+12_Video_3.mp4;Unreal;12;03:43:00;03:44:00;A4;avatar, glowing insect;waving at glowing insect with right hand
+12_Video_3.mp4;Unreal;12;03:44:00;03:45:00;A8 ;avatar;manual turning left 225 degrees
+12_Video_3.mp4;Unreal;12;03:46:00;;A7;avatar;teleporting inside observation room
+12_Video_3.mp4;Unreal;12;03:48:00;03:50:00;A6;avatar, door handle;grabbing and pushing door handle, opening door
+12_Video_3.mp4;Unreal;12;03:53:00;;A7;avatar;teleporting into hallway
+12_Video_3.mp4;Unreal;12;03:55:00;03:56:00;A8;avatar;manual turning right 135 degrees
+12_Video_3.mp4;Unreal;12;03:56:00;03:58:00;A1;avatar, electrical device;walking inside hallway towards electrical device
+12_Video_3.mp4;Unreal;12;03:58:00;04:02:00;A6;avatar, electrical device;trying to trigger electrical switches
+12_Video_3.mp4;Unreal;12;04:03:00;;A8;avatar;manual turning left 90 degrees
+12_Video_3.mp4;Unreal;12;04:05:00;;A7;avatar;teleporting inside hallway
+12_Video_3.mp4;Unreal;12;04:07:00;04:11:00;A6;avatar, broom;grabbing and dropping broom
+12_Video_3.mp4;Unreal;12;04:13:00;04:18:00;A6;avatar, broom;grabbing and dropping broom, using brom
+12_Video_3.mp4;Unreal;12;04:20:00;04:21:00;A8;avatar;manual turning right 135 degrees
+12_Video_3.mp4;Unreal;12;04:22:00;04:23:00;A1;avatar;walking in hallway
+12_Video_3.mp4;Unreal;12;04:23:00;04:24:00;A6 ;avatar, light switch;toggling light switch off
+12_Video_3.mp4;Unreal;12;04:26:00;;A6 ;avatar, light switch;toggling light switch on
+12_Video_3.mp4;Unreal;12;04:28:00;;A6 ;avatar, light switch;toggling light switch off
+12_Video_3.mp4;Unreal;12;04:30:00;;A6 ;avatar, elevator button;pressing elevator button
+12_Video_3.mp4;Unreal;12;04:31:00;04:35:00;A8;avatar;manual turning 360 degrees
+12_Video_4.mp4;Unreal;12;00:02:00;;A7;avatar, elevator;teleporting into elevator
+12_Video_4.mp4;Unreal;12;00:05:00;00:06:00;A6;avatar, sticker;trying to peel off sticker from wall
+12_Video_4.mp4;Unreal;12;00:06:00;00:07:00;A8;avatar;manual turning left 135 degrees
+12_Video_4.mp4;Unreal;12;00:09:00;;A6;avatar, elevator button;pressing elevator button
+12_Video_4.mp4;Unreal;12;00:10:00;;A6;avatar, elevator button;pressing elevator button
+12_Video_4.mp4;Unreal;12;00:12:00;;A6;avatar, elevator button;pressing elevator button
+12_Video_4.mp4;Unreal;12;00:14:00;;A6;avatar, elevator button;pressing elevator button
+12_Video_4.mp4;Unreal;12;00:14:00;00:15:00;A8;avatar;manual turning left 90 degrees
+12_Video_4.mp4;Unreal;12;00:25:00;;A7;avatar;teleporting into basement room
+12_Video_4.mp4;Unreal;12;00:28:00;;A7;avatar;teleporting inside of basement room
+12_Video_4.mp4;Unreal;12;00:29:00;00:30:00;A4;avatar, female citizen;waving at female citizen with right hand
+12_Video_4.mp4;Unreal;12;00:30:00;;A5;avatar, female citizen;conversation with female citizen
+12_Video_4.mp4;Unreal;12;00:30:00;00:32:00;A1;avatar;walking toward female citizen at the window
+12_Video_4.mp4;Unreal;12;00:41:00;00:42:00;A4;avatar, female citizen;waving at female citizen with right hand
+12_Video_4.mp4;Unreal;12;00:42:00;00:44:00;A8;avatar;manual turning 180 degrees
+12_Video_4.mp4;Unreal;12;00:46:00;;A7;avatar;teleporting inside of basement room
+12_Video_4.mp4;Unreal;12;00:46:00;00:49:00;A8;avatar;manual turning 180 degrees
+12_Video_4.mp4;Unreal;12;00:55:00;;A7;avatar;teleporting inside of basement room
+12_Video_4.mp4;Unreal;12;00:55:00;;A8;avatar;manual turning left 90 degrees
+12_Video_4.mp4;Unreal;12;00:56:00;00:57:00;A1;avatar;walking inside of basement room
+12_Video_4.mp4;Unreal;12;00:59:00;01:00:00;A6;avatar, washing machine;trying to open washing machine
+12_Video_4.mp4;Unreal;12;01:00:00;01:02:00;A1;avatar;walking backwards inside of basement room
+12_Video_4.mp4;Unreal;12;01:03:00;;A7;avatar;teleporting inside of basement room
+12_Video_4.mp4;Unreal;12;01:04:00;01:05:00;A6;avatar, washing machine;trying to open washing machine
+12_Video_4.mp4;Unreal;12;01:08:00;01:12:00;A6;avatar, laundry basket;grabbing and dropping laundry basket, trying to put basket onto head
+12_Video_4.mp4;Unreal;12;01:13:00;01:14:00;A8 ;avatar;manual turning right 90 degrees
+12_Video_4.mp4;Unreal;12;01:16:00;;A7;avatar;teleporting inside of basement room
+12_Video_4.mp4;Unreal;12;01:20:00;;A7;avatar;teleporting inside of basement room
+12_Video_4.mp4;Unreal;12;01:23:00;;A7;avatar;teleporting inside of basement room
+12_Video_4.mp4;Unreal;12;01:25:00;01:29:00;A6;avatar, notebook;grabbing and dropping notebook
+12_Video_4.mp4;Unreal;12;01:32:00;01:51:00;A6;avatar, green whiteboard marker;grabbing and dropping green whiteboard marker
+12_Video_4.mp4;Unreal;12;01:33:00;01:34:00;A8;avatar;manual turning left 90 degrees
+12_Video_4.mp4;Unreal;12;01:35:00;;A7;avatar;teleporting inside of basement room next to window
+12_Video_4.mp4;Unreal;12;01:37:00;01:38:00;A6;green whiteboard marker, window;"writing letter ""H"" with green whiteboard marker onto window"
+12_Video_4.mp4;Unreal;12;01:39:00;;A6;green whiteboard marker, window;"writing letter ""e"" with green whiteboard marker onto window"
+12_Video_4.mp4;Unreal;12;01:40:00;;A6;green whiteboard marker, window;"writing letter ""l"" with green whiteboard marker onto window"
+12_Video_4.mp4;Unreal;12;01:41:00;;A6;green whiteboard marker, window;"writing letter ""l"" with green whiteboard marker onto window"
+12_Video_4.mp4;Unreal;12;01:42:00;;A6;green whiteboard marker, window;"writing letter ""o"" with green whiteboard marker onto window"
+12_Video_4.mp4;Unreal;12;01:44:00;;A6;green whiteboard marker, window;"writing letter ""t"" with green whiteboard marker onto window"
+12_Video_4.mp4;Unreal;12;01:45:00;;A6;green whiteboard marker, window;"writing letter ""h"" with green whiteboard marker onto window"
+12_Video_4.mp4;Unreal;12;01:46:00;;A6;green whiteboard marker, window;"writing letter ""e"" with green whiteboard marker onto window"
+12_Video_4.mp4;Unreal;12;01:47:00;01:48:00;A6;green whiteboard marker, window;"writing letters ""re"" with green whiteboard marker onto window"
+12_Video_4.mp4;Unreal;12;01:50:00;;A6;green whiteboard marker, window;"writing ""!"" with green whiteboard marker onto window"
+12_Video_4.mp4;Unreal;12;01:51:00;01:52:00;A4;avatar, window, soldier;knocking on window with right hand to get attention of soldier
+12_Video_4.mp4;Unreal;12;01:52:00;01:53:00;A4;avatar, soldier;waving towards soldier with right hand
+12_Video_4.mp4;Unreal;12;01:55:00;01:57:00;A8;avatar;manual turning 180 degrees
+12_Video_4.mp4;Unreal;12;01:59:00;;A7;avatar;teleporting inside of basement 
+12_Video_4.mp4;Unreal;12;02:00:00;02:01:00;A8;avatar;manual turning 180 degrees
+12_Video_4.mp4;Unreal;12;02:01:00;02:04:00;A1;avatar;walking inside of basement 
+12_Video_4.mp4;Unreal;12;02:06:00;02:08:00;A8;avatar;manual turning 180 degrees
+12_Video_4.mp4;Unreal;12;02:09:00;02:12:00;A1;avatar;walking inside of basement 
+12_Video_4.mp4;Unreal;12;02:12:00;02:14:00;A6;avatar, door handle;grabbing and pushing door handle, opening door
+12_Video_4.mp4;Unreal;12;02:16:00;;A7;avatar;teleporting into boiler room
+12_Video_4.mp4;Unreal;12;02:24:00;;A7;avatar;teleporting inside of boiler room
+12_Video_4.mp4;Unreal;12;02:27:00;;A7;avatar;teleporting inside of boiler room towards electrical unit
+12_Video_4.mp4;Unreal;12;02:29:00;02:31:00;A6;avatar, electrical unit;trying to interact with electrical unit
+12_Video_4.mp4;Unreal;12;02:37:00;;A7;avatar;teleporting inside of boiler room
+12_Video_4.mp4;Unreal;12;02:38:00;;A8;avatar;manual turning right 45 degrees
+12_Video_4.mp4;Unreal;12;02:38:00;02:40:00;A1;avatar;walking inside of boiler room
+12_Video_4.mp4;Unreal;12;02:40:00;02:42:00;A8;avatar;manual turning 180 degrees
+12_Video_4.mp4;Unreal;12;02:42:00;;A8;avatar;quickturn left 45 degrees
+12_Video_4.mp4;Unreal;12;02:45:00;;A7;avatar;teleporting inside of boiler room
+12_Video_4.mp4;Unreal;12;02:45:00;02:46:00;A1;avatar, wall;walking inside of boiler room towards wall
+12_Video_4.mp4;Unreal;12;02:46:00;02:47:00;A2;avatar, wall;yellow fade out while colliding with wall
+12_Video_4.mp4;Unreal;12;02:47:00;02:48:00;A1;avatar, wall;walking backwards inside of boiler room away from wall
+12_Video_4.mp4;Unreal;12;02:48:00;02:49:00;A1;avatar, wall;walking inside of boiler room towards wall
+12_Video_4.mp4;Unreal;12;02:49:00;02:50:00;A2;avatar, wall;yellow fade out while colliding with wall
+12_Video_4.mp4;Unreal;12;02:50:00;02:52:00;A1;avatar, wall;walking backwards inside of boiler room away from wall
+12_Video_4.mp4;Unreal;12;02:51:00;02:52:00;A8;avatar;manual turning left 90 degrees
+12_Video_4.mp4;Unreal;12;02:53:00;;A7;avatar;teleporting inside of boiler room
+12_Video_4.mp4;Unreal;12;02:54:00;02:58:00;A6;avatar, door handle;grabbing and pushing door handle, opening door
+12_Video_4.mp4;Unreal;12;03:00:00;;A7;avatar;teleporting into courtyard leaving boiler room
+12_Video_4.mp4;Unreal;12;03:02:00;;A8;avatar;manual turning left 90 degrees
+12_Video_4.mp4;Unreal;12;03:06:00;;A7;avatar;teleporting inside of courtyard 
+12_Video_4.mp4;Unreal;12;03:10:00;;A7;avatar, gutter, female citizen;teleporting inside of courtyard towards gutter to talk with female citizen
+12_Video_4.mp4;Unreal;12;03:11:00;03:26:00;A5;avatar, female citizen;conversation with female citizen
+12_Video_4.mp4;Unreal;12;03:11:00;03:12:00;A4;avatar, female citizen;waving at female citizen with right hand
+12_Video_4.mp4;Unreal;12;03:26:00;03:27:00;A4;avatar, female citizen;waving at female citizen with right hand
+12_Video_5.mp4;Unreal;12;00:00:00;;A7;avatar;teleporting inside courtyard
+12_Video_5.mp4;Unreal;12;00:02:00;;A7;avatar;teleporting onto basement stairwell pedestal
+12_Video_5.mp4;Unreal;12;00:04:00;00:08:00;A1;avatar, door;walking on basement stairwell pedestal toward door
+12_Video_5.mp4;Unreal;12;00:05:00;;A3;avatar;entering boiler room
+12_Video_5.mp4;Unreal;12;00:06:00;00:08:00;A6;avatar, door handle;grabbing and pulling door handle, closing door
+12_Video_5.mp4;Unreal;12;00:07:00;;A3;avatar;reentering courtyard
+12_Video_5.mp4;Unreal;12;00:11:00;;A7;avatar;teleporting inside courtyard on small stairwell
+12_Video_5.mp4;Unreal;12;00:14:00;;A7;avatar;teleporting inside courtyard 
+12_Video_5.mp4;Unreal;12;00:14:00;00:16:00;A8;avatar;manual turning right 135 degrees
+12_Video_5.mp4;Unreal;12;00:17:00;;A7;avatar;teleporting inside courtyard 
+12_Video_5.mp4;Unreal;12;00:22:00;;A7;avatar;teleporting  from courtyard onto back alley
+12_Video_5.mp4;Unreal;12;00:26:00;;A7;avatar;teleporting  on back alley
+12_Video_5.mp4;Unreal;12;00:27:00;00:30:00;A1;avatar, gutter;walking  on back alley towards gutter
+12_Video_5.mp4;Unreal;12;00:30:00;00:32:00;A6;avatar, gutter;trying to grab gutter
+12_Video_5.mp4;Unreal;12;00:32:00;00:33:00;A1;avatar, gutter;walking  on back alley through gutter
+12_Video_5.mp4;Unreal;12;00:33:00;00:34:00;A2;avatar, gutter;yellow fade out while colliding with gutter
+12_Video_5.mp4;Unreal;12;00:34:00;00:35:00;A1;avatar, gutter;walking  backwards on back alley away from gutter
+12_Video_5.mp4;Unreal;12;00:35:00;00:36:00;A1;avatar, gutter;walking  on back alley through gutter
+12_Video_5.mp4;Unreal;12;00:36:00;00:37:00;A2;avatar, gutter;yellow fade out while colliding with gutter
+12_Video_5.mp4;Unreal;12;00:37:00;00:38:00;A1;avatar, gutter;walking  backwards on back alley away from gutter
+12_Video_5.mp4;Unreal;12;00:38:00;00:40:00;A1;avatar, gutter;walking  on back alley towards gutter
+12_Video_5.mp4;Unreal;12;00:40:00;00:42:00;A6;avatar, gutter;trying to grab gutter
+12_Video_5.mp4;Unreal;12;00:42:00;00:44:00;A8;avatar;manual turning 180 degrees
+12_Video_5.mp4;Unreal;12;00:44:00;00:46:00;A1;avatar;walking  on back alley 
+12_Video_5.mp4;Unreal;12;00:47:00;;A7;avatar;teleporting  on back alley
+12_Video_5.mp4;Unreal;12;00:47:00;00:50:00;A8;avatar;manual turning right 90 degrees
+12_Video_5.mp4;Unreal;12;00:51:00;;A7;avatar, window;teleporting  on back alley towards window
+12_Video_5.mp4;Unreal;12;00:51:00;;A7;avatar, window;teleporting  on back alley towards window
+12_Video_5.mp4;Unreal;12;00:54:00;00:56:00;A4;avatar, window, female citizen;waving towards female citizen through window with right hand
+12_Video_5.mp4;Unreal;12;00:56:00;00:59:00;A8;avatar;manual turning 180 degrees
+12_Video_5.mp4;Unreal;12;01:01:00;;A7;avatar;teleporting  on back alley
+12_Video_5.mp4;Unreal;12;01:05:00;;A7;avatar;teleporting  on back alley
+12_Video_5.mp4;Unreal;12;01:05:00;01:07:00;A8;avatar;manual turning right 90 degrees
+12_Video_5.mp4;Unreal;12;01:08:00;01:15:00;A6;avatar, beer bottle;grabbing beer bootle, dropping bottle into wooden crate
+12_Video_5.mp4;Unreal;12;01:12:00;;A7;avatar;teleporting  on back alley
+12_Video_5.mp4;Unreal;12;01:18:00;01:26:00;A6;avatar, booze bottle;grabbing booze bootle from wooden crate, dropping bottle onto floor
+12_Video_5.mp4;Unreal;12;01:29:00;;A7;avatar;teleporting  on back alley onto small stairwell
+12_Video_5.mp4;Unreal;12;01:32:00;;A7;avatar;teleporting  on back alley onto small stairwell
+12_Video_5.mp4;Unreal;12;01:34:00;01:37:00;A8;avatar;manual turning 180 degrees
+12_Video_5.mp4;Unreal;12;01:38:00;;A7;avatar;teleporting  on back alley
+12_Video_5.mp4;Unreal;12;01:39:00;01:40:00;A8;avatar;manual turning right 90 degrees
+12_Video_5.mp4;Unreal;12;01:40:00;01:42:00;A1;avatar;walking  on back alley 
+12_Video_5.mp4;Unreal;12;01:42:00;01:44:00;A8;avatar;manual turning 180 degrees
+12_Video_5.mp4;Unreal;12;01:46:00;;A7;avatar;teleporting  on back alley
+12_Video_5.mp4;Unreal;12;01:46:00;01:47:00;A8;avatar;manual turning left 45 degrees
+12_Video_5.mp4;Unreal;12;01:50:00;;A7;avatar;teleporting  on back alley
+12_Video_5.mp4;Unreal;12;01:54:00;;A7;avatar;teleporting  on back alley
+12_Video_5.mp4;Unreal;12;01:55:00;01:58:00;A1;avatar;walking  on back alley 
+12_Video_5.mp4;Unreal;12;02:01:00;;A8;avatar;quickturn right 45 degrees
+12_Video_5.mp4;Unreal;12;02:01:00;;A8;avatar;quickturn right 45 degrees
+12_Video_5.mp4;Unreal;12;02:03:00;;A8;avatar;quickturn right 45 degrees
+12_Video_5.mp4;Unreal;12;02:03:00;02:04:00;A8;avatar;manual turning right 45 degrees
+12_Video_5.mp4;Unreal;12;02:05:00;;A8;avatar;quickturn right 45 degrees
+12_Video_5.mp4;Unreal;12;02:05:00;02:06:00;A8;avatar;manual turning left 45 degrees
+12_Video_5.mp4;Unreal;12;02:07:00;;A8;avatar;quickturn right 45 degrees
+12_Video_5.mp4;Unreal;12;02:08:00;;A8;avatar;manual turning 180 degrees
+12_Video_5.mp4;Unreal;12;02:09:00;02:12:00;A1;avatar, railing;walking  on back alley towards railing
+12_Video_5.mp4;Unreal;12;02:13:00;02:15:00;A1;avatar, railing;walking  on back alley along railing
+12_Video_5.mp4;Unreal;12;02:15:00;02:16:00;A8;avatar;manual turning left 45 degrees
+12_Video_5.mp4;Unreal;12;02:17:00;;A7;avatar;teleporting  on back alley
+12_Video_5.mp4;Unreal;12;02:19:00;02:24:00;A8;avatar;manual turning 180 degrees
+12_Video_5.mp4;Unreal;12;02:26:00;;A7;avatar;teleporting  on back alley
+12_Video_5.mp4;Unreal;12;02:29:00;;A7;avatar;teleporting  on back alley
+12_Video_5.mp4;Unreal;12;02:30:00;;A7;avatar, phone booth;teleporting  on back alley towards phone booth
+12_Video_5.mp4;Unreal;12;02:31:00;02:34:00;A6;avatar, phone booth;Trying to interact with phone booth
+12_Video_5.mp4;Unreal;12;02:34:00;02:36:00;A8;avatar;manual turning left 2270 degrees
+12_Video_5.mp4;Unreal;12;02:36:00;02:37:00;A1;avatar;walking  on back alley
+12_Video_5.mp4;Unreal;12;02:38:00;02:40:00;A8;avatar;manual turning 180 degrees
+12_Video_5.mp4;Unreal;12;02:40:00;;A7;avatar;teleporting  on back alley
+12_Video_5.mp4;Unreal;12;02:44:00;;A7;avatar;teleporting  on back alley onto small stairway
+12_Video_5.mp4;Unreal;12;02:45:00;;A7;avatar;teleporting  on back alley on small stairway
+12_Video_5.mp4;Unreal;12;02:47:00;02:48:00;A6;avatar, door handle;grabbing door handle, pushing door open
+12_Video_5.mp4;Unreal;12;02:49:00;;A7;avatar;teleporting  into small entry room
+12_Video_5.mp4;Unreal;12;02:49:00;;A3;avatar;entering small entry room 
+12_Video_5.mp4;Unreal;12;02:52:00;02:54:00;A1;avatar, door;walking in small entry room around open door
+12_Video_5.mp4;Unreal;12;02:52:00;02:54:00;A8;avatar, door;turning left around open door 180 degree
+12_Video_5.mp4;Unreal;12;02:54:00;02:55:00;A8;avatar;manual turning 180 degrees
+12_Video_5.mp4;Unreal;12;02:56:00;;A7;avatar;teleporting onto staiwell pedestal
+12_Video_5.mp4;Unreal;12;02:58:00;;A7;avatar;teleporting on staiwell pedestal
+12_Video_5.mp4;Unreal;12;03:01:00;03:03:00;A6;avatar, door;Trying to push locked door open
+12_Video_5.mp4;Unreal;12;03:03:00;03:04:00;A1;avatar, door;walking on stairwell pedestal towards door 
+12_Video_5.mp4;Unreal;12;03:04:00;03:05:00;A2;avatar, door;yellow fade out while colliding with door
+12_Video_5.mp4;Unreal;12;03:04:00;03:07:00;A1;avatar, door;walking backwards on stairwell pedestal away from door 
+12_Video_5.mp4;Unreal;12;03:05:00;03:07:00;A8;;manual turning right 90 degrees
+12_Video_5.mp4;Unreal;12;03:08:00;;A7;avatar;teleporting onto staiwell
+12_Video_5.mp4;Unreal;12;03:11:00;;A7;avatar;teleporting onto upper stairwell pedestal
+12_Video_5.mp4;Unreal;12;03:12:00;03:16:00;A6;avatar, door handle;grabbing door handle, closing door
+12_Video_5.mp4;Unreal;12;03:16:00;03:17:00;A6;avatar, door handle;grabbing door handle, opening door
+12_Video_5.mp4;Unreal;12;03:19:00;;A7;avatar;teleporting onto balcony
+12_Video_5.mp4;Unreal;12;03:22:00;03:23:00;A4;avatar, bird;waving towards flying away bird with right hand
+12_Video_6.mp4;Unreal;12;00:01:00;;A7;avatar;teleporting on balcony
+12_Video_6.mp4;Unreal;12;00:05:00;00:10:00;A6;avatar, bread roll;grabbing bread roll, dropping bread roll into planter
+12_Video_6.mp4;Unreal;12;00:07:00;00:09:00;A8;avatar;manual turning left 90 degrees
+12_Video_6.mp4;Unreal;12;00:08:00;00:10:00;A1;avatar;walking on balcony
+12_Video_6.mp4;Unreal;12;00:11:00;00:13:00;A8;avatar;manual turning left 270 degrees
+12_Video_6.mp4;Unreal;12;00:11:00;00:13:00;A1;avatar;walking on balcony 
+12_Video_6.mp4;Unreal;12;00:12:00;00:20:00;A10;avatar, HUD, ladder;tutorial climbing ladders
+12_Video_6.mp4;Unreal;12;00:18:00;;A7;avatar, ladder;teleporting on balcony in front of ladder
+12_Video_6.mp4;Unreal;12;00:20:00;00:21:00;A6;avatar, ladder;grabbing ladder
+12_Video_6.mp4;Unreal;12;00:21:00;;A7;avatar, ladder;teleporting from balcony via ladder to rooftop
+12_Video_6.mp4;Unreal;12;00:26:00;00:27:00;A4;avatar, aircraft;waving towards aircraft with right hand
+12_Video_6.mp4;Unreal;12;00:38:00;;A7;avatar;teleporting on rooftop
+12_Video_6.mp4;Unreal;12;00:38:00;00:40:00;A8;avatar;manual turning left 45 degrees
+12_Video_6.mp4;Unreal;12;00:42:00;;A7;avatar, wooden boards;teleporting on rooftop onto wooden boards
+12_Video_6.mp4;Unreal;12;00:42:00;00:43:00;A8;avatar;manual turning left 90 degrees
+12_Video_6.mp4;Unreal;12;00:45:00;00:49:00;A1;avatar, wooden boards;walking off the wooden boards into the ait
+12_Video_6.mp4;Unreal;12;00:49:00;;A1;avatar;falling down from the wooden boards onto the rooftop
+12_Video_6.mp4;Unreal;12;00:51:00;00:52:00;A8;avatar;manual turning left 90 degrees
+12_Video_6.mp4;Unreal;12;00:52:00;00:55:00;A8;avatar;manual turning right 270 degrees
+12_Video_6.mp4;Unreal;12;00:57:00;;A7;avatar, wooden boards;teleporting on rooftop onto wooden boards
+12_Video_6.mp4;Unreal;12;00:57:00;00:59:00;A8;avatar;manual turning left 90 degrees
+12_Video_6.mp4;Unreal;12;01:01:00;;A7;avatar;teleporting on rooftop
+12_Video_6.mp4;Unreal;12;01:01:00;01:04:00;A8;avatar;manual turning left 45 degrees
+12_Video_6.mp4;Unreal;12;01:05:00;;A7;avatar;teleporting on rooftop
+12_Video_6.mp4;Unreal;12;01:07:00;;A7;avatar;teleporting on rooftop
+12_Video_6.mp4;Unreal;12;01:10:00;;A8;avatar;quickturn left 45 degrees
+12_Video_6.mp4;Unreal;12;01:11:00;;A8;avatar;quickturn left 45 degrees
+12_Video_6.mp4;Unreal;12;01:15:00;;A7;avatar, wooden boards;teleporting on rooftop onto wooden boards
+12_Video_6.mp4;Unreal;12;01:16:00;;A7;avatar, wooden boards;teleporting on rooftop on wooden boards
+12_Video_6.mp4;Unreal;12;01:18:00;01:20:00;A6;avatar, plastic basket;grabbing plastic basket, throwing plastic basket from the roof
+12_Video_6.mp4;Unreal;12;01:28:00;;A7;avatar, wooden boards;teleporting on rooftop on wooden boards
+12_Video_6.mp4;Unreal;12;01:31:00;01:33:00;A6;avatar, window blind handle;grabbing window blind handle, opening window blind upwards, blind falling down
+12_Video_6.mp4;Unreal;12;01:35:00;01:37:00;A6;avatar, window blind handle;grabbing window blind handle, opening window blind upwards
+12_Video_6.mp4;Unreal;12;01:39:00;;A7;avatar, elevator;teleporting into elevator shaft on top of elevator
+12_Video_6.mp4;Unreal;12;01:39:00;;A3;avatar;entering elevator shaft
+12_Video_6.mp4;Unreal;12;01:45:00;;A7;avatar, elevator;teleporting on top of elevator
+12_Video_6.mp4;Unreal;12;01:48:00;;A8;avatar;quickturn left 45 degrees
+12_Video_6.mp4;Unreal;12;01:48:00;;A8;avatar;quickturn left 45 degrees
+12_Video_6.mp4;Unreal;12;01:49:00;;A8;avatar;quickturn left 45 degrees
+12_Video_6.mp4;Unreal;12;01:50:00;;A8;avatar;quickturn left 45 degrees
+12_Video_6.mp4;Unreal;12;01:55:00;;A7;avatar, elevator;teleporting into the elevator through hatch
+12_Video_6.mp4;Unreal;12;01:58:00;;A6;avatar, elevator button;pressing elevator button
+12_Video_6.mp4;Unreal;12;01:58:00;;A6;avatar, elevator button;pressing elevator button
+12_Video_6.mp4;Unreal;12;02:01:00;;A6;avatar, elevator button;pressing elevator button
+12_Video_6.mp4;Unreal;12;02:01:00;;A8;avatar;manual turning left 90 degrees
+12_Video_6.mp4;Unreal;12;02:04:00;02:14:00;A5;avatar, soldier;conversation with soldier
+12_Video_6.mp4;Unreal;12;02:04:00;;A4;avatar, soldier;raising hands towards soldier with weapon
+12_Video_6.mp4;Unreal;12;02:05:00;02:06:00;A4;avatar, soldier;waving right hand towards soldier 
+12_Video_6.mp4;Unreal;12;02:07:00;02:08:00;A4;avatar, soldier;waving left hand towards soldier 
+12_Video_6.mp4;Unreal;12;02:12:00;02:13:00;A4;avatar, soldier;waving right hand towards soldier 
+12_Video_6.mp4;Unreal;12;02:23:00;02:24:00;A4;avatar, Dad;"waving right hand towards ""Alyx dad"""
+12_Video_6.mp4;Unreal;12;02:24:00;02:33:00;A5;soldier, Dad;"conversation between soldier and ""Alyx dad"""
+12_Video_6.mp4;Unreal;12;02:33:00;;A5;avatar, Dad;"calling for ""Dad"""
+12_Video_6.mp4;Unreal;12;02:36:00;02:39:00;A5;solidier, soldier;conversation between two soldiers
+12_Video_6.mp4;Unreal;12;02:39:00;02:40:00;A5;avatar, soldier;conversation between avatar and soldier
+12_Video_7.mp4;Unreal;12;00:00:00;00:03:00;A1;avatar;walking inside prisontruck
+12_Video_7.mp4;Unreal;12;00:03:00;00:05:00;A4;avatar, drone;wavin towards drone with right hand
+12_Video_7.mp4;Unreal;12;00:08:00;00:11:00;A6;avatar, drone, headset;grabbing headset from drone, placing headset on head
+12_Video_7.mp4;Unreal;12;00:13:00;00:28:00;A5;avatar, Russel;conversation between avatar and russel via headset 
+12_Video_7.mp4;Unreal;12;00:13:00;00:20:00;A1;avatar;walking backwards inside prisontruck
+12_Video_7.mp4;Unreal;12;00:27:00;;A8;avatar;quickturn left 45 degrees
+12_Video_7.mp4;Unreal;12;00:28:00;;A8;avatar;quickturn left 45 degrees
+12_Video_7.mp4;Unreal;12;00:29:00;;A8;avatar;quickturn right 45 degrees
+12_Video_7.mp4;Unreal;12;00:30:00;;A8;avatar;quickturn right 45 degrees
+12_Video_7.mp4;Unreal;12;00:37:00;;A7;avatar;teleporting out of prisontruck and onto back alley
+12_Video_7.mp4;Unreal;12;00:39:00;01:08:00;A5;avatar, Russel;conversation between avatar and russel via headset 
+12_Video_7.mp4;Unreal;12;00:46:00;;A7;avatar;teleporting on back alley
+12_Video_7.mp4;Unreal;12;00:49:00;;A7;avatar, garbage bin;teleporting on back alley towards garbage bin
+12_Video_7.mp4;Unreal;12;00:52:00;00:55:00;A6;avatar, garbage bin;grabbing handle of garbage bin, opening lid, dropping of lid
+12_Video_7.mp4;Unreal;12;00:58:00;;A7;avatar, wallbox;teleporting on back alley towards wallbox
+12_Video_7.mp4;Unreal;12;00:59:00;01:00:00;A6;avatar, wallbox;trying to interact with wallbox
+12_Video_7.mp4;Unreal;12;01:00:00;01:01:00;A8;avatar;manual turning left 90 degrees
+12_Video_7.mp4;Unreal;12;01:02:00;;A8;avatar;quickturn left 45 degrees
+12_Video_7.mp4;Unreal;12;01:06:00;;A7;avatar;teleporting on back alley
+12_Video_7.mp4;Unreal;12;01:06:00;01:08:00;A8;avatar;manual turning right 90 degrees
+12_Video_7.mp4;Unreal;12;01:10:00;;A7;avatar;teleporting on back alley
+12_Video_7.mp4;Unreal;12;01:12:00;;A7;avatar;teleporting on back alley
+12_Video_7.mp4;Unreal;12;01:14:00;;A7;avatar, gutter;teleporting on back alley towards gutter
+12_Video_7.mp4;Unreal;12;01:15:00;01:17:00;A6;avatar, bike lock;trying to interact with bike lock
+12_Video_7.mp4;Unreal;12;01:19:00;01:20:00;A8;avatar;manual turning  180 degrees
+12_Video_7.mp4;Unreal;12;01:20:00;01:22:00;A1;avatar;walking on back alley
+12_Video_7.mp4;Unreal;12;01:23:00;;A7;avatar;teleporting on back alley
+12_Video_7.mp4;Unreal;12;01:26:00;;A7;avatar;teleporting on back alley
+12_Video_7.mp4;Unreal;12;01:26:00;01:27:00;A8;avatar;manual turning left 90 degrees
+12_Video_7.mp4;Unreal;12;01:27:00;01:29:00;A8;avatar;manual turning 180 degrees
+12_Video_7.mp4;Unreal;12;01:31:00;;A7;avatar;teleporting from back alley into pedestrian tunnel
+12_Video_7.mp4;Unreal;12;01:35:00;;A7;avatar, door;teleporting inside of pedestrian tunnel towards door onto small stairwell
+12_Video_7.mp4;Unreal;12;01:35:00;01:37:00;A8;avatar, door;manual turning right 90 degrees towards door
+12_Video_7.mp4;Unreal;12;01:37:00;01:38:00;A6;avatar, door;trying to push open locked door
+12_Video_7.mp4;Unreal;12;01:39:00;01:40:00;A6;avatar, door;trying to push open locked door
+12_Video_7.mp4;Unreal;12;01:40:00;01:42:00;A1;avatar, door;walking on small stairwell towards locked door
+12_Video_7.mp4;Unreal;12;01:41:00;01:43:00;A2;avatar, door;yellow fade out while colliding withh locked door
+12_Video_7.mp4;Unreal;12;01:42:00;01:43:00;A1;avatar, door;walking backwards on small stairwell away from locked door
+12_Video_7.mp4;Unreal;12;01:44:00;;A8;avatar;quickturn right 45 degrees
+12_Video_7.mp4;Unreal;12;01:45:00;;A8;avatar;quickturn right 45 degrees
+12_Video_7.mp4;Unreal;12;01:46:00;;A8;avatar;quickturn right 45 degrees
+12_Video_7.mp4;Unreal;12;01:46:00;;A8;avatar;quickturn right 45 degrees
+12_Video_7.mp4;Unreal;12;01:48:00;;A7;avatar, door;teleporting across the tunnel towards the opposing door
+12_Video_7.mp4;Unreal;12;01:49:00;01:51:00;A1;avatar, door;walking on small stairwell towards locked door
+12_Video_7.mp4;Unreal;12;01:51:00;01:52:00;A2;avatar, door;yellow fade out while colliding with locked door
+12_Video_7.mp4;Unreal;12;01:51:00;01:53:00;A1;avatar, door;walking backwards on small stairwell away from locked door
+12_Video_7.mp4;Unreal;12;01:53:00;01:55:00;A8;avatar;manual turning right 135 degrees
+12_Video_7.mp4;Unreal;12;01:56:00;;A7;avatar;teleporting in pedestrian tunnel
+12_Video_7.mp4;Unreal;12;01:59:00;;A7;avatar;teleporting out of pedestrian tunnel onto back alley
+12_Video_7.mp4;Unreal;12;02:00:00;02:01:00;A4;avatar, drone;wavin towards drone with right hand
+12_Video_7.mp4;Unreal;12;02:01:00;02:02:00;A8;avatar;manual turning left 90 degrees
+12_Video_7.mp4;Unreal;12;02:02:00;02:05:00;A8;avatar;manual turning 180 degrees
+12_Video_7.mp4;Unreal;12;02:06:00;;A7;avatar, gutter;teleporting in back alley towards gutter
+12_Video_7.mp4;Unreal;12;02:09:00;02:10:00;A6;avatar, gutter;trying to grab gutter
+12_Video_7.mp4;Unreal;12;02:10:00;02:11:00;A1;avatar, gutter;walking in back alley towards gutter
+12_Video_7.mp4;Unreal;12;02:11:00;02:12:00;A2;avatar, gutter;yellow fade out while colliding with gutter
+12_Video_7.mp4;Unreal;12;02:11:00;02:13:00;A1;avatar, gutter;walking backwards in back alley away from gutter
+12_Video_7.mp4;Unreal;12;02:13:00;;A8;avatar;quickturn left 45 degrees
+12_Video_7.mp4;Unreal;12;02:14:00;;A8;avatar;quickturn left 45 degrees
+12_Video_7.mp4;Unreal;12;02:15:00;;A7;avatar, gutter;teleporting in back alley
+12_Video_7.mp4;Unreal;12;02:15:00;02:17:00;A8;avatar;manual turning left 90 degrees
+12_Video_7.mp4;Unreal;12;02:17:00;02:19:00;A1;avatar, moveable railing;walking in back alley towards moveable railing
+12_Video_7.mp4;Unreal;12;02:18:00;02:24:00;A6;avatar, moveable railing;grabbing and dropping moveable railing
+12_Video_7.mp4;Unreal;12;02:25:00;02:27:00;A8;avatar;manual turning right 90 degrees
+12_Video_7.mp4;Unreal;12;02:28:00;02:29:00;A4;avatar, drone;wavin towards drone with right hand
+12_Video_7.mp4;Unreal;12;02:31:00;;A7;avatar;teleporting in back alley
+12_Video_7.mp4;Unreal;12;02:34:00;;A7;avatar;teleporting in back alley
+12_Video_7.mp4;Unreal;12;02:41:00;;A7;avatar;teleporting in back alley
+12_Video_7.mp4;Unreal;12;02:44:00;;A8;avatar;quickturn left 45 degrees
+12_Video_7.mp4;Unreal;12;02:44:00;;A8;avatar;quickturn left 45 degrees
+12_Video_7.mp4;Unreal;12;02:46:00;;A7;avatar;teleporting in back alley
+12_Video_7.mp4;Unreal;12;02:48:00;;A7;avatar, mattrass;teleporting in back alley onto mattress
+12_Video_7.mp4;Unreal;12;02:48:00;03:11:00;A5;avatar, Russel;conversation between avatar and russel via headset 
+12_Video_7.mp4;Unreal;12;02:51:00;02:53:00;A1;avatar, mattrass;walking on mattress
+12_Video_7.mp4;Unreal;12;02:58:00;;A7;avatar;teleporting in back alley from mattress back to the ground
+12_Video_7.mp4;Unreal;12;03:02:00;;A8;avatar;quickturn right 45 degrees
+12_Video_7.mp4;Unreal;12;03:02:00;;A8;avatar;quickturn right 45 degrees
+12_Video_7.mp4;Unreal;12;03:03:00;;A8;avatar;quickturn right 45 degrees
+12_Video_7.mp4;Unreal;12;03:03:00;03:04:00;A8;avatar;manual turning right 45 degrees
+12_Video_7.mp4;Unreal;12;03:06:00;;A7;avatar;teleporting in back alley
+12_Video_7.mp4;Unreal;12;03:07:00;03:10:00;A8;avatar;manual turning left 45 degrees
+12_Video_7.mp4;Unreal;12;03:10:00;;A7;avatar;teleporting in back alley
+12_Video_7.mp4;Unreal;12;03:10:00;03:12:00;A8;avatar;manual turning right 90 degrees
+12_Video_7.mp4;Unreal;12;03:13:00;;A7;avatar;teleporting in back alley without actual movement
+12_Video_7.mp4;Unreal;12;03:14:00;03:16:00;A8;avatar;manual turning left 135 degrees
+12_Video_7.mp4;Unreal;12;03:17:00;;A7;avatar;teleporting in back alley
+12_Video_7.mp4;Unreal;12;03:17:00;;A8;avatar;quickturn right 45 degrees
+12_Video_7.mp4;Unreal;12;03:18:00;;A8;avatar;quickturn right 45 degrees
+12_Video_7.mp4;Unreal;12;03:18:00;;A8;avatar;quickturn right 45 degrees
+12_Video_7.mp4;Unreal;12;03:24:00;;A7;avatar, mattrass;teleporting in back alley onto mattress
+12_Video_7.mp4;Unreal;12;03:27:00;;A8;avatar;quickturn left 45 degrees
+12_Video_7.mp4;Unreal;12;03:27:00;;A8;avatar;quickturn left 45 degrees
+12_Video_7.mp4;Unreal;12;03:28:00;  ;A8;avatar;quickturn left 45 degrees
+12_Video_7.mp4;Unreal;12;03:28:00;;A8;avatar;quickturn left 45 degrees
+12_Video_7.mp4;Unreal;12;03:33:00;;A7;avatar, mattrass, wall;teleporting in back alley from matress onto wall
+12_Video_7.mp4;Unreal;12;03:37:00;;A7;avatar, wall ;teleporting in back alley from wall into backyard
+12_Video_7.mp4;Unreal;12;03:39:00;;A7;avatar, gutter;teleporting in backyard towards gutter
+12_Video_7.mp4;Unreal;12;03:39:00;03:40:00;A8;avatar, gutter;manual turning left 45 degrees towards gutter
+12_Video_7.mp4;Unreal;12;03:41:00;03:43:00;A4;avatar, soldiers;waving towards soldiers with right hand
+12_Video_7.mp4;Unreal;12;03:43:00;03:46:00;A8;avatar;manual turning 180 degrees
+12_Video_7.mp4;Unreal;12;03:49:00;;A7;avatar;teleporting in backyard  
+12_Video_7.mp4;Unreal;12;03:51:00;;A7;avatar;teleporting in backyard  
+12_Video_7.mp4;Unreal;12;03:55:00;;A8;avatar;quickturn left 45 degrees
+12_Video_7.mp4;Unreal;12;03:56:00;;A8;avatar;quickturn left 45 degrees
+12_Video_7.mp4;Unreal;12;03:57:00;;A7;avatar;teleporting from backyard into garage
+12_Video_7.mp4;Unreal;12;03:57:00;;A3;avatar;entering garage
+12_Video_7.mp4;Unreal;12;04:01:00;;A7;avatar;teleporting in garage
+12_Video_7.mp4;Unreal;12;04:03:00;04:07:00;A6;avatar, pliers;grabbing and dropping pliers
+12_Video_7.mp4;Unreal;12;04:08:00;;A7;avatar;teleporting in garage
+12_Video_7.mp4;Unreal;12;04:09:00;04:13:00;A6;avatar, rabbit hutch;trying to interact with rabbit hutch
+12_Video_7.mp4;Unreal;12;04:13:00;04:16:00;A8;avatar;manual turning 180 degrees
+12_Video_7.mp4;Unreal;12;04:17:00;;A7;avatar;teleporting in garage
+12_Video_7.mp4;Unreal;12;04:17:00;04:22:00;A1;avatar;walking in garage
+12_Video_7.mp4;Unreal;12;04:18:00;04:22:00;A6;avatar, car door handle;grabbing door handle, closing car door
+12_Video_7.mp4;Unreal;12;04:24:00;;A8;avatar;manual turning right 45 degrees
+12_Video_7.mp4;Unreal;12;04:24:00;04:28:00;A1;avatar;walking backwards in garage
+12_Video_7.mp4;Unreal;12;04:29:00;;A7;avatar;teleporting in garage
+12_Video_7.mp4;Unreal;12;04:29:00;04:30:00;A8 ;avatar, car door  ;manual turning left 45 degrees towards car door
+12_Video_7.mp4;Unreal;12;04:30:00;04:32:00;A6;avatar, car door handle;grabbing door handle, opening car door
+12_Video_7.mp4;Unreal;12;04:31:00;04:34:00;A1;avatar, car;walking in garage towards open car door
+12_Video_7.mp4;Unreal;12;04:35:00;04:35:00;A2;avatar, car;yellow fade out while head colliding with car
+12_Video_7.mp4;Unreal;12;04:37:00;04:38:00;A2;avatar, car;yellow fade out while head colliding with car
+12_Video_7.mp4;Unreal;12;04:39:00;04:40:00;A1;avatar;walking backwards in garage
+12_Video_7.mp4;Unreal;12;04:39:00;04:40:00;A8;avatar;manual turning 180 degrees
+12_Video_7.mp4;Unreal;12;04:42:00;;A7;avatar;teleporting in garage
+12_Video_8.mp4;Unreal;12;00:01:00;;A7;avatar;teleporting in garage
+12_Video_8.mp4;Unreal;12;00:02:00;00:03:00;A1;avatar, curtain;trying to interact with curtain
+12_Video_8.mp4;Unreal;12;00:03:00;00:04:00;A8;avatar;manual turning right 90 degrees
+12_Video_8.mp4;Unreal;12;00:06:00;;A7;avatar;teleporting in garage
+12_Video_8.mp4;Unreal;12;00:09:00;;A7;avatar;teleporting out of garage and into playgound
+12_Video_8.mp4;Unreal;12;00:09:00;00:11:00;A8;avatar, door;manual turning left 135 degrees around door
+12_Video_8.mp4;Unreal;12;00:11:00;00:12:00;A6;avatar, door handle;grabbing door handle, closing door
+12_Video_8.mp4;Unreal;12;00:14:00;00:16:00;A6;avatar, door handle;grabbing door handle, opening door
+12_Video_8.mp4;Unreal;12;00:17:00;;A7;avatar;teleporting out of playgound and into garage
+12_Video_8.mp4;Unreal;12;00:17:00;;A3;avatar;entering garage
+12_Video_8.mp4;Unreal;12;00:17:00;00:19:00;A8;avatar;manual turning 180 degrees
+12_Video_8.mp4;Unreal;12;00:20:00;;A7;avatar;teleporting out of garage and into playgound
+12_Video_8.mp4;Unreal;12;00:25:00;;A7;avatar;teleporting in playgound
+12_Video_8.mp4;Unreal;12;00:26:00;;A7;avatar;teleporting in playgound
+12_Video_8.mp4;Unreal;12;00:30:00;;A6;avatar, slide;grabbing slide handle bar
+12_Video_8.mp4;Unreal;12;00:31:00;;A7;avatar, slide;teleported from ground to top of slide via slide ladder
+12_Video_8.mp4;Unreal;12;00:38:00;00:48:00;A6;avatar, slide;trying to interact with slide
+12_Video_8.mp4;Unreal;12;00:52:00;;A7;avatar, slide, seesaw;teleporting in playgound from slide to seesaw
+12_Video_8.mp4;Unreal;12;00:56:00;;A7;avatar, seesaw, tic tac toe game;teleporting in playgound from seesaw to tic tac toe game
+12_Video_8.mp4;Unreal;12;00:58:00;01:00:00;A1;avatar, tic tac toe game;walking around tic tac toe game
+12_Video_8.mp4;Unreal;12;00:59:00;01:02:00;A6;avatar, tic tac toe game;spinning top-middle tic tac toe block
+12_Video_8.mp4;Unreal;12;01:03:00;01:03:00;A6;avatar, tic tac toe game;spinning top-middle tic tac toe block
+12_Video_8.mp4;Unreal;12;01:06:00;;A6;avatar, tic tac toe game;spinning middle-right tic tac toe block
+12_Video_8.mp4;Unreal;12;01:08:00;01:09:00;A6;avatar, tic tac toe game;spinning middle-right tic tac toe block
+12_Video_8.mp4;Unreal;12;01:11:00;;A6;avatar, tic tac toe game;spinning bottom-right tic tac toe block
+12_Video_8.mp4;Unreal;12;01:13:00;01:14:00;A6;avatar, tic tac toe game;spinning bottom-right tic tac toe block
+12_Video_8.mp4;Unreal;12;01:15:00;01:16:00;A6;avatar, tic tac toe game;spinning bottom-right tic tac toe block
+12_Video_8.mp4;Unreal;12;01:17:00;01:18:00;A6;avatar, tic tac toe game;spinning bottom-right tic tac toe block
+12_Video_8.mp4;Unreal;12;01:20:00;;A6;avatar, tic tac toe game;spinning bottom-middle tic tac toe block
+12_Video_8.mp4;Unreal;12;01:21:00;;A6;avatar, tic tac toe game;spinning bottom-middle tic tac toe block
+12_Video_8.mp4;Unreal;12;01:23:00;01:25:00;A6;avatar, tic tac toe game;spinning middle-left tic tac toe block
+12_Video_8.mp4;Unreal;12;01:25:00;01:27:00;A8;avatar;manual turning 180 degrees
+12_Video_8.mp4;Unreal;12;01:29:00;;A7;avatar, carousel;teleported in playgound onto carousel
+12_Video_8.mp4;Unreal;12;01:30:00;01:32:00;A6;avatar, carousel;grabbing bar of caousel, spinning carousel breaking immeddiately
+12_Video_8.mp4;Unreal;12;01:36:00;01:37:00;A8;avatar;manual turning left 90 degrees
+12_Video_8.mp4;Unreal;12;01:41:00;;A7;avatar;teleporting in playgound
+12_Video_8.mp4;Unreal;12;01:41:00;01:42:00;A8;avatar;manual turning left 45 degrees
+12_Video_8.mp4;Unreal;12;01:43:00;;A7;avatar;teleporting in playgound
+12_Video_8.mp4;Unreal;12;01:47:00;01:49:00;A1;avatar, ladder;walking in playgound towards ladder
+12_Video_8.mp4;Unreal;12;01:49:00;01:50:00;A6;avatar, ladder;grabbing ladder railing
+12_Video_8.mp4;Unreal;12;01:50:00;;A7;avatar, ladder;teleporting from playgound to balcony via ladder
+12_Video_8.mp4;Unreal;12;01:55:00;02:00:00;A4;avatar, walking robot;waving towards walking robot with right hand
+12_Video_8.mp4;Unreal;12;02:05:00;02:15:00;A5;avatar, Russel;conversation between avatar and russel via headset 
+12_Video_8.mp4;Unreal;12;02:16:00;;A7;avatar;teleporting on balcony
+12_Video_8.mp4;Unreal;12;02:16:00;02:17:00;A8;avatar;manual turning right 45 degrees
+12_Video_8.mp4;Unreal;12;02:18:00;;A7;avatar;teleporting on balcony
+12_Video_8.mp4;Unreal;12;02:19:00;02:22:00;A6;avatar, drone part, trash bin;graabbing drone part, dropping drone part into trash bin
+12_Video_8.mp4;Unreal;12;02:22:00;02:23:00;A8;avatar;manual turning left 45 degrees
+12_Video_8.mp4;Unreal;12;02:24:00;;A7;avatar;teleporting on balcony
+12_Video_8.mp4;Unreal;12;02:25:00;02:27:00;A6;avatar, drone part, trash bin;graabbing drone part, dropping drone part into trash bin
+12_Video_8.mp4;Unreal;12;02:25:00;02:26:00;A8;avatar;manual turning right 90 degrees
+12_Video_8.mp4;Unreal;12;02:27:00;02:28:00;A8;avatar;manual turning right 90 degrees
+12_Video_8.mp4;Unreal;12;02:28:00;02:31:00;A1;avatar;walking on balcony
+12_Video_8.mp4;Unreal;12;02:32:00;02:33:00;A8;avatar;manual turning 180 degrees
+12_Video_8.mp4;Unreal;12;02:35:00;;A7;avatar;teleporting on balcony
+12_Video_8.mp4;Unreal;12;02:38:00;;A7;avatar, planter;teleporting on balcony onto planter
+12_Video_8.mp4;Unreal;12;02:40:00;02:42:00;A1;avatar, planter;walking on planter towards balcony railing
+12_Video_8.mp4;Unreal;12;02:49:00;02:50:00;A8;avatar;manual turning left 90 degrees
+12_Video_8.mp4;Unreal;12;02:52:00;;A7;avatar;teleporting from balcony onto pipe bridge
+12_Video_9.mp4;Unreal;12;00:03:00;;A7;avatar;teleporting from pipe bridge onto french balcony
+12_Video_9.mp4;Unreal;12;00:03:00;00:04:00;A8;avatar;manual turning right 45 degrees
+12_Video_9.mp4;Unreal;12;00:06:00;;A8;avatar;quickturn right 45 degrees
+12_Video_9.mp4;Unreal;12;00:07:00;;A8;avatar;quickturn right 45 degrees
+12_Video_9.mp4;Unreal;12;00:08:00;;A7;avatar;teleporting from french balcony onto pipe bridge
+12_Video_9.mp4;Unreal;12;00:10:00;00:12:00;A8;avatar;manual turning 180 degrees
+12_Video_9.mp4;Unreal;12;00:15:00;;A7;avatar;teleporting from pipe bridge onto french balcony
+12_Video_9.mp4;Unreal;12;00:15:00;00:16:00;A8;avatar;manual turning right 45 degrees
+12_Video_9.mp4;Unreal;12;00:16:00;00:18:00;A1;avatar;walking on french balcony
+12_Video_9.mp4;Unreal;12;00:17:00;00:18:00;A8;avatar;manual turning left 90 degrees
+12_Video_9.mp4;Unreal;12;00:18:00;00:23:00;A6;avatar, window shutter handle;grabbingg window shutter handle, pushing up window shutter
+12_Video_9.mp4;Unreal;12;00:26:00;;A7;avatar;teleporting from french balcony into appartment
+12_Video_9.mp4;Unreal;12;00:26:00;;A3;avatar;entering apartment
+12_Video_9.mp4;Unreal;12;00:26:00;00:27:00;A8;avatar;manual turning left 90 degrees
+12_Video_9.mp4;Unreal;12;00:27:00;00:28:00;A8;avatar;manual turning 180 degrees
+12_Video_9.mp4;Unreal;12;00:30:00;00:35:00;A6;avatar, telephone handset;grabbing telephone handset, dropping handset on table
+12_Video_9.mp4;Unreal;12;00:35:00;00:37:00;A6;avatar, telephone base station;grabbing and dropping telephone base station
+12_Video_9.mp4;Unreal;12;00:37:00;00:39:00;A8;avatar;manual turning 180 degrees
+12_Video_9.mp4;Unreal;12;00:39:00;;A7;avatar;teleporting in appartment
+12_Video_9.mp4;Unreal;12;00:41:00;;A7;avatar;teleporting in appartment
+12_Video_9.mp4;Unreal;12;00:43:00;00:50:00;A6;avatar, television;trying to interact with television
+12_Video_9.mp4;Unreal;12;00:50:00;00:51:00;A8;avatar;manual turning right 90 degrees
+12_Video_9.mp4;Unreal;12;00:52:00;00:53:00;A8;avatar;manual turning right 90 degrees
+12_Video_9.mp4;Unreal;12;00:56:00;;A7;avatar;teleporting in appartment
+12_Video_9.mp4;Unreal;12;00:58:00;;A7;avatar;teleporting in appartment
+12_Video_9.mp4;Unreal;12;01:00:00;01:03:00;A6;avatar, radio;trying to interact with radio
+12_Video_9.mp4;Unreal;12;01:04:00;01:07:00;A6;avatar, book;grabbing book from shelf, dropping book onto radio
+12_Video_9.mp4;Unreal;12;01:07:00;01:09:00;A8;avatar;manual turning left 135 degrees
+12_Video_9.mp4;Unreal;12;01:10:00;;A7;avatar;teleporting in appartment
+12_Video_9.mp4;Unreal;12;01:10:00;01:11:00;A8;avatar;manual turning right 45 degrees
+12_Video_9.mp4;Unreal;12;01:12:00;;A7;avatar;teleporting in appartment
+12_Video_9.mp4;Unreal;12;01:14:00;01:16:00;A6;avatar, coffee pot;grabbing and dropping coffee cup
+12_Video_9.mp4;Unreal;12;01:16:00;01:18:00;A8;avatar;manual turning right 90 degrees
+12_Video_9.mp4;Unreal;12;01:18:00;01:21:00;A8;avatar;manual turning left 225 degrees
+12_Video_9.mp4;Unreal;12;01:22:00;;A7;avatar;teleporting in appartment
+12_Video_9.mp4;Unreal;12;01:23:00;;A6;avatar, light switch;toggling light switch on
+12_Video_9.mp4;Unreal;12;01:26:00;;A6;avatar, light switch;toggling light switch off
+12_Video_9.mp4;Unreal;12;01:26:00;;A6;avatar, light switch;toggling light switch on
+12_Video_9.mp4;Unreal;12;01:26:00;01:29:00;A8;avatar;manual turning left 135 degrees
+12_Video_9.mp4;Unreal;12;01:30:00;;A7;avatar;teleporting in appartment
+12_Video_9.mp4;Unreal;12;01:32:00;01:34:00;A6;avatar, locker door;opening locker door
+12_Video_9.mp4;Unreal;12;01:35:00;01:36:00;A6;avatar, red glowing button;pressing red glowing button inside locker
+12_Video_9.mp4;Unreal;12;01:38:00;01:49:00;A5;avatar, Russel;conversation between avatar and russel
+12_Video_9.mp4;Unreal;12;01:39:00;01:40:00;A4;avatar, Russel;waving at Russel with right hand
+12_Video_9.mp4;Unreal;12;01:45:00;;A7;avatar;teleporting from appartment into Russels office
+12_Video_9.mp4;Unreal;12;01:52:00;;A7;avatar;teleporting inside Russels office
+12_Video_9.mp4;Unreal;12;01:52:00;01:53:00;A8;avatar;manual turning right 90 degrees
+12_Video_9.mp4;Unreal;12;01:54:00;01:57:00;A6;avatar, soda can;grabbing soda can, dropping can onto shelf
+12_Video_9.mp4;Unreal;12;01:58:00;02:00:00;A6;avatar, monitor;trying to interact with monitor
+12_Video_9.mp4;Unreal;12;02:02:00;;A7;avatar;teleporting inside Russels office
+12_Video_9.mp4;Unreal;12;02:03:00;22:05:00;A6;avatar, geiger counter;grabbing geiger counter, dropping geiger counter on shelf
+12_Video_9.mp4;Unreal;12;02:07:00;02:11:00;A6;avatar, geiger counter;grabbing geiger counter, dropping geiger counter on shelf
+12_Video_9.mp4;Unreal;12;02:12:00;;A7;avatar;teleporting inside Russels office
+12_Video_9.mp4;Unreal;12;02:14:00;02:19:00;A6;avatar, graphic card;grabbing graphic card, throwing graphic card to the right
+12_Video_9.mp4;Unreal;12;02:23:00;02:25:00;A8;avatar;manual turning left 135 degrees
+12_Video_9.mp4;Unreal;12;02:25:00;02:26:00;A4;avatar, Russel;waving at Russel with right hand
+12_Video_9.mp4;Unreal;12;02:25:00;03:12:00;A5;avatar, Russel;conversation between avatar and russel
+12_Video_9.mp4;Unreal;12;02:29:00;;A7;avatar;teleporting inside Russels office
+12_Video_9.mp4;Unreal;12;02:29:00;02:30:00;A8;avatar;manual turning right 45 degrees
+12_Video_9.mp4;Unreal;12;02:30:00;02:34:00;A6;avatar, fridge handle;grabbing fridge handle, opening door, closing door
+12_Video_9.mp4;Unreal;12;02:36:00;02:38:00;A6;avatar, fridge handle;grabbing fridge handle, opening door, closing door
+12_Video_9.mp4;Unreal;12;02:38:00;02:39:00;A8;avatar;manual turning left 90 degrees
+12_Video_9.mp4;Unreal;12;02:39:00;;A7;avatar;teleporting inside Russels office
+12_Video_9.mp4;Unreal;12;02:44:00;02:45:00;A8;avatar;manual turning right 45 degrees
+12_Video_9.mp4;Unreal;12;02:46:00;02:47:00;A6;avatar, electrical device;trying to interact with electrical device
+12_Video_9.mp4;Unreal;12;02:47:00;02:48:00;A8;avatar;manual turning left 135 degrees
+12_Video_9.mp4;Unreal;12;02:48:00;;A7;avatar;teleporting inside Russels office
+12_Video_9.mp4;Unreal;12;02:48:00;02:50:00;A8;avatar;manual turning left 45 degrees
+12_Video_9.mp4;Unreal;12;02:51:00;;A7;avatar, map table;teleporting inside Russels office towards map table
+12_Video_9.mp4;Unreal;12;02:54:00;02:54:00;A4;avatar, Russel;waving at Russel with right hand
+12_Video_9.mp4;Unreal;12;03:10:00;03:12:00;A1;avatar, map table;walking in Russels office around map table
+12_Video_9.mp4;Unreal;12;03:15:00;03:16:00;A8;avatar;manual turning left 90 degrees
+12_Video_9.mp4;Unreal;12;03:18:00;03:22:00;A1;avatar, coffee table;walking in Russels office around coffee table
+12_Video_9.mp4;Unreal;12;03:22:00;03:24:00;A6;avatar, map table;trying to interact with map table
+12_Video_9.mp4;Unreal;12;03:25:00;03:27:00;A6;avatar, saucer, map table;grabbing saucer, dropping saucer on marked spot on map table
+12_Video_9.mp4;Unreal;12;03:27:00;04:27:00;A5;avatar, Russel;conversation between avatar and russel
+12_Video_9.mp4;Unreal;12;03:40:00;03:46:00;A1;avatar, coffee table, map table;walking in Russels office around coffee table and map table
+12_Video_9.mp4;Unreal;12;04:14:00;04:15:00;A6;avatar, saucer;grabbing saucer, throwing saucer to the right through the office
+12_Video_9.mp4;Unreal;12;04:14:00;04:17:00;A8;avatar;manual turning  180 degrees
+12_Video_9.mp4;Unreal;12;04:18:00;;A7;avatar;teleporting inside Russels office
+12_Video_9.mp4;Unreal;12;04:18:00;04:21:00;A1;avatar, window ;walking in russels office to the window
+12_Video_9.mp4;Unreal;12;04:19:00;04:20:00;A8;avatar;manual turning left 90 degrees
+12_Video_9.mp4;Unreal;12;04:23:00;04:24:00;A8;avatar;manual turning left 135 degrees
+12_Video_9.mp4;Unreal;12;04:26:00;;A7;avatar;teleporting inside Russels office
+12_Video_9.mp4;Unreal;12;04:27:00;;A7;avatar;teleporting inside Russels office
+12_Video_9.mp4;Unreal;12;04:27:00;04:29:00;A8;avatar;manual turning left 90 degrees
+12_Video_9.mp4;Unreal;12;04:30:00;;A7;avatar;teleporting inside Russels office
+12_Video_9.mp4;Unreal;12;04:32:00;04:37:00;A1;avatar;walking in Russels office
+12_Video_9.mp4;Unreal;12;04:35:00;04:39:00;A2;avatar, kitchenette;yellow fade out while walking towards kitchenette, arrow pointing backwards
+12_Video_9.mp4;Unreal;12;04:37:00;04:38:00;A6;avatar, television;trying to interact with television
+12_Video_9.mp4;Unreal;12;04:38:00;04:40:00;A1;avatar;walking backwards in Russels office away from kitchenette
+12_Video_10.mp4;Unreal;12;00:04:00;;A7;avatar;teleporting inside Russels office
+12_Video_10.mp4;Unreal;12;00:08:00;;A7;avatar;teleporting inside Russels office
+12_Video_10.mp4;Unreal;12;00:09:00;;A7;avatar;teleporting inside Russels office
+12_Video_10.mp4;Unreal;12;00:12:00;00:13:00;A8;avatar;manual turning right 90 degrees
+12_Video_10.mp4;Unreal;12;00:13:00;00:15:00;A1 ;avatar, curtain;walking inside Russels office towards curtain
+12_Video_10.mp4;Unreal;12;00:15:00;00:16:00;A2;avatar, curtain;yellow fade out while colliding with curtain
+12_Video_10.mp4;Unreal;12;00:16:00;00:17:00;A1 ;avatar, curtain;walking backwards inside Russels office away from curtain
+12_Video_10.mp4;Unreal;12;00:18:00;00:19:00;A8;avatar;manual turning left 135 degrees
+12_Video_10.mp4;Unreal;12;02:20:00;;A7;avatar;teleporting inside Russels office
+12_Video_10.mp4;Unreal;12;00:21:00;00:25:00;A6;avatar, glove compartments;putting hands into glove compartments, receiving gravity gloves, pulling hands out of compartment
+12_Video_10.mp4;Unreal;12;00:29:00;00:33:00;A6;avatar, gravity glove;trying to interact with gravity glove
+12_Video_10.mp4;Unreal;12;00:36:00;00:37:00;A8;avatar;manual turning left 90 degrees
+12_Video_10.mp4;Unreal;12;00:40:00;;A7;avatar;teleporting out of Russels office and into small chamber
+12_Video_10.mp4;Unreal;12;00:43:00;00:45:00;A6;avatar, light switch;trying to interact with light switch
+12_Video_10.mp4;Unreal;12;00:47:00;;A7;avatar;teleporting inside of small chamber
+12_Video_10.mp4;Unreal;12;00:48:00;00:49:00;A8;avatar;manual turning right 45 degrees
+12_Video_10.mp4;Unreal;12;00:49:00;;A7;avatar;teleporting inside of small chamber
+12_Video_10.mp4;Unreal;12;00:51:00;00:52:00;A6;avatar, lid;trying to interact with lid
+12_Video_10.mp4;Unreal;12;00:52:00;00:55:00;A8;avatar;manual turning left 90 degrees
+12_Video_10.mp4;Unreal;12;00:53:00;00:56:00;A1 ;avatar;walking inside of small chamber
+12_Video_10.mp4;Unreal;12;00:55:00;00:56:00;A8;avatar;manual turning right 90 degrees
+12_Video_10.mp4;Unreal;12;00:57:00;;A7;avatar;teleporting inside of small chamber
+12_Video_10.mp4;Unreal;12;00:59:00;;A7;avatar;teleporting inside of small chamber
+12_Video_10.mp4;Unreal;12;01:01:00;;A7;avatar;teleporting out of of small chamber and into garage onto blue box
+12_Video_10.mp4;Unreal;12;01:01:00;01:03:00;A8;avatar;manual turning 180 degrees
+12_Video_10.mp4;Unreal;12;01:04:00;;A7;avatar;teleporting in garage on blue boxes
+12_Video_10.mp4;Unreal;12;01:04:00;01:05:00;A8;avatar;manual turning 180 degrees
+12_Video_10.mp4;Unreal;12;01:07:00;;A7;avatar;teleporting in garage onto floor
+12_Video_10.mp4;Unreal;12;01:09:00;;A7;avatar;teleporting in garage 
+12_Video_10.mp4;Unreal;12;01:09:00;01:10:00;A8;avatar;manual turning right 90 degrees
+12_Video_10.mp4;Unreal;12;01:10:00;01:13:00;A1 ;avatar;walking inside of garage towards car
+12_Video_10.mp4;Unreal;12;01:12:00;01:13:00;A8;avatar;manual turning left 90 degrees
+12_Video_10.mp4;Unreal;12;01:15:00;01:16:00;A8;avatar;manual turning left 90 degrees
+12_Video_10.mp4;Unreal;12;01:16:00;01:18:00;A1 ;avatar;walking inside of garage towards car
+12_Video_10.mp4;Unreal;12;01:19:00;01:21:00;A1 ;avatar;walking inside of garage 
+12_Video_10.mp4;Unreal;12;01:19:00;01:20:00;A8;avatar;manual turning right 90 degrees
+12_Video_10.mp4;Unreal;12;01:21:00;;A7;avatar;teleporting in garage 
+12_Video_10.mp4;Unreal;12;01:21:00;01:23:00;A8;avatar;manual turning right 90 degrees
+12_Video_10.mp4;Unreal;12;01:24:00;;A7;avatar;teleporting in garage 
+12_Video_10.mp4;Unreal;12;01:24:00;01:26:00;A8;avatar;manual turning 180 degrees
+12_Video_10.mp4;Unreal;12;01:26:00;01:28:00;A1 ;avatar;walking inside of garage
+12_Video_10.mp4;Unreal;12;01:32:00;;A7;avatar;teleporting in garage 
+12_Video_10.mp4;Unreal;12;01:32:00;01:33:00;A8;avatar;manual turning 180 degrees
+12_Video_10.mp4;Unreal;12;01:33:00;01:36:00;A1 ;avatar;walking inside of garage
+12_Video_10.mp4;Unreal;12;01:36:00;01:37:00;A8;avatar;manual turning 180 degrees
+12_Video_10.mp4;Unreal;12;01:38:00;;A7;avatar;teleporting in garage 
+12_Video_10.mp4;Unreal;12;01:39:00;01:42:00;A6;avatar, door handle;grabbing door handle, closing door
+12_Video_10.mp4;Unreal;12;01:43:00;01:45:00;A6;avatar, door handle;grabbing door handle, opening door
+12_Video_10.mp4;Unreal;12;01:46:00;;A7;avatar;teleporting out of garage and onto parking lot 
+12_Video_10.mp4;Unreal;12;01:49:00;;A7;avatar;teleporting in parking lot
+12_Video_10.mp4;Unreal;12;01:52:00;;A7;avatar;teleporting in parking lot
+12_Video_10.mp4;Unreal;12;01:56:00;02:06:00;A6;avatar, gravity glove, tin can;trying to pull tin can with gravity glove right
+12_Video_10.mp4;Unreal;12;01:56:00;02:21:00;A10;avatar, HUD, gravity glove;tutorial gravity glove
+12_Video_10.mp4;Unreal;12;02:06:00;02:21:00;A6;avatar, gravity glove, tin can;trying to pull tin can with gravity glove left
+12_Video_10.mp4;Unreal;12;02:09:00;02:10:00;A10;avatar, menu;opening menu accidentally
+12_Video_10.mp4;Unreal;12;02:21:00;02:24:00;A6;avatar, gravity glove, tin can;trying to pull tin can with gravity glove right
+12_Video_10.mp4;Unreal;12;02:21:00;02:24:00;A10;avatar, HUD, gravity glove;tutorial gravity glove
+12_Video_10.mp4;Unreal;12;02:25:00;02:27:00;A6;avatar, gravity glove, tin can;trying to pull tin can with gravity glove right
+12_Video_10.mp4;Unreal;12;02:25:00;02:27:00;A10;avatar, HUD, gravity glove;tutorial gravity glove
+12_Video_10.mp4;Unreal;12;02:27:00;;A7;avatar;teleporting in parking lot
+12_Video_10.mp4;Unreal;12;02:28:00;02:38:00;A6;avatar, gravity glove, tin can;pulling tin can with gravity glove right, dropping it on the floor
+12_Video_10.mp4;Unreal;12;02:28:00;02:34:00;A10;avatar, HUD, gravity glove;tutorial gravity glove
+12_Video_10.mp4;Unreal;12;02:39:00;02:46:00;A6;avatar, gravity glove, tin can;pulling tin can with gravity glove right, throwing tin can across the parking lot to the left
+12_Video_10.mp4;Unreal;12;02:39:00;02:42:00;A10;avatar, HUD, gravity glove;tutorial gravity glove
+12_Video_10.mp4;Unreal;12;02:43:00;02:44:00;A8;avatar;manual turning left 90 degrees
+12_Video_10.mp4;Unreal;12;02:48:00;02:51:00;A10;avatar, HUD, gravity glove;tutorial gravity glove
+12_Video_10.mp4;Unreal;12;02:48:00;02:53:00;A6;avatar, gravity glove, tin can;pulling tin can with gravity glove right, throwing tin can across the parking lot to the left
+12_Video_10.mp4;Unreal;12;02:52:00;02:53:00;A8;avatar;manual turning left 90 degrees
+12_Video_11.mp4;Unreal;12;00:00:00;00:03:00;A8 ;avatar;manual turning right 135 degrees
+12_Video_11.mp4;Unreal;12;00:04:00;00:05:00;A4;avatar, Russel;waving towards Russel with right hand
+12_Video_11.mp4;Unreal;12;00:10:00;00:11:00;A4;avatar, Russel;waving towards Russel with right hand
+12_Video_11.mp4;Unreal;12;00:11:00;00:12:00;A8 ;avatar;manual turning left 135 degrees
+12_Video_11.mp4;Unreal;12;00:13:00;00:15:00;A6;avatar, gravity glove, pistol, Russel;pulling pistol with gravity glove right
+12_Video_11.mp4;Unreal;12;00:15:00;00:18:00;A8 ;avatar;manual turning right 135 degrees
+12_Video_11.mp4;Unreal;12;00:22:00;00:23:00;A6;avatar, gravity glove, magazine, Russel;pulling magazine thrown by Russel with gravity glove left out of the air
+12_Video_11.mp4;Unreal;12;00:23:00;00:25:00;A6;avatar, pistol, magazine;pushing magazine into pistol
+12_Video_11.mp4;Unreal;12;00:25:00;00:26:00;A10;pistol, HUD;tutorial loading pistol
+12_Video_11.mp4;Unreal;12;00:25:00;00:26:00;A6;avatar, pistol  ;pulling back pistol sled
+12_Video_11.mp4;Unreal;12;00:28:00;00:29:00;A4;avatar, Russel;waving towards Russel with left hand
+12_Video_11.mp4;Unreal;12;00:30:00;00:35:00;A6;avatar, pistol, beer bottles ;aiming pistol at beer bottles
+12_Video_11.mp4;Unreal;12;00:35:00;00:36:00;A6;avatar, pistol  ;pulling back pistol sled
+12_Video_11.mp4;Unreal;12;00:36:00;00:38:00;A6;avatar, pistol, beer bottles ;aiming pistol at beer bottles
+12_Video_11.mp4;Unreal;12;00:38:00;;A6;avatar, pistol;shooting pistol
+12_Video_11.mp4;Unreal;12;00:40:00;00:42:00;A8 ;avatar;manual turning left 135 degrees
+12_Video_11.mp4;Unreal;12;00:42:00;00:44:00;A6;avatar, pistol, beer bottle ;aiming pistol at beer bottle
+12_Video_11.mp4;Unreal;12;00:43:00;;A6;avatar, pistol, beer bottle ;shooting pistol at beer bottle, hitting beer bottle
+12_Video_11.mp4;Unreal;12;00:44:00;00:45:00;A6;avatar, pistol, cardboard box;aiming pistol at cardboard box
+12_Video_11.mp4;Unreal;12;00:45:00;;A6;avatar, pistol, cardboard box;shooting pistol at cardboard box, hitting cardboard box
+12_Video_11.mp4;Unreal;12;00:46:00;00:48:00;A6;avatar, pistol, petrol can;aiming pistol at petrol can
+12_Video_11.mp4;Unreal;12;00:47:00;;A6;avatar, pistol, petrol can;shooting pistol at petrol can
+12_Video_11.mp4;Unreal;12;00:47:00;;A6;avatar, pistol, petrol can;shooting pistol at petrol can
+12_Video_11.mp4;Unreal;12;00:48:00;;A6;avatar, pistol, petrol can;shooting pistol at petrol can
+12_Video_11.mp4;Unreal;12;00:48:00;00:50:00;A8 ;avatar;manual turning right 90 degrees
+12_Video_11.mp4;Unreal;12;00:50:00;00:53:00;A6;avatar, pistol, traffic cone;aiming pistol at traffic cone
+12_Video_11.mp4;Unreal;12;00:51:00;;A6;avatar, pistol, traffic cone;shooting pistol at traffic cone, hitting traffic cone
+12_Video_11.mp4;Unreal;12;00:52:00;;A6;avatar, pistol, traffic cone;shooting pistol at traffic cone
+12_Video_11.mp4;Unreal;12;00:52:00;;A6;avatar, pistol, traffic cone;shooting pistol at traffic cone
+12_Video_11.mp4;Unreal;12;00:52:00;00:54:00;A10;pistol, HUD;tutorial remove pistol magazine
+12_Video_11.mp4;Unreal;12;00:53:00;00:55:00;A5;avatar, Russel;conversation between avatar and Russel
+12_Video_11.mp4;Unreal;12;00:53:00;00:55:00;A8 ;avatar;manual turning right 90 degrees
+12_Video_11.mp4;Unreal;12;00:55:00;01:01:00;A10;pistol, HUD;tutorial remove pistol magazine
+12_Video_11.mp4;Unreal;12;00:56:00;00:58:00;A8 ;avatar;manual turning right 45 degrees
+12_Video_11.mp4;Unreal;12;01:00:00;01:01:00;A6;avatar, pistol, magazine;removing pistol magazine
+12_Video_11.mp4;Unreal;12;01:04:00;01:05:00;A6;avatar, gravity glove, magazine, Russel;pulling magazine thrown by Russel with gravity glove left out of the air
+12_Video_11.mp4;Unreal;12;01:04:00;01:06:00;A8 ;avatar;manual turning left 45 degrees
+12_Video_11.mp4;Unreal;12;01:06:00;01:07:00;A6;avatar, pistol, magazine;pushing magazine into pistol
+12_Video_11.mp4;Unreal;12;01:07:00;01:08:00;A10;pistol, HUD;tutorial loading pistol
+12_Video_11.mp4;Unreal;12;01:07:00;01:08:00;A6;avatar, pistol  ;pulling back pistol sled
+12_Video_11.mp4;Unreal;12;01:10:00;;A7;avatar;teleporting in parking lot
+12_Video_11.mp4;Unreal;12;01:10:00;01:12:00;A8 ;avatar;manual turning right 90 degrees
+12_Video_11.mp4;Unreal;12;01:12:00;00:16:00;A6;avatar, pistol, beer bottle ;aiming pistol at beer bottle
+12_Video_11.mp4;Unreal;12;01:13:00;;A6;avatar, pistol, beer bottle ;shooting pistol at beer bottle
+12_Video_11.mp4;Unreal;12;01:15:00;;A6;avatar, pistol, beer bottle ;shooting pistol at beer bottle, hitting beer bottle
+12_Video_11.mp4;Unreal;12;01:16:00;;A6;avatar, pistol, beer bottle ;shooting pistol at beer bottle, hitting beer bottle
+12_Video_11.mp4;Unreal;12;01:16:00;01:17:00;A8 ;avatar;manual turning right 45 degrees
+12_Video_11.mp4;Unreal;12;01:18:00;01:20:00;A6;avatar, pistol, beer bottles ;aiming pistol at beer bottles
+12_Video_11.mp4;Unreal;12;01:19:00;;A6;avatar, pistol, beer bottle ;shooting pistol at beer bottle, hitting beer bottle
+12_Video_11.mp4;Unreal;12;01:19:00;;A6;avatar, pistol, beer bottle ;shooting pistol at beer bottle, hitting beer bottle
+12_Video_11.mp4;Unreal;12;01:20:00;;A6;avatar, pistol, beer bottle ;shooting pistol at beer bottle, hitting beer bottle
+12_Video_11.mp4;Unreal;12;01:22:00;01:26:00;A6;avatar, pistol, soda can;aiming pistol at soda can
+12_Video_11.mp4;Unreal;12;01:22:00;;A6;avatar, pistol, soda can;shooting pistol at soda can
+12_Video_11.mp4;Unreal;12;01:23:00;;A6;avatar, pistol, soda can;shooting pistol at soda can
+12_Video_11.mp4;Unreal;12;01:24:00;;A6 ;avatar, pistol, soda can, cardboard box;shooting pistol at soda can, hitting cardboard box
+12_Video_11.mp4;Unreal;12;01:25:00;01:26:00;A10;pistol, HUD;tutorial remove pistol magazine
+12_Video_11.mp4;Unreal;12;01:26:00;;A6;avatar, pistol, magazine;removing pistol magazine
+12_Video_11.mp4;Unreal;12;01:31:00;01:32:00;A6;avatar, pistol, fence;aiming pistol at fence
+12_Video_11.mp4;Unreal;12;01:31:00;;A6;avatar, pistol;shooting last bullet from pistol at fence
+12_Video_11.mp4;Unreal;12;01:32:00;01:37:00;A5;avatar, Russel;conversation between avatar and Russel
+12_Video_11.mp4;Unreal;12;01:39:00;01:40:00;A6;avatar, gravity glove, magazine, Russel;trying to pullmagazine thrown by Russel with gravity glove left out of the air without success
+12_Video_11.mp4;Unreal;12;01:40:00;01:41:00;A8 ;avatar;manual turning right 90 degrees
+12_Video_11.mp4;Unreal;12;01:43:00;;A7;avatar;teleporting in parking lot
+12_Video_11.mp4;Unreal;12;01:44:00;;A7;avatar;teleporting in parking lot
+12_Video_11.mp4;Unreal;12;01:44:00;01:45:00;A8 ;avatar;manual turning right 90 degrees
+12_Video_11.mp4;Unreal;12;01:47:00;01:50:00;A6;avatar, gravity glove, magazine;pulling magazine with gravity glove left 
+12_Video_11.mp4;Unreal;12;01:50:00;01:51:00;A6;avatar, pistol, magazine;pushing magazine into pistol
+12_Video_11.mp4;Unreal;12;01:51:00;01:55:00;A8 ;avatar;manual turning left 270 degrees
+12_Video_11.mp4;Unreal;12;01:56:00;;A7;avatar;teleporting in parking lot
+12_Video_11.mp4;Unreal;12;01:57:00;01:58:00;A8 ;avatar;manual turning right 90 degrees
+12_Video_11.mp4;Unreal;12;01:59:00;02:03:00;A6;avatar, gravity glove, tin can;pulling tin can with gravity glove left from the floor
+12_Video_11.mp4;Unreal;12;02:04:00;;A6;avatar, tin can;dropping tin can on the floor
+12_Video_11.mp4;Unreal;12;02:04:00;02:06:00;A6;avatar, gravity glove, jar;pulling jar with gravity glove left from the floor
+12_Video_11.mp4;Unreal;12;02:07:00;;A6;avatar, jar;dropping jar on the floor
+12_Video_11.mp4;Unreal;12;02:08:00;02:09:00;A6;avatar, gravity glove, blue helmet;pulling blue helmet with gravity glove left from palette
+12_Video_11.mp4;Unreal;12;02:09:00;02:11:00;A6 ;avatar, blue helmet;putting blue helmet on the head
+12_Video_11.mp4;Unreal;12;02:12:00;02:13:00;A6 ;avatart, gravity glove, water container;pulling water container with gravity glove left from palette
+12_Video_11.mp4;Unreal;12;02:13:00;02:14:00;A8 ;avatar;manual turning right 45 degrees
+12_Video_11.mp4;Unreal;12;02:14:00;;A6 ;avatart, water container;throwing water container towards fence
+12_Video_11.mp4;Unreal;12;02:14:00;02:17:00;A6 ;avatar, pistol, water container;aiming pistol at water container
+12_Video_11.mp4;Unreal;12;02:15:00;;A6 ;avatar, pistol, water container;shooting pistol at water container
+12_Video_11.mp4;Unreal;12;02:16:00;;A6 ;avatar, pistol, water container;shooting pistol at water container
+12_Video_11.mp4;Unreal;12;02:16:00;;A6 ;avatar, pistol, water container;shooting pistol at water container
+12_Video_11.mp4;Unreal;12;02:16:00;;A6 ;avatar, pistol, water container;shooting pistol at water container, hitting water bottle
+12_Video_11.mp4;Unreal;12;02:17:00;;A6 ;avatar, pistol, water container;shooting pistol at water container
+12_Video_11.mp4;Unreal;12;02:17:00;02:18:00;A8 ;avatar;manual turning leftt 90 degrees
+12_Video_11.mp4;Unreal;12;02:18:00;02:20:00;A6 ;avatar, pistol, plastic bottle;aiming pistol at plastic bottle
+12_Video_11.mp4;Unreal;12;02:19:00;;A6 ;avatar, pistol, plastic bottle;shooting pistol at plastic bottle
+12_Video_11.mp4;Unreal;12;02:19:00;;A6 ;avatar, pistol, plastic bottle;shooting pistol at plastic bottle, hitting plastic bottle
+12_Video_11.mp4;Unreal;12;02:21:00;02:23:00;A6 ;avatar, pistol, jar;aiming pistol at jar
+12_Video_11.mp4;Unreal;12;02:22:00;;A6 ;avatar, pistol, jar;shooting pistol at jar, hitting jar
+12_Video_11.mp4;Unreal;12;02:23:00;02:25:00;A6 ;avatar, pistol, jar;aiming pistol at jar
+12_Video_11.mp4;Unreal;12;02:23:00;;A6 ;avatar, pistol, jar;shooting pistol at jar, hitting jar
+12_Video_11.mp4;Unreal;12;02:24:00;;A6 ;avatar, pistol, jar;shooting pistol at jar, hitting jar
+12_Video_11.mp4;Unreal;12;02:25:00;;A5;avatar, Russel;conversation between avatar and Russel
+12_Video_11.mp4;Unreal;12;02:25:00;02:26:00;A6;avatar, pistol, magazine;removing pistol magazine
+12_Video_11.mp4;Unreal;12;02:27:00;02:30:00;A6;avatar, pistol, magazine;pulling magazine with gravity glove left from floor
+12_Video_11.mp4;Unreal;12;02:30:00;02:33:00;A8 ;avatar;manual turning leftt 90 degrees
+12_Video_11.mp4;Unreal;12;02:38:00;02:40:00;A6;avatar, gravity glove, magazine, Russel;trying to pullmagazine thrown by Russel with gravity glove left out of the air
+12_Video_11.mp4;Unreal;12;02:40:00;02:41:00;A6;avatar, pistol, magazine;pushing magazine into pistol
+12_Video_11.mp4;Unreal;12;02:46:00;02:50:00;A8 ;avatar;manual turning left 135 degrees
+12_Video_11.mp4;Unreal;12;02:52:00;02:53:00;A8 ;avatar;manual turning left 45 degrees
+12_Video_11.mp4;Unreal;12;02:53:00;;A7;avatar;teleporting in parking lot
+12_Video_11.mp4;Unreal;12;02:55:00;;A7;avatar;teleporting in parking lot
+12_Video_11.mp4;Unreal;12;02:58:00;;A7;avatar;teleporting in parking lot
+12_Video_11.mp4;Unreal;12;02:58:00;03:02:00;A6 ;avatar, pistol, padlock;aiming pistol at padlock
+12_Video_11.mp4;Unreal;12;03:00:00;;A6 ;avatar, pistol, padlock;shooting pistol at padlock
+12_Video_11.mp4;Unreal;12;03:01:00;;A6 ;avatar, pistol, padlock, fence door;shooting pistol at padlock, hitting padlock, opening fence door
+12_Video_11.mp4;Unreal;12;03:05:00;;A7;avatar;teleporting in parking lot
+12_Video_11.mp4;Unreal;12;03:06:00;03:09:00;A8 ;avatar;manual turning  180 degrees
+12_Video_11.mp4;Unreal;12;03:11:00;03:12:00;A8 ;avatar;manual turning  180 degrees
+12_Video_11.mp4;Unreal;12;03:13:00;;A7;avatar;teleporting from parking lot onto railway
+12_Video_11.mp4;Unreal;12;03:14:00;03:15:00;A8 ;avatar;manual turning  left 45 degrees
+12_Video_11.mp4;Unreal;12;03:15:00;03:16:00;A8 ;avatar;quickturn right 45 degrees
+12_Video_11.mp4;Unreal;12;03:15:00;;A8 ;avatar;quickturn left 45 degrees
+12_Video_11.mp4;Unreal;12;03:16:00;;A8 ;avatar;quickturn right 45 degrees
+12_Video_11.mp4;Unreal;12;03:16:00;03:17:00;A8 ;avatar;manual turning  right 45 degrees
+12_Video_11.mp4;Unreal;12;03:17:00;;A8 ;avatar;quickturn right 45 degrees
+12_Video_11.mp4;Unreal;12;03:16:00;03:17:00;A8 ;avatar;manual turning  right 45 degrees
+12_Video_11.mp4;Unreal;12;03:17:00; ;A8 ;avatar;manual turning  left 45 degrees
+12_Video_11.mp4;Unreal;12;03:17:00;;A8 ;avatar;quickturn left 45 degrees
+12_Video_11.mp4;Unreal;12;03:19:00;;A7;avatar, concrete block;teleporting on railway onto concrete block
+12_Video_11.mp4;Unreal;12;03:20:00;03:21:00;A8 ;avatar;manual turning  left 90 degrees
+12_Video_11.mp4;Unreal;12;03:23:00;03:25:00;A6 ;avatar, wooden crate;grabbing and dropping wooden crate with left hand, turning crate right way around
+12_Video_11.mp4;Unreal;12;03:25:00;03:30:00;A6 ;avatar, magazine, wooden crate;pulling magazine with gravity glove left out of wooden crate
+12_Video_11.mp4;Unreal;12;03:30:00;03:33:00;A10;magazine, HUD;tutorial store ammo in backpack
+12_Video_11.mp4;Unreal;12;03:33:00;03:34:00;A6 ;avatar, magazine  ;throwing magazine over left shoulder
+12_Video_11.mp4;Unreal;12;03:41:00;;A7;avatar, train waggon;teleporting from railway into train waggon
+12_Video_12.mp4;Unreal;12;00:01:00;;A7;avatar;teleporting from balcony into basement staircase
+12_Video_12.mp4;Unreal;12;00:01:00;;A3;avatar;entering unknown building
+12_Video_12.mp4;Unreal;12;00:02:00;00:04:00;A6;avatar, fence door, pistol;pushin open fence door with right hand while holding pistol
+12_Video_12.mp4;Unreal;12;00:09:00;00:10:00;A8 ;avatar;manual turning  right 180 degrees
+12_Video_12.mp4;Unreal;12;00:10:00;00:11:00;A8 ;avatar;manual turning  left 180 degrees
+12_Video_12.mp4;Unreal;12;00:12:00;;A7;avatar;teleporting onto basement staircase
+12_Video_12.mp4;Unreal;12;00:14:00;;A7;avatar;teleporting onto basement staircase
+12_Video_12.mp4;Unreal;12;00:16:00;;A7;avatar;teleporting from basement staircase into small basement room
+12_Video_12.mp4;Unreal;12;00:19:00;;A7;avatar;teleporting in small basement room
+12_Video_12.mp4;Unreal;12;00:19:00;00:20:00;A8 ;avatar;manual turning  left 90 degrees
+12_Video_12.mp4;Unreal;12;00:20:00;00:22:00;A4;avatar, rat, window;waving towards rat through window
+12_Video_12.mp4;Unreal;12;00:23:00;00:24:00;A8 ;avatar;manual turning  right 90 degrees
+12_Video_12.mp4;Unreal;12;00:24:00;;A7;avatar;teleporting in small basement room
+12_Video_12.mp4;Unreal;12;00:25:00;00:26:00;A6;avatar, metall barrel;grabbing and dropping metall barrel
+12_Video_12.mp4;Unreal;12;00:27:00;00:28:00;A6;avatar, metall barrel;grabbing and dropping metall barrel
+12_Video_12.mp4;Unreal;12;00:29:00;00:31:00;A6;avatar, metall barrel;grabbing and dropping metall barrel
+12_Video_12.mp4;Unreal;12;00:33:00;;A7;avatar;teleporting in small basement room
+12_Video_12.mp4;Unreal;12;00:34:00;00:36:00;A1;avatar;walking in small basement room
+12_Video_12.mp4;Unreal;12;00:37:00;;A7;avatar;teleporting in small basement room
+12_Video_12.mp4;Unreal;12;00:37:00;00:40:00;A6;avatar, metall bucket;grabbing and dropping metall bucket
+12_Video_12.mp4;Unreal;12;00:40:00;00:43:00;A8 ;avatar;manual turning  left 270 degrees
+12_Video_12.mp4;Unreal;12;00:40:00;00:45:00;A1;avatar;walking in small basement room
+12_Video_12.mp4;Unreal;12;00:45:00;00:46:00;A8 ;avatar;manual turning  right 180 degrees
+12_Video_12.mp4;Unreal;12;00:47:00;;A7;avatar;teleporting in small basement room
+12_Video_12.mp4;Unreal;12;00:49:00;00:54:00;A6;avatar, gravity glove, tin can;pulling tin can with gravity glove left from the floor, throwing tin can to the left
+12_Video_12.mp4;Unreal;12;00:55:00;00:59:00;A6;avatar, gravity glove, metall bucket;pulling metall bucket with gravity glove left from the floor, throwing metall bucket to the left
+12_Video_12.mp4;Unreal;12;00:59:00;01:04:00;A6;avatar, gravity glove, small box;pulling small box with gravity glove left from the floor, dropping small box onto floor
+12_Video_12.mp4;Unreal;12;01:06:00;;A7;avatar;teleporting in small basement room
+12_Video_12.mp4;Unreal;12;01:10:00;;A7;avatar;teleporting in small basement room
+12_Video_12.mp4;Unreal;12;01:10:00;01:15:00;A10;controller, HUD;tutorial shift to multifunction tool
+12_Video_12.mp4;Unreal;12;01:10:00;01:13:00;A8 ;avatar;manual turning  right 90 degrees
+12_Video_12.mp4;Unreal;12;;;;;
+12_Video_12.mp4;Unreal;12;01:15:00;;A10;controller, HUD;tutorial shift to multifunction tool
+12_Video_12.mp4;Unreal;12;;;;;
+12_Video_12.mp4;Unreal;12;01:15:00;01:18:00;A6;controller, HUD, multifunction tool;selecting multifunction tool from inventory
+12_Video_12.mp4;Unreal;12;01:20:00;;A6;avatar, multifunction tool;pressing trigger with multifunction tool equipped
+12_Video_12.mp4;Unreal;12;01:21:00;;A6;avatar, multifunction tool;releasing trigger with multifunction tool equipped
+12_Video_12.mp4;Unreal;12;01:21:00;;A6;avatar, multifunction tool;pressing trigger with multifunction tool equipped
+12_Video_12.mp4;Unreal;12;01:22:00;;A6;avatar, multifunction tool;releasing trigger with multifunction tool equipped
+12_Video_12.mp4;Unreal;12;01:22:00;;A6;avatar, multifunction tool;pressing trigger with multifunction tool equipped
+12_Video_12.mp4;Unreal;12;01:22:00;;A6;avatar, multifunction tool;releasing trigger with multifunction tool equipped
+12_Video_12.mp4;Unreal;12;01:24:00;01:26:00;A8 ;avatar;manual turning  left 180 degrees
+12_Video_12.mp4;Unreal;12;01:25:00;01:27:00;A10;energy source, HUD;tutorial using multifunction tool above energy source
+12_Video_12.mp4;Unreal;12;01:27:00;;A7;avatar;teleporting in small basement room
+12_Video_12.mp4;Unreal;12;01:30:00;01:35:00;A10;energy source, HUD;tutorial using multifunction tool above energy source
+12_Video_12.mp4;Unreal;12;01:33:00;01:35:00;A6;avatar, gravity glove, metall bucket;pulling metall bucket with gravity glove left from barrel without catching it
+12_Video_12.mp4;Unreal;12;01:36:00;01:37:00;A10;energy source, HUD;tutorial using multifunction tool above energy source
+12_Video_12.mp4;Unreal;12;01:37:00;;A7;avatar;teleporting in small basement room
+12_Video_12.mp4;Unreal;12;01:38:00;01:42:00;A6;avatar, multifunction tool, energy source;inserting multifunction tool into energy source
+12_Video_12.mp4;Unreal;12;01:38:00;01:41:00;A10;energy source, HUD;tutorial using multifunction tool above energy source
+12_Video_12.mp4;Unreal;12;01:38:00;02:12:00;A5;avatar, Russel;conversation between avatar and Russel via headset
+12_Video_12.mp4;Unreal;12;01:42:00;01:46:00;A6;avatar, multifunction tool, energy beam;following energy beam with multifunction tool to the right
+12_Video_12.mp4;Unreal;12;01:47:00;;A6;avatar, multifunction tool, switch;toggling electric switch with multifunction tool
+12_Video_12.mp4;Unreal;12;01:51:00;;A7 ;avatar;teleporting in small basement room
+12_Video_12.mp4;Unreal;12;01:52:00;01:53:00;A6;avatar, multifunction tool, energy beam;following energy beam with multifunction tool to the left
+12_Video_12.mp4;Unreal;12;01:53:00;01:55:00;A6;avatar, multifunction tool, energy beam;following energy beam with multifunction tool to the right
+12_Video_12.mp4;Unreal;12;01:55:00;01:56:00;A6;avatar, multifunction tool, energy beam;following energy beam with multifunction tool upwards
+12_Video_12.mp4;Unreal;12;01:56:00;01:57:00;A6;avatar, multifunction tool, energy beam;following energy beam with multifunction tool downwards
+12_Video_12.mp4;Unreal;12;01:57:00;;A6;avatar, multifunction tool, switch;toggling electric switch with multifunction tool
+12_Video_12.mp4;Unreal;12;01:58:00;01:59:00;A6;avatar, multifunction tool, energy beam;following energy beam with multifunction tool downwards
+12_Video_12.mp4;Unreal;12;01:59:00;02:00:00;A6;avatar, multifunction tool, energy beam;following energy beam with multifunction tool to the right
+12_Video_12.mp4;Unreal;12;02:00:00;02:01:00;A6;avatar, multifunction tool, energy beam;following energy beam with multifunction tool downwards
+12_Video_12.mp4;Unreal;12;02:01:00;02:02:00;A6;avatar, multifunction tool, energy beam;following energy beam with multifunction tool upwards
+12_Video_12.mp4;Unreal;12;02:02:00;02:04:00;A6;avatar, multifunction tool, energy beam;following energy beam with multifunction tool to the right
+12_Video_12.mp4;Unreal;12;02:04:00;;A6;avatar, multifunction tool, switch;toggling electric switch with multifunction tool, opening door
+12_Video_12.mp4;Unreal;12;;02:08:00;A10;controller, HUD;unequipping multifunction tool from inventory
+12_Video_12.mp4;Unreal;12;02:07:00;02:08:00;A6;controller, HUD;unequipping multifunction tool from inventory
+12_Video_12.mp4;Unreal;12;02:11:00;;A7 ;avatar;teleporting in small basement room
+12_Video_13.mp4;Unreal;12;00:00:00;;A7 ;avatar;teleporting from small basement room into corridor
+12_Video_13.mp4;Unreal;12;00:02:00;;A10;health station, HUD;tutotial health station
+12_Video_13.mp4;Unreal;12;00:04:00;00:07:00;A6;avatar, gravity glove, tin can;pulling tin can with gravity glove left from wall ledge, dropping tin can on floor
+12_Video_13.mp4;Unreal;12;00:06:00;00:12:00;A10;health station, HUD;tutotial health station
+12_Video_13.mp4;Unreal;12;00:09:00;;A7 ;avatar;teleporting in corridor
+12_Video_13.mp4;Unreal;12;00:10:00;00:24:00;A5;avatar, Russel;conversation between avatar and Russel via headset
+12_Video_13.mp4;Unreal;12;00:13:00;00:18:00;A10;health station, HUD;tutotial health station
+12_Video_13.mp4;Unreal;12;00:16:00;00:19:00;A6;avatar, health station handle;pulling health station handle with left hand
+12_Video_13.mp4;Unreal;12;00:22:00;00:29:00;A6;avatar, health station pad;laying down left hand onto health station pad, activating health station
+12_Video_13.mp4;Unreal;12;00:32:00;00:35:00;A5;avatar, Russel;conversation between avatar and Russel via headset
+12_Video_13.mp4;Unreal;12;00:32:00;00:35:00;A6;avatar, health station pad;laying down left hand onto health station pad, activating health station
+12_Video_13.mp4;Unreal;12;00:37:00;00:38:00;A8;avatar;manual turning  left 90 degrees
+12_Video_13.mp4;Unreal;12;00:37:00;00:39:00;A1;avatar;walking in corridor
+12_Video_13.mp4;Unreal;12;00:40:00;;A7 ;avatar;teleporting in corridor
+12_Video_13.mp4;Unreal;12;00:41:00;;A7 ;avatar;teleporting in corridor
+12_Video_13.mp4;Unreal;12;00:42:00;00:45:00;A6;avatar, wooden crate;grabbing wooden crate with left hand, throwing wooden crate onto the floor
+12_Video_13.mp4;Unreal;12;00:47:00;00:49:00;A6;avatar, gravity glove, wooden crate;pulling wooden crate with gravity glove left from shelf without catching it
+12_Video_13.mp4;Unreal;12;00:49:00;00:51:00;A6;avatar, gravity glove, polymer;pulling polymer with gravity glove right from the floor
+12_Video_13.mp4;Unreal;12;00:51:00;00:52:00;A6;avatar, polymer;throwing polymer over right shoulder, missing backpack
+12_Video_13.mp4;Unreal;12;00:52:00;00:54:00;A8;avatar;manual turning  left 180 degrees
+12_Video_13.mp4;Unreal;12;00:57:00;00:59:00;A6;avatar, gravity glove, polymer;pulling polymer with gravity glove left from the floor
+12_Video_13.mp4;Unreal;12;00:59:00;01:00:00;A6;avatar, polymer;throwing polymer over left shoulder
+12_Video_13.mp4;Unreal;12;00:59:00;01:01:00;A8;avatar;manual turning right 180 degrees
+12_Video_13.mp4;Unreal;12;01:02:00;;A7 ;avatar;teleporting in corridor
+12_Video_13.mp4;Unreal;12;01:04:00;01:07:00;A6;avatar, gravity glove, metall bucket;pulling metall bucket with gravity glove left from floor , dropping bucket on floor
+12_Video_13.mp4;Unreal;12;01:07:00;;A7 ;avatar;teleporting in corridor
+12_Video_13.mp4;Unreal;12;01:08:00;01:10:00;A8;avatar;manual turning left 135 degrees
+12_Video_13.mp4;Unreal;12;01:10:00;01:13:00;A10;metall barrel, HUD;tutorial lifting with two hands
+12_Video_13.mp4;Unreal;12;01:11:00;;A7 ;avatar;teleporting in corridor
+12_Video_13.mp4;Unreal;12;01:14:00;;A7 ;avatar;teleporting in corridor
+12_Video_13.mp4;Unreal;12;01:14:00;01:15:00;A10;metall barrel, HUD;tutorial lifting with two hands
+12_Video_13.mp4;Unreal;12;01:15:00;00:16:00;A6;avatar, plastic bottle;grabbing plastic bottle with right hand, throwing bottle forward
+12_Video_13.mp4;Unreal;12;00:16:00;00:17:00;A10;metall barrel, HUD;tutorial lifting with two hands
+12_Video_13.mp4;Unreal;12;00:17:00;00:18:00;A6;avatar, metall barrel;lifting up metall barrel with both hands
+12_Video_13.mp4;Unreal;12;00:18:00;01:21:00;A6;avatar, metall barrel;carrying metall barrel with both hands
+12_Video_13.mp4;Unreal;12;00:18:00;01:21:00;A8;avatar;manual turning left 225 degrees
+12_Video_13.mp4;Unreal;12;01:21:00;;A6;avatar, metall barrel;dropping metall barrel on the floor
+12_Video_13.mp4;Unreal;12;01:22:00;01:23:00;A8;avatar;manual turning right 225 degrees
+12_Video_13.mp4;Unreal;12;01:24:00;;A7 ;avatar;teleporting from corridor into  big room
+12_Video_13.mp4;Unreal;12;01:24:00;01:25:00;A8;avatar;manual turning left 45 degrees
+12_Video_13.mp4;Unreal;12;01:25:00;01:27:00;A6;avatar, metall barrel;grabbing  metall barrel with both hands, throwing barrel to the left
+12_Video_13.mp4;Unreal;12;01:27:00;01:28:00;A8;avatar;manual turning right 90 degrees
+12_Video_13.mp4;Unreal;12;01:29:00;;A7 ;avatar;teleporting in big room
+12_Video_13.mp4;Unreal;12;01:32:00;;A7 ;avatar;teleporting in big room
+12_Video_13.mp4;Unreal;12;01:34:00;01:35:00;A8;avatar;manual turning right 90 degrees
+12_Video_13.mp4;Unreal;12;01:34:00;01:36:00;A1;avatar;walking in big room
+12_Video_13.mp4;Unreal;12;01:36:00;01:37:00;A8;avatar;manual turning left 90 degrees
+12_Video_13.mp4;Unreal;12;01:37:00;;A7 ;avatar;teleporting in big room
+12_Video_13.mp4;Unreal;12;01:38:00;;A8;avatar;quickturn left 45 degrees
+12_Video_13.mp4;Unreal;12;01:42:00;;A7 ;avatar;teleporting in big room
+12_Video_13.mp4;Unreal;12;01:44:00;01:46:00;A6;avatar, menu;equipping pistol from menu with right hand 
+12_Video_13.mp4;Unreal;12;01:46:00;01:48:00;A6;avatar, pistol, glas bottle;aiming with pistol at glas bottle
+12_Video_13.mp4;Unreal;12;01:48:00;;A6;avatar, pistol, glas bottle;shoting with pistol at glas bottle, hitting glas bottle
+12_Video_13.mp4;Unreal;12;01:49:00;01:51:00;A6;avatar, pistol, padlock;aiming with pistol at padlock
+12_Video_13.mp4;Unreal;12;01:50:00;;A6;avatar, pistol, padlock, fence door;shoting with pistol at padlock, hitting padlock, opening fence door
+12_Video_13.mp4;Unreal;12;01:52:00;01:53:00;A6;avatar, menu;unequipping pistol from menu with right hand 
+12_Video_13.mp4;Unreal;12;01:54:00;;A7 ;avatar;teleporting in big room
+12_Video_13.mp4;Unreal;12;01:56:00;02:00:00;A6;avatar, gravity glove, metall bucket;pulling metall bucket with gravity glove left from floor, dropping bucket behind avatar
+12_Video_13.mp4;Unreal;12;02:02:00;;A7 ;avatar;teleporting in big room
+12_Video_13.mp4;Unreal;12;02:03:00;02:07:00;A1;avatar;walking in big room
+12_Video_13.mp4;Unreal;12;02:06:00;02:07:00;A6;avatar, door handle, fence door;grabbing door handle, pulling fence door close
+12_Video_13.mp4;Unreal;12;02:07:00;02:10:00;A6;avatar, door handle, fence door;grabbing door handle, pulling fence door open
+12_Video_13.mp4;Unreal;12;02:12:00;;A7 ;avatar;teleporting in big room
+12_Video_13.mp4;Unreal;12;02:16:00;;A7 ;avatar;teleporting in big room
+12_Video_13.mp4;Unreal;12;02:17:00;02:18:00;A6;avatar, gravity glove, wooden crate;pulling wooden crate with gravity glove left from shelf without catching it
+12_Video_13.mp4;Unreal;12;02:19:00;02:20:00;A6;avatar, gravity glove, polymer;pulling polymer with gravity glove left from shelf
+12_Video_13.mp4;Unreal;12;02:20:00;02:21:00;A6;avatar, polymer;throwing polymer over left shoulder
+12_Video_13.mp4;Unreal;12;02:23:00;02:24:00;A8;avatar;manual turning left 45 degrees
+12_Video_13.mp4;Unreal;12;02:25:00;;A7 ;avatar;teleporting in big room
+12_Video_13.mp4;Unreal;12;02:25:00;02:26:00;A8;avatar;manual turning right 90 degrees
+12_Video_13.mp4;Unreal;12;02:26:00;02:31:00;A6;avatar, gravity glove, magazine;pulling magazine with gravity glove left from plastic box
+12_Video_13.mp4;Unreal;12;02:30:00;22:31:00;A10;magazine, HUD;tutorial storing magazine
+12_Video_13.mp4;Unreal;12;02:32:00;;A6;avatar, magazine;throwing magazine over left shoulder
+12_Video_14.mp4;Unreal;12;00:01:00;00:03:00;A1;avatar;walking in corridor
+12_Video_14.mp4;Unreal;12;00:02:00;00:03:00;A8;avatar;manual turning left 90 degrees
+12_Video_14.mp4;Unreal;12;00:03:00;;A7 ;avatar;teleporting from corridor into locker room
+12_Video_14.mp4;Unreal;12;00:04:00;00:05:00;A6;avatar, HUD;equipping multifunction tool from inventory
+12_Video_14.mp4;Unreal;12;00:06:00;00:07:00;A6;avatar, HUD;unequipping multifunction tool from inventory
+12_Video_14.mp4;Unreal;12;00:08:00;00:09:00;A8;avatar;manual turning left 90 degrees
+12_Video_14.mp4;Unreal;12;00:10:00;;A7 ;avatar;teleporting in locker room
+12_Video_14.mp4;Unreal;12;00:12:00;;A7 ;avatar;teleporting in locker room
+12_Video_14.mp4;Unreal;12;00:12:00;00:13:00;A8;avatar;manual turning left 45 degrees
+12_Video_14.mp4;Unreal;12;00:12:00;00:14:00;A6;avatar, locker door;grabbing locker door with right hand, opening locker
+12_Video_14.mp4;Unreal;12;00:14:00;00:15:00;A6;avatar, locker, magazine;grabbing magazine from locker with left hand
+12_Video_14.mp4;Unreal;12;00:16:00;;A6;avatar, magazine;throwing magazine over left shoulder
+12_Video_14.mp4;Unreal;12;00:16:00;00:18:00;A6;avatar, wooden crate;grabbing wooden crate from locker with left hand, dropping crate on the floor
+12_Video_14.mp4;Unreal;12;00:19:00;00:20:00;A6;avatar, gravity glove, magazine;pulling magazine with gravity glove left  from floor
+12_Video_14.mp4;Unreal;12;00:21:00;;A6;avatar, magazine;throwing magazine over left shoulder
+12_Video_14.mp4;Unreal;12;00:21:00;00:22:00;A6;avatar, locker door;grabbing locker door with left hand, closing locker
+12_Video_14.mp4;Unreal;12;00:23:00;;A7 ;avatar;teleporting in locker room
+12_Video_14.mp4;Unreal;12;00:23:00;00:24:00;A8;avatar;manual turning left 45 degrees
+12_Video_14.mp4;Unreal;12;00:24:00;00:25:00;A6;avatar, book, locker;grabbing book out of locker with right hand, dropping book on top of locker
+12_Video_14.mp4;Unreal;12;00:25:00;00:27:00;A8;avatar;manual turning right 90 degrees
+12_Video_14.mp4;Unreal;12;00:27:00;00:29:00;A6;avatar, cardboard box;grabbing cardboard box from above locker with right hand, dropping box onthe floor
+12_Video_14.mp4;Unreal;12;00:29:00;00:31:00;A1;avatar;walking in locker room
+12_Video_14.mp4;Unreal;12;00:30:00;00:32:00;A6;avatar, small box, locker;grabbing and dropping small box from locker with right hand
+12_Video_14.mp4;Unreal;12;00:33:00;00:34:00;A6;avatar, locker door;grabbing locker door with right hand, opening locker
+12_Video_14.mp4;Unreal;12;00:34:00;;A7 ;avatar;teleporting in locker room
+12_Video_14.mp4;Unreal;12;00:35:00;00:37:00;A6;avatar, locker, jar with bug;grabbing jar with bug from locker with right hand
+12_Video_14.mp4;Unreal;12;00:37:00;00:40:00;A10;avatar, HUD;tutorial wrist bag
+12_Video_14.mp4;Unreal;12;00:38:00;00:39:00;A6;avatar, locker door;grabbing locker door with left hand, closing locker
+12_Video_14.mp4;Unreal;12;00:39:00;00:40:00;A6;avatar, jar with bug;switching hands while holding jar with bug from right to left
+12_Video_14.mp4;Unreal;12;00:40:00;00:41:00;A6;avatar, jar with bug, wrist bag, injection;putting jar with bug into right wrist bag, injection falling out of wrist bag onto floor
+12_Video_14.mp4;Unreal;12;00:42:00;00:45:00;A6;avatar, gravity glove, injection;pulling injection with gravity glove left from floor
+12_Video_14.mp4;Unreal;12;00:45:00;00:46:00;A6;avatar, injection;switching hands while holding injection from left to right
+12_Video_14.mp4;Unreal;12;00:46:00;00:47:00;A6;avatar, wrist bag, injection;putting injection into left wrist bag
+12_Video_14.mp4;Unreal;12;00:53:00;;A7 ;avatar;teleporting in locker room
+12_Video_14.mp4;Unreal;12;00:53:00;00:55:00;A8;avatar;manual turning left 45 degrees
+12_Video_14.mp4;Unreal;12;00:55:00;;A6;avatar, locker door;grabbing locker door with left hand, shutting locker
+12_Video_14.mp4;Unreal;12;00:55:00;00:58:00;A6;avatar, locker, spray can;grabbing spray can from locker with right hand, dropping spray can onto locker
+12_Video_14.mp4;Unreal;12;00:58:00;01:03:00;A6;avatar, locker, radiophone;grabbing  radiophone from above locker with right hand, dropping radiophone onto floor
+12_Video_14.mp4;Unreal;12;01:03:00;01:08:00;A6;avatar, locker, toothpaste;grabbing  toothpaste from locker with right hand, dropping toothpaste onto locker
+12_Video_14.mp4;Unreal;12;01:08:00;01:10:00;A6;avatar, locker, toothbrush;grabbing  toothbrush from locker with right hand, dropping toothbrush onto locker
+12_Video_14.mp4;Unreal;12;01:10:00;01:12:00;A1;avatar;walking in corridor
+12_Video_14.mp4;Unreal;12;01:12:00;01:13:00;A6;avatar, locker door;grabbing locker door with left hand, opening locker
+12_Video_14.mp4;Unreal;12;01:13:00;01:15:00;A8;avatar;manual turning right 90 degrees
+12_Video_14.mp4;Unreal;12;01:16:00;;A7 ;avatar;teleporting in locker room
+12_Video_14.mp4;Unreal;12;01:16:00;01:17:00;A8;avatar;manual turning left 90 degrees
+12_Video_14.mp4;Unreal;12;01:17:00;01:18:00;A6;avatar, locker door;grabbing locker door with left hand, opening locker
+12_Video_14.mp4;Unreal;12;01:18:00;01:19:00;A8;avatar;manual turning right 90 degrees
+12_Video_14.mp4;Unreal;12;01:20:00;;A7 ;avatar;teleporting in locker room
+12_Video_14.mp4;Unreal;12;01:23:00;;A7 ;avatar;teleporting in locker room
+12_Video_14.mp4;Unreal;12;01:25:00;01:26:00;A8;avatar;manual turning right 90 degrees
+12_Video_14.mp4;Unreal;12;01:27:00;;A7 ;avatar;teleporting in locker room
+12_Video_14.mp4;Unreal;12;01:27:00;01:28:00;A8;avatar;manual turning left 45 degrees
+12_Video_14.mp4;Unreal;12;01:30:00;;A7 ;avatar;teleporting in locker room
+12_Video_14.mp4;Unreal;12;01:35:00;02:01:00;A5;avatar, Russel;conversation between avatar and Russel via headset
+12_Video_14.mp4;Unreal;12;01:36:00;01:37:00;A6;avatar, wrist bag, jar with bug;grabbing jar with bug out of right wrist bag with left hand
+12_Video_14.mp4;Unreal;12;01:37:00;01:38:00;A6;avatar,  jar with bug, health station;putting jar with bug into health station with left hand
+12_Video_14.mp4;Unreal;12;01:39:00;01:41:00;A6;avatar, health station handle;pulling health station handle with left hand
+12_Video_14.mp4;Unreal;12;01:41:00;01:47:00;A6;avatar, health station pad;laying down left hand onto health station pad, activating health station
+12_Video_14.mp4;Unreal;12;01:48:00;;A8;avatar;quickturn left 45 degrees
+12_Video_14.mp4;Unreal;12;01:48:00;;A8;avatar;quickturn left 45 degrees
+12_Video_14.mp4;Unreal;12;01:49:00;;A8;avatar;quickturn left 45 degrees
+12_Video_14.mp4;Unreal;12;01:51:00;;A7 ;avatar;teleporting in locker room
+12_Video_14.mp4;Unreal;12;01:51:00;01:53:00;A6;avatar, plastic bucket, plastic lid;grabbing plastic lid from bucket with right hand, dropping lid onto floor
+12_Video_14.mp4;Unreal;12;01:53:00;01:58:00;A6;avatar, plastic bucket ;grabbing plastic bucket with right hand, turning it upside down, dropping it on the floor
+12_Video_14.mp4;Unreal;12;01:58:00;01:59:00;A6;avatar, polymer;grabbing polymer with right hand, throwing it on the floor
+12_Video_14.mp4;Unreal;12;01:59:00;02:00:00;A6;avatar, plastic box;grabbing plastic box with right hand, throwing it on the floor
+12_Video_14.mp4;Unreal;12;02:01:00;02:02:00;A8;avatar;manual turning left 90 degrees
+12_Video_14.mp4;Unreal;12;02:03:00;;A7 ;avatar;teleporting in locker room
+12_Video_14.mp4;Unreal;12;02:04:00;02:05:00;A6;avatar, HUD, pistol;equipping pistol from inventory accidentally
+12_Video_14.mp4;Unreal;12;02:06:00;02:08:00;A6;avatar, HUD, multifunction tool;equipping multifunction tool from inventory 
+12_Video_14.mp4;Unreal;12;02:08:00;02:10:00;A6;avatar, multifunction tool, apparatus;pushin multifunction tool into apparatus socket, laser game appears
+12_Video_14.mp4;Unreal;12;02:15:00;02:22:00;A6;avatar, multifunction tool,  blue orb;trying to interact blue orb via mulltifunction tool 
+12_Video_14.mp4;Unreal;12;02:18:00;;A7 ;avatar;teleporting in locker room
+12_Video_14.mp4;Unreal;12;02:18:00;02:20:00;A8;avatar;manual turning left 90 degrees
+12_Video_14.mp4;Unreal;12;02:20:00;02:22:00;A1;avatar;walking in locker room
+12_Video_14.mp4;Unreal;12;02:22:00;02:38:00;A6;avatar, multifunction tool,  blue orb;pulling blue orb with multifunction tool around to align beams with red orbs
+12_Video_14.mp4;Unreal;12;02:38:00;02:41:00;A6;avatar, multifunction tool,  blue orb;holding blue orb with multifunction tool while all beams align, apparatus opens
+12_Video_14.mp4;Unreal;12;02:46:00;;A7 ;avatar;teleporting in locker room
+12_Video_14.mp4;Unreal;12;02:46:00;02:48:00;A8;avatar;manual turning right 45 degrees
+12_Video_14.mp4;Unreal;12;02:53:00;02:55:00;A6;avatar, HUD, pistol;equipping pistol from inventory
+12_Video_14.mp4;Unreal;12;02:55:00;02:57:00;A6;avatar, pistol, apparatus;putting pistol into apparatus socket
+12_Video_14.mp4;Unreal;12;02:57:00;03:21:00;A10;HUD, apparatus;apparatus showing user interface for improving gun
+12_Video_14.mp4;Unreal;12;03:03:00;03:04:00;A6;avatar, HUD, apparatus;"hovering with right index finger over fourth menu entry ""Laservisier"""
+12_Video_14.mp4;Unreal;12;03:04:00;;A6;avatar, HUD, apparatus;"hovering with right index finger over third menu entry ""Kugelbehälter"""
+12_Video_14.mp4;Unreal;12;03:04:00;;A6;avatar, HUD, apparatus;"hovering with right index finger over second menu entry ""Dauerfeuer"""
+12_Video_14.mp4;Unreal;12;03:04:00;;A6;avatar, HUD, apparatus;"hovering with right index finger over first menu entry ""Reflexvisier"""
+12_Video_14.mp4;Unreal;12;03:04:00;03:05:00;A6;avatar, HUD, apparatus;"hovering with right index finger over second menu entry ""Dauerfeuer"""
+12_Video_14.mp4;Unreal;12;03:05:00;;A6;avatar, HUD, apparatus;"hovering with right index finger over third menu entry ""Kugelbehälter"""
+12_Video_14.mp4;Unreal;12;03:05:00;;A6;avatar, HUD, apparatus;"hovering with right index finger over fourth menu entry ""Laservisier"""
+12_Video_14.mp4;Unreal;12;03:06:00;;A6;avatar, HUD, apparatus;"hovering with right index finger over fourth menu entry ""Laservisier"""
+12_Video_14.mp4;Unreal;12;03:06:00;03:07:00;A6;avatar, HUD, apparatus;"hovering with right index finger over third menu entry ""Kugelbehälter"""
+12_Video_14.mp4;Unreal;12;03:07:00;03:08:00;A6;avatar, HUD, apparatus;"hovering with right index finger over second menu entry ""Dauerfeuer"""
+12_Video_14.mp4;Unreal;12;03:08:00;03:11:00;A6;avatar, HUD, apparatus;"hovering with right index finger over first menu entry ""Reflexvisier"""
+12_Video_14.mp4;Unreal;12;03:11:00;03:12:00;A6;avatar, HUD, apparatus;"pressing with right index finger on first menu entry ""Reflexvisier"", drawer for polymer opens"
+12_Video_14.mp4;Unreal;12;03:14:00;03:15:00;A6;avatar, backpack, polymer;grabbing 5 polymer from the backpack with left hand
+12_Video_14.mp4;Unreal;12;03:15:00;;A6;avatar, polymer, drawer;putting 5 polymer into drawer
+12_Video_14.mp4;Unreal;12;03:16:00;03:17:00;A6;avatar, backpack, polymer;grabbing 5 polymer from the backpack with left hand
+12_Video_14.mp4;Unreal;12;03:18:00;;A6;avatar, polymer, drawer;putting 5 polymer into drawer
+12_Video_14.mp4;Unreal;12;03:31:00;03:33:00;A6;avatar, pistol, apparatus;grabbing upgraded pistol from apparatus socket
+12_Video_14.mp4;Unreal;12;03:40:00;03:42:00;A6;avatar, HUD, pistol;unequipping pistol from inventory 
+12_Video_14.mp4;Unreal;12;03:40:00;03:41:00;A8;avatar;manual turning right 45 degrees
+12_Video_14.mp4;Unreal;12;03:42:00;03:43:00;A8;avatar;manual turning right 45 degrees
+12_Video_14.mp4;Unreal;12;03:43:00;;A7 ;avatar;teleporting in locker room
+12_Video_14.mp4;Unreal;12;03:45:00;;A7 ;avatar;teleporting from locker room back into corridor
+12_Video_14.mp4;Unreal;12;03:45:00;03:46:00;A8;avatar;manual turning right 90 degrees
+12_Video_14.mp4;Unreal;12;03:47:00;;A7 ;avatar;teleporting in corridor
+12_Video_14.mp4;Unreal;12;03:50:00;03:53:00;A6;avatar, HUD, pistol;equipping pistol from inventory 
+12_Video_14.mp4;Unreal;12;03:54:00;03:55:00;A6;avatar, HUD;opening menu accidentally
+12_Video_14.mp4;Unreal;12;03:55:00;;A7 ;avatar;teleporting from corridor into subway station
+12_Video_15.mp4;Unreal;12;00:00:00;;A7 ;avatar;teleporting from wood cabinet onto balcony
+12_Video_15.mp4;Unreal;12;00:05:00;;A7 ;avatar;teleporting on balcony
+12_Video_15.mp4;Unreal;12;00:09:00;00:11:00;A6;avatar, health station handle;pulling health station handle with left hand
+12_Video_15.mp4;Unreal;12;00:13:00;00:17:00;A6;avatar, health station pad;laying down left hand onto health station pad, activating health station
+12_Video_15.mp4;Unreal;12;00:17:00;00:19:00;A8;avatar;manual turning left 135 degrees
+12_Video_15.mp4;Unreal;12;00:19:00;;A7 ;avatar;teleporting on balcony
+12_Video_15.mp4;Unreal;12;00:20:00;00:21:00;A6;avatar, HUD, mutifunction tool;equipping mutifunction tool from inventory 
+12_Video_15.mp4;Unreal;12;00:21:00;00:26:00;A6;avatar, mutifunction tool, metall cabinet;pushing multifunction tool into slot of metall cabinet, light puzzle appears
+12_Video_15.mp4;Unreal;12;00:26:00;00:31:00;A6;avatar, mutifunction tool,  blue dot;moving blue dot of light puzzle with mutifunction tool onto other blue dot, puzzle solved
+12_Video_15.mp4;Unreal;12;00:35:00;00:36:00;A6;metall cabinet;metall cabinet opening
+12_Video_15.mp4;Unreal;12;00:36:00;01:11:00;A5;avatar, Russel;conversation between avatar and Russel via headset
+12_Video_15.mp4;Unreal;12;00:37:00;00:38:00;A6;avatar, magazine, metall cabinet;grabbing magazine from metall cabinet with left hand
+12_Video_15.mp4;Unreal;12;00:38:00;00:39:00;A10;magazine, HUD;tutorial storing ammo in backpack
+12_Video_15.mp4;Unreal;12;00:39:00;;A6;avatar, magazine;throwing magazine over left shoulder into backpack
+12_Video_15.mp4;Unreal;12;00:40:00;00:41:00;A6;avatar, battery, metall cabinet;trying to grab battery from metall cabinet with left hand, aborted grabbing
+12_Video_15.mp4;Unreal;12;00:41:00;00:43:00;A6;avatar, HUD, mutifunction tool;unequipping mutifunction tool from inventory 
+12_Video_15.mp4;Unreal;12;00:44:00;00:45:00;A6;avatar, battery, metall cabinet;grabbing battery from metall cabinet with left hand
+12_Video_15.mp4;Unreal;12;00:45:00;00:47:00;A8;avatar;manual turning right 135 degrees
+12_Video_15.mp4;Unreal;12;00:48:00;;A7 ;avatar;teleporting on balcony
+12_Video_15.mp4;Unreal;12;00:49:00;00:50:00;A8;avatar;manual turning left 45 degrees
+12_Video_15.mp4;Unreal;12;00:50:00;;A7 ;avatar;teleporting on balcony
+12_Video_15.mp4;Unreal;12;00:54:00;00:57:00;A10;controller, multifunction tool;tutorial equipping multifunction tool from inventory
+12_Video_15.mp4;Unreal;12;00:55:00;00:56:00;A1;avatar;walking on balcony
+12_Video_15.mp4;Unreal;12;00:57:00;00:59:00;A6;avatar, HUD, mutifunction tool;equipping mutifunction tool from inventory 
+12_Video_15.mp4;Unreal;12;00:59:00;01:02:00;A6;avatar, multifunction tool, apparatus;pushing multifunction tool into slot of apparatus, apparatus opens
+12_Video_15.mp4;Unreal;12;01:00:00;01:01:00;A8;avatar;manual turning right 45 degrees
+12_Video_15.mp4;Unreal;12;01:02:00;1::05;A1;avatar;walking on balcony
+12_Video_15.mp4;Unreal;12;01:05:00;01:06:00;A6;avatar, HUD, mutifunction tool;unequipping mutifunction tool from inventory 
+12_Video_15.mp4;Unreal;12;01:10:00;01:11:00;A8;avatar;manual turning right 90 degrees
+12_Video_15.mp4;Unreal;12;01:11:00;01:13:00;A1;avatar;walking on balcony
+12_Video_15.mp4;Unreal;12;01:12:00;01:13:00;A6;avatar, apparatus buttons;trying to interact with apparatus buttons on the right
+12_Video_15.mp4;Unreal;12;01:13:00;01:14:00;A8;avatar;manual turning left 45 degrees
+12_Video_15.mp4;Unreal;12;01:18:00;01:21:00;A1;avatar;walking on balcony
+12_Video_15.mp4;Unreal;12;01:20:00;01:22:00;A6;avatar, apparatus handle left;grabbing and pulling apparatus handle left with right hand
+12_Video_15.mp4;Unreal;12;01:22:00;01:24:00;A1;avatar;walking backwards on balcony
+12_Video_15.mp4;Unreal;12;01:23:00;01:25:00;A6;avatar, battery, apparatus slot;plaacing battery in marked apparatus slot with left hand, laser in apparatus appears
+12_Video_15.mp4;Unreal;12;01:28:00;01:30:00;A1;avatar, apparatus;walking on balcony towards apparatus
+12_Video_15.mp4;Unreal;12;01:30:00;01:32:00;A6;avatar, apparatus handle middle;grabbing and pulling apparatus handle middle with left hand
+12_Video_15.mp4;Unreal;12;01:33:00;01:35:00;A6;avatar, apparatus handle right;grabbing and pulling apparatus handle right with right hand
+12_Video_15.mp4;Unreal;12;01:36:00;01:37:00;A6;avatar, apparatus disk right;spinning apparatus disk right clockwise with right hand
+12_Video_15.mp4;Unreal;12;01:38:00;01:40:00;A6;avatar, apparatus disk middle;spinning apparatus disk middle clockwise with right hand
+12_Video_15.mp4;Unreal;12;01:40:00;01:41:00;A6;avatar, apparatus disk middle;spinning apparatus disk middle clockwise with right hand
+12_Video_15.mp4;Unreal;12;01:42:00;01:43:00;A6;avatar, apparatus disk middle;spinning apparatus disk middle clockwise with right hand
+12_Video_15.mp4;Unreal;12;01:44:00;01:45:00;A6;avatar, apparatus disk middle;spinning apparatus disk middle clockwise with right hand, laser passes through
+12_Video_15.mp4;Unreal;12;01:44:00;01:46:00;A1;avatar;walking on balcony 
+12_Video_15.mp4;Unreal;12;01:46:00;01:50:00;A6;apparatus;apparatus closes, puzzle solved
+12_Video_15.mp4;Unreal;12;01:50:00;01:52:00;A8;avatar;manual turning left 45 degrees
+12_Video_15.mp4;Unreal;12;01:52:00;01:55:00;A1;avatar;walking on balcony 
+12_Video_15.mp4;Unreal;12;01:53:00;01:55:00;A5;avatar;speaking astonished about opening hatch
+12_Video_15.mp4;Unreal;12;01:55:00;01:56:00;A8;avatar;manual turning left 45 degrees
+12_Video_15.mp4;Unreal;12;02:02:00;02:28:00;A5;avatar, Russel;conversation between avatar and Russel via headset
+12_Video_15.mp4;Unreal;12;02:04:00;02:06:00;A8;avatar;manual turning left 180 degrees
+12_Video_15.mp4;Unreal;12;02:06:00;02:07:00;A1;avatar;walking on balcony 
+12_Video_15.mp4;Unreal;12;02:09:00;;A7 ;avatar;teleporting from balcony into wooden cabinet
+12_Video_15.mp4;Unreal;12;02:09:00;;A3;avatar;entering wooden cabinet
+12_Video_15.mp4;Unreal;12;02:11:00;;A7 ;avatar;teleporting in wooden cabinet
+12_Video_15.mp4;Unreal;12;02:13:00;;A7 ;avatar;teleporting from wooden cabinet onto balcony
+12_Video_15.mp4;Unreal;12;02:13:00;02:16:00;A8;avatar;manual turning left 135 degrees
+12_Video_15.mp4;Unreal;12;02:14:00;02:16:00;A1;avatar;walking on balcony 
+12_Video_15.mp4;Unreal;12;02:16:00;;A7 ;avatar;teleporting on balcony
+12_Video_15.mp4;Unreal;12;02:17:00;;A7 ;avatar;teleporting on balcony
+12_Video_15.mp4;Unreal;12;02:20:00;;A7 ;avatar;teleporting from balcony downstairs into alley
+12_Video_15.mp4;Unreal;12;02:21:00;;A8;avatar;quickturn left 45 degrees
+12_Video_15.mp4;Unreal;12;02:21:00;;A8;avatar;quickturn left 45 degrees
+12_Video_15.mp4;Unreal;12;02:22:00;;A7 ;avatar;teleporting in alley
+12_Video_15.mp4;Unreal;12;02:25:00;;A7 ;avatar;teleporting from alley onto train yard
+12_Video_15.mp4;Unreal;12;02:26:00;;A7 ;avatar;teleporting on train yard
+12_Video_15.mp4;Unreal;12;02:26:00;02:28:00;A8;avatar;manual turning right 90 degrees
+12_Video_15.mp4;Unreal;12;02:31:00;;A7 ;avatar;teleporting from train yard into tunnel
+12_Video_15.mp4;Unreal;12;02:31:00;;A3;avatar;entering tunnel
+12_Video_15.mp4;Unreal;12;02:33:00;02:44:00;A5;avatar, Russel;conversation between avatar and Russel via headset
+12_Video_15.mp4;Unreal;12;02:37:00;;A7 ;avatar;teleporting in tunnel
+12_Video_15.mp4;Unreal;12;02:43:00;02:44:00;A4;avatar, alien plant;waving at alien plant with right hand
+12_Video_15.mp4;Unreal;12;02:45:00;02:46:00;A8;avatar;manual turning right 90 degrees
+12_Video_15.mp4;Unreal;12;02:48:00;;A7 ;avatar;teleporting in tunnel
+12_Video_15.mp4;Unreal;12;02:49:00;02:51:00;A1;avatar;walking backwards in tunnel
+12_Video_15.mp4;Unreal;12;02:54:00;;A7 ;avatar;teleporting in tunnel
+12_Video_15.mp4;Unreal;12;02:56:00;02:58:00;A8;avatar;manual turning left 90 degrees
+12_Video_15.mp4;Unreal;12;02:58:00;;A7 ;avatar;teleporting in tunnel
+12_Video_15.mp4;Unreal;12;02:59:00;;A7 ;avatar;teleporting in tunnel
+12_Video_15.mp4;Unreal;12;02:59:00;03:03:00;A6;avatar, gravity glove, magazine, chest;pulling and grabbing magazine with gravity glove right from open chest
+12_Video_15.mp4;Unreal;12;03:03:00;;A6;avatar, magazine;throwing magazine over right shoulder into backpack
+12_Video_15.mp4;Unreal;12;03:09:00;;A7 ;avatar, door;teleporting in tunnel in front of door
+12_Video_15.mp4;Unreal;12;03:10:00;03:13:00;A6;avatar, door handle;grabbing doorr handle, pulling door open
+12_Video_15.mp4;Unreal;12;03:14:00;;A7 ;avatar;teleporting from tunnel into storage room
+12_Video_15.mp4;Unreal;12;03:18:00;;A7 ;avatar;teleporting in storage room
+12_Video_16.mp4;Unreal;12;00:00:00;00:20:00;A5;avatar, Russel;conversation between avatar and Russel via headset
+12_Video_16.mp4;Unreal;12;00:01:00;00:05:00;A6;avatar, wheel handle, rolling gate;grabbing wheel handle with left hand, spinning wheel clockwise, rolling gate falling back down
+12_Video_16.mp4;Unreal;12;00:08:00;00:13:00;A6;avatar, wheel handle, rolling gate;grabbing wheel handle with left hand, spinning wheel clockwise, rolling gate stays open
+12_Video_16.mp4;Unreal;12;00:13:00;00:14:00;A8;avatar;manual turning left 45 degrees
+12_Video_16.mp4;Unreal;12;00:15:00;;A7 ;avatar;teleporting from small room into pipe tunnel
+12_Video_16.mp4;Unreal;12;00:16:00;00:18:00;A6;avatar, pistol, head crab;aiming pistol at head crab
+12_Video_16.mp4;Unreal;12;00:17:00;;A6;avatar, pistol, head crab;shooting pistol at head crab
+12_Video_16.mp4;Unreal;12;00:17:00;;A6;avatar, pistol, head crab;shooting pistol at head crab
+12_Video_16.mp4;Unreal;12;00:18:00;;A6;avatar, pistol, head crab;shooting pistol at head crab
+12_Video_16.mp4;Unreal;12;00:18:00;;A6;avatar, magazine, pistol;removing magazine from pistol
+12_Video_16.mp4;Unreal;12;00:19:00;;A6;avatar, magazine, backpack;grabbing new magazine from backpack
+12_Video_16.mp4;Unreal;12;00:19:00;00:20:00;A6;avatar, magazine, pistol;pushing new magazine into pistol  
+12_Video_16.mp4;Unreal;12;00:20:00;00:20:00;A6;avatar, pistol sled;pulling back pistol sled
+12_Video_16.mp4;Unreal;12;00:20:00;00:23:00;A6;avatar, pistol, head crab;aiming pistol at head crab
+12_Video_16.mp4;Unreal;12;00:21:00;;A6;avatar, pistol, head crab;shooting pistol at head crab
+12_Video_16.mp4;Unreal;12;00:21:00;;A6;avatar, pistol, head crab;shooting pistol at head crab
+12_Video_16.mp4;Unreal;12;00:22:00;;A6;avatar, pistol, head crab;shooting pistol at head crab
+12_Video_16.mp4;Unreal;12;00:22:00;;A6;avatar, pistol, head crab;shooting pistol at head crab
+12_Video_16.mp4;Unreal;12;00:22:00;;A6;avatar, pistol, head crab;shooting pistol at head crab
+12_Video_16.mp4;Unreal;12;00:25:00;;A7 ;avatar;teleporting inside pipe tunnel
+12_Video_16.mp4;Unreal;12;00:25:00;00:26:00;A8;avatar;manual turning left 45 degrees
+12_Video_16.mp4;Unreal;12;00:27:00;;A7 ;avatar;teleporting inside pipe tunnel
+12_Video_16.mp4;Unreal;12;00:30:00;;A7 ;avatar;teleporting inside pipe tunnel
+12_Video_16.mp4;Unreal;12;00:30:00;00:31:00;A8;avatar;manual turning left 45 degrees
+12_Video_16.mp4;Unreal;12;00:31:00;;A7 ;avatar;teleporting inside pipe tunnel
+12_Video_16.mp4;Unreal;12;00:32:00;00:33:00;A6;avatar, gravity glove, polymer;pulling and grabbing polymer with gravity glove left from shelf
+12_Video_16.mp4;Unreal;12;00:33:00;00:34:00;A8;avatar;manual turning right 45 degrees
+12_Video_16.mp4;Unreal;12;00:33:00;;A6;avatar, polymer;throwing polymer over left shoulder into backpack
+12_Video_16.mp4;Unreal;12;00:33:00;00:35:00;A6;avatar, cardboard box;grabbing cardboard box from shelf and throwing it on the floor
+12_Video_16.mp4;Unreal;12;00:35:00;00:39:00;A6;avatar, gravity glove, cardboard box;trying to pull cardboard box from shelf with gravity glove left 
+12_Video_16.mp4;Unreal;12;00:40:00;;A7 ;avatar;teleporting inside pipe tunnel
+12_Video_16.mp4;Unreal;12;00:40:00;00:41:00;A8;avatar;manual turning left 45 degrees
+12_Video_16.mp4;Unreal;12;00:41:00;00:43:00;A6;avatar, gravity glove, cardboard box;pulling carboard box from shelf with gravity glove left
+12_Video_16.mp4;Unreal;12;00:43:00;00:44:00;A6;avatar, gravity glove, cardboard box;pulling carboard box from shelf with gravity glove left
+12_Video_16.mp4;Unreal;12;00:46:00;00:48:00;A8;avatar;manual turning right 135 degrees
+12_Video_16.mp4;Unreal;12;00:48:00;;A7 ;avatar;teleporting inside pipe tunnel
+12_Video_16.mp4;Unreal;12;00:48:00;00:50:00;A8;avatar;manual turning left 90 degrees
+12_Video_16.mp4;Unreal;12;00:50:00;;A7 ;avatar;teleporting inside pipe tunnel
+12_Video_16.mp4;Unreal;12;00:53:00;00:55:00;A6;avatar, gravity glove, magazine;pulling and grabbing magazine from shelf with gravity glove left
+12_Video_16.mp4;Unreal;12;00:56:00;;A6;avatar, magazine;throwing magazine over left shoulder into backpack
+12_Video_16.mp4;Unreal;12;01:00:00;;A7 ;avatar;teleporting inside pipe tunnel
+12_Video_16.mp4;Unreal;12;01:02:00;;A7 ;avatar;teleporting inside pipe tunnel
+12_Video_16.mp4;Unreal;12;01:06:00;;A7 ;avatar;teleporting inside pipe tunnel
+12_Video_16.mp4;Unreal;12;01:07:00;01:08:00;A5;avatar, enemy;scared of appearing enemy
+12_Video_16.mp4;Unreal;12;01:07:00;01:08:00;A6;enemy, window;enemy breaking window glas
+12_Video_16.mp4;Unreal;12;01:07:00;01:10:00;A6;avatar, pistol, enemy;aiming pistol at enemy
+12_Video_16.mp4;Unreal;12;01:08:00;;A6;avatar, pistol, enemy;shooting pistol at enemy
+12_Video_16.mp4;Unreal;12;01:09:00;;A6;avatar, pistol, enemy;shooting pistol at enemy
+12_Video_16.mp4;Unreal;12;01:09:00;01:10:00;A1;avatar;walking inside pipe tunnel
+12_Video_16.mp4;Unreal;12;01:10:00;;A6;avatar, pistol, enemy;shooting pistol at enemy, enemy defeated
+12_Video_16.mp4;Unreal;12;01:13:00;;A7 ;avatar;teleporting inside pipe tunnel
+12_Video_16.mp4;Unreal;12;01:13:00;01:15:00;A1;avatar;walking inside pipe tunnel
+12_Video_16.mp4;Unreal;12;01:15:00;01:16:00;A8;avatar;manual turning right 90 degrees
+12_Video_16.mp4;Unreal;12;01:16:00;;A7 ;avatar;teleporting inside pipe tunnel
+12_Video_16.mp4;Unreal;12;01:16:00;01:17:00;A8;avatar;manual turning left 45 degrees
+12_Video_16.mp4;Unreal;12;01:17:00;01:18:00;A1;avatar;walking inside pipe tunnel
+12_Video_16.mp4;Unreal;12;01:18:00;;A7 ;avatar;teleporting inside pipe tunnel
+12_Video_16.mp4;Unreal;12;01:18:00;01:21:00;A6;avatar, door;trying to push open locked door
+12_Video_16.mp4;Unreal;12;01:21:00;01:22:00;A8;avatar;manual turning left 90 degrees
+12_Video_16.mp4;Unreal;12;01:22:00;;A7 ;avatar;teleporting inside pipe tunnel
+12_Video_16.mp4;Unreal;12;01:22:00;01:23:00;A8;avatar;manual turning right 45 degrees
+12_Video_16.mp4;Unreal;12;01:23:00;;A7 ;avatar;teleporting inside pipe tunnel
+12_Video_16.mp4;Unreal;12;01:24:00;01:25:00;A6;avatar, pistol, broken glas;pushing broken glas out of window frame with pistol
+12_Video_16.mp4;Unreal;12;01:25:00;;A6;avatar, pistol, broken glas;pushing broken glas out of window frame with pistol
+12_Video_16.mp4;Unreal;12;01:26:00;;A6;avatar, pistol, broken glas;pushing broken glas out of window frame with pistol
+12_Video_16.mp4;Unreal;12;01:26:00;;A6;avatar, pistol, broken glas;pushing broken glas out of window frame with pistol
+12_Video_16.mp4;Unreal;12;01:27:00;;A6;avatar, pistol, broken glas;pushing broken glas out of window frame with pistol
+12_Video_16.mp4;Unreal;12;01:28:00;;A6;avatar, pistol, broken glas;pushing broken glas out of window frame with pistol
+12_Video_16.mp4;Unreal;12;01:29:00;;A6;avatar, pistol, broken glas;pushing broken glas out of window frame with pistol
+12_Video_16.mp4;Unreal;12;01:30:00;;A6;avatar, pistol, broken glas;pushing broken glas out of window frame with pistol
+12_Video_16.mp4;Unreal;12;01:31:00;;A6;avatar, pistol, broken glas;pushing broken glas out of window frame with pistol
+12_Video_16.mp4;Unreal;12;01:32:00;01:35:00;A6;avatar, pistol, broken glas;sliding pistol around window frame to remove broken glas
+12_Video_16.mp4;Unreal;12;01:36:00;;A7 ;avatar;teleporting from pipe tunnel into small office
+12_Video_16.mp4;Unreal;12;01:36:00;01:38:00;A6;avatar, gravity glove, floppy disk;pulling and grabbing floppy disk with left gravity glove
+12_Video_16.mp4;Unreal;12;01:39:00;02:04:00;A5;avatar, Russel;conversation between avatar and Russel via headset
+12_Video_16.mp4;Unreal;12;01:49:00;01:50:00;A6;avatar, floppy disk;throwing floppy disk to the left
+12_Video_16.mp4;Unreal;12;01:50:00;01:51:00;A8;avatar;manual turning right 45 degrees
+12_Video_16.mp4;Unreal;12;01:51:00;;A7 ;avatar;teleporting in small office
+12_Video_16.mp4;Unreal;12;01:53:00;;A7 ;avatar;teleporting in small office
+12_Video_16.mp4;Unreal;12;01:54:00;01:57:00;A6;avatar, file cabinet, drawer;pulling open top drawer of file cabinet with left hand, closing drawer
+12_Video_16.mp4;Unreal;12;01:57:00;01:58:00;A6;avatar, file cabinet, drawer;pulling open bottom drawer of file cabinet with left hand, closing drawer
+12_Video_16.mp4;Unreal;12;01:59:00;02:01:00;A6;avatar, plastic bin;grabbing plastic bin with left hand from the floor, throwing bin to the left
+12_Video_16.mp4;Unreal;12;02:03:00;;A7 ;avatar;teleporting in small office
+12_Video_16.mp4;Unreal;12;02:04:00;02:06:00;A6;avatar, file cabinet, drawer;pulling open first drawer from the top of file cabinet with left hand, closing drawer
+12_Video_16.mp4;Unreal;12;02:06:00;02:07:00;A6;avatar, file cabinet, drawer;pulling open second drawer from the top of file cabinet with left hand, closing drawer
+12_Video_16.mp4;Unreal;12;02:09:00;02:10:00;A6;avatar, file cabinet, drawer;pulling open third drawer from the top of file cabinet with left hand, closing drawer
+12_Video_16.mp4;Unreal;12;02:10:00;02:11:00;A6;avatar, file cabinet, drawer;pulling open fourth drawer from the top of file cabinet with left hand, closing drawer
+12_Video_16.mp4;Unreal;12;02:11:00;02:12:00;A8;avatar;manual turning left 45 degrees
+12_Video_16.mp4;Unreal;12;02:12:00;02:13:00;A1;avatar;walking inside smaall office
+12_Video_16.mp4;Unreal;12;02:12:00;02:14:00;A6;avatar, jar with bug;grabbing jar with bug from shelf with left hand
+12_Video_16.mp4;Unreal;12;02:14:00;02:15:00;A10;wrist bag, HUD;tutorial storing items in wrist bag
+12_Video_16.mp4;Unreal;12;02:14:00;02:16:00;A6;avatar, jar with bug, wrist bag;putting jar with bug into right wrist bag
+12_Video_16.mp4;Unreal;12;02:16:00;02:17:00;A8;avatar;manual turning left 45 degrees
+12_Video_16.mp4;Unreal;12;02:18:00;;A7 ;avatar;teleporting in small office
+12_Video_16.mp4;Unreal;12;02:18:00;02:21:00;A6;avatar, file cabinet, drawer;pulling open top drawer of file cabinet with left hand, closing drawer
+12_Video_16.mp4;Unreal;12;02:21:00;02:23:00;A6;avatar, file cabinet, drawer;pulling open bottom drawer of file cabinet with left hand, closing drawer
+12_Video_16.mp4;Unreal;12;02:22:00;02:23:00;A8;avatar;manual turning right 45 degrees
+12_Video_16.mp4;Unreal;12;02:23:00;02:30:00;A6;avatar, gravity glove, plastic crate;pulling plastic crate from below desk with left hand
+12_Video_16.mp4;Unreal;12;02:30:00;02:32:00;A6;avatar, gravity glove, plastic crate;pulling plastic crate from below desk with left hand
+12_Video_16.mp4;Unreal;12;02:32:00;02:34:00;A6;avatar, chair;grabbing chair with left hand, throwing chair to the right
+12_Video_16.mp4;Unreal;12;02:34:00;02:36:00;A6;avatar, gravity glove, polymer;pulling and grabbing polymer from below desk with left hand
+12_Video_16.mp4;Unreal;12;02:36:00;;A6;avatar, polymer;throwing polymer over left shoulder into backpack
+12_Video_16.mp4;Unreal;12;02:37:00;02:38:00;A8;avatar;manual turning left 180 degrees
+12_Video_16.mp4;Unreal;12;02:38:00;02:39:00;A8;avatar;manual turning left 90 degrees
+12_Video_16.mp4;Unreal;12;02:40:00;;A7 ;avatar;teleporting in small office
+12_Video_16.mp4;Unreal;12;02:46:00;;A7 ;avatar;teleporting out of small office back into pipe tunnel
+12_Video_16.mp4;Unreal;12;02:47:00;;A7 ;avatar;teleporting in pipe tunnel
+12_Video_16.mp4;Unreal;12;02:50:00;;A7 ;avatar;teleporting in pipe tunnel
+12_Video_17.mp4;Unreal;12;00:06:00;;A7 ;avatar;teleporting inside pavillion
+12_Video_17.mp4;Unreal;12;00:07:00;00:09:00;A8;avatar;manual turning right 180 degrees
+12_Video_17.mp4;Unreal;12;00:12:00;;A7 ;avatar;teleporting inside pavillion
+12_Video_17.mp4;Unreal;12;00:13:00;00:17:00;A1;avatar;walking inside pavillion
+12_Video_17.mp4;Unreal;12;00:18:00;00:20:00;A8;avatar;manual turning left 180 degrees
+12_Video_17.mp4;Unreal;12;00:20:00;00:24:00;A1;avatar;walking inside pavillion
+12_Video_17.mp4;Unreal;12;00:26:00;00:28:00;A8;avatar;manual turning left 135 degrees
+12_Video_17.mp4;Unreal;12;00:29:00;00:30:00;A1;avatar;walking inside pavillion
+12_Video_17.mp4;Unreal;12;00:32:00;;A7 ;avatar, wall;teleporting inside pavillion towards wall
+12_Video_17.mp4;Unreal;12;00:33:00;00:35:00;A1;avatar, wall;walking inside pavillion towards wall
+12_Video_17.mp4;Unreal;12;00:35:00;00:37:00;A2;avatar, wall;colliding with wall, clipping through wall
+12_Video_17.mp4;Unreal;12;00:37:00;00:40:00;A1;avatar, wall;walking backwards inside pavillion away from wall
+12_Video_17.mp4;Unreal;12;00:40:00;00:42:00;A8;avatar;manual turning left 90 degrees
+12_Video_17.mp4;Unreal;12;00:41:00;00:44:00;A1;avatar;walking inside pavillion
+12_Video_17.mp4;Unreal;12;00:43:00;00:44:00;A8;avatar, wall;manual turning right 90 degrees towards wall
+12_Video_17.mp4;Unreal;12;00:45:00;00:48:00;A1;avatar, wall;walking inside pavillion towards wall
+12_Video_17.mp4;Unreal;12;00:47:00;00:49:00;A2;avatar, wall;colliding with wall, clipping through wall
+12_Video_17.mp4;Unreal;12;00:49:00;00:50:00;A1;avatar, wall;walking backwards inside pavillion away from wall
+12_Video_17.mp4;Unreal;12;00:51:00;;A8;avatar;quickturn right 45 degrees
+12_Video_17.mp4;Unreal;12;00:52:00;;A8;avatar;quickturn right 45 degrees
+12_Video_17.mp4;Unreal;12;00:53:00;;A8;avatar;quickturn right 45 degrees
+12_Video_17.mp4;Unreal;12;00:55:00;;A7 ;avatar;teleporting inside pavillion
+12_Video_17.mp4;Unreal;12;00:55:00;00:57:00;A8;avatar;manual turning right 90 degrees
+12_Video_17.mp4;Unreal;12;00:59:00;;A7 ;avatar;teleporting inside pavillion
+12_Video_17.mp4;Unreal;12;01:00:00;01:03:00;A6;avatar, gray cube, shelf;grabbing gray cube from shelf with right hand
+12_Video_17.mp4;Unreal;12;01:03:00;01:04:00;A8;avatar;manual turning right 45 degrees
+12_Video_17.mp4;Unreal;12;01:05:00;01:06:00;A6;avatar, gray cube;dropping gray cube onto floor
+12_Video_17.mp4;Unreal;12;01:06:00;01:08:00;A1;avatar, gray cube;walking inside pavillion towards gray cube
+12_Video_17.mp4;Unreal;12;01:07:00;01:08:00;A6;avatar, gray cube;grabbing gray cube with right hand
+12_Video_17.mp4;Unreal;12;01:08:00;01:09:00;A6;avatar, gray cube;grabbing gray cube with left hand
+12_Video_17.mp4;Unreal;12;01:10:00;01:12:00;A6;avatar, gray cube;scaling down gray cube with both hands
+12_Video_17.mp4;Unreal;12;01:12:00;01:13:00;A6;avatar, gray cube;dropping gray cube from both hands onto floor
+12_Video_17.mp4;Unreal;12;01:14:00;01:15:00;A6;avatar, gray cube;grabbing gray cube with right hand
+12_Video_17.mp4;Unreal;12;01:15:00;01:17:00;A6;avatar, gray cube;grabbing gray cube with left hand
+12_Video_17.mp4;Unreal;12;01:17:00;01:19:00;A6;avatar, gray cube;scaling up gray cube with both hands
+12_Video_17.mp4;Unreal;12;01:19:00;01:21:00;A6;avatar, gray cube;dropping gray cube from both hands onto floor
+12_Video_17.mp4;Unreal;12;01:23:00;01:24:00;A8;avatar;manual turning left 90 degrees
+12_Video_17.mp4;Unreal;12;01:26:00;01:28:00;A1;avatar, shelf, unicorn;walking inside pavillion towards shelf with unicorn
+12_Video_17.mp4;Unreal;12;01:28:00;01:29:00;A8;avatar, shelf, unicorn;manual turning left 45 degrees towards shelf with unicorn
+12_Video_17.mp4;Unreal;12;01:28:00;01:29:00;A6;avatar, shelf, unicorn;grabbing unicorn from shelf with right hand
+12_Video_17.mp4;Unreal;12;01:29:00;01:30:00;A6;avatar, unicorn;grabbing unicorn from shelf with left hand
+12_Video_17.mp4;Unreal;12;01:30:00;01:31:00;A6;avatar, unicorn;scaling down unicorn with both hands
+12_Video_17.mp4;Unreal;12;01:31:00;;A6;avatar, unicorn;dropping unicorn from left hand, still holding it with right hand
+12_Video_17.mp4;Unreal;12;01:31:00;01:32:00;A6;avatar, shelf, unicorn;putting back small unicorn into shelf, dropping it from right hand
+12_Video_17.mp4;Unreal;12;01:32:00;01:33:00;A8;avatar;manual turning left 90 degrees
+12_Video_17.mp4;Unreal;12;01:35:00;;A7 ;avatar;teleporting inside pavillion
+12_Video_17.mp4;Unreal;12;01:38:00;;A7 ;avatar;teleporting inside pavillion
+12_Video_17.mp4;Unreal;12;01:42:00;;A7 ;avatar;teleporting out of pavillion onto terrace
+12_Video_17.mp4;Unreal;12;01:42:00;01:43:00;A8;avatar;manual turning right 90 degrees
+12_Video_17.mp4;Unreal;12;01:44:00;01:46:00;A4;avatar, bird;waving towards flying bird with right hand
+12_Video_17.mp4;Unreal;12;01:47:00;01:48:00;A4;avatar, bird;waving towards flying bird with right hand
+12_Video_17.mp4;Unreal;12;01:49:00;01:50:00;A8;avatar;manual turning left 90 degrees
+12_Video_17.mp4;Unreal;12;01:51:00;01:52:00;A4;avatar, bird;waving towards flying bird with left hand
+12_Video_17.mp4;Unreal;12;01:52:00;01:56:00;A8;avatar;manual turning right 225 degrees
+12_Video_17.mp4;Unreal;12;01:57:00;;A7 ;avatar, HUD teleport location;teleporting on terrace onto marked teleport location
+12_Video_17.mp4;Unreal;12;01:57:00;02:13:00;A10;avatar, garden GUI;showing GUI for customizing the garden
+12_Video_17.mp4;Unreal;12;01:57:00;01:58:00;A8;avatar, garden GUI;manual turning right 45 degrees towards garden GUI
+12_Video_17.mp4;Unreal;12;02:01:00;02:04:00;A6 ;avatar, garden GUI button;pointing on second button on garden GUI with right hand
+12_Video_17.mp4;Unreal;12;02:03:00;;A6 ;avatar, garden GUI button;pressing second button on garden GUI with right hand
+12_Video_17.mp4;Unreal;12;02:04:00;02:07:00;A6 ;avatar, garden GUI button;pointing on third button on garden GUI with right hand
+12_Video_17.mp4;Unreal;12;02:06:00;;A6 ;avatar, garden GUI button;pressing third button on garden GUI with right hand
+12_Video_17.mp4;Unreal;12;02:07:00;02:09:00;A6 ;avatar, garden GUI button;pointing on fourth button on garden GUI with right hand
+12_Video_17.mp4;Unreal;12;02:08:00;;A6 ;avatar, garden GUI button;pressing fourth button on garden GUI with right hand
+12_Video_17.mp4;Unreal;12;02:13:00;;A7 ;avatar, HUD teleport location;teleporting on terrace onto marked teleport location on stones
+12_Video_17.mp4;Unreal;12;02:14:00;02:15:00;A8;avatar, statue;manual turning left 90 degrees towards statue
+12_Video_17.mp4;Unreal;12;02:18:00;02:20:00;A8;avatar;manual turning right 180 degrees
+12_Video_17.mp4;Unreal;12;02:22:00;;A7 ;avatar;teleporting on terrace
+12_Video_17.mp4;Unreal;12;02:22:00;02:23:00;A8;avatar;manual turning right 90 degrees
+12_Video_17.mp4;Unreal;12;02:24:00;02:28:00;A1;avatar;walking on terrace 
+12_Video_17.mp4;Unreal;12;02:28:00;02:29:00;A8;avatar;manual turning left 180 degrees
+12_Video_17.mp4;Unreal;12;02:30:00;02:33:00;A1;avatar;walking on terrace 
+12_Video_17.mp4;Unreal;12;02:34:00;02:36:00;A1;avatar;walking on terrace 
+12_Video_17.mp4;Unreal;12;02:36:00;02:38:00;A8;avatar;manual turning left 45 degrees
+12_Video_17.mp4;Unreal;12;02:38:00;02:39:00;A4;avatar, butterfly;waving towards flying butterfly with right hand
+12_Video_17.mp4;Unreal;12;02:39:00;02:41:00;A8;avatar;manual turning left 45 degrees
+12_Video_17.mp4;Unreal;12;02:40:00;02:41:00;A1;avatar, butterfly;walking on terrace towards butterfly
+12_Video_17.mp4;Unreal;12;02:40:00;02:41:00;A6;avatar, butterfly;trying to interact with flying butterfly with left hand
+12_Video_17.mp4;Unreal;12;02:41:00;02:44:00;A8;avatar;manual turning left 45 degrees
+12_Video_17.mp4;Unreal;12;02:42:00;02:44:00;A6;avatar, butterfly;trying to interact with flying butterfly with right hand
+12_Video_17.mp4;Unreal;12;02:47:00;;A7 ;avatar;teleporting on terrace
+12_Video_17.mp4;Unreal;12;02:49:00;;A7 ;avatar, HUD teleport location;teleporting on terrace onto marked teleport location
+12_Video_17.mp4;Unreal;12;02:49:00;03:01:00;A10;avatar, room GUI;showing GUI for customizing the room
+12_Video_17.mp4;Unreal;12;02:49:00;02:50:00;A8;avatar, room GUI;manual turning right 45 degrees towards room GUI
+12_Video_17.mp4;Unreal;12;02:51:00;02:53:00;A6;avatar, room GUI button;pointing on second button on room GUI with right hand
+12_Video_17.mp4;Unreal;12;02:53:00;;A6;avatar, room GUI button;pressing on second button on room GUI with right hand
+12_Video_17.mp4;Unreal;12;02:53:00;02:56:00;A6;avatar, room GUI button;pointing on third button on room GUI with right hand
+12_Video_17.mp4;Unreal;12;02:56:00;;A6;avatar, room GUI button;pressing on third button on room GUI with right hand
+12_Video_17.mp4;Unreal;12;02:56:00;03:01:00;A6;avatar, room GUI button;pointing on fourth button on room GUI with right hand
+12_Video_17.mp4;Unreal;12;03:00:00;;A6;avatar, room GUI button;pressing on fourth button on room GUI with right hand
+12_Video_18.mp4;Unreal;12;00:02:00;;A7 ;avatar;teleporting from terrace into pavillion
+12_Video_18.mp4;Unreal;12;00:02:00;;A3;avatar;entering pavillion
+12_Video_18.mp4;Unreal;12;00:02:00;00:03:00;A8;avatar, desk;manual turning right 90 degrees towards desk
+12_Video_18.mp4;Unreal;12;00:11:00;;A7 ;avatar, desk;teleporting in pavillion towards desk
+12_Video_18.mp4;Unreal;12;00:12:00;00:13:00;A1;avatar, desk;walking in pavillion towards desk
+12_Video_18.mp4;Unreal;12;00:13:00;00:17:00;A6;avatar, computer mouse;grabbing computer mouse with right hand
+12_Video_18.mp4;Unreal;12;00:14:00;00:17:00;A6;avatar, computer mouse;moving computer mouse on desk with right hand
+12_Video_18.mp4;Unreal;12;00:18:00;00:21:00;A6;avatar, keyboard, desk;grabbing keyboard from desk with right hand, dropping keyboard back onto desk
+12_Video_18.mp4;Unreal;12;00:23:00;00:24:00;A8;avatar;manual turning left 180 degrees 
+12_Video_18.mp4;Unreal;12;00:25:00;;A7 ;avatar;teleporting in pavillion
+12_Video_18.mp4;Unreal;12;00:27:00;;A7 ;avatar;teleporting in pavillion
+12_Video_18.mp4;Unreal;12;00:28:00;;A7 ;avatar, screens;teleporting in pavillion towards screens
+12_Video_18.mp4;Unreal;12;00:30:00;00:32:00;A1;avatar, screens;walking in pavillion towards screens
+12_Video_18.mp4;Unreal;12;00:31:00;00:33:00;A2;avatar, screens;colliding with screens, clipping through screens
+12_Video_18.mp4;Unreal;12;00:33:00;00:34:00;A1;avatar, screens;walking backwards in pavillion away from screens
+12_Video_18.mp4;Unreal;12;00:35:00;00:37:00;A8;avatar;manual turning right 180 degrees 
+12_Video_18.mp4;Unreal;12;00:38:00;;A7 ;avatar;teleporting in pavillion
+12_Video_18.mp4;Unreal;12;00:39:00;00:41:00;A8;avatar;manual turning right 180 degrees 
+12_Video_18.mp4;Unreal;12;00:42:00;;A7 ;avatar;teleporting in pavillion
+12_Video_18.mp4;Unreal;12;00:43:00;00:47:00;A10;avatar, tool inventory;opening tool inventory with right hand
+12_Video_18.mp4;Unreal;12;00:45:00;00:47:00;A6;avatar, tool inventory, paint tool;selecting paint tool from tool inventory
+12_Video_18.mp4;Unreal;12;00:49:00;00:50:00;A6;avatar, paint tool;trying to select green color on paint  tool
+12_Video_18.mp4;Unreal;12;00:50:00;00:51:00;A6;avatar, paint tool;painting black scribble in the air with paint tool
+12_Video_18.mp4;Unreal;12;00:51:00;00:52:00;A6;avatar, paint tool;selecting green color on paint tool
+12_Video_18.mp4;Unreal;12;00:53:00;00:57:00;A6;avatar, paint tool;painting green scribble in the air with paint tool
+12_Video_18.mp4;Unreal;12;00:54:00;00:58:00;A8;avatar;manual turning right 45 degrees 
+12_Video_18.mp4;Unreal;12;00:57:00;00:59:00;A6;avatar, paint tool;selecting red color on paint tool
+12_Video_18.mp4;Unreal;12;00:59:00;01:03:00;A6;avatar, paint tool;painting red scribble in the air with paint tool
+12_Video_18.mp4;Unreal;12;01:04:00;01:05:00;A8;avatar;manual turning left 90 degrees 
+12_Video_18.mp4;Unreal;12;01:06:00;;A7 ;avatar;teleporting in pavillion
+12_Video_18.mp4;Unreal;12;01:06:00;01:08:00;A8;avatar;manual turning right 135 degrees 
+12_Video_18.mp4;Unreal;12;01:07:00;01:11:00;A1;avatar, scribbles ;walking around scribbles in pavillion 
+12_Video_18.mp4;Unreal;12;01:08:00;01:11:00;A8;avatar;manual turning right 90 degrees 
+12_Video_18.mp4;Unreal;12;01:12:00;;A7 ;avatar;teleporting in pavillion
+12_Video_18.mp4;Unreal;12;01:12:00;01:15:00;A8;avatar;manual turning left 135 degrees 
+12_Video_18.mp4;Unreal;12;01:12:00;01:14:00;A1;avatar, scribbles ;walking around scribbles in pavillion 
+12_Video_18.mp4;Unreal;12;01:15:00;01:16:00;A8;avatar;manual turning left 90 degrees 
+12_Video_18.mp4;Unreal;12;01:18:00;01:19:00;A8;avatar;manual turning right 90 degrees 
+12_Video_18.mp4;Unreal;12;01:19:00;;A7 ;avatar;teleporting in pavillion
+12_Video_18.mp4;Unreal;12;01:19:00;01:20:00;A8;avatar, scribbles ;manual turning left 90 degrees towards scribbles
+12_Video_18.mp4;Unreal;12;01:20:00;01:24:00;A1;avatar, scribbles ;walking directly through scribbles in pavillion 
+12_Video_18.mp4;Unreal;12;01:24:00;01:25:00;A8;avatar;manual turning right 180 degrees 
+12_Video_18.mp4;Unreal;12;01:26:00;01:28:00;A10;avatar, tool inventory;opening tool inventory with right hand
+12_Video_18.mp4;Unreal;12;01:28:00;;A6;avatar, tool inventory, multitool;selecting multitool from tool inventory
+12_Video_18.mp4;Unreal;12;01:29:00;;A6;avatar, multitool;"switching multitool from ""EINFRIEREN"" to ""KLONEN"""
+12_Video_18.mp4;Unreal;12;01:30:00;;A6;avatar, multitool;"switching multitool from ""KLONEN"" to ""AUFTAUEN"""
+12_Video_18.mp4;Unreal;12;01:31:00;;A6;avatar, multitool;"switching multitool from ""AUFTAUEN"" to ""LÖSCHEN"""
+12_Video_18.mp4;Unreal;12;01:32:00;01:33:00;A6;avatar, multitool, scribbles ;trying to delete scribbles with multitool
+12_Video_18.mp4;Unreal;12;01:33:00;01:34:00;A6;avatar, multitool, scribbles ;deleting scribbles  with multitool
+12_Video_18.mp4;Unreal;12;01:36:00;;A10;avatar, tool inventory;opening tool inventory with right hand
+12_Video_18.mp4;Unreal;12;01:36:00;;A6;avatar, tool inventory, multitool;unselecting multitool from tool inventtory
+12_Video_18.mp4;Unreal;12;01:36:00;01:38:00;A8;avatar;manual turning right 135 degrees 
+12_Video_18.mp4;Unreal;12;01:39:00;01:44:00;A10;avatar, steamVR menu;opening steamVR main menu
+12_Video_18.mp4;Unreal;12;01:39:00;01:40:00;A6;avatar, steamVR menu button;"pointing at menu button ""UMGEBUNGEN"" with right hand"
+12_Video_18.mp4;Unreal;12;01:41:00;01:41:00;A6;avatar, steamVR menu button;"pointing at menu button ""UMGEBUNGEN"" with right hand"
+12_Video_18.mp4;Unreal;12;01:41:00;01:42:00;A6;avatar, steamVR menu button;"pointing at menu button ""GEGENSTÄNDE"" with right hand"
+12_Video_18.mp4;Unreal;12;01:42:00;01:43:00;A6;avatar, steamVR menu button;"pointing at menu button ""QUESTS"" with right hand"
+12_Video_18.mp4;Unreal;12;01:43:00;01:44:00;A6;avatar, steamVR menu button;"pointing at menu button ""GEGENSTÄNDE"" with right hand"
+12_Video_18.mp4;Unreal;12;01:44:00;01:44:00;A6;avatar, steamVR menu button;"pointing at menu button ""UMGEBUNGEN"" with right hand"
+12_Video_18.mp4;Unreal;12;01:44:00;;A6;avatar, steamVR menu button;"pressing menu button ""UMGEBUNGEN"" "
+12_Video_18.mp4;Unreal;12;01:44:00;01:48:00;A10;avatar, environment menu;opening steamVR  environment menu
+12_Video_18.mp4;Unreal;12;01:44:00;01:45:00;A6;avatar, environment menu button;pointing at second button from the top on the right with right hand
+12_Video_18.mp4;Unreal;12;01:45:00;01:46:00;A6;avatar, environment menu button;pointing at first button from the top on the left with right hand
+12_Video_18.mp4;Unreal;12;01:46:00;01:46:00;A6;avatar, environment menu button;pointing at second button from the top on the left with right hand
+12_Video_18.mp4;Unreal;12;01:46:00;01:47:00;A6;avatar, environment menu button;pointing at third button from the top on the left with right hand
+12_Video_18.mp4;Unreal;12;01:47:00;01:47:00;A6;avatar, environment menu button;pointing at fourth button from the top on the left with right hand
+12_Video_18.mp4;Unreal;12;01:47:00;01:48:00;A6;avatar, environment menu button;pointing at the bottom button on the left with right hand 
+12_Video_18.mp4;Unreal;12;01:48:00;;A6;avatar, environment menu button;pressing at the bottom button on the left
+12_Video_18.mp4;Unreal;12;01:48:00;01:51:00;A10;avatar, environment dialog;opening steamVR environment dialog
+12_Video_18.mp4;Unreal;12;01:48:00;01:49:00;A6;avatar, dialog button;"pointing at button ""EINZELSPIELER"" with right hand"
+12_Video_18.mp4;Unreal;12;01:49:00;01:51:00;A6;avatar, dialog button;"pointing at button ""EINZELSPIELER"" with right hand"
+12_Video_18.mp4;Unreal;12;01:50:00;;A6;avatar, dialog button;"pressing button ""EINZELSPIELER"" "
+12_Video_18.mp4;Unreal;12;01:51:00;01:55:00;A10;avatar, steamVR loading zone;opening steamVR loading zone, avatar leaving pavillion
+12_Video_18.mp4;Unreal;12;01:53:00;01:55:00;A10;avatar, loading indicator;showing steamVR loading indicator
+12_Video_18.mp4;Unreal;12;01:55:00;;A3;avatar;entering pavillion remix
+12_Video_18.mp4;Unreal;12;01:59:00;02:01:00;A8;avatar;manual turning right 225 degrees 
+12_Video_18.mp4;Unreal;12;02:02:00;02:05:00;A8;avatar;manual turning left 225 degrees 
+12_Video_18.mp4;Unreal;12;02:07:00;;A7 ;avatar;teleporting in pavillion
+12_Video_18.mp4;Unreal;12;02:11:00;;A7 ;avatar;teleporting in pavillion
+12_Video_18.mp4;Unreal;12;02:12:00;02:13:00;A6;avatar, chair;grabbing chair with right hand
+12_Video_18.mp4;Unreal;12;02:14:00;02:15:00;A8;avatar;manual turning right 45 degrees 
+12_Video_18.mp4;Unreal;12;02:14:00;02:15:00;A6;avatar, chair;placing chair on the floor
+12_Video_18.mp4;Unreal;12;02:16:00;02:17:00;A8;avatar;manual turning right 180 degrees 
+12_Video_18.mp4;Unreal;12;02:16:00;02:18:00;A1;avatar;walking in pavillion
+12_Video_18.mp4;Unreal;12;02:18:00;02:20:00;A8;avatar;manual turning left 180 degrees 
+12_Video_18.mp4;Unreal;12;02:21:00;02:23:00;A1;avatar, chair;walking in pavillion towards chair
+12_Video_18.mp4;Unreal;12;02:23:00;02:24:00;A6;avatar, chair;grabbing chair with right hand
+12_Video_18.mp4;Unreal;12;02:24:00;02:24:00;A6;avatar, chair;grabbing chair with left hand
+12_Video_18.mp4;Unreal;12;02:24:00;02:26:00;A6;avatar, chair;scaling down chair with both hands
+12_Video_18.mp4;Unreal;12;02:25:00;02:27:00;A8;avatar;manual turning left 135 degrees 
+12_Video_18.mp4;Unreal;12;02:26:00;;A6;avatar, chair;dropping chair from right hand, still holding it with left hand
+12_Video_18.mp4;Unreal;12;02:27:00;02:29:00;A1;avatar, shelf;walking in pavillion towards shelf
+12_Video_18.mp4;Unreal;12;02:27:00;02:29:00;A6;avatar, chair;putting small chair onto shelf, dropping it from left hand
+12_Video_18.mp4;Unreal;12;02:30:00;02:31:00;A6;avatar, plush crocodile, shelf;grabbing plush crocodile from shelf with right hand
+12_Video_18.mp4;Unreal;12;02:31:00;02:33:00;A8;avatar;manual turning right 135 degrees 
+12_Video_18.mp4;Unreal;12;02:32:00;02:33:00;A6;avatar, plush crocodile;grabbing plush crocodile with left hand
+12_Video_18.mp4;Unreal;12;02:33:00;02:34:00;A6;avatar, plush crocodile;scaling up plush crocodile with both hands
+12_Video_18.mp4;Unreal;12;02:34:00;;A6;avatar, plush crocodile;dropping plush crocodile from left hand, still holding it with right hand
+12_Video_18.mp4;Unreal;12;02:34:00;02:36:00;A6;avatar, plush crocodile;dropping plush crocodile on the floor 
+12_Video_18.mp4;Unreal;12;02:39:00;;A7 ;avatar;teleporting in pavillion
+12_Video_18.mp4;Unreal;12;02:41:00;;A8;avatar;quickturn right 45 degrees
+12_Video_18.mp4;Unreal;12;02:41:00;;A8;avatar;quickturn right 45 degrees
+12_Video_18.mp4;Unreal;12;02:42:00;02:44:00;A1;avatar, coffe table;walking in pavillion towards coffee table
+12_Video_18.mp4;Unreal;12;02:43:00;02:44:00;A6;avatar, coffee mug, coffe table;grabbing coffee mug from coffee table with right hand
+12_Video_18.mp4;Unreal;12;02:44:00;02:46:00;A6;avatar, coffee mug;examining coffee mug while holding it in right hand
+12_Video_18.mp4;Unreal;12;02:46:00;02:48:00;A6;avatar, coffee mug, coffe table;putting back coffee mug onto coffee table
+12_Video_18.mp4;Unreal;12;02:48:00;02:49:00;A6;avatar, coffee mug, coffe table;grabbing coffee mug from coffee table with left hand
+12_Video_18.mp4;Unreal;12;02:49:00;;A6;avatar, coffee mug;holding coffee mug in left hand
+12_Video_18.mp4;Unreal;12;02:50:00;02:51:00;A6;avatar, book, coffe table;grabbing book from coffee table with right hand
+12_Video_18.mp4;Unreal;12;02:51:00;02:53:00;A6;avatar, book ;holding coffee mug in left hand
+12_Video_18.mp4;Unreal;12;02:53:00;02:54:00;A6;avatar, book, coffe table;putting back book onto coffee table
+12_Video_18.mp4;Unreal;12;02:54:00;02:55:00;A6;avatar, coffee mug;grabbing coffee mug with right hand
+12_Video_18.mp4;Unreal;12;02:55:00;02:55:00;A6;avatar, coffee mug;scaling down coffee mug with both hands
+12_Video_18.mp4;Unreal;12;02:55:00;;A6;avatar, coffee mug;dropping coffee mug from right hand, still holding it with left hand
+12_Video_18.mp4;Unreal;12;02:55:00;02:57:00;A6;avatar, coffee mug;putting small coffee mug into bigger coffee mug on coffee table
+12_Video_18.mp4;Unreal;12;02:58:00;02:59:00;A8;avatar;manual turning left 135 degrees 
+12_Video_18.mp4;Unreal;12;03:00:00;03:01:00;A8;avatar;manual turning right 135 degrees 
+12_Video_18.mp4;Unreal;12;03:02:00;;A7 ;avatar, carpet;teleporting in pavillion onto carpet
+12_Video_19.mp4;Unreal;12;00:01:00;;A7 ;avatar;teleporting in pavillion 
+12_Video_19.mp4;Unreal;12;00:03:00;00:04:00;A8 ;avatar;manual turning right 45 degrees 
+12_Video_19.mp4;Unreal;12;00:07:00;;A7 ;avatar;teleporting in pavillion 
+12_Video_19.mp4;Unreal;12;00:08:00;00:09:00;A8;avatar;manual turning left 135 degrees 
+12_Video_19.mp4;Unreal;12;00:09:00;00:11:00;A1;avatar;walking in pavillion
+12_Video_19.mp4;Unreal;12;00:11:00;00:12:00;A8 ;avatar;manual turning right 180 degrees 
+12_Video_19.mp4;Unreal;12;00:13:00;;A7 ;avatar;teleporting in pavillion 
+12_Video_19.mp4;Unreal;12;00:14:00;00:20:00;A1;avatar;walking from pavillion out onto terrace
+12_Video_19.mp4;Unreal;12;00:20:00;00:21:00;A8 ;avatar;manual turning left 180 degrees 
+12_Video_19.mp4;Unreal;12;00:24:00;00:27:00;A1;avatar;walking from terrace into pavillion
+12_Video_19.mp4;Unreal;12;00:25:00;;A3;avatar;entering pavillion
+12_Video_19.mp4;Unreal;12;00:29:00;;A8;avatar;quickturn left 45 degrees
+12_Video_19.mp4;Unreal;12;00:29:00;;A8;avatar;quickturn left 45 degrees
+12_Video_19.mp4;Unreal;12;00:30:00;;A8;avatar;quickturn left 45 degrees
+12_Video_19.mp4;Unreal;12;00:30:00;00:31:00;A8 ;avatar;manual turning left 45 degrees 
+12_Video_19.mp4;Unreal;12;00:33:00;;A7 ;avatar;teleporting out of pavillion onto terrace
+12_Video_19.mp4;Unreal;12;00:34:00;00:35:00;A8 ;avatar;manual turning left 90 degrees 
+12_Video_19.mp4;Unreal;12;00:35:00;00:37:00;A4;avatar, birds;waving towards flying birds with right hand
+12_Video_19.mp4;Unreal;12;00:39:00;;A7 ;avatar;teleporting on terrace
+12_Video_19.mp4;Unreal;12;00:40:00;00:43:00;A8 ;avatar;manual turning left 315 degrees 
+12_Video_19.mp4;Unreal;12;00:44:00;00:45:00;A1;avatar;walking on terrace
+12_Video_19.mp4;Unreal;12;00:45:00;00:46:00;A8 ;avatar;manual turning right 90 degrees 
+12_Video_19.mp4;Unreal;12;00:46:00;00:50:00;A6;avatar, butterfly;trying to interact with flying butterfly with right hand
+12_Video_19.mp4;Unreal;12;00:51:00;00:52:00;A4;avatar, butterfly;waving towards flying butterfly with right hand
+12_Video_19.mp4;Unreal;12;00:52:00;00:53:00;A8 ;avatar;manual turning left 45 degrees 
+12_Video_19.mp4;Unreal;12;00:53:00;;A8;avatar;quickturn left 45 degrees
+12_Video_19.mp4;Unreal;12;00:53:00;;A8;avatar;quickturn left 45 degrees
+12_Video_19.mp4;Unreal;12;00:53:00;00:55:00;A8 ;avatar;manual turning left 45 degrees 
+12_Video_19.mp4;Unreal;12;00:56:00;;A7 ;avatar;teleporting on terrace
+12_Video_19.mp4;Unreal;12;00:56:00;00:57:00;A8 ;avatar;manual turning right 45 degrees 
+12_Video_19.mp4;Unreal;12;00:59:00;;A7 ;avatar;teleporting from terrace into pavillion
+12_Video_19.mp4;Unreal;12;00:59:00;;A3;avataar;entering pavillion
+12_Video_19.mp4;Unreal;12;01:00:00;01:01:00;A8 ;avatar;manual turning right 90 degrees 
+12_Video_19.mp4;Unreal;12;01:02:00;01:04:00;A10;avatar, steamVR menu;opening steamVR main menu
+12_Video_19.mp4;Unreal;12;01:02:00;01:03:00;A6;avatar, steamVR menu button;"pointing at menu button ""AVATARE"" with right hand"
+12_Video_19.mp4;Unreal;12;01:03:00;01:03:00;A6;avatar, steamVR menu button;"pointing at menu button ""UMGEBUNGEN"" with right hand"
+12_Video_19.mp4;Unreal;12;01:03:00;01:04:00;A6;avatar, steamVR menu button;"pointing at menu button ""GEGENSTÄNDE"" with right hand"
+12_Video_19.mp4;Unreal;12;01:04:00;;A6;avatar, steamVR menu button;"pressing menu button ""GEGENSTÄNDE"" "
+12_Video_19.mp4;Unreal;12;01:04:00;01:07:00;A10;avatar, objects menu;opening steamVR objects menu
+12_Video_19.mp4;Unreal;12;01:04:00;01:07:00;A6;avatar, objects menu button;"pointing at menu button ""Möbel"" with right hand"
+12_Video_19.mp4;Unreal;12;01:07:00;;A6;avatar, objects menu button;"pressing menu button ""Möbel"" "
+12_Video_19.mp4;Unreal;12;01:07:00;01:18:00;A10;avatar, furniture menu;opening steamVR furniture menu
+12_Video_19.mp4;Unreal;12;01:07:00;01:08:00;A6;avatar, furniture menu button;"pointing at menu button ""Bürohocker"" with right hand"
+12_Video_19.mp4;Unreal;12;01:08:00;01:08:00;A6;avatar, furniture menu button;"pointing at menu button ""Barhocker"" with right hand"
+12_Video_19.mp4;Unreal;12;01:08:00;01:09:00;A6;avatar, furniture menu button;"pointing at menu button ""UP"" with right hand"
+12_Video_19.mp4;Unreal;12;01:09:00;;A6;avatar, furniture menu button;"pressing menu button ""UP"" "
+12_Video_19.mp4;Unreal;12;01:09:00;01:12:00;A6;avatar, furniture menu button;"pointing at menu button ""DOWN"" with right hand"
+12_Video_19.mp4;Unreal;12;01:12:00;;A6;avatar, furniture menu button;"pressing menu button ""DOWN"" "
+12_Video_19.mp4;Unreal;12;01:12:00;01:13:00;A6;avatar, furniture menu button;"pointing at menu button ""Doppelbett"" with right hand"
+12_Video_19.mp4;Unreal;12;01:13:00;01:15:00;A6;avatar, furniture menu button;"pointing at menu button ""Couch"" with right hand"
+12_Video_19.mp4;Unreal;12;01:14:00;;A6;avatar, furniture menu button;"pressing menu button ""Couch"" "
+12_Video_19.mp4;Unreal;12;01:15:00;01:16:00;A6;avatar, furniture menu button;"pointing at menu button ""Essteller"" with right hand"
+12_Video_19.mp4;Unreal;12;01:17:00;01:17:00;A6;avatar, furniture menu button;"pointing at menu button ""Esstisch"" with right hand"
+12_Video_19.mp4;Unreal;12;01:17:00;01:17:00;A6;avatar, furniture menu button;"pointing at menu button ""Doppelbett"" with right hand"
+12_Video_19.mp4;Unreal;12;01:17:00;01:17:00;A6;avatar, furniture menu button;"pointing at menu button ""Essteller"" with right hand"
+12_Video_19.mp4;Unreal;12;01:17:00;01:18:00;A6;avatar, furniture menu button;"pointing at menu button ""Esstisch"" with right hand"
+12_Video_19.mp4;Unreal;12;01:20:00;01:21:00;A6;avatar, couch;grabbing small couch with right hand
+12_Video_19.mp4;Unreal;12;01:21:00;01:22:00;A6;avatar, couch;grabbing small couch with left hand
+12_Video_19.mp4;Unreal;12;01:22:00;01:23:00;A6;avatar, couch;scaling down couch with both hands
+12_Video_19.mp4;Unreal;12;01:23:00;01:24:00;A6;avatar, couch;scaling up couch with both hands
+12_Video_19.mp4;Unreal;12;01:24:00;;A6;avatar, couch;dropping couch from left hand, still holding it with right hand
+12_Video_19.mp4;Unreal;12;01:25:00;01:26:00;A6;avatar, couch;grabbing small couch with left hand
+12_Video_19.mp4;Unreal;12;01:26:00;01:27:00;A6;avatar, couch;scaling up couch with both hands
+12_Video_19.mp4;Unreal;12;01:29:00;;A6;avatar, couch;dropping big couch from both hands onto the floor
+12_Video_19.mp4;Unreal;12;01:30:00;01:32:00;A6;avatar, couch;grabbing and dropping couch with right hand
+12_Video_19.mp4;Unreal;12;01:33:00;01:34:00;A6;avatar, couch;grabbing couch with right hand, throwing couch towards wall
+12_Video_19.mp4;Unreal;12;01:35:00;01:36:00;A8 ;avatar;manual turning right 45 degrees 
+12_Video_19.mp4;Unreal;12;01:37:00;;A7 ;avatar;teleporting in pavillion 
+12_Video_19.mp4;Unreal;12;01:37:00;01:38:00;A8 ;avatar;manual turning left 45 degrees 
+12_Video_19.mp4;Unreal;12;01:37:00;01:38:00;A1;avatar,  floor lamp;walking in pavillion towards floor lamp
+12_Video_19.mp4;Unreal;12;01:38:00;01:42:00;A6;avatar,  floor lamp;trying to interact with floor lamp
+12_Video_19.mp4;Unreal;12;01:43:00;01:47:00;A6;avatar, couch;grabbing couch with right hand, putting couch close to wall
+12_Video_19.mp4;Unreal;12;01:44:00;01:46:00;A1;avatar, couch;walking in pavillion while holding couch
+12_Video_19.mp4;Unreal;12;01:47:00;01:48:00;A8 ;avatar;manual turning left 45 degrees 
+12_Video_19.mp4;Unreal;12;01:49:00;;A7 ;avatar;teleporting in pavillion 
+12_Video_19.mp4;Unreal;12;01:49:00;01:51:00;A8 ;avatar;manual turning right 90 degrees 
+12_Video_19.mp4;Unreal;12;01:51:00;01:53:00;A8 ;avatar;manual turning right 90 degrees 
+12_Video_19.mp4;Unreal;12;01:54:00;;A7 ;avatar;teleporting in pavillion 
+12_Video_19.mp4;Unreal;12;01:55:00;;A8;avatar;quickturn left 45 degrees
+12_Video_19.mp4;Unreal;12;01:55:00;;A8;avatar;quickturn left 45 degrees
+12_Video_19.mp4;Unreal;12;01:58:00;;A7 ;avatar, wall;teleporting in pavillion towards wall
+12_Video_19.mp4;Unreal;12;01:59:00;02:01:00;A1;avatar, wall;walking in pavillion towards wall
+12_Video_19.mp4;Unreal;12;02:00:00;02:04:00;A2;avatar, wall;colliding with wall, clipping through wall
+12_Video_19.mp4;Unreal;12;02:03:00;02:05:00;A1;avatar, wall;walking backwards in pavillion away from wall
+12_Video_19.mp4;Unreal;12;02:06:00;02:07:00;A8 ;avatar;manual turning right 135 degrees 
+12_Video_19.mp4;Unreal;12;02:08:00;;A7 ;avatar;teleporting in pavillion 
+12_Video_19.mp4;Unreal;12;02:09:00;02:10:00;A8 ;avatar;manual turning left 45 degrees 
+12_Video_19.mp4;Unreal;12;02:11:00;02:14:00;A1;avatar;walking out of pavillion and onto terrace
+12_Video_19.mp4;Unreal;12;02:16:00;02:18:00;A8 ;avatar;manual turning left 180 degrees 
+12_Video_19.mp4;Unreal;12;02:19:00;;A1;avatar;walking from terrace into pavillion 
+12_Video_19.mp4;Unreal;12;02:20:00;02:24:00;A3;avatar;entering pavillion
+12_Video_19.mp4;Unreal;12;02:25:00;;A7 ;avatar;teleporting in pavillion 
+12_Video_19.mp4;Unreal;12;02:27:00;;A8;avatar;quickturn right 45 degrees
+12_Video_19.mp4;Unreal;12;02:27:00;;A8;avatar;quickturn right 45 degrees
+12_Video_19.mp4;Unreal;12;02:31:00;;A7 ;avatar;teleporting in pavillion 
+12_Video_19.mp4;Unreal;12;02:32:00;;A8;avatar;quickturn left 45 degrees
+12_Video_19.mp4;Unreal;12;02:33:00;;A8;avatar;quickturn left 45 degrees
+12_Video_19.mp4;Unreal;12;02:33:00;02:35:00;A8 ;avatar;manual turning left 180 degrees 
+12_Video_19.mp4;Unreal;12;02:35:00;02:38:00;A1;avatar;walking in pavillion
+12_Video_19.mp4;Unreal;12;02:38:00;02:39:00;A8 ;avatar;manual turning left 45 degrees 
+12_Video_19.mp4;Unreal;12;02:39:00;;A7 ;avatar;teleporting in pavillion 
+12_Video_19.mp4;Unreal;12;02:39:00;02:40:00;A8 ;avatar;manual turning right 45 degrees 
+12_Video_19.mp4;Unreal;12;02:40:00;02:43:00;A10;avatar, furniture menu;opening steamVR furniture menu
+12_Video_19.mp4;Unreal;12;02:40:00;02:40:00;A6;avatar, furniture menu button;"pointing at menu button ""Ecktisch"" with right hand"
+12_Video_19.mp4;Unreal;12;02:40:00;02:41:00;A6;avatar, furniture menu button;"pointing at menu button ""Essteller"" with right hand"
+12_Video_19.mp4;Unreal;12;02:41:00;02:41:00;A6;avatar, furniture menu button;"pointing at menu button ""Esstisch"" with right hand"
+12_Video_19.mp4;Unreal;12;02:41:00;02:42:00;A6;avatar, furniture menu button;"pointing at menu button ""DOWN"" with right hand"
+12_Video_19.mp4;Unreal;12;02:42:00;;A6;avatar, furniture menu button;"pressing menu button ""DOWN"" "
+12_Video_19.mp4;Unreal;12;02:42:00;02:42:00;A6;avatar, furniture menu button;"pointing at menu button ""Gartenpagode"" with right hand"
+12_Video_19.mp4;Unreal;12;02:42:00;02:42:00;A6;avatar, furniture menu button;"pointing at menu button ""Fernsehtisch (offen)"" with right hand"
+12_Video_19.mp4;Unreal;12;02:42:00;02:42:00;A6;avatar, furniture menu button;"pointing at menu button ""Essteller"" with right hand"
+12_Video_19.mp4;Unreal;12;02:42:00;02:42:00;A6;avatar, furniture menu button;"pointing at menu button ""Ecktisch"" with right hand"
+12_Video_19.mp4;Unreal;12;02:42:00;02:42:00;A6;avatar, furniture menu button;"pointing at menu button ""Doppelbett"" with right hand"
+12_Video_19.mp4;Unreal;12;02:42:00;02:43:00;A6;avatar, furniture menu button;"pointing at menu button ""Zurück"" with right hand"
+12_Video_19.mp4;Unreal;12;02:43:00;;A6;avatar, object menu button;"pressing menu button ""Zurück"" "
+12_Video_19.mp4;Unreal;12;02:43:00;02:45:00;A10;avatar, object menu;opening steamVR object menu
+12_Video_19.mp4;Unreal;12;02:44:00;02:44:00;A6;avatar, object menu button;"pointing at menu button ""Werkzeuge"" with right hand"
+12_Video_19.mp4;Unreal;12;02:44:00;02:44:00;A6;avatar, object menu button;"pointing at menu button ""Kleidung"" with right hand"
+12_Video_19.mp4;Unreal;12;02:45:00;;A6;avatar, object menu button;"pressing menu button ""Kleidung"" "
+12_Video_19.mp4;Unreal;12;02:45:00;03:09:00;A10;avatar, clothing menu;opening steamVR clothing menu
+12_Video_19.mp4;Unreal;12;02:45:00;02:46:00;A6;avatar, clothing menu button;"pointing at menu button ""Einfache Kugel"" with right hand"
+12_Video_19.mp4;Unreal;12;02:46:00;02:46:00;A6;avatar, clothing menu button;"pointing at menu button ""Einfacher Block"" with right hand"
+12_Video_19.mp4;Unreal;12;02:46:00;02:46:00;A6;avatar, clothing menu button;pointing at bottom right menu button with right hand
+12_Video_19.mp4;Unreal;12;02:46:00;02:48:00;A6;avatar, clothing menu button;"pointing at menu button ""DOWN"" with right hand"
+12_Video_19.mp4;Unreal;12;02:47:00;;A6;avatar, clothing menu button;"pressing menu button ""DOWN"" "
+12_Video_19.mp4;Unreal;12;02:48:00;02:48:00;A6;avatar, clothing menu button;"pointing at menu button ""Skimütze"" with right hand"
+12_Video_19.mp4;Unreal;12;02:48:00;02:48:00;A6;avatar, clothing menu button;"pointing at menu button ""Zylinderhut"" with right hand"
+12_Video_19.mp4;Unreal;12;02:48:00;02:50:00;A6;avatar, clothing menu button;"pointing at menu button ""Trucker-Mütze"" with right hand"
+12_Video_19.mp4;Unreal;12;02:49:00;;A6;avatar, clothing menu button;"pressing menu button ""Trucker-Mütze"" "
+12_Video_19.mp4;Unreal;12;02:51:00;02:52:00;A6;avatar, trucker cap;grabbing trucker cap with right hand
+12_Video_19.mp4;Unreal;12;02:53:00;02:54:00;A6;avatar, trucker cap;grabbing trucker cap with left hand
+12_Video_19.mp4;Unreal;12;02:53:00;02:54:00;A6;avatar, trucker cap;scaling down trucker cap with both hands
+12_Video_19.mp4;Unreal;12;02:54:00;;A6;avatar, trucker cap;dropping trucker cap from right hand, still holding it with left hand
+12_Video_19.mp4;Unreal;12;02:54:00;02:55:00;A6;avatar, trucker cap;grabbing trucker cap with right hand
+12_Video_19.mp4;Unreal;12;02:55:00;;A6;avatar, trucker cap;dropping trucker cap from left hand, still holding it with right hand
+12_Video_19.mp4;Unreal;12;02:55:00;02:58:00;A6;avatar, trucker cap;trying to put trucker cap on head with right hand, trucker cap dropping on the floor
+12_Video_19.mp4;Unreal;12;03:00:00;;A7 ;avatar;teleporting in pavillion 
+12_Video_19.mp4;Unreal;12;03:02:00;03:03:00;A6;avatar, trucker cap;grabbing trucker cap with right hand
+12_Video_19.mp4;Unreal;12;03:03:00;03:04:00;A6;avatar, trucker cap;grabbing trucker cap with left hand
+12_Video_19.mp4;Unreal;12;03:04:00;;A6;avatar, trucker cap;dropping trucker cap from right hand, still holding it with left hand
+12_Video_19.mp4;Unreal;12;03:04:00;03:05:00;A6;avatar, trucker cap;grabbing trucker cap with right hand
+12_Video_19.mp4;Unreal;12;03:05:00;03:06:00;A6;avatar, trucker cap;scaling up trucker cap with both hands
+12_Video_19.mp4;Unreal;12;03:06:00;;A6;avatar, trucker cap;dropping trucker cap from left hand, still holding it with right hand
+12_Video_19.mp4;Unreal;12;03:06:00;03:08:00;A6;avatar, trucker cap;throwing big trucker cap on the floor with right hand
+12_Video_19.mp4;Unreal;12;03:08:00;03:09:00;A8 ;avatar;manual turning right 45 degrees 
+12_Video_20.mp4;Unreal;12;00:00:00;00:01:00;A10;avatar, clothing menu;opening steamVR clothing menu
+12_Video_20.mp4;Unreal;12;00:01:00;;A6;avatar, clothing menu button;"pointing at menu button ""Zurück"" with right hand"
+12_Video_20.mp4;Unreal;12;00:01:00;00:03:00;A6;avatar, clothing menu button;"pressing menu button ""Zurück"" "
+12_Video_20.mp4;Unreal;12;00:01:00;00:03:00;A10;avatar, object menu;opening steamVR object menu
+12_Video_20.mp4;Unreal;12;00:03:00;;A6;avatar, clothing menu button;"pressing menu button ""Zurück"" "
+12_Video_20.mp4;Unreal;12;00:03:00;00:06:00;A10;avatar, steamVR main menu;opening steamVR  main menu
+12_Video_20.mp4;Unreal;12;00:04:00;00:04:00;A6;avatar, main menu button;"pointing at menu button ""UMGEBUNGEN"" with right hand"
+12_Video_20.mp4;Unreal;12;00:04:00;00:06:00;A6;avatar, main menu button;"pointing at menu button ""AVATARE"" with right hand"
+12_Video_20.mp4;Unreal;12;00:06:00;;A6;avatar, main menu button;"pressing menu button ""AVATARE"" "
+12_Video_20.mp4;Unreal;12;00:06:00;00:17:00;A10;avatar, avatar menu;opening steamVR avatar menu
+12_Video_20.mp4;Unreal;12;00:06:00;00:09:00;A8 ;avatar, avatar mirror;manual turning left 45 degrees towards avatar mirror
+12_Video_20.mp4;Unreal;12;00:08:00;00:10:00;A1;avatar, avatar mirror;walking backwards in pavillion away from avatar mirror
+12_Video_20.mp4;Unreal;12;00:10:00;00:11:00;A4;avatar, avatar mirror;raising hands towards avatar mirror
+12_Video_20.mp4;Unreal;12;00:11:00;00:12:00;A4;avatar, avatar mirror;waving towards avatar mirror with right hand, mirror responds waving with right hand
+12_Video_20.mp4;Unreal;12;00:13:00;00:14:00;A4;avatar, avatar mirror;waving towards avatar mirror with left hand, mirror responds waving with left hand
+12_Video_20.mp4;Unreal;12;00:14:00;00:15:00;A8 ;avatar, steamVR main menu;manual turning right 45 degrees towards main menu
+12_Video_20.mp4;Unreal;12;00:15:00;00:16:00;A6;avatar, avatar menu button;"pointing at menu button ""Hände ändern"" with right hand"
+12_Video_20.mp4;Unreal;12;00:16:00;00:17:00;A6;avatar, avatar menu button;"pointing at menu button ""Kopf ändern"" with right hand"
+12_Video_20.mp4;Unreal;12;00:17:00;00:27:00;A10;avatar, avatar head menu;opening steamVR avatar head menu
+12_Video_20.mp4;Unreal;12;00:19:00;00:22:00;A6;avatar, avatar head menu button;"pointing at menu button ""DOWN"" with right hand"
+12_Video_20.mp4;Unreal;12;00:19:00;;A6;avatar, avatar head menu button;"pressing menu button ""DOWN"" "
+12_Video_20.mp4;Unreal;12;00:23:00;00:24:00;A6;avatar, avatar head menu button;pointing at bottom left menu button with right hand
+12_Video_20.mp4;Unreal;12;00:24:00;00:26:00;A6;avatar, avatar head menu button;"pointing at menu button ""Kopf - Roboter V1"" with right hand"
+12_Video_20.mp4;Unreal;12;00:24:00;;A6;avatar, avatar head menu button;"pressing menu button ""Kopf - Roboter V1"" "
+12_Video_20.mp4;Unreal;12;00:26:00;00:26:00;A6;avatar, avatar head menu button;"pointing at menu button ""DOWN"" with right hand"
+12_Video_20.mp4;Unreal;12;00:26:00;00:28:00;A6;avatar, avatar head menu button;"pointing at menu button ""Zurück"" with right hand"
+12_Video_20.mp4;Unreal;12;00:27:00;;A6;avatar, avatar head menu button;"pressing menu button ""Zurück"" "
+12_Video_20.mp4;Unreal;12;00:27:00;00:30:00;A10;avatar, avatar menu;opening steamVR avatar menu
+12_Video_20.mp4;Unreal;12;00:28:00;00:30:00;A6;avatar, avatar menu button;"pointing at menu button ""Hände ändern"" with right hand"
+12_Video_20.mp4;Unreal;12;00:30:00;00:33:00;A10;avatar, avatar hands menu;opening steamVR avatar hands menu
+12_Video_20.mp4;Unreal;12;00:30:00;00:30:00;A6;avatar, avatar hands menu button;"pointing at menu button ""Valve Index Controller"" with right hand"
+12_Video_20.mp4;Unreal;12;00:30:00;00:31:00;A6;avatar, avatar hands menu button;"pointing at menu button ""Hände"" with right hand"
+12_Video_20.mp4;Unreal;12;00:31:00;00:32:00;A6;avatar, avatar hands menu button;"pointing at menu button ""Fünffingrige Hände"" with right hand"
+12_Video_20.mp4;Unreal;12;00:32:00;00:33:00;A6;avatar, avatar hands menu button;"pointing at menu button ""Zurück"" with right hand"
+12_Video_20.mp4;Unreal;12;00:33:00;;A6;avatar, avatar head menu button;"pressing menu button ""Zurück"" "
+12_Video_20.mp4;Unreal;12;00:33:00;00:53:00;A10;avatar, avatar menu;opening steamVR avatar menu
+12_Video_20.mp4;Unreal;12;00:33:00;00:35:00;A6;avatar, avatar menu button;"pointing at menu button ""Dekorieren"" with right hand"
+12_Video_20.mp4;Unreal;12;00:35:00;00:38:00;A6;avatar, avatar menu hue slider;pointing at hue slider for avatar head with right hand
+12_Video_20.mp4;Unreal;12;00:36:00;;A6;avatar, avatar menu hue slider;pressing hue slider for avatar head, selecting light green
+12_Video_20.mp4;Unreal;12;00:36:00;;A6;avatar, avatar menu hue slider;pressing hue slider for avatar head, selecting dark green
+12_Video_20.mp4;Unreal;12;00:37:00;;A6;avatar, avatar menu hue slider;pressing hue slider for avatar head, selecting cyan
+12_Video_20.mp4;Unreal;12;00:38:00;;A6;avatar, avatar menu hue slider;pressing hue slider for avatar head, selecting dark green
+12_Video_20.mp4;Unreal;12;00:38:00;00:42:00;A6;avatar, avatar menu saturation slider;pointing at saturation slider for avatar head with right hand
+12_Video_20.mp4;Unreal;12;00:40:00;;A6;avatar, avatar menu saturation slider;pressing saturation slider for avatar head
+12_Video_20.mp4;Unreal;12;00:42:00;00:42:00;A6;avatar, avatar menu value slider;pointing at value slider for avatar head with right hand
+12_Video_20.mp4;Unreal;12;00:42:00;00:46:00;A6;avatar, avatar menu hue slider;pointing at hue slider for avatar hands with right hand
+12_Video_20.mp4;Unreal;12;00:43:00;;A6;avatar, avatar menu hue slider;pressing hue slider for avatar hands, selecting light green
+12_Video_20.mp4;Unreal;12;00:44:00;;A6;avatar, avatar menu hue slider;pressing hue slider for avatar hands, selecting cyan
+12_Video_20.mp4;Unreal;12;00:44:00;;A6;avatar, avatar menu hue slider;pressing hue slider for avatar hands, selecting blue
+12_Video_20.mp4;Unreal;12;00:46:00;00:47:00;A6;avatar, avatar menu saturation slider;pointing at saturation slider for avatar hands with right hand
+12_Video_20.mp4;Unreal;12;00:46:00;;A6;avatar, avatar menu saturation slider;pressing saturation slider for avatar hands
+12_Video_20.mp4;Unreal;12;00:46:00;00:48:00;A8 ;avatar, avatar mirror;manual turning left 45 degrees towards avatar mirror
+12_Video_20.mp4;Unreal;12;00:48:00;00:49:00;A4;avatar, avatar mirror;waving towards avatar mirror with right hand, mirror responds waving with right hand
+12_Video_20.mp4;Unreal;12;00:49:00;00:51:00;A4;avatar, avatar mirror;waving towards avatar mirror with left hand, mirror responds waving with left hand
+12_Video_20.mp4;Unreal;12;00:51:00;00:52:00;A8 ;avatar,  avatar menu;manual turning right 45 degrees towards avatar menu
+12_Video_20.mp4;Unreal;12;00:52:00;00:53:00;A6;avatar, avatar menu button;"pointing at menu button ""Dekorieren"" with right hand"
+12_Video_20.mp4;Unreal;12;00:53:00;;A6;avatar, avatar menu button;"pressing menu button ""Dekorieren"" "
+12_Video_20.mp4;Unreal;12;00:53:00;01:16:00;A10;avatar, avatar decorate menu;opening steamVR avatar decorate menu
+12_Video_20.mp4;Unreal;12;00:54:00;00:56:00;A6;avatar, avatar decorate menu button;"pointing at menu button ""DOWN"" with right hand"
+12_Video_20.mp4;Unreal;12;00:55:00;;A6;avatar, avatar decorate menu button;"pressing menu button ""DOWN"" "
+12_Video_20.mp4;Unreal;12;00:56:00;00:57:00;A6;avatar, avatar decorate menu button;"pointing at menu button ""Zylinderhut"" with right hand"
+12_Video_20.mp4;Unreal;12;00:57:00;00:57:00;A6;avatar, avatar decorate menu button;"pointing at menu button ""Trucker-Mütze"" with right hand"
+12_Video_20.mp4;Unreal;12;00:57:00;00:58:00;A6;avatar, avatar decorate menu button;"pointing at menu button ""Zylinderhut"" with right hand"
+12_Video_20.mp4;Unreal;12;00:57:00;;A6;avatar, avatar decorate menu button;"pressing menu button ""Zylinderhut"" "
+12_Video_20.mp4;Unreal;12;01:00:00;01:01:00;A6;avatar, cylinder hat;grabbing cylinder hat from floor with right hand
+12_Video_20.mp4;Unreal;12;01:01:00;01:03:00;A8 ;avatar, avatar mirror;manual turning left 45 degrees towards avatar mirror
+12_Video_20.mp4;Unreal;12;01:05:00;01:06:00;A1;avatar, avatar mirror;walking in pavillion towards avatar mirror
+12_Video_20.mp4;Unreal;12;01:07:00;01:10:00;A6;avatar, cylinder hat,  avatar mirror;putting cylinder hat on the head of avatar mirror
+12_Video_20.mp4;Unreal;12;01:08:00;01:09:00;A1;avatar, avatar mirror;walking in pavillion towards avatar mirror
+12_Video_20.mp4;Unreal;12;01:10:00;01:12:00;A1;avatar, avatar mirror;walking backwards in pavillion away from avatar mirror
+12_Video_20.mp4;Unreal;12;01:12:00;01:13:00;A8 ;avatar, avatar decorate menu;manual turning right 45 degrees towards avatar decorate menu
+12_Video_20.mp4;Unreal;12;01:17:00;01:23:00;A10;avatar, avatar decorate menu;opening steamVR avatar decorate menu
+12_Video_20.mp4;Unreal;12;01:18:00;01:18:00;A6;avatar, avatar decorate menu button;"pointing at menu button ""Kopf ändern"" with right hand"
+12_Video_20.mp4;Unreal;12;01:18:00;01:19:00;A8 ;avatar, avatar mirror;manual turning left 45 degrees towards avatar mirror
+12_Video_20.mp4;Unreal;12;01:19:00;01:20:00;A1;avatar, avatar mirror;walking backwards in pavillion away from avatar mirror
+12_Video_20.mp4;Unreal;12;01:19:00;01:20:00;A4;avatar, avatar mirror;waving towards avatar mirror with right hand, mirror responds waving with right hand
+12_Video_20.mp4;Unreal;12;01:20:00;01:22:00;A4;avatar, avatar mirror;salute gesture towards avatar mirror with right hand, mirror responds with same gesture with right hand
+12_Video_20.mp4;Unreal;12;01:22:00;01:23:00;A8 ;avatar, avatar decorate menu;manual turning right 45 degrees towards avatar decorate menu
+12_Video_20.mp4;Unreal;12;01:25:00;;A7;avatar;teleporting in pavillion
+12_Video_20.mp4;Unreal;12;01:25:00;01:26:00;A8 ;avatar;manual turning right 90 degrees 
+12_Video_20.mp4;Unreal;12;01:26:00;01:28:00;A8 ;avatar;manual turning left 270 degrees 
+12_Video_20.mp4;Unreal;12;01:28:00;01:29:00;A8 ;avatar;manual turning right 90 degrees 
+12_Video_20.mp4;Unreal;12;01:31:00;;A7;avatar, rock wall;teleporting in pavillion towards rock wall
+12_Video_20.mp4;Unreal;12;01:32:00;01:35:00;A1;avatar, rock wall;walking in pavillion towards rock wall
+12_Video_20.mp4;Unreal;12;01:34:00;01:37:00;A2;avatar, rock wall;colliding with rock wall, clipping through rock wall
+12_Video_20.mp4;Unreal;12;01:36:00;01:39:00;A1;avatar, rock wall;walking backwards in pavillion away from rock wall
+12_Video_20.mp4;Unreal;12;01:40:00;;A8;avatar;quickturn right 45 degrees
+12_Video_20.mp4;Unreal;12;01:41:00;;A8;avatar;quickturn right 45 degrees
+12_Video_20.mp4;Unreal;12;01:41:00;01:42:00;A8;avatar;manual turning right 45 degrees 
+12_Video_20.mp4;Unreal;12;01:44:00;;A7;avatar;teleporting out of pavillion and onto terrace
+12_Video_20.mp4;Unreal;12;01:44:00;01:45:00;A8;avatar;manual turning right 45 degrees 
+12_Video_20.mp4;Unreal;12;01:47:00;;A7;avatar;teleporting on terrace
+12_Video_20.mp4;Unreal;12;01:47:00;01:48:00;A8;avatar;manual turning right 90 degrees 
+12_Video_20.mp4;Unreal;12;01:50:00;;A7;avatar, pond;teleporting on terrace towards pond
+12_Video_20.mp4;Unreal;12;01:51:00;01:53:00;A1;avatar, pond;walking on terrace over pond
+12_Video_20.mp4;Unreal;12;01:53:00;01:54:00;A8;avatar;manual turning left 180 degrees 
+12_Video_20.mp4;Unreal;12;01:57:00;;A7;avatar;teleporting on terrace
+12_Video_20.mp4;Unreal;12;01:58:00;02:00:00;A1;avatar;walking on terrace
+12_Video_20.mp4;Unreal;12;02:01:00;;A8;avatar;quickturn right 45 degrees
+12_Video_20.mp4;Unreal;12;02:01:00;;A8;avatar;quickturn right 45 degrees
+12_Video_20.mp4;Unreal;12;02:02:00;;A8;avatar;quickturn right 45 degrees
+12_Video_20.mp4;Unreal;12;02:02:00;02:03:00;A8;avatar;manual turning right 45 degrees 
+12_Video_20.mp4;Unreal;12;02:04:00;02:05:00;A4;avatar, bird;waving towards flying bird with right hand
+12_Video_20.mp4;Unreal;12;02:05:00;02:06:00;A8;avatar;manual turning left 45 degrees 
+12_Video_20.mp4;Unreal;12;02:07:00;;A7;avatar;teleporting on terrace
+12_Video_20.mp4;Unreal;12;02:09:00;;A7;avatar;teleporting from terrace into pavillion
+12_Video_20.mp4;Unreal;12;02:09:00;;A3;avatar;entering pavillion
+12_Video_20.mp4;Unreal;12;02:09:00;02:10:00;A8;avatar;manual turning left 90 degrees 
+12_Video_20.mp4;Unreal;12;02:13:00;;A7;avatar, shelf;teleporting in pavillion towards shelf
+12_Video_20.mp4;Unreal;12;02:13:00;02:14:00;A1;avatar, shelf;walking in pavillion towards shelf
+12_Video_20.mp4;Unreal;12;02:14:00;02:15:00;A6;avatar, globe, shelf;grabbing globe from shelf with right hand
+12_Video_20.mp4;Unreal;12;02:16:00;02:17:00;A6;avatar, globe;grabbing globe with left hand
+12_Video_20.mp4;Unreal;12;02:17:00;;A6;avatar, globe;dropping globe from right hand, still holding it with left hand
+12_Video_20.mp4;Unreal;12;02:18:00;02:18:00;A6;avatar, globe;grabbing globe with right hand
+12_Video_20.mp4;Unreal;12;02:18:00;02:21:00;A6;avatar, globe;scaling up globe with both hands
+12_Video_20.mp4;Unreal;12;02:19:00;02:20:00;A8;avatar;manual turning left 45 degrees 
+12_Video_20.mp4;Unreal;12;02:21:00;02:22:00;A6;avatar, globe;dropping globe from both hand on the floor
+12_Video_20.mp4;Unreal;12;02:24:00;02:25:00;A8;avatar;manual turning right 45 degrees 
+12_Video_20.mp4;Unreal;12;02:25:00;02:27:00;A1;avatar, shelf;walking in pavillion towards shelf
+12_Video_20.mp4;Unreal;12;02:27:00;02:28:00;A6;avatar, yellow book, right shelf;grabbing yellow book from right shelf with right hand 
+12_Video_20.mp4;Unreal;12;02:28:00;02:30:00;A6;avatar, yellow book, left shelf;putting yellow book into left shelf with right hand 
+12_Video_20.mp4;Unreal;12;02:31:00;02:32:00;A6;avatar, red book, right shelf;grabbing red book from right shelf with right hand 
+12_Video_20.mp4;Unreal;12;02:32:00;02:34:00;A6;avatar, red book, left shelf;putting red book into left shelf with right hand 
+12_Video_20.mp4;Unreal;12;02:36:00;02:37:00;A6;avatar, green book, right shelf;grabbing green book from right shelf with right hand 
+12_Video_20.mp4;Unreal;12;02:37:00;02:38:00;A6;avatar, green book;transfering green book from right hand to left hand
+12_Video_20.mp4;Unreal;12;02:38:00;02:39:00;A6;avatar, blue book, right shelf;grabbing blue book from right shelf with right hand 
+12_Video_20.mp4;Unreal;12;02:39:00;02:40:00;A6;avatar, green book, left shelf;putting green book into left shelf with left hand 
+12_Video_20.mp4;Unreal;12;02:40:00;02:41:00;A6;avatar, blue book;transfering blue book from right hand to left hand, scaling up book accidentally
+12_Video_20.mp4;Unreal;12;02:41:00;02:42:00;A6;avatar, brown book, right shelf;grabbing brown book from right shelf with right hand 
+12_Video_20.mp4;Unreal;12;02:42:00;02:43:00;A6;avatar, blue book, left shelf;putting blue book into left shelf with left hand 
+12_Video_20.mp4;Unreal;12;02:43:00;02:44:00;A6;avatar, brown book;transfering brown book from right hand to left hand, scaling up book accidentally
+12_Video_20.mp4;Unreal;12;02:44:00;02:46:00;A6;avatar, brown book, left shelf;putting brown book into left shelf with left hand 
+12_Video_20.mp4;Unreal;12;02:46:00;02:47:00;A6;avatar, brown book, right shelf;grabbing gray book from right shelf with right hand 
+12_Video_20.mp4;Unreal;12;02:47:00;02:48:00;A6;avatar, gray book;transfering gray book from right hand to left hand, scaling up book accidentally
+12_Video_20.mp4;Unreal;12;02:48:00;02:49:00;A6;avatar, gray book, left shelf;putting gray book into left shelf with left hand 
+12_Video_20.mp4;Unreal;12;02:50:00;02:51:00;A6;avatar, gray book, left shelf;trying to push gray book in left shelf with right hand
+12_Video_20.mp4;Unreal;12;02:51:00;02:51:00;A6;avatar, gray book, left shelf;grabbing gray book in left shelf with right hand
+12_Video_20.mp4;Unreal;12;02:52:00;02:53:00;A6;avatar, gray book, left shelf;pushing book in left shelf with gray book
+12_Video_20.mp4;Unreal;12;02:53:00;02:55:00;A6;avatar, gray book, left shelf;pushing book in left shelf with gray book
+12_Video_20.mp4;Unreal;12;02:56:00;02:58:00;A8;avatar;manual turning right 45 degrees 
+12_Video_20.mp4;Unreal;12;02:58:00;02:59:00;A6;avatar, gray book;grabbing gray book with left hand
+12_Video_20.mp4;Unreal;12;02:59:00;02:59:00;A6;avatar, gray book;scaling up gray book with both hands
+12_Video_20.mp4;Unreal;12;02:59:00;;A6;avatar, gray book;dropping gray book from left hand, still holding it with right hand
+12_Video_20.mp4;Unreal;12;02:59:00;03:00:00;A6;avatar, gray book;putting gray book on the floor upright
+12_Video_20.mp4;Unreal;12;03:00:00;03:01:00;A8;avatar;manual turning left 45 degrees 
+12_Video_20.mp4;Unreal;12;03:01:00;03:02:00;A6;avatar, blue book, left shelf;grabbing blue book from left shelf with right hand
+12_Video_20.mp4;Unreal;12;03:02:00;03:03:00;A8;avatar;manual turning right 45 degrees 
+12_Video_20.mp4;Unreal;12;03:03:00;03:03:00;A6;avatar, blue book;grabbing blue book with left hand
+12_Video_20.mp4;Unreal;12;03:03:00;03:03:00;A6;avatar, blue book;scaling up blue book with both hands
+12_Video_20.mp4;Unreal;12;03:03:00;;A6;avatar, blue book;dropping blue book from left hand, still holding it with right hand
+12_Video_20.mp4;Unreal;12;03:03:00;03:05:00;A6;avatar, blue book;putting blue book on the floor upright
+12_Video_20.mp4;Unreal;12;03:05:00;03:06:00;A8;avatar;manual turning left 45 degrees 
+12_Video_20.mp4;Unreal;12;03:06:00;03:07:00;A6;avatar, brown book, left shelf;grabbing brown book from left shelf with right hand
+12_Video_20.mp4;Unreal;12;03:07:00;03:07:00;A6;avatar, brown book;grabbing brown book with left hand
+12_Video_20.mp4;Unreal;12;03:07:00;03:08:00;A6;avatar, brown book;scaling up brown book with both hands
+12_Video_20.mp4;Unreal;12;03:08:00;;A6;avatar, brown book;dropping brown book from left hand, still holding it with right hand
+12_Video_20.mp4;Unreal;12;03:08:00;03:10:00;A6;avatar, brown book;putting brown book on the floor upright
+12_Video_20.mp4;Unreal;12;03:10:00;03:12:00;A8;avatar;manual turning left 90 degrees 
+12_Video_20.mp4;Unreal;12;03:12:00;03:13:00;A6;avatar, green book, left shelf;grabbing green book from left shelf with right hand
+12_Video_20.mp4;Unreal;12;03:13:00;03:13:00;A8;avatar;manual turning right 45 degrees 
+12_Video_20.mp4;Unreal;12;03:13:00;03:13:00;A6;avatar, green book;grabbing green book with left hand
+12_Video_20.mp4;Unreal;12;03:13:00;03:14:00;A6;avatar, green book;scaling up green book with both hands
+12_Video_20.mp4;Unreal;12;03:14:00;;A6;avatar, green book;dropping green book from left hand, still holding it with right hand
+12_Video_20.mp4;Unreal;12;03:14:00;03:16:00;A6;avatar, green book;putting green book on the floor upright
+12_Video_20.mp4;Unreal;12;03:16:00;03:18:00;A8;avatar;manual turning left 225 degrees 
+12_Video_20.mp4;Unreal;12;03:16:00;03:17:00;A6;avatar, globe;grabbing globe with both hands
+12_Video_20.mp4;Unreal;12;03:17:00;03:19:00;A6;avatar, globe;throwing globe with both hands to the left
+12_Video_20.mp4;Unreal;12;03:19:00;03:20:00;A8;avatar;manual turning right 180 degrees 
+12_Video_20.mp4;Unreal;12;03:20:00;03:21:00;A1;avatar, left shelf;walking in pavillion towards left shelf
+12_Video_20.mp4;Unreal;12;03:20:00;03:21:00;A6;avatar, red book, left shelf;grabbing red book from left shelf with right hand
+12_Video_20.mp4;Unreal;12;03:21:00;03:22:00;A8;avatar;manual turning right 45 degrees 
+12_Video_20.mp4;Unreal;12;03:21:00;03:21:00;A6;avatar, red book;grabbing red book with left hand
+12_Video_20.mp4;Unreal;12;03:21:00;03:22:00;A6;avatar, red book;scaling up red book with both hands
+12_Video_20.mp4;Unreal;12;03:22:00;;A6;avatar, red book;dropping red book from left hand, still holding it with right hand
+12_Video_20.mp4;Unreal;12;03:22:00;03:25:00;A6;avatar, red book;putting red book on the floor upright
+12_Video_20.mp4;Unreal;12;03:26:00;03:27:00;A8;avatar;manual turning left 45 degrees 
+12_Video_20.mp4;Unreal;12;03:26:00;03:27:00;A6;avatar, yellow book, left shelf;grabbing yellow book from left shelf with right hand
+12_Video_20.mp4;Unreal;12;03:27:00;03:28:00;A8;avatar;manual turning right 45 degrees 
+12_Video_20.mp4;Unreal;12;03:27:00;03:27:00;A6;avatar, yellow book;grabbing yellow book with left hand
+12_Video_20.mp4;Unreal;12;03:27:00;03:28:00;A6;avatar, yellow book;scaling up yellow book with both hands
+12_Video_20.mp4;Unreal;12;03:28:00;;A6;avatar, yellow book;dropping yellow book from left hand, still holding it with right hand
+12_Video_20.mp4;Unreal;12;03:28:00;03:30:00;A6;avatar, yellow book;putting yellow book on the floor upright
+12_Video_20.mp4;Unreal;12;03:32:00;03:33:00;A6;avatar, yellow book;grabbing yelllow book from the floor with right hand
+12_Video_20.mp4;Unreal;12;03:33:00;03:35:00;A6;avatar, yellow book, green book;throwing yellow book towards green book, domino effect knocking over all other books
+12_Video_20.mp4;Unreal;12;03:35:00;03:36:00;A4;avatar;astonished gesture, showing both hands
+12_Video_20.mp4;Unreal;12;03:37:00;;A7;avatar;teleporting in pavillion

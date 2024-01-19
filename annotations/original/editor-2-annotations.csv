@@ -1,0 +1,545 @@
+Video;Metaverse name;Editor;Sec (from);Sec (to, optional);Action;Relevant Objects;Description
+2_Video_01;Spatial.io;2;0;215.0;A9;avatar, marketplace;standing and walking on marketplace
+2_Video_01;Spatial.io;2;21;28.0;A2;avatar, monument;walking against a monument
+2_Video_01;Spatial.io;2;36;;A8;avatar, wall;turning to a wall
+2_Video_01;Spatial.io;2;44;52.0;A2;avatar, wall;walking against a wall
+2_Video_01;Spatial.io;2;52;57.0;A9;avatar, wall;wait an start running
+2_Video_01;Spatial.io;2;57;91.0;A1;avatar;running around
+2_Video_01;Spatial.io;2;58;65.0;A1;avatar, building;running towards a building
+2_Video_01;Spatial.io;2;66;;A1;avatar, stoneblock;jumping over a stoneblock
+2_Video_01;Spatial.io;2;71;;A1;avatar, stoneblock;jumping over a stoneblock with frontflip
+2_Video_01;Spatial.io;2;80;;A8;avatar, building;left turn 180 to building
+2_Video_01;Spatial.io;2;86;;A1;avatar, stoneblock;jumping over a stoneblock with frontflip
+2_Video_01;Spatial.io;2;92;99.0;A4;avatar;waving to camera
+2_Video_01;Spatial.io;2;99;106.0;A9;avatar;waiting and start running
+2_Video_01;Spatial.io;2;112;120.0;A2;avatar, railing;running against railing
+2_Video_01;Spatial.io;2;120;135.0;A1;avatar, dj;walking towards a dj
+2_Video_01;Spatial.io;2;135;144.0;A4;avatar, dj;waving next to the dj
+2_Video_01;Spatial.io;2;156;;A8;avatar;left turn 180
+2_Video_01;Spatial.io;2;166;173.0;A9;avatar, camera, tripod;watching a camera on tripod
+2_Video_01;Spatial.io;2;171;;A4;avatar;avatar showing thumbs-up
+2_Video_01;Spatial.io;2;173;183.0;A1;avatar;running towards a railing
+2_Video_01;Spatial.io;2;180;;A8;avatar;left turn 180
+2_Video_01;Spatial.io;2;183;196.0;A2;avatar, railing;running against railing
+2_Video_01;Spatial.io;2;198;203.0;A4;avatar, church;waving in front of church
+2_Video_01;Spatial.io;2;206;209.0;A4;avatar, building;waving in front of building
+2_Video_02;Spatial.io;2;3;17.0;A1;avatar, street;walking along the street
+2_Video_02;Spatial.io;2;17;;A3;avatar, house;entering a house
+2_Video_02;Spatial.io;2;17;31.0;A1;avatar, stairs;walking up stairs
+2_Video_02;Spatial.io;2;31;36.0;A6;avatar, picture;interacting with picture
+2_Video_02;Spatial.io;2;36;41.0;A1;avatar, stairs;walking downstairs
+2_Video_02;Spatial.io;2;41;;A1;avatar, street;leaving the building
+2_Video_02;Spatial.io;2;41;51.0;A1;avatar, street;running along the street
+2_Video_02;Spatial.io;2;51;57.0;A4;avatar;avatar waving
+2_Video_02;Spatial.io;2;57;70.0;A1;avatar, street;running on street
+2_Video_02;Spatial.io;2;60;;A8;avatar, street;left turn 90
+2_Video_02;Spatial.io;2;67;;A8;avatar, street;right turn 180
+2_Video_02;Spatial.io;2;70;;A7;avatar, street;teleporting to end of street
+2_Video_02;Spatial.io;2;70;82.0;A1;avatar, street;running on street to sign with picture
+2_Video_02;Spatial.io;2;82;88.0;A6;avatar, sign;interacting with picture
+2_Video_02;Spatial.io;2;90;;A7;avatar, street;teleporting to end of street
+2_Video_02;Spatial.io;2;98;105.0;A4;avatar, street;avatar waving
+2_Video_02;Spatial.io;2;105;113.0;A1;avatar, street;walking along the street
+2_Video_02;Spatial.io;2;113;;A8;avatar, street;right turn 90
+2_Video_02;Spatial.io;2;113;131.0;A1;avatar, street;walking and running around on the street
+2_Video_02;Spatial.io;2;131;;A3;avatar, house, store;entering a house (bakery)
+2_Video_02;Spatial.io;2;136;142.0;A6;avatar, video;interacting with video
+2_Video_02;Spatial.io;2;142;;A1;avatar, house, store;leaving the building
+2_Video_02;Spatial.io;2;142;163.0;A1;avatar, street;walking on the street
+2_Video_02;Spatial.io;2;159;;A8;avatar, street;turn left 180
+2_Video_02;Spatial.io;2;163;;A7;avatar, street;teleporting to end of street
+2_Video_02;Spatial.io;2;163;177.0;A1;avatar, street;walking along the street
+2_Video_02;Spatial.io;2;177;;A4;avatar, street;avatar waving
+2_Video_02;Spatial.io;2;177;188.0;A1;avatar, street;running along the street
+2_Video_02;Spatial.io;2;188;;A3;avatar, building;entering a building
+2_Video_02;Spatial.io;2;188;195.0;A1;avatar, stairs;running upstairs
+2_Video_02;Spatial.io;2;195;201.0;A6;avatar, picture;interacting with picture
+2_Video_02;Spatial.io;2;201;208.0;A1;avatar, stairs;walking downstairs
+2_Video_02;Spatial.io;2;208;;A1;avatar, house;leaving the building
+2_Video_02;Spatial.io;2;208;216.0;A7;avatar, street;teleporting to end of street
+2_Video_02;Spatial.io;2;225;234.0;A6;avatar, sign;interacting with video
+2_Video_02;Spatial.io;2;234;242.0;A1;avatar, portal;walking towards a portal
+2_Video_02;Spatial.io;2;242;247.0;A7;avatar, portal;teleporting to other space/room
+2_Video_02;Spatial.io;2;247;264.0;A1;avatar, subway station;walking and running around in a subway station
+2_Video_02;Spatial.io;2;261;;A8;avatar, train;left turn 180
+2_Video_03;Spatial.io;2;1;13.0;A1;avatar, street, house;walking on a street towards a house
+2_Video_03;Spatial.io;2;13;19.0;A2;avatar, house, wall;walking against wall
+2_Video_03;Spatial.io;2;19;29.0;A1;avatar, street;walking on street
+2_Video_03;Spatial.io;2;29;;A3;avatar, house;entering a house
+2_Video_03;Spatial.io;2;29;46.0;A1;avatar, stairs;walking up und down stairs
+2_Video_03;Spatial.io;2;46;;A1;avatar, door;leaving the building
+2_Video_03;Spatial.io;2;46;57.0;A1;avatar, street, other avatar;walking on street towards other avatar
+2_Video_03;Spatial.io;2;57;89.0;A10;avatar, other avatar;chatting with other avatar (text)
+2_Video_03;Spatial.io;2;89;122.0;A1;avatar, street;running on street
+2_Video_03;Spatial.io;2;104;;A8;avatar, street, crossing;left turn 90
+2_Video_03;Spatial.io;2;115;;A8;avatar, street, deadend;right turn 180 on dead end
+2_Video_03;Spatial.io;2;122;127.0;A2;avatar,house, wall;running against wall
+2_Video_03;Spatial.io;2;127;138.0;A1;avatar, street, store;running along the street towards a store (bakery)
+2_Video_03;Spatial.io;2;139;;A3;avatar, store;entering the store (bakery)
+2_Video_03;Spatial.io;2;147;;A1;avatar, store;leaving the store
+2_Video_03;Spatial.io;2;147;180.0;A1;avatar, street;running on street
+2_Video_03;Spatial.io;2;158;;A8;avatar, street;turn right 180
+2_Video_03;Spatial.io;2;168;;A8;avatar, street, car;turn left 180 at a car
+2_Video_03;Spatial.io;2;180;216.0;A5;avatar, other avatar;chatting with other avatar (text)
+2_Video_03;Spatial.io;2;216;222.0;A1;avatar, street, building;avatar running to building
+2_Video_03;Spatial.io;2;222;;A3;avatar, building;entering building
+2_Video_03;Spatial.io;2;222;233.0;A1;avatar, stairs;walking upstairs
+2_Video_03;Spatial.io;2;233;237.0;A2;avatar, window;walking against window
+2_Video_03;Spatial.io;2;237;247.0;A1;avatar, stairs;walking downstairs
+2_Video_03;Spatial.io;2;247;268.0;A1;avatar, street;running on street
+2_Video_03;Spatial.io;2;259;;A8;avatar, street, car;left turn 180
+2_Video_04;Spatial.io;2;1;14.0;A1;avatar, room;walking through room
+2_Video_04;Spatial.io;2;15;17.0;A2;avatar, table;walking against table
+2_Video_04;Spatial.io;2;18;36.0;A1;avatar, stairs;walking in room upstairs
+2_Video_04;Spatial.io;2;36;;A4;avatar, other avatar;waving towards other avatar
+2_Video_04;Spatial.io;2;42;;A4;other avatar;other avatar waving back
+2_Video_04;Spatial.io;2;49;78.0;A10;other avatar;chatting with other avatar (text)
+2_Video_04;Spatial.io;2;76;;A5;avatar;showing thumbs up
+2_Video_04;Spatial.io;2;78;104.0;A1;avatar, room;walking inside a room
+2_Video_04;Spatial.io;2;104;;A1;avatar, door;leaving outside
+2_Video_04;Spatial.io;2;104;156.0;A1;avatar, bridge;running over bridge
+2_Video_04;Spatial.io;2;120;;A9;avatar, bridge;waiting on bridge
+2_Video_04;Spatial.io;2;130;;A8;avatar, bridge, roof;u-turn left 180 at end of the bridge
+2_Video_04;Spatial.io;2;145;151.0;A1;avatar, room;walking into a room
+2_Video_04;Spatial.io;2;151;157.0;A6;wall, picture;interacting with picture
+2_Video_04;Spatial.io;2;157;169.0;A1;avatar, room;walking through room
+2_Video_04;Spatial.io;2;169;175.0;A6;avatar, picture;interacting with picture
+2_Video_04;Spatial.io;2;175;185.0;A1;avatar, outside;walking outside
+2_Video_04;Spatial.io;2;185;;A3;avatar, door;entering a room
+2_Video_04;Spatial.io;2;185;196.0;A1;avatar, room, stairs;walking inside a room upstairs
+2_Video_04;Spatial.io;2;196;228.0;A10;avatar, other avatar;chatting with other avatar (text)
+2_Video_04;Spatial.io;2;213;;A5;avatar, other avatar;other avatar showing thumbs up
+2_Video_04;Spatial.io;2;228;240.0;A1;avatar, room, stairs;walking inside room towards door
+2_Video_04;Spatial.io;2;236;;A2;avatar, bar;walking against bar
+2_Video_04;Spatial.io;2;240;255.0;A1;avatar, bridge;walking on bridge
+2_Video_04;Spatial.io;2;246;;A9;avatar;waiting and walking on
+2_Video_04;Spatial.io;2;255;262.0;A6;avatar, sign;interacting with picture
+2_Video_05;Spatial.io;2;1;21.0;A1;avatar, gallery;walking through gallery
+2_Video_05;Spatial.io;2;21;27.0;A4;avatar;waving
+2_Video_05;Spatial.io;2;27;53.0;A1;avatar, gallery;walking through gallery
+2_Video_05;Spatial.io;2;38;;A8;avatar, gallery;u-turn right 180
+2_Video_05;Spatial.io;2;53;65.0;A6;avatar, picture;interacting with picture
+2_Video_05;Spatial.io;2;76;84.0;A6;avatar, picture;interacting with other picture
+2_Video_05;Spatial.io;2;91;120.0;A1;avatar, gallery;walking through gallery
+2_Video_05;Spatial.io;2;100;;A8;avatar, gallery;right turn 90
+2_Video_05;Spatial.io;2;109;;A8;avatar, gallery;right turn 180
+2_Video_05;Spatial.io;2;122;128.0;A4;avatar, gallery;waving
+2_Video_05;Spatial.io;2;129;;A7;avatar, gallery;teleporting to end of room
+2_Video_05;Spatial.io;2;134;148.0;A1;avatar, gallery;walking through gallery
+2_Video_05;Spatial.io;2;151;164.0;A7;avatar, gallery;teleporting twice
+2_Video_05;Spatial.io;2;172;;A4;avatar;waving
+2_Video_05;Spatial.io;2;187;200.0;A6;avatar, label board;interacting with picture
+2_Video_05;Spatial.io;2;200;227.0;A1;avatar, gallery;walking through gallery
+2_Video_05;Spatial.io;2;214;;A8;avatar, gallery;turn left 180
+2_Video_05;Spatial.io;2;236;;A7;avatar, gallery;teleporting to end of room
+2_Video_05;Spatial.io;2;245;;A7;avatar, gallery;teleporting to end of room
+2_Video_05;Spatial.io;2;247;256.0;A4;avatar, gallery;waving
+2_Video_05;Spatial.io;2;260;272.0;A6;avatar, picture;interacting with picture
+2_Video_06;Spatial.io;2;1;10.0;A1;avatar, room;walking outside room
+2_Video_06;Spatial.io;2;10;67.0;A1;avatar, bridge;walking around outside on bridge
+2_Video_06;Spatial.io;2;18;25.0;A9;avatar, bridge;waiting on bridge, walking on
+2_Video_06;Spatial.io;2;38;;A8;avatar, bridge;u-turn left 180 at end of the bridge
+2_Video_06;Spatial.io;2;56;;A9;avatar, bridge;waiting on bridge, walking on
+2_Video_06;Spatial.io;2;70;;A3;avatar, door;entering room
+2_Video_06;Spatial.io;2;74;89.0;A10;avatar, room;chatting with other avatar (text)
+2_Video_06;Spatial.io;2;100;102.0;A4;avatar, room;avatar and other avatar waving to each other
+2_Video_06;Spatial.io;2;123;163.0;A5;avatar, other avatar;other avatar is talking to avatar
+2_Video_06;Spatial.io;2;163;170.0;A1;avatar, room;walking outside the room
+2_Video_06;Spatial.io;2;175;;A7;avatar;teleporting on top of cube
+2_Video_06;Spatial.io;2;180;;A7;avatar;teleporting to bridge
+2_Video_06;Spatial.io;2;180;208.0;A1;avatar, bridge;walking on bridge
+2_Video_06;Spatial.io;2;193;;A9;avatar, bridge;waiting on bridge, walking on
+2_Video_06;Spatial.io;2;205;;A3;avatar, building;entering building
+2_Video_06;Spatial.io;2;208;230.0;A10;avatar, room;chatting with other avatar (text)
+2_Video_06;Spatial.io;2;230;250.0;A1;avatar, room;running around in a room, leaving ouside
+2_Video_06;Spatial.io;2;244;;A3;avatar, room;entering a room
+2_Video_06;Spatial.io;2;264;284.0;A5;avatar, other avatar;audio talk
+2_Video_06;Spatial.io;2;284;295.0;A1;avatar, room;walking outside in another room
+2_Video_06;Spatial.io;2;295;299.0;A7;avatar, room, portal;teleporting with portal to other space
+2_Video_07;Spatial.io;2;1;12.0;A1;avatar, wall;walking around on place surroundet by a wall
+2_Video_07;Spatial.io;2;12;18.0;A2;avatar, wall;walking against wall
+2_Video_07;Spatial.io;2;20;29.0;A1;avatar, goal;walking around on a place with goals
+2_Video_07;Spatial.io;2;30;37.0;A4;avatar;waving
+2_Video_07;Spatial.io;2;40;55.0;A10;avatar, other avatar;chatting with other avatar (text)
+2_Video_07;Spatial.io;2;60;75.0;A1;avatar, place;walking around
+2_Video_07;Spatial.io;2;78;93.0;A6;picture;interacting with picture
+2_Video_07;Spatial.io;2;94;144.0;A1;avatar, wall;walking around on place surroundet by a wall
+2_Video_07;Spatial.io;2;99;104.0;A2;avatar, wall;walking against a wall
+2_Video_07;Spatial.io;2;110;;A8;avatar;right turn 90
+2_Video_07;Spatial.io;2;118;124.0;A2;avatar, wall;running against a wall
+2_Video_07;Spatial.io;2;144;171.0;A6;picture;interacting with video
+2_Video_07;Spatial.io;2;173;;A4;avatar;waving
+2_Video_07;Spatial.io;2;175;194.0;A1;avatar, house;walking towards a house
+2_Video_07;Spatial.io;2;194;199.0;A2;avatar, house;walking against a house
+2_Video_07;Spatial.io;2;200;213.0;A1;avatar, wall;running towards a wall
+2_Video_07;Spatial.io;2;205;;A8;avatar;right turn 90
+2_Video_07;Spatial.io;2;213;;A8;avatar, wall;left turn 180 in front of a wall
+2_Video_07;Spatial.io;2;213;222.0;A1;avatar, house;running towards a house
+2_Video_07;Spatial.io;2;222;229.0;A4;avatar;waving
+2_Video_07;Spatial.io;2;229;250.0;A1;avatar, house, stairs;walking around a house upstairs
+2_Video_07;Spatial.io;2;262;281.0;A6;picture;interacting with video
+2_Video_07;Spatial.io;2;288;294.0;A10;avatar;chatting with other avatar (text)
+2_Video_07;Spatial.io;2;298;300.0;A4;avatar;waving
+2_Video_08;Spatial.io;2;5;25.0;A1;avatar, parking spot;walking across a parking spot
+2_Video_08;Spatial.io;2;25;;A3;avatar, glassdoor;entering a glassbuilding
+2_Video_08;Spatial.io;2;25;37.0;A1;avatar, waiting room;walking in a room and leaving the building
+2_Video_08;Spatial.io;2;38;61.0;A1;avatar, street;running along a street
+2_Video_08;Spatial.io;2;51;;A8;avatar, street;left turn 180
+2_Video_08;Spatial.io;2;61;70.0;A9;avatar, parking spot, car;waiting next to a car
+2_Video_08;Spatial.io;2;76;;A7;avatar, red platform;teleporting to other red platform
+2_Video_08;Spatial.io;2;77;117.0;A1;avatar, race track;walking around on a race track
+2_Video_08;Spatial.io;2;104;;A5;avatar;talking with audio chat
+2_Video_08;Spatial.io;2;117;;A6;avatar, white car;interacting with car
+2_Video_08;Spatial.io;2;117;158.0;A1;avatar, white car;driving with white car
+2_Video_08;Spatial.io;2;145;;A5;avatar, car, street;talking with audio chat
+2_Video_08;Spatial.io;2;158;180.0;A1;avatar, building;walking into a building
+2_Video_08;Spatial.io;2;164;;A3;avatar, door;enterning a building
+2_Video_08;Spatial.io;2;170;177.0;A6;avatar, seat;sitting on a seat
+2_Video_08;Spatial.io;2;180;187.0;A1;avatar, door;leaving the building and walking to a car
+2_Video_08;Spatial.io;2;187;;A5;avatar, car;talking with audio chat
+2_Video_08;Spatial.io;2;187;203.0;A1;avatar, car, parking spot;walking around the car
+2_Video_08;Spatial.io;2;205;;A6;avatar, car;interacting with a car
+2_Video_08;Spatial.io;2;206;300.0;A1;avatar, car, street;driving with car
+2_Video_08;Spatial.io;2;209;;A5;avatar, car, street;talking with audio chat
+2_Video_08;Spatial.io;2;255;;A2;avatar, car, cone;crashing with car into cones
+2_Video_08;Spatial.io;2;293;;A5;car;talking with audio chat
+2_Video_09;Spatial.io;2;7;40.0;A5;beach, pirate;talking with a pirate
+2_Video_09;Spatial.io;2;44;52.0;A6;beach, map;interacting with map
+2_Video_09;Spatial.io;2;52;81.0;A1;beach, stone, avatar;walking around on the beach
+2_Video_09;Spatial.io;2;68;;A8;beach, avatar;left turn 180
+2_Video_09;Spatial.io;2;81;88.0;A4;beach, ship, pirate;waving to pirate
+2_Video_09;Spatial.io;2;88;106.0;A1;beach, avatar;running on beach
+2_Video_09;Spatial.io;2;98;;A8;beach, avatar, river;left turn 180 at a river
+2_Video_09;Spatial.io;2;106;;A8;beach, avatar;right turn 180
+2_Video_09;Spatial.io;2;106;128.0;A1;island, avatar;running on island
+2_Video_09;Spatial.io;2;128;173.0;A6;avatar, runes;interacting with rune puzzle
+2_Video_09;Spatial.io;2;173;190.0;A1;island, avatar;walking around on island through ruins
+2_Video_09;Spatial.io;2;190;196.0;A9;island, avatar, sea;waiting at the beach
+2_Video_09;Spatial.io;2;196;225.0;A1;avatar, rocks, runes;walking around through rocks
+2_Video_09;Spatial.io;2;225;244.0;A6;avatar, levers;interacting with levers puzzle
+2_Video_09;Spatial.io;2;244;281.0;A1;avatar, island;running around on island between ruins
+2_Video_09;Spatial.io;2;281;;A8;avatar, trees;right turn 180
+2_Video_09;Spatial.io;2;281;295.0;A1;avatar, beach, ;running to the beach towards barrels
+2_Video_09;Spatial.io;2;295;;A4;avatar, beach, ;waving to the sea
+2_Video_10;Spatial.io;2;1;45.0;A1;avatar, gallery;walking around in a gallery
+2_Video_10;Spatial.io;2;18;;A8;avatar, gallery;left turn 90
+2_Video_10;Spatial.io;2;34;;A9;avatar, gallery;waiting and walking on
+2_Video_10;Spatial.io;2;51;57.0;A6;picture;interacting with picture
+2_Video_10;Spatial.io;2;67;71.0;A10;avatar, gallery;chatting with other avatar (text)
+2_Video_10;Spatial.io;2;81;115.0;A1;avatar, gallery;walking around in a gallery
+2_Video_10;Spatial.io;2;84;;A8;avatar, gallery;left turn 180
+2_Video_10;Spatial.io;2;90;;A8;avatar, gallery;right turn 180
+2_Video_10;Spatial.io;2;100;;A9;avatar, gallery;waiting, watching around, walking ahead
+2_Video_10;Spatial.io;2;115;125.0;A6;picture;interacting with picture
+2_Video_10;Spatial.io;2;122;129.0;A10;avatar, gallery;chat answer from other avatar
+2_Video_10;Spatial.io;2;141;;A6;avatar, bench;sitting down on a bench
+2_Video_10;Spatial.io;2;141;170.0;A1;avatar, gallery;walking around in a gallery
+2_Video_10;Spatial.io;2;155;;A9;avatar, gallery;waiting and walking on
+2_Video_10;Spatial.io;2;159;;A8;avatar, gallery;right turn 180
+2_Video_10;Spatial.io;2;170;180.0;A6;picture;interacting with picture
+2_Video_10;Spatial.io;2;188;193.0;A1;avatar, gallery;walking around in a gallery
+2_Video_10;Spatial.io;2;193;200.0;A7;avatar, gallery;teleporting to end of room
+2_Video_10;Spatial.io;2;202;209.0;A1;avatar, gallery;walking around in a gallery
+2_Video_10;Spatial.io;2;212;224.0;A6;picture;interacting with picture
+2_Video_10;Spatial.io;2;224;247.0;A1;avatar, gallery;walking around in a gallery
+2_Video_10;Spatial.io;2;236;;A9;avatar, gallery;waiting, watching around, walking ahead
+2_Video_10;Spatial.io;2;264;;A10;avatar, gallery;chatting with other avatar (text)
+2_Video_10;Spatial.io;2;272;285.0;A7;avatar, gallery, portal;teleporting to other space/room
+2_Video_10;Spatial.io;2;285;297.0;A1;avatar, basement;walking around in a basement
+2_Video_11;Spatial.io;2;1;34.0;A1;avatar, beach, palms;walking around a beach with palms
+2_Video_11;Spatial.io;2;21;24.0;A2;avatar, oriental house;walking against wall of house
+2_Video_11;Spatial.io;2;34;;A4;avatar, other avatar, beach;waving to other avatar
+2_Video_11;Spatial.io;2;40;50.0;A5;avatar, other avatar;talking with other avatar
+2_Video_11;Spatial.io;2;50;74.0;A1;avatar, beach, palms;walking on beach through palms
+2_Video_11;Spatial.io;2;74;78.0;A2;avatar, tree;walking against a tree
+2_Video_11;Spatial.io;2;78;90.0;A1;avatar, beachhouse;running upstairs a beachhouse
+2_Video_11;Spatial.io;2;90;102.0;A3;avatar, beachhouse;entering a beachhouse
+2_Video_11;Spatial.io;2;102;138.0;A1;avatar, beach, other avatar;walking downstairs to the beach
+2_Video_11;Spatial.io;2;142;;A4;avatar, other avatar;waving to other avatar
+2_Video_11;Spatial.io;2;142;153.0;A5;avatar, other avatar;talking to other avatar
+2_Video_11;Spatial.io;2;153;180.0;A1;avatar, beach, palms;running around on beach through palms
+2_Video_11;Spatial.io;2;170;;A8;avatar, beach;right turn 180
+2_Video_11;Spatial.io;2;180;190.0;A1;avatar, fire;walking towards a fire
+2_Video_11;Spatial.io;2;190;200.0;A1;avatar, beachhouse;walking upstairs to beachhouse
+2_Video_11;Spatial.io;2;200;;A3;avatar, beachhouse;entering the beachhouse
+2_Video_11;Spatial.io;2;210;;A2;avatar, window;walking against the window
+2_Video_11;Spatial.io;2;224;;A4;avatar, beach, other avatar;waving to other avatar
+2_Video_11;Spatial.io;2;224;243.0;A1;avatar, beach, palms;walking on beach through palms
+2_Video_11;Spatial.io;2;243;270.0;A1;avatar, stairs, beachhouse;walking upstairs on a beachhouse
+2_Video_11;Spatial.io;2;270;285.0;A6;avatar, chair, table;sitting on a chair next to a dining table
+2_Video_11;Spatial.io;2;285;292.0;A1;avatar, sunset;walking on terrace watching the sunset
+2_Video_12;Spatial.io;2;3;18.0;A1;avatar, bridge, pool;walking on a bridge over pools
+2_Video_12;Spatial.io;2;13;;A9;avatar, bridge, pool;waiting and walking again
+2_Video_12;Spatial.io;2;18;44.0;A1;avatar, bridge, pool;running on a bridge over pools
+2_Video_12;Spatial.io;2;25;;A9;avatar, bridge, pavillion;waiting in a pavillion and go ahead running
+2_Video_12;Spatial.io;2;30;;A8;avatar, bridge, pool;turn right 180
+2_Video_12;Spatial.io;2;50;;A10;avatar, other avatar, door;chatting with other avatar (text)
+2_Video_12;Spatial.io;2;60;;A3;avatar, door, theater;entering a theater
+2_Video_12;Spatial.io;2;60;72.0;A1;avatar, theater;crossing the theater and leaving it
+2_Video_12;Spatial.io;2;76;79.0;A2;avatar, pillar;walking against a pillar
+2_Video_12;Spatial.io;2;79;104.0;A1;avatar bridge, pool;walking over bridge over a pool
+2_Video_12;Spatial.io;2;93;;A9;avatar bridge, pool;waiting on bridge going on walking
+2_Video_12;Spatial.io;2;100;;A10;avatar bridge, pool, tiger;chatting with a tiger (text)
+2_Video_12;Spatial.io;2;120;146.0;A1;avatar bridge, pool;running over bridge over a pool
+2_Video_12;Spatial.io;2;130;135.0;A2;avatar, pillar;running against a pillar
+2_Video_12;Spatial.io;2;147;;A3;avatar, door, theater;entering a theater
+2_Video_12;Spatial.io;2;147;175.0;A1;avatar, theater;walking around in a theater and leaving
+2_Video_12;Spatial.io;2;156;;A6;avatar, theater, seat;interacting with seat (sitting down)
+2_Video_12;Spatial.io;2;175;222.0;A1;avatar, park;walking and running through a park
+2_Video_12;Spatial.io;2;179;184.0;A2;avatar, tree;running against a tree
+2_Video_12;Spatial.io;2;194;;A9;avatar, path, sea;stopping on a path next to the sea and going on running
+2_Video_12;Spatial.io;2;209;;A2;avatar, tree;running against a tree
+2_Video_12;Spatial.io;2;235;;A10;avatar, jetski, sea;chatting about a jetski (text)
+2_Video_12;Spatial.io;2;257;;A2;avatar, tree;walking against a tree
+2_Video_12;Spatial.io;2;259;276.0;A1;avatar, stairs, bridge;running upstairs over a bridge
+2_Video_12;Spatial.io;2;276;;A3;avatar, door, theater;entering a theater
+2_Video_12;Spatial.io;2;276;285.0;A9;avatar, theater;waiting in theater and going on walking
+2_Video_13;Spatial.io;2;1;17.0;A1;avatar, stairs;running upstairs towards a theater
+2_Video_13;Spatial.io;2;7;8.0;A2;avatar, tree ,bench;walking against bench
+2_Video_13;Spatial.io;2;18;25.0;A10;avatar, other avatar, door;chatting with other avatar (text)
+2_Video_13;Spatial.io;2;33;;A3;avatar, door;entering the theater
+2_Video_13;Spatial.io;2;33;43.0;A1;avatar, theater;walking around and jumping in a theater
+2_Video_13;Spatial.io;2;43;;A10;avatar, theater, seat;sitting down on a seat
+2_Video_13;Spatial.io;2;56;63.0;A1;avatar, theater;jumping inside theater and leaving
+2_Video_13;Spatial.io;2;63;78.0;A1;avatar, jetski;walking outside towards a jetski
+2_Video_13;Spatial.io;2;78;;A6;avatar, jetski;interacting with jetski
+2_Video_13;Spatial.io;2;78;92.0;A1;avatar, jetski, sea;riding a jetski
+2_Video_13;Spatial.io;2;100;;A7;avatar, stairs;teleporting to stairs
+2_Video_13;Spatial.io;2;100;120.0;A1;avatar, stairs, bridge;walking upstairs on a bridge
+2_Video_13;Spatial.io;2;121;;A7;avatar, tiger, pool;teleporting to tiger next to a pool
+2_Video_13;Spatial.io;2;127;162.0;A10;avatar, tiger;chatting with tiger (text)
+2_Video_13;Spatial.io;2;162;;A1;avatar, pool;running away from pool
+2_Video_13;Spatial.io;2;175;180.0;A2;avatar, tree, bench;walking against bench
+2_Video_13;Spatial.io;2;180;188.0;A1;avatar, jetski, sea;running towards a jetski
+2_Video_13;Spatial.io;2;188;;A6;avatar, jetski;interacting with jetski
+2_Video_13;Spatial.io;2;188;203.0;A1;avatar, jetski, sea;riding a jetski
+2_Video_13;Spatial.io;2;203;212.0;A1;avatar, stairs, door;walking upstairs to a door
+2_Video_13;Spatial.io;2;212;;A3;avatar, door, theater;entering a theater
+2_Video_13;Spatial.io;2;212;255.0;A1;avatar, theater;crossing the theater upstairs and leaving it
+2_Video_13;Spatial.io;2;255;;A7;avatar, sea;teleporting to the sea
+2_Video_13;Spatial.io;2;267;;A6;avatar, jetski;interacting with jetski
+2_Video_13;Spatial.io;2;267;290.0;A1;avatar, jetski, sea;riding a jetski
+2_Video_13;Spatial.io;2;280;;A8;avatar, jetski, sea;left turn 180
+2_Video_14;Spatial.io;2;6;;A4;avatar, beach, pirate;waving to a pirate on a beach
+2_Video_14;Spatial.io;2;6;33.0;A5;avatar, pirate;talking to a pirate
+2_Video_14;Spatial.io;2;33;;A6;map;interacting with a map
+2_Video_14;Spatial.io;2;35;65.0;A1;avatar, beach;walking on the beach
+2_Video_14;Spatial.io;2;49;;A8;avatar, beach, rocks;left turn 180
+2_Video_14;Spatial.io;2;65;69.0;A9;avatar, path, rock;waiting in front of a rock
+2_Video_14;Spatial.io;2;69;86.0;A1;avatar, path, island;running along a path on an island
+2_Video_14;Spatial.io;2;83;;A8;avatar, path;right turn 90
+2_Video_14;Spatial.io;2;86;105.0;A6;avatar, runes;interacting with rune puzzle
+2_Video_14;Spatial.io;2;111;;A6;avatar, rock, planks;collecting planks
+2_Video_14;Spatial.io;2;111;125.0;A1;avatar, path, beach;walking along the path to the beach
+2_Video_14;Spatial.io;2;125;129.0;A9;avatar, beach;waiting at the beach
+2_Video_14;Spatial.io;2;129;135.0;A1;avatar, rocks, sea;running at the beach towards the sea
+2_Video_14;Spatial.io;2;135;178.0;A6;avatar, map;interacting with levers puzzle
+2_Video_14;Spatial.io;2;153;;A4;avatar, sea, island;waving towards an island
+2_Video_14;Spatial.io;2;178;188.0;A1;avatar, sea, rocks;jumping over rocks to an island
+2_Video_14;Spatial.io;2;188;;A6;avatar, planks;collecting planks
+2_Video_14;Spatial.io;2;188;;A8;avatar, island;right turn 180
+2_Video_14;Spatial.io;2;188;198.0;A1;avatar, rocks, sea;jumping over rocks back to the beach
+2_Video_14;Spatial.io;2;198;220.0;A1;avatar, beach, rocks;running at the beach over rocks
+2_Video_14;Spatial.io;2;220;;A2;avatar, plank;walking against a plank
+2_Video_14;Spatial.io;2;220;231.0;A1;avatar, beach, stone;walking along the beach towards a stone
+2_Video_14;Spatial.io;2;231;235.0;A9;avatar, stone;waiting in front of a stone
+2_Video_14;Spatial.io;2;235;253.0;A1;avatar, path, hill;running up the hill on a path
+2_Video_14;Spatial.io;2;253;;A8;avatar, path;left turn 180
+2_Video_14;Spatial.io;2;253;273.0;A1;avatar, path;running down the hill towards the beach
+2_Video_14;Spatial.io;2;260;;A8;avatar, path;left turn 90
+2_Video_14;Spatial.io;2;273;;A4;avatar, pirate;waving to pirate
+2_Video_14;Spatial.io;2;275;298.0;A1;avatar, path, beach;running along a path on the beach
+2_Video_15;Spatial.io;2;1;14.0;A1;avatar, bridge, other avatar;walking downstairs to other avatar
+2_Video_15;Spatial.io;2;14;64.0;A10;avatar, other avatar, cars;chatting with other avatar (text)
+2_Video_15;Spatial.io;2;69;113.0;A6;avatar, car, racetrack;interacting with car
+2_Video_15;Spatial.io;2;113;127.0;A1;avatar, building, waitingroom;walking into a building with waiting room
+2_Video_15;Spatial.io;2;119;;A3;avatar, building, door;entering a glass building
+2_Video_15;Spatial.io;2;127;134.0;A6;avatar, poster;interacting with a picture
+2_Video_15;Spatial.io;2;134;140.0;A1;avatar, door;walking outside the building
+2_Video_15;Spatial.io;2;141;151.0;A7;avatar, street;teleporting to the end of the street an back to the parking spot (3x)
+2_Video_15;Spatial.io;2;152;157.0;A6;avatar, coins;collecting coins
+2_Video_15;Spatial.io;2;157;;A8;avatar, parking spot;right turn 180
+2_Video_15;Spatial.io;2;157;165.0;A1;avatar, car;walking towards a car
+2_Video_15;Spatial.io;2;165;;A6;avatar, car;interacting with car
+2_Video_15;Spatial.io;2;165;203.0;A1;avatar, car street;driving along a street
+2_Video_15;Spatial.io;2;203;;A2;car, other cars;crashing with car into other car
+2_Video_15;Spatial.io;2;203;219.0;A1;avatar, other avatar;walking to other avatar
+2_Video_15;Spatial.io;2;221;;A4;avatar, other avatar;waving to other avatar
+2_Video_15;Spatial.io;2;221;253.0;A10;avatar, other avatar;chatting with other avatar (text)
+2_Video_15;Spatial.io;2;253;267.0;A1;avatar, red platform;running to red platform
+2_Video_15;Spatial.io;2;267;;A7;avatar, red platform;teleporting to other platform
+2_Video_15;Spatial.io;2;272;;A7;avatar, glass office;teleporting to glass office
+2_Video_15;Spatial.io;2;272;280.0;A1;avatar, glass office;walking into glass office
+2_Video_15;Spatial.io;2;276;;A3;avatar, door;entering glass office
+2_Video_15;Spatial.io;2;281;292.0;A6;avatar, poster;interacting with poster
+2_Video_15;Spatial.io;2;292;300.0;A1;avatar, glass office;walking around in office
+2_Video_16;Spatial.io;2;4;21.0;A1;avatar, barn;walking into a barn
+2_Video_16;Spatial.io;2;10;;A8;avatar, meadow;right turn 90
+2_Video_16;Spatial.io;2;13;;A3;avatar, barn;entering the barn
+2_Video_16;Spatial.io;2;21;;A6;avatar, barn, coin;collecting a coin
+2_Video_16;Spatial.io;2;21;35.0;A1;avatar, barn;walking outside the barn
+2_Video_16;Spatial.io;2;36;58.0;A10;avatar, river;chatting with other avatar (text)
+2_Video_16;Spatial.io;2;58;72.0;A1;avatar, river, trees;walk though a river towards trees
+2_Video_16;Spatial.io;2;72;83.0;A5;avatar, other avatar;audio talk to other avatar
+2_Video_16;Spatial.io;2;83;91.0;A1;avatar, harvester, tractor;walking to the harvester
+2_Video_16;Spatial.io;2;91;184.0;A5;avatar, other avatar;audio talk to other avatar
+2_Video_16;Spatial.io;2;160;177.0;A1;avatar, trampoline;walking to the trampoline
+2_Video_16;Spatial.io;2;170;190.0;A5;avatar, other avatar;audio talk to other avatar
+2_Video_16;Spatial.io;2;195;203.0;A1;avatar, trampoline;jumping on trampoline
+2_Video_16;Spatial.io;2;200;;A6;avatar, trampoline, coins;collecting three coins
+2_Video_16;Spatial.io;2;210;213.0;A5;avatar, other avatar;audio talk to other avatar
+2_Video_16;Spatial.io;2;213;;A7;avatar, island, coin;teleporting to coin on island
+2_Video_16;Spatial.io;2;216;;A6;avatar, coin;collecting the coin
+2_Video_16;Spatial.io;2;217;222.0;A1;avatar, lake, coin;running to a coin
+2_Video_16;Spatial.io;2;222;;A6;avatar, coin;collecting the coin
+2_Video_16;Spatial.io;2;228;;A7;avatar, island, coin;teleporting to coin on island
+2_Video_16;Spatial.io;2;228;234.0;A1;avatar, lake;walking around on the island
+2_Video_16;Spatial.io;2;231;;A6;avatar, coin;collecting the coin
+2_Video_16;Spatial.io;2;236;257.0;A5;avatar, other avatar;audio talk to other avatar
+2_Video_16;Spatial.io;2;256;;A7;avatar, boat, lake;teleporting to a boat
+2_Video_16;Spatial.io;2;266;300.0;A5;avatar, other avatar;audio talk to other avatar
+2_Video_16;Spatial.io;2;271;300.0;A6;avatar, other avatar, boat, lake;cruising with the boat
+2_Video_16;Spatial.io;2;278;;A6;avatar, boat, seat;interacting with seat on boat
+2_Video_17;Spatial.io;2;1;14.0;A1;avatar, glass office;walking outside the office, crossing the street
+2_Video_17;Spatial.io;2;14;;A2;avatar, wall;walking against a wall across the street
+2_Video_17;Spatial.io;2;16;;A8;avatar, street;left turn 180
+2_Video_17;Spatial.io;2;16;30.0;A1;avatar, glass office;walking into a glass office
+2_Video_17;Spatial.io;2;25;;A3;avatar, glass office;entering the glass office
+2_Video_17;Spatial.io;2;30;;A8;avatar, seats;left turn 180
+2_Video_17;Spatial.io;2;30;39.0;A1;avatar, car;walking outside the office to a car
+2_Video_17;Spatial.io;2;40;43.0;A9;avatar, car;waiting and watching the car
+2_Video_17;Spatial.io;2;43;52.0;A1;avatar, parking spot, red platform;walking on parking spot towards red platform
+2_Video_17;Spatial.io;2;52;;A8;avatar, parking spot;right turn 180
+2_Video_17;Spatial.io;2;52;67.0;A1;avatar, parking spot, traffic sign;walking on parking spot towards a traffic sign
+2_Video_17;Spatial.io;2;67;71.0;A9;avatar, traffic sign;waiting in front of traffic sign
+2_Video_17;Spatial.io;2;71;94.0;A1;avatar, parking spot, red platform;walking on parking spot to red platform
+2_Video_17;Spatial.io;2;77;;A8;avatar, street;left turn 90
+2_Video_17;Spatial.io;2;94;;A7;avatar, red platform;teleporting to other red platform
+2_Video_17;Spatial.io;2;94;120.0;A1;avatar, street;walking around on the street
+2_Video_17;Spatial.io;2;108;;A2;avatar, pillar;walking against a pillar
+2_Video_17;Spatial.io;2;121;;A7;avatar, yellow platform;teleporting to other yellow platform
+2_Video_17;Spatial.io;2;121;141.0;A1;avatar, street, chinese house;walking towards a chinese house
+2_Video_17;Spatial.io;2;141;143.0;A9;avatar, chinese houes, coin;waiting in front of chinese house with coin
+2_Video_17;Spatial.io;2;144;164.0;A1;avatar, street;walking along the street
+2_Video_17;Spatial.io;2;150;;A6;avatar, coin;collecting the coin
+2_Video_17;Spatial.io;2;152;;A8;avatar, house;left turn 180
+2_Video_17;Spatial.io;2;164;167.0;A9;avatar, fence;waiting next to red fence
+2_Video_17;Spatial.io;2;167;175.0;A1;avatar, yellow platform;walking on yellow platform
+2_Video_17;Spatial.io;2;178;;A7;avatar, street;teleporting on street
+2_Video_17;Spatial.io;2;185;;A7;avatar, glass office;teleporting to glass office
+2_Video_17;Spatial.io;2;185;195.0;A1;avatar, glass office;walking inside the glass office and leaving it
+2_Video_17;Spatial.io;2;188;;A3;avatar, glass office;entering glass office
+2_Video_17;Spatial.io;2;197;230.0;A1;avatar, hill;running around on a hill
+2_Video_17;Spatial.io;2;212;;A8;avatar, hill;right turn 180
+2_Video_17;Spatial.io;2;217;;A6;avatar, coin;collecting a coin
+2_Video_17;Spatial.io;2;230;;A7;avatar, red platform;teleporting to other red platform
+2_Video_17;Spatial.io;2;230;240.0;A1;avatar, house;running to a house
+2_Video_17;Spatial.io;2;240;250.0;A2;avatar, fence;walking against a fence
+2_Video_17;Spatial.io;2;257;262.0;A2;avatar, blue ball;walking against a blue ball
+2_Video_17;Spatial.io;2;262;297.0;A1;avatar, race track;walking around on race track
+2_Video_17;Spatial.io;2;278;281.0;A9;avatar, bridge;waiting and watching a sign on bridge
+2_Video_17;Spatial.io;2;291;;A8;avatar, race track;left turn 180
+2_Video_18;Spatial.io;2;3;27.0;A1;avatar, islands, rainbow;walking around on flying islands over a rainbow
+2_Video_18;Spatial.io;2;12;;A8;avatar, island, tree;right turn 180
+2_Video_18;Spatial.io;2;27;;A9;avatar, fire;waiting and watching a fire
+2_Video_18;Spatial.io;2;31;45.0;A1;avatar, other avatar;walking to other avatar
+2_Video_18;Spatial.io;2;45;;A4;avatar, other avatar;waving to other avatar
+2_Video_18;Spatial.io;2;48;58.0;A5;avatar, other avatar;audio talk to other avatar
+2_Video_18;Spatial.io;2;57;78.0;A1;avatar, islands, bridge;walking around the islands over a bridge
+2_Video_18;Spatial.io;2;70;73.0;A5;avatar, other avatar;audio talk to other avatar
+2_Video_18;Spatial.io;2;78;98.0;A1;avatar, islands;running over the islands
+2_Video_18;Spatial.io;2;90;;A8;avatar, tree;right turn 180
+2_Video_18;Spatial.io;2;99;;A7;avatar, island, animal;teleporting to island with animal
+2_Video_18;Spatial.io;2;106;;A4;avatar, sea;waving to the sea
+2_Video_18;Spatial.io;2;107;119.0;A1;avatar, rope;walking to the rope
+2_Video_18;Spatial.io;2;113;141.0;A5;avatar, other avatar;audio talk to other avatar
+2_Video_18;Spatial.io;2;119;;A7;avatar, rope;teleporting to the balloon
+2_Video_18;Spatial.io;2;141;;A7;avatar, islands, balloon;teleporting to the platform with other balloon
+2_Video_18;Spatial.io;2;157;;A7;avatar, rope;teleporting to the balloon
+2_Video_18;Spatial.io;2;160;190.0;A5;avatar, other avatar;audio talk to other avatar
+2_Video_18;Spatial.io;2;166;;A4;avatar, balloon;waving to other balloon
+2_Video_18;Spatial.io;2;196;;A7;avatar, islands, platform;teleporting to the platform
+2_Video_18;Spatial.io;2;197;216.0;A1;avatar, islands, bridge;walking around on the islands over bridges
+2_Video_18;Spatial.io;2;205;210.0;A5;avatar, other avatar;audio talk to other avatar
+2_Video_18;Spatial.io;2;209;;A8;avatar, tree;left turn 90
+2_Video_18;Spatial.io;2;210;220.0;A9;avatar, island, trees;waiting and watching
+2_Video_18;Spatial.io;2;220;233.0;A1;avatar, islands, bridge;walking around on the islands over bridges
+2_Video_18;Spatial.io;2;222;;A8;avatar, meadow;right turn 180
+2_Video_18;Spatial.io;2;233;238.0;A9;avatar, bridge;waiting in front of a bridge
+2_Video_18;Spatial.io;2;238;268.0;A1;avatar, bridge, islands, rainbow;running across the islands over bridges and a rainbow
+2_Video_18;Spatial.io;2;250;;A8;avatar, tree;left turn 180
+2_Video_18;Spatial.io;2;268;274.0;A9;avatar, fire;waiting and watching a fire
+2_Video_18;Spatial.io;2;274;299.0;A1;avatar, islands, bridge;walking around on the islands over bridges
+2_Video_18;Spatial.io;2;295;;A8;avatar, tree, bridge;left turn 90
+2_Video_19;Spatial.io;2;1;5.0;A1;avatar, dancefloor;walking across dancefloor
+2_Video_19;Spatial.io;2;5;15.0;A1;avatar, sphere;walking towards a sphere
+2_Video_19;Spatial.io;2;15;20.0;A6;avatar, sphere;interacting with sphere, showing hint
+2_Video_19;Spatial.io;2;20;34.0;A1;avatar, sphere;walking towards a sphere
+2_Video_19;Spatial.io;2;25;;A4;avatar, other avatar;waving to other avatar
+2_Video_19;Spatial.io;2;34;37.0;A6;avatar, sphere;interacting with sphere, showing hint
+2_Video_19;Spatial.io;2;38;44.0;A1;avatar, gate;walking towards a gate
+2_Video_19;Spatial.io;2;44;48.0;A2;avatar, gate, boat;walking against a gate
+2_Video_19;Spatial.io;2;51;;A4;avatar, woman;waving to woman
+2_Video_19;Spatial.io;2;52;70.0;A1;avatar, dancefloor;running around at a dancefloor
+2_Video_19;Spatial.io;2;62;;A8;avatar, dancefloor;left turn 180
+2_Video_19;Spatial.io;2;70;74.0;A2;avatar, gate, boat;running against gate
+2_Video_19;Spatial.io;2;74;;A8;avatar, gate;left turn 180
+2_Video_19;Spatial.io;2;74;79.0;A1;avatar, sphere;walking towards a sphere
+2_Video_19;Spatial.io;2;79;83.0;A6;avatar, sphere;interacting with sphere, showing hint
+2_Video_19;Spatial.io;2;84;94.0;A1;avatar, sea;running around
+2_Video_19;Spatial.io;2;90;;A8;avatar, sea;right turn 180
+2_Video_19;Spatial.io;2;94;99.0;A6;avatar, sphere;interacting with sphere, showing hint
+2_Video_19;Spatial.io;2;99;113.0;A1;avatar, disco;running through disco
+2_Video_19;Spatial.io;2;113;;A6;avatar, sphere;collecting a sphere
+2_Video_19;Spatial.io;2;114;125.0;A1;avatar, disco;running through disco to a car
+2_Video_19;Spatial.io;2;126;136.0;A6;avatar, car;interacting with car
+2_Video_19;Spatial.io;2;136;141.0;A1;avatar, disco;running outside
+2_Video_19;Spatial.io;2;141;148.0;A2;avatar, gate, boat;running against a gate
+2_Video_19;Spatial.io;2;148;153.0;A1;avatar, keypad;walking to a keypad
+2_Video_19;Spatial.io;2;153;160.0;A6;avatar, keypad;interacting with keypad, entering code
+2_Video_19;Spatial.io;2;160;168.0;A1;avatar, key;walking to key
+2_Video_19;Spatial.io;2;168;;A6;avatar, key;interacting with key - picking up key
+2_Video_19;Spatial.io;2;169;177.0;A1;avatar, gate, lock;walking to lock
+2_Video_19;Spatial.io;2;177;;A6;avatar, lock;interacting with lock
+2_Video_19;Spatial.io;2;178;185.0;A1;avatar, boat;walking to boat
+2_Video_19;Spatial.io;2;185;;A6;avatar, boat;interacting with boat
+2_Video_19;Spatial.io;2;186;230.0;A1;avatar, boat, sea;riding a boat through 11 markers
+2_Video_19;Spatial.io;2;230;;A6;avatar, item;winning custom item
+2_Video_19;Spatial.io;2;230;246.0;A1;avatar, boat, sea;riding boat back to island
+2_Video_19;Spatial.io;2;246;266.0;A1;avatar, abstract building;walking around near abstract building
+2_Video_19;Spatial.io;2;253;;A9;avatar, abstract building;waiting in front of abstract building and walking on
+2_Video_19;Spatial.io;2;259;;A8;avatar, disco;left turn 180
+2_Video_19;Spatial.io;2;266;;A4;avatar, man;waving to man
+2_Video_19;Spatial.io;2;268;283.0;A1;avatar, disco;walking across the disco
+2_Video_19;Spatial.io;2;283;286.0;A2;avatar, chair;walking against chair
+2_Video_19;Spatial.io;2;286;294.0;A1;avatar, dancefloor;walking around the dancefloor
+2_Video_19;Spatial.io;2;294;;A4;avatar, man;waving to man
+2_Video_20;Spatial.io;2;3;14.0;A1;avatar, temple, water;walking around in a temple with water
+2_Video_20;Spatial.io;2;14;20.0;A2;avatar, statue;walking against a statue
+2_Video_20;Spatial.io;2;20;;A8;avatar, statue;left turn 180
+2_Video_20;Spatial.io;2;20;28.0;A1;avatar, temple, water;walking around in a temple with water
+2_Video_20;Spatial.io;2;28;30.0;A9;avatar, statue;waiting in front of statue
+2_Video_20;Spatial.io;2;31;40.0;A1;avatar, temple, water;walking around in a temple with water
+2_Video_20;Spatial.io;2;35;;A6;avatar, collectible;collecting a collectible
+2_Video_20;Spatial.io;2;40;85.0;A10;avatar;chatting with other avatar (text)
+2_Video_20;Spatial.io;2;85;105.0;A1;avatar, temple, water, other avatar;walking to other avatar
+2_Video_20;Spatial.io;2;105;125.0;A5;avatar, other avatar;audio talk to other avatar
+2_Video_20;Spatial.io;2;120;138.0;A1;avatar, temple, waterfall;running to the waterfall
+2_Video_20;Spatial.io;2;130;140.0;A5;avatar, other avatar;audio talk to other avatar
+2_Video_20;Spatial.io;2;138;150.0;A1;avatar, temple, water, other avatar;walking with other avatar through the temple
+2_Video_20;Spatial.io;2;150;155.0;A2;avatar, pillar;walking against a pillar
+2_Video_20;Spatial.io;2;155;165.0;A5;avatar, other avatar;audio talk to other avatar
+2_Video_20;Spatial.io;2;155;163.0;A1;avatar, temple, water, other avatar;walking with other avatar through the temple
+2_Video_20;Spatial.io;2;163;169.0;A2;avatar, pillar;walking against a pillar
+2_Video_20;Spatial.io;2;170;177.0;A1;avatar, temple, water, other avatar;walking with other avatar through the temple
+2_Video_20;Spatial.io;2;177;179.0;A9;avatar, temple, water;waiting and watching
+2_Video_20;Spatial.io;2;179;200.0;A1;avatar, temple, water, other avatar;walking with other avatar through the temple
+2_Video_20;Spatial.io;2;200;204.0;A2;avatar, pillar;walking against a pillar
+2_Video_20;Spatial.io;2;204;239.0;A1;avatar, temple, water, other avatar;walking with other avatar through the temple
+2_Video_20;Spatial.io;2;212;239.0;A5;avatar, other avatar;audio talk to other avatar
+2_Video_20;Spatial.io;2;240;276.0;A9;avatar, stairs, catwalk;waiting and watching other avatar on catwalk
+2_Video_20;Spatial.io;2;262;;A4;avatar, other avatar, catwalk;showing thumbs up, other avatar dancing
+2_Video_20;Spatial.io;2;269;276.0;A5;avatar, other avatar;audio talk to other avatar
+2_Video_20;Spatial.io;2;276;290.0;A1;avatar, temple, water, other avatar;walking through the temple
+2_Video_20;Spatial.io;2;290;293.0;A9;avatar, temple, water;waiting and watching
+2_Video_20;Spatial.io;2;293;298.0;A1;avatar, temple, water, other avatar;walking with other avatar through the temple

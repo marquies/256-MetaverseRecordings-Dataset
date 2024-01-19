@@ -1,0 +1,169 @@
+Video;Metaverse name;Editor;Time(start);Time(end);Action;Relevant Objects;Description
+1_Video_1.mp4;Roblox Adopt Me;1;2023-06-23 00:02:00;;A10,S4;abholen-button;press button: abholen
+1_Video_1.mp4;Roblox Adopt Me;1;2023-06-23 00:03:00;2023-06-23 00:05:00;S1;avatar, money-animation;spent money to receive a cat as a pet
+1_Video_1.mp4;Roblox Adopt Me;1;2023-06-23 00:06:00;2023-06-23 00:08:00;A6,S0;avatar, cat;cat running around the avatar
+1_Video_1.mp4;Roblox Adopt Me;1;2023-06-23 00:09:00;2023-06-23 00:12:00;A3,S0;avatar, cat, building;exiting a house
+1_Video_1.mp4;Roblox Adopt Me;1;2023-06-23 00:13:00;2023-06-23 00:50:00;A1;avatar;running through the virtual world
+1_Video_1.mp4;Roblox Adopt Me;1;2023-06-23 00:33:00;;A5,S1;system;receiving a message from a player
+1_Video_1.mp4;Roblox Adopt Me;1;2023-06-23 00:35:00;;A10,S4;ablehnen-button;press button: ablehnen
+1_Video_1.mp4;Roblox Adopt Me;1;2023-06-23 00:45:00;;A7;avatar;change location through white space
+1_Video_2.mp4;Roblox Adopt Me;1;2023-06-23 00:00:00;2023-06-23 00:13:00;A1;avatar;running through the virtual world
+1_Video_2.mp4;Roblox Adopt Me;1;2023-06-23 00:09:00;;A2;avatar, cactus;avatur running against a cactus
+1_Video_2.mp4;Roblox Adopt Me;1;2023-06-23 00:17:00;;A3;avatar, building;avatar entering a building
+1_Video_2.mp4;Roblox Adopt Me;1;2023-06-23 00:18:00;;A1;avatar;running through the virtual world
+1_Video_2.mp4;Roblox Adopt Me;1;2023-06-23 00:25:00;;S0;cat;cat jumping
+1_Video_2.mp4;Roblox Adopt Me;1;2023-06-23 00:27:00;;A6,S4;backpack;edit the state of the backpack
+1_Video_2.mp4;Roblox Adopt Me;1;2023-06-23 00:29:00;;A10,S4;einpacken-button;press button: einpacken
+1_Video_2.mp4;Roblox Adopt Me;1;2023-06-23 00:37:00;;A2;avatar, wall;running against a wall
+1_Video_2.mp4;Roblox Adopt Me;1;2023-06-23 00:38:00;2023-06-23 01:11:00;A1;avatar;running through the virtual world
+1_Video_2.mp4;Roblox Adopt Me;1;2023-06-23 01:04:00;;A3;avatar, door;passing a door
+1_Video_3.mp4;Roblox Adopt Me;1;2023-06-23 00:04:00;;A6;avatar, object;press button located to a statuette to buy something
+1_Video_3.mp4;Roblox Adopt Me;1;2023-06-23 00:12:00;;A10,S4;kaufen-button;press button: kaufen
+1_Video_3.mp4;Roblox Adopt Me;1;2023-06-23 00:15:00;;A10,S4;kaufen-confirm-button;press button: kaufen (for confirmation)
+1_Video_3.mp4;Roblox Adopt Me;1;2023-06-23 00:16:00;;A10,S1;system;message from system via dialog window
+1_Video_3.mp4;Roblox Adopt Me;1;2023-06-23 00:18:00;;A10,S4;backpack;edit the state of the backpack
+1_Video_3.mp4;Roblox Adopt Me;1;2023-06-23 00:22:00;;A6, S4;backpack;quit editing the stat of the backpack
+1_Video_3.mp4;Roblox Adopt Me;1;2023-06-23 00:26:00;2023-06-23 00:47:00;A6;garderobe;editing the garderobe of the pet cat
+1_Video_3.mp4;Roblox Adopt Me;1;2023-06-23 00:40:00;;A6,S4;Outfit speichern-button;press button: outfit speichern
+1_Video_3.mp4;Roblox Adopt Me;1;2023-06-23 00:44:00;;A6,S4;speichern-button;press button: speichern
+1_Video_3.mp4;Roblox Adopt Me;1;2023-06-23 00:54:00;;A10,S4;abholen-button;press button: abholen
+1_Video_3.mp4;Roblox Adopt Me;1;2023-06-23 00:55:00;;S1;avatar, cat, money-animation;receive money for dressing up a pet
+1_Video_4.mp4;Roblox Adopt Me;1;2023-06-23 00:01:00;;A6,S4;avatar object;press button located to a statuette to buy something
+1_Video_4.mp4;Roblox Adopt Me;1;2023-06-23 00:02:00;;A10,S4;kaufen-button;press button: kaufen
+1_Video_4.mp4;Roblox Adopt Me;1;2023-06-23 00:03:00;2023-06-23 00:12:00;A1;avatar;running through the virtual world
+1_Video_4.mp4;Roblox Adopt Me;1;2023-06-23 00:10:00;;A6;cat;feeding cat
+1_Video_4.mp4;Roblox Adopt Me;1;2023-06-23 00:12:00;;A6;cat;cat is eating
+1_Video_4.mp4;Roblox Adopt Me;1;2023-06-23 00:15:00;;A8;avatar;change direction 
+1_Video_4.mp4;Roblox Adopt Me;1;2023-06-23 00:41:00;;A10,S4;system;message from another player
+1_Video_4.mp4;Roblox Adopt Me;1;2023-06-23 00:42:00;;S4;schliessen-button;press button: schliessen
+1_Video_4.mp4;Roblox Adopt Me;1;2023-06-23 00:50:00;;A3;avatar, cat, building;entering a building
+1_Video_4.mp4;Roblox Adopt Me;1;2023-06-23 00:55:00;;A2;avatar, cat, wall;running against a wall
+1_Video_5.mp4;Roblox Pizzastore;1;2023-06-23 00:12:00;;A10,S4;system message;„uneingelöster check“
+1_Video_5.mp4;Roblox Pizzastore;1;2023-06-23 00:14:00;;S4;auszahlen-button;press button: auszahlen
+1_Video_5.mp4;Roblox Pizzastore;1;2023-06-23 00:22:00;;A6,S4;house-button;press button: edit house
+1_Video_5.mp4;Roblox Pizzastore;1;2023-06-23 00:23:00;;S4;kaufen-button;press button: kaufen
+1_Video_5.mp4;Roblox Pizzastore;1;2023-06-23 00:28:00;2023-06-23 00:33:00;A7;avatar, building;change view to bought building
+1_Video_5.mp4;Roblox Pizzastore;1;2023-06-23 00:58:00;;A8;avatar;change direction 
+1_Video_6.mp4;Roblox Pizzastore;1;2023-06-23 00:07:00;;A9;avatar;stop and continue walking
+1_Video_6.mp4;Roblox Pizzastore;1;2023-06-23 00:53:00;2023-06-23 00:59:00;S0;oven;pieping from the oven
+1_Video_6.mp4;Roblox Pizzastore;1;2023-06-23 01:16:00;;A5;avatar, other avatar;walk into another avatar
+1_Video_6.mp4;Roblox Pizzastore;1;2023-06-23 01:17:00;;A3;avatar, oven;enter the pizza-oven
+1_Video_6.mp4;Roblox Pizzastore;1;2023-06-23 01:20:00;2023-06-23 01:32:00;S0;oven;pieping from the oven
+1_Video_6.mp4;Roblox Pizzastore;1;2023-06-23 01:33:00;;S0;avatar, fireextinguisher;extinguish self-burning
+1_Video_7.mp4;Roblox Pizzastore;1;2023-06-23 00:08:00;;A8;avatar;change direction 
+1_Video_7.mp4;Roblox Pizzastore;1;2023-06-23 00:12:00;;S0;bell;doorbell is ringing
+1_Video_7.mp4;Roblox Pizzastore;1;2023-06-23 00:16:00;;A10;avatar, dialog window;take an order via dialog window
+1_Video_7.mp4;Roblox Pizzastore;1;2023-06-23 00:18:00;2023-06-23 00:27:00;A5;avatar, other avatar;taking an order from a customer
+1_Video_7.mp4;Roblox Pizzastore;1;2023-06-23 00:25:00;;S0;system;check sign for finished order
+1_Video_7.mp4;Roblox Pizzastore;1;2023-06-23 00:28:00;2023-06-23 00:48:00;A5;avatar, other avatar;taking an order from a customer
+1_Video_7.mp4;Roblox Pizzastore;1;2023-06-23 00:42:00;;S0;bell;doorbell is ringing
+1_Video_7.mp4;Roblox Pizzastore;1;2023-06-23 00:46:00;;S0;system;check sign for finished order
+1_Video_8.mp4;Roblox Pizzastore;1;2023-06-23 00:03:00;2023-06-23 00:15:00;A5;avatar, other avatar;taking an order from a customer
+1_Video_8.mp4;Roblox Pizzastore;1;2023-06-23 00:15:00;;S0;bell;doorbell is ringing
+1_Video_8.mp4;Roblox Pizzastore;1;2023-06-23 00:20:00;2023-06-23 00:33:00;A5;avatar, other avatar;taking an order from a customer
+1_Video_8.mp4;Roblox Pizzastore;1;2023-06-23 00:30:00;;S0;bell;doorbell is ringing
+1_Video_8.mp4;Roblox Pizzastore;1;2023-06-23 00:31:00;;S0;system;check sign for finished order
+1_Video_8.mp4;Roblox Pizzastore;1;2023-06-23 00:40:00;;S0;bell;doorbell is ringing
+1_Video_8.mp4;Roblox Pizzastore;1;2023-06-23 00:48:00;;A8;avatar;change direction 
+1_Video_8.mp4;Roblox Pizzastore;1;2023-06-23 01:01:00;;S0;system;check sign for finished order
+1_Video_9.mp4;Roblox Prisonbreak;1;2023-06-23 00:00:00;2023-06-23 00:03:00;A5;avatar, other avatar;other avatar fighting with avatar
+1_Video_9.mp4;Roblox Prisonbreak;1;2023-06-23 00:24:00;2023-06-23 00:46:00;A1;avatar;walking through virtual world
+1_Video_9.mp4;Roblox Prisonbreak;1;2023-06-23 00:26:00;;A8;avatar;change direction 
+1_Video_9.mp4;Roblox Prisonbreak;1;2023-06-23 00:38:00;;S0;system;Morseton
+1_Video_9.mp4;Roblox Prisonbreak;1;2023-06-23 00:39:00;;A2;avatar, door;walk into a closed door
+1_Video_10.mp4;Roblox Prisonbreak;1;2023-06-23 00:02:00;;A6;avatar, box;avatar smashes against the box
+1_Video_10.mp4;Roblox Prisonbreak;1;2023-06-23 00:27:00;2023-06-23 00:42:00;A5;avatar, other avatar;fighting with other avatar
+1_Video_10.mp4;Roblox Prisonbreak;1;2023-06-23 00:42:00;;A3;avatar, manhole cover;entering the manhole cover
+1_Video_10.mp4;Roblox Prisonbreak;1;2023-06-23 00:44:00;;S0;system;Morseton
+1_Video_10.mp4;Roblox Prisonbreak;1;2023-06-23 00:49:00;;S0;system;ship horn sound
+1_Video_10.mp4;Roblox Prisonbreak;1;2023-06-23 00:55:00;;A3;avatar manhole cover;exit the manhole cover
+1_Video_10.mp4;Roblox Prisonbreak;1;2023-06-23 00:59:00;;S0;system;Morseton
+1_Video_11.mp4;Roblox Prisonbreak;1;2023-06-23 00:03:00;;A10,S4;avatar, car, system;press button: entführen
+1_Video_11.mp4;Roblox Prisonbreak;1;2023-06-23 00:19:00;;A10,S4;avatar, car, system;press button: entführen
+1_Video_11.mp4;Roblox Prisonbreak;1;2023-06-23 00:42:00;;S0;system;Morseton
+1_Video_11.mp4;Roblox Prisonbreak;1;2023-06-23 00:45:00;;A8;avatar;change direction 
+1_Video_11.mp4;Roblox Prisonbreak;1;2023-06-23 00:50:00;;A2;avatar, fence;walk against a fence
+1_Video_11.mp4;Roblox Prisonbreak;1;2023-06-23 00:54:00;;A9;avatar;stop walking and then continue again
+1_Video_12.mp4;Roblox Prisonbreak;1;2023-06-23 00:00:00;2023-06-23 00:05:00;A1;avatar;running through the virtual world
+1_Video_12.mp4;Roblox Prisonbreak;1;2023-06-23 00:15:00;;A10,S1;system;message from system via dialog window
+1_Video_12.mp4;Roblox Prisonbreak;1;2023-06-23 00:16:00;;S0;avatar;jumping sound
+1_Video_12.mp4;Roblox Prisonbreak;1;2023-06-23 00:23:00;;S0;car;fast car passing sound 
+1_Video_12.mp4;Roblox Prisonbreak;1;2023-06-23 00:41:00;;A6;avatar, system;jukebox game
+1_Video_12.mp4;Roblox Prisonbreak;1;2023-06-23 00:10:00;;A8;avatar;change direction 
+1_Video_13.mp4;Roblox Prisonbreak;1;2023-06-23 00:03:00;;A7;avatar, water;enter sea and dive under the water
+1_Video_13.mp4;Roblox Prisonbreak;1;2023-06-23 00:35:00;;S0;avatar, water;jump into the water
+1_Video_13.mp4;Roblox Prisonbreak;1;2023-06-23 00:58:00;;A9;avatar;running, stop and then continue running
+1_Video_13.mp4;Roblox Prisonbreak;1;2023-06-23 01:11:00;;A9;avatar;running, stop and then continue running
+1_Video_13.mp4;Roblox Prisonbreak;1;2023-06-23 01:28:00;2023-06-23 01:32:00;A5;avatar, police avatar;being teasered and arrested
+1_Video_13.mp4;Roblox Prisonbreak;1;2023-06-23 01:41:00;;A7;avatar, prison;teleported to room in prison
+1_Video_14.mp4;Roblox Odd World;1;2023-06-23 00:03:00;;A10,S1;system;message from system via dialog window
+1_Video_14.mp4;Roblox Odd World;1;2023-06-23 00:07:00;;A10,S1;system;message from system via dialog window
+1_Video_14.mp4;Roblox Odd World;1;2023-06-23 00:22:00;;A7,S0;avatar, box;avatar changes appearance to a box
+1_Video_14.mp4;Roblox Odd World;1;2023-06-23 00:36:00;;A7,S0;avatar, box;avatar changes appearance to a box
+1_Video_14.mp4;Roblox Odd World;1;2023-06-23 00:46:00;;S0;system;delayed sound of blue monster
+1_Video_14.mp4;Roblox Odd World;1;2023-06-23 00:49:00;;A3,S0;avatar, door;avatar enters a door
+1_Video_14.mp4;Roblox Odd World;1;2023-06-23 00:54:00;;A2;avatar, wall;avatar walks against a wall
+1_Video_14.mp4;Roblox Odd World;1;2023-06-23 00:56:00;;A7,S0;avatar, box;avatar changes appearance to a box
+1_Video_15.mp4;Roblox Odd World;1;2023-06-23 00:01:00;;S0;system;message: player xy has been found
+1_Video_15.mp4;Roblox Odd World;1;2023-06-23 00:17:00;;A3,S0;avatar, door;avatar enters a door
+1_Video_15.mp4;Roblox Odd World;1;2023-06-23 00:19:00;;S0;door;door closes
+1_Video_15.mp4;Roblox Odd World;1;2023-06-23 00:28:00;;A3;avatar, building;avatar entering a building
+1_Video_15.mp4;Roblox Odd World;1;2023-06-23 00:37:00;;A7,S0;avatar, box;avatar changes appearance to a box
+1_Video_15.mp4;Roblox Odd World;1;2023-06-23 00:53:00;;A6,S0;avatar, blue monster;avatar as a box touching the blue monster
+1_Video_15.mp4;Roblox Odd World;1;2023-06-23 00:56:00;;S0;system;message: player xy has been found
+1_Video_15.mp4;Roblox Odd World;1;2023-06-23 01:11:00;2023-06-23 01:13:00;A7;avatar, tower;avatar changes location up to a tower
+1_Video_15.mp4;Roblox Odd World;1;2023-06-23 01:20:00;;S0;system;message: player xy has been found
+1_Video_15.mp4;Roblox Odd World;1;2023-06-23 01:24:00;;A10;system;message from system via dialog window
+1_Video_16.mp4;Roblox Odd World;1;2023-06-23 00:04:00;;S0;blue monster;sound of the blue monster
+1_Video_16.mp4;Roblox Odd World;1;2023-06-23 00:09:00;;S0;system;unclear squeaking sound
+1_Video_16.mp4;Roblox Odd World;1;2023-06-23 00:10:00;;S0;system;unclear squeaking sound
+1_Video_16.mp4;Roblox Odd World;1;2023-06-23 00:12:00;;S0 ;system;unclear squeaking sound
+1_Video_16.mp4;Roblox Odd World;1;2023-06-23 00:13:00;;S0;system;unclear squeaking sound
+1_Video_16.mp4;Roblox Odd World;1;2023-06-23 00:32:00;;A7,S0;avatar, box;avatar changes from box appearance to normal appearance
+1_Video_16.mp4;Roblox Odd World;1;2023-06-23 00:35:00;;A9;avatar;running, stop and then continue running
+1_Video_16.mp4;Roblox Odd World;1;2023-06-23 00:38:00;;S0 ;system;unclear hammering sound
+1_Video_16.mp4;Roblox Odd World;1;2023-06-23 00:40:00;;S0;system;unclear hammering sound
+1_Video_16.mp4;Roblox Odd World;1;2023-06-23 00:47:00;;A7,S0;avatar, box;avatar changes appearance to a box
+1_Video_17.mp4;Roblox Odd World;1;2023-06-23 00:00:00;2023-06-23 00:19:00;A1;avatar, box;avatar is walking through the metaverse as a box
+1_Video_17.mp4;Roblox Odd World;1;2023-06-23 00:10:00;;S0;system;message: player xy has been found
+1_Video_17.mp4;Roblox Odd World;1;2023-06-23 00:26:00;;A3,S0;avatar, box, door, building;avatar as a box entering a building through a door
+1_Video_17.mp4;Roblox Odd World;1;2023-06-23 00:33:00;;A3,S0;avatar, box, door;avatar as a box opens and passes a door
+1_Video_17.mp4;Roblox Odd World;1;2023-06-23 00:41:00;;A3,SO;avatar, door;avatar opens and passes a door
+1_Video_17.mp4;Roblox Odd World;1;2023-06-23 00:41:00;;S0;system;message: player xy has been found
+1_Video_17.mp4;Roblox Odd World;1;2023-06-23 00:54:00;;A3,SO;avatar, door;avatar opens and passes a door
+1_Video_17.mp4;Roblox Odd World;1;2023-06-23 00:57:00;;S0;system;delayed sound of blue monster
+1_Video_17.mp4;Roblox Odd World;1;2023-06-23 00:59:00;;A3,S0;avatar, door, building;avatar entering a building through a door
+1_Video_17.mp4;Roblox Odd World;1;2023-06-23 01:02:00;;A3,SO;avatar, door;avatar opens and passes a door
+1_Video_17.mp4;Roblox Odd World;1;2023-06-23 01:04:00;;A3,SO;avatar, door;avatar opens and passes a door
+1_Video_17.mp4;Roblox Odd World;1;2023-06-23 01:06:00;;A6;avatar, lightbulb;avatar takes a lightbulb and brings it to some place
+1_Video_18.mp4;Break In;1;2023-06-23 00:05:00;;A3;avatar, door, building;avatar entering a building through an open door
+1_Video_18.mp4;Break In;1;2023-06-23 00:07:00;;A10,S1;system;message from system via dialog window
+1_Video_18.mp4;Break In;1;2023-06-23 00:13:00;;S0;system;unclear aaaaahh sound
+1_Video_18.mp4;Break In;1;2023-06-23 00:14:00;;A10,S1;system;message from system via dialog window
+1_Video_18.mp4;Break In;1;2023-06-23 00:16:00;;A6,S0;avatar, chest of drawers;avatar opens individual drawers of a chest of drawers
+1_Video_18.mp4;Break In;1;2023-06-23 00:22:00;;A10,S1;system;message from system via dialog window
+1_Video_18.mp4;Break In;1;2023-06-23 00:33:00;;A4;avatar;avatar playing with a baseball bat
+1_Video_18.mp4;Break In;1;2023-06-23 00:48:00;;A6,S0;avatar, chest of drawers;avatar opens a drawer of a chest of drawers
+1_Video_18.mp4;Break In;1;2023-06-23 00:49:00;;So,S1;avatar, money;avatar gets some money
+1_Video_18.mp4;Break In;1;2023-06-23 00:51:00;2023-06-23 00:58:00;A6,S0;avatar, chest of drawers;avatar opens individual drawers of a chest of drawers
+1_Video_18.mp4;Break In;1;2023-06-23 01:10:00;;A6,S0;avatar, chest of drawers;avatar opens individual drawers of a chest of drawers
+1_Video_18.mp4;Break In;1;2023-06-23 01:11:00;;S0,S1;avatar, money;avatar gets some money
+1_Video_18.mp4;Break In;1;2023-06-23 01:17:00;;A10,S1;system;message from system via dialog window
+1_Video_18.mp4;Break In;1;2023-06-23 01:18:00;2023-06-23 01:21:00;A6,S0;avatar, chest of drawers;avatar opens individual drawers of a chest of drawers
+1_Video_19.mp4;Break In;1;2023-06-23 00:02:00;;A10,S1;system;message from system via dialog window
+1_Video_19.mp4;Break In;1;2023-06-23 00:11:00;;A10,S1;system;message from system via dialog window
+1_Video_19.mp4;Break In;1;2023-06-23 00:39:00;;A10,S1;system;message from system via dialog window
+1_Video_19.mp4;Break In;1;2023-06-23 00:40:00;;A6;avatar, other avatars;sitting on a sofa with other avatars and watching tv
+1_Video_19.mp4;Break In;1;2023-06-23 00:45:00;;A10,S1;system;message from system via dialog window
+1_Video_19.mp4;Break In;1;2023-06-23 00:50:00;;A6;avatar, other avatars;chat in dialog-box with textmessages with oder avatars
+1_Video_19.mp4;Break In;1;2023-06-23 01:07:00;;S0;system;unclear aaaaah sound
+1_Video_19.mp4;Break In;1;2023-06-23 01:11:00;;S0;system;unclear aaaaah sound
+1_Video_20.mp4;Break In;1;2023-06-23 00:02:00;;A10,S1;system;message from system via dialog window
+1_Video_20.mp4;Break In;1;2023-06-23 00:09:00;;A10,S1;system;message from system via dialog window
+1_Video_20.mp4;Break In;1;2023-06-23 00:15:00;;A10,S1;system;message from system via dialog window
+1_Video_20.mp4;Break In;1;2023-06-23 00:17:00;;A10,S1;system;message from system via dialog window
+1_Video_20.mp4;Break In;1;2023-06-23 00:26:00;;A6;avatar, other avatars;standing around and waiting
+1_Video_20.mp4;Break In;1;2023-06-23 00:30:00;;A10,S1;system;message from system via dialog window
+1_Video_20.mp4;Break In;1;2023-06-23 00:39:00;;A7;avatar;avatar is hiding in a wardrobe
+1_Video_20.mp4;Break In;1;2023-06-23 01:14:00;;A10,S1;system;message from system: player xy died
+1_Video_20.mp4;Break In;1;2023-06-23 01:27:00;;A10,S1;system;message from system via dialog window

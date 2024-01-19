@@ -1,0 +1,379 @@
+Video;Metaverse name;Editor;Frame (from);Frame (to, optional);Action;Relevant Objects;Description
+8_Video_ 1;Decentraland;8;40.0;;A1;Avatar;durch die virtuelle Welt laufen 
+8_Video_ 1;Decentraland;8;88.0;;A3;Avatar, Gebäude;ein Gebäude betreten 
+8_Video_ 1;Decentraland;8;290.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 1;Decentraland;8;413.0;;A3;Avatar, Gebäude;ein Gebäude betreten 
+8_Video_ 1;Decentraland;8;620.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 1;Decentraland;8;709.0;;A3;Avatar, Gebäude;ein Gebäude betreten 
+8_Video_ 1;Decentraland;8;761.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 1;Decentraland;8;800.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 1;Decentraland;8;936.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 1;Decentraland;8;981.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 1;Decentraland;8;1067.0;;A3;Avatar, Gebäude;ein Gebäude betreten 
+8_Video_ 1;Decentraland;8;1130.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 1;Decentraland;8;1193.0;;A6;Painting, Avatar;Bild betrachten und anklicken
+8_Video_ 1;Decentraland;8;1456.0;;A6;Painting, Avatar;Bild betrachten und anklicken
+8_Video_ 1;Decentraland;8;1710.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 1;Decentraland;8;1800.0;;A6;Painting, Avatar;Bild betrachten und anklicken
+8_Video_ 2;Decentraland;8;34.0;;A1;Avatar;durch die virtuelle Welt laufen 
+8_Video_ 2;Decentraland;8;94.0;;A6;Avatar, Leinwand;ein Video betrachten
+8_Video_ 2;Decentraland;8;94.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 2;Decentraland;8;239.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 2;Decentraland;8;454.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 2;Decentraland;8;867.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 2;Decentraland;8;910.0;;A6;Avatar, Flying Block;Block betrachten und anklicken
+8_Video_ 2;Decentraland;8;1017.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 2;Decentraland;8;1057.0;;A6;Avatar, Reklametafel;Reklametafel betrachten und anklicken
+8_Video_ 2;Decentraland;8;1122.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 2;Decentraland;8;1220.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 2;Decentraland;8;1240.0;;A1;Avatar;durch die virtuelle Welt laufen 
+8_Video_ 2;Decentraland;8;1824.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 3;Decentraland;8;74.0;;A6;Avatar, Bild;Bild betrachten und anklicken
+8_Video_ 3;Decentraland;8;74.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 3;Decentraland;8;249.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 3;Decentraland;8;280.0;;A6;Avatar, Bild;Bild betrachten und anklicken
+8_Video_ 3;Decentraland;8;390.0;;A7;Avatar, Bild;"sich zu einem anderen Ort ""teleportieren"" "
+8_Video_ 3;Decentraland;8;599.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 3;Decentraland;8;735.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 3;Decentraland;8;735.0;;A6;Avatar, PlayCoin ;PlayCoin betrachten und anklicken
+8_Video_ 3;Decentraland;8;827.0;;A7;Avatar, Coin;"sich zu einem anderen Ort ""teleportieren"" "
+8_Video_ 3;Decentraland;8;1230.0;;A6;RennwagenAvatar;Rennspiel spielen
+8_Video_ 3;Decentraland;8;1911.0;;A6;HowtoPlayButton;Button Drücken
+8_Video_ 3;Decentraland;8;1969.0;;A6;GotItButton;GotItButton drücken
+8_Video_ 3;Decentraland;8;2162.0;;A1;RennwagenAvatar;durch die virtuelle Welt laufen 
+8_Video_ 3;Decentraland;8;;;;;
+8_Video_ 4;Decentraland;8;30.0;;A1;Avatar;durch die virtuelle Welt laufen 
+8_Video_ 4;Decentraland;8;115.0;;A6;Avatar, PlayCoin ;PlayCoin betrachten und anklicken
+8_Video_ 4;Decentraland;8;135.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 4;Decentraland;8;184.0;;A7;Avatar, Coin;"sich zu einem anderen Ort ""teleportieren"" "
+8_Video_ 4;Decentraland;8;670.0;;A1;Avatar;durch die virtuelle Welt laufen 
+8_Video_ 4;Decentraland;8;717.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 4;Decentraland;8;717.0;;A6;Avatar, Terminal;Terminal betrachten und anklicken
+8_Video_ 4;Decentraland;8;934.0;;A1;Avatar;durch die virtuelle Welt laufen 
+8_Video_ 4;Decentraland;8;1000.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 4;Decentraland;8;1050.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 4;Decentraland;8;1190.0;;A2;Avatar, Ventilator;gegen Ventilator gelaufen
+8_Video_ 4;Decentraland;8;1190.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 4;Decentraland;8;1269.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 4;Decentraland;8;1320.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 4;Decentraland;8;1376.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 4;Decentraland;8;1429.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 4;Decentraland;8;1506.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 4;Decentraland;8;1596.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 4;Decentraland;8;1750.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 4;Decentraland;8;1750.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 4;Decentraland;8;1803.0;;A9;Avatar, Gitterstäbe;gegen Gitterstäbe gelaufen
+8_Video_ 5;Decentraland;8;71.0;;A6;Avatar, Bild;Bild betrachten und anklicken
+8_Video_ 5;Decentraland;8;210.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 5;Decentraland;8;440.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 5;Decentraland;8;485.0;;A6;Avatar, PlayCoin ;PlayCoin betrachten und anklicken
+8_Video_ 5;Decentraland;8;555.0;;A7;Avatar, PlayCoin ;"sich zu einem anderen Ort ""teleportieren"" "
+8_Video_ 5;Decentraland;8;960.0;;A6;RennwagenAvatar;Rennspiel spielen
+8_Video_ 5;Decentraland;8;1300.0;;A1;RennwagenAvatar;durch die virtuelle Welt laufen 
+8_Video_ 6;Decentraland;8;26.0;;A1;Avatar;durch die virtuelle Welt laufen 
+8_Video_ 6;Decentraland;8;57.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 6;Decentraland;8;260.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 6;Decentraland;8;425.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 6;Decentraland;8;520.0;;A2;Avatar, Schaufenster;gegen Schaufenster gelaufen
+8_Video_ 6;Decentraland;8;620.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 6;Decentraland;8;622.0;;A3;Avatar, Gebäude;ein Gebäude betreten 
+8_Video_ 6;Decentraland;8;713.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 6;Decentraland;8;1013.0;;A3;Avatar, Gebäude;ein Gebäude betreten 
+8_Video_ 6;Decentraland;8;1070.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 6;Decentraland;8;1036.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 6;Decentraland;8;1270.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 6;Decentraland;8;1300.0;;A3;Avatar, Gebäude;ein Gebäude betreten 
+8_Video_ 6;Decentraland;8;1435.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 6;Decentraland;8;1718.0;;A3;Avatar, Gebäude;ein Gebäude betreten 
+8_Video_ 7;Decentraland;8;80.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 7;Decentraland;8;120.0;;A6;Bild, Avatar;Bild betrachten und anklicken
+8_Video_ 7;Decentraland;8;295.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 7;Decentraland;8;295.0;;A6;Bild, Avatar;Bild betrachten und anklicken
+8_Video_ 7;Decentraland;8;429.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 7;Decentraland;8;429.0;;A6;Bild, Avatar;Bild betrachten und anklicken
+8_Video_ 7;Decentraland;8;756.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 7;Decentraland;8;756.0;;A6;Bild, Avatar;Bild betrachten und anklicken
+8_Video_ 7;Decentraland;8;1050.0;;A1;Avatar;durch die virtuelle Welt laufen 
+8_Video_ 7;Decentraland;8;1485.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 7;Decentraland;8;1780.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 8;Decentraland;8;30.0;;A1;Avatar;durch die virtuelle Welt laufen 
+8_Video_ 8;Decentraland;8;295.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 8;Decentraland;8;615.0;;A3;Avatar, Gebäude;ein Gebäude betreten 
+8_Video_ 8;Decentraland;8;635.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 8;Decentraland;8;688.0;;A6;Bild, Avatar;Bild betrachten und anklicken
+8_Video_ 8;Decentraland;8;1336.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 8;Decentraland;8;1365.0;;A6;Bild, Avatar;Bild betrachten und anklicken
+8_Video_ 9;Decentraland;8;20.0;;A1;Avatar;durch die virtuelle Welt laufen 
+8_Video_ 9;Decentraland;8;96.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 9;Decentraland;8;130.0;;A4;Avatar;winken
+8_Video_ 9;Decentraland;8;338.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 9;Decentraland;8;384.0;;A4;Avatar;winken
+8_Video_ 9;Decentraland;8;578.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 9;Decentraland;8;690.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 9;Decentraland;8;757.0;;A4;Avatar;winken
+8_Video_ 9;Decentraland;8;875.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 9;Decentraland;8;1077.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 9;Decentraland;8;1111.0;;A4;Avatar;winken
+8_Video_ 9;Decentraland;8;1220.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 9;Decentraland;8;1384.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 9;Decentraland;8;1671.0;;A2;Avatar, Parkbank;gegen Parkbank gelaufen
+8_Video_ 9;Decentraland;8;1671.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 9;Decentraland;8;1710.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 9;Decentraland;8;1790.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 10;Decentraland;8;45.0;;A1;Avatar;durch die virtuelle Welt laufen 
+8_Video_ 10;Decentraland;8;305.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 10;Decentraland;8;335.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 10;Decentraland;8;447.0;;A3;Avatar, Gebäude;ein Gebäude betreten 
+8_Video_ 10;Decentraland;8;550.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 10;Decentraland;8;857.0;;A3;Avatar, Gebäude;ein Gebäude betreten 
+8_Video_ 10;Decentraland;8;1155.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 10;Decentraland;8;1155.0;;A2;Avatar, Wand;gegen Wand gelaufen
+8_Video_ 10;Decentraland;8;1155.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 10;Decentraland;8;1279.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 10;Decentraland;8;1485.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 10;Decentraland;8;1664.0;;A2;Avatar, Wand;gegen Wand gelaufen
+8_Video_ 10;Decentraland;8;1664.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 10;Decentraland;8;1695.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 10;Decentraland;8;1870.0;;A2;Avatar, Wand;gegen Wand gelaufen
+8_Video_ 10;Decentraland;8;1870.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 11;Decentraland;8;30.0;;A1;Avatar;durch die virtuelle Welt laufen 
+8_Video_ 11;Decentraland;8;430.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 11;Decentraland;8;938.0;;A2;Avatar, Parkbank;gegen Prakbank gelaufen
+8_Video_ 11;Decentraland;8;940.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 11;Decentraland;8;1022.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 11;Decentraland;8;1122.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 11;Decentraland;8;1122.0;;A2;Avatar, Bahnsteig;gegen Bahnsteig gelaufen
+8_Video_ 11;Decentraland;8;1122.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 11;Decentraland;8;1344.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 11;Decentraland;8;1451.0;;A2;Avatar, Straßenbahn;gegen Straßenbahn gelaufen
+8_Video_ 11;Decentraland;8;1451.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 11;Decentraland;8;1470.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 11;Decentraland;8;1550.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 11;Decentraland;8;1695.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 11;Decentraland;8;1720.0;;A2;Avatar, Parkbank;gegen Parkbank gelaufen
+8_Video_ 11;Decentraland;8;1720.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 11;Decentraland;8;1750.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 11;Decentraland;8;1920.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 11;Decentraland;8;2050.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 11;Decentraland;8;2459.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 11;Decentraland;8;2637.0;;A2;Avatar, Bahnsteig;gegen Bahnsteig gelaufen
+8_Video_ 11;Decentraland;8;2637.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 11;Decentraland;8;2672.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 11;Decentraland;8;2866.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 11;Decentraland;8;3155.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 11;Decentraland;8;3355.0;;A2;Avatar, Wand;gegen Wand gelaufen
+8_Video_ 11;Decentraland;8;3355.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 11;Decentraland;8;3355.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 11;Decentraland;8;3480.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 11;Decentraland;8;3804.0;;A2;Avatar, Parkbank;gegen Parkbank gelaufen
+8_Video_ 11;Decentraland;8;3804.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 11;Decentraland;8;3804.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 11;Decentraland;8;4086.0;;A2;Avatar, Parkbank;gegen Parkbank gelaufen
+8_Video_ 11;Decentraland;8;4086.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 11;Decentraland;8;4086.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 11;Decentraland;8;4275.0;;A2;Avatar, Parkbank;gegen Parkbank gelaufen
+8_Video_ 11;Decentraland;8;4275.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 11;Decentraland;8;4275.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 11;Decentraland;8;4879.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 11;Decentraland;8;5140.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 11;Decentraland;8;5310.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 11;Decentraland;8;5360.0;;A2;Avatar, Wand;gegen Wand gelaufen
+8_Video_ 11;Decentraland;8;5360.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 12;Decentraland;8;62.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 12;Decentraland;8;227.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 12;Decentraland;8;480.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 12;Decentraland;8;570.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 12;Decentraland;8;740.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 12;Decentraland;8;1000.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 12;Decentraland;8;1180.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 12;Decentraland;8;1233.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 12;Decentraland;8;1440.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 12;Decentraland;8;1530.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 12;Decentraland;8;1705.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 12;Decentraland;8;1785.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 12;Decentraland;8;1920.0;;A7;Avatar, Map;"sich zu einem anderen Ort ""teleportieren"" "
+8_Video_ 12;Decentraland;8;1980.0;;A1;Avatar;durch die virtuelle Welt laufen 
+8_Video_ 12;Decentraland;8;2249.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 12;Decentraland;8;2384.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 12;Decentraland;8;2530.0;;A7;Avatar, Map;"sich zu einem anderen Ort ""teleportieren"" "
+8_Video_ 12;Decentraland;8;2600.0;;A1;Avatar;durch die virtuelle Welt laufen 
+8_Video_ 12;Decentraland;8;2775.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 12;Decentraland;8;2845.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 12;Decentraland;8;2960.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 12;Decentraland;8;3145.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 12;Decentraland;8;3260.0;;A7;Avatar, Map;"sich zu einem anderen Ort ""teleportieren"" "
+8_Video_ 12;Decentraland;8;3940.0;;A7;Avatar, Map;"sich zu einem anderen Ort ""teleportieren"" "
+8_Video_ 13;Decentraland;8;40.0;;A6;Bild, Axies;Axies kommandieren
+8_Video_ 13;Decentraland;8;40.0;;A1;Avatar;durch die virtuelle Welt laufen 
+8_Video_ 13;Decentraland;8;157.0;;A6;Bild, Axies;Axies kommandieren
+8_Video_ 13;Decentraland;8;148.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 13;Decentraland;8;341.0;;A6;Bild, Axies;Axies kommandieren
+8_Video_ 13;Decentraland;8;400.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 13;Decentraland;8;519.0;;A3;Avatar, Gebäude;ein Gebäude betreten 
+8_Video_ 13;Decentraland;8;629.0;;A5;Avatar, NPC;NPC weil ich keine Spieler gefunden habe
+8_Video_ 13;Decentraland;8;629.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 13;Decentraland;8;1224.0;;A3;Avatar, Gebäude;ein Gebäude betreten 
+8_Video_ 13;Decentraland;8;1240.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 13;Decentraland;8;1292.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 13;Decentraland;8;1369.0;;A3;Avatar, Gebäude;ein Gebäude betreten 
+8_Video_ 13;Decentraland;8;1470.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 13;Decentraland;8;1525.0;;A3;Avatar, Gebäude;ein Gebäude betreten 
+8_Video_ 13;Decentraland;8;1560.0;;A3;Avatar, Gebäude;ein Gebäude betreten 
+8_Video_ 13;Decentraland;8;1755.0;;A3;Avatar, Gebäude;ein Gebäude betreten 
+8_Video_ 13;Decentraland;8;1900.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 13;Decentraland;8;2006.0;;A3;Avatar, Gebäude;ein Gebäude betreten 
+8_Video_ 13;Decentraland;8;2040.0;;A3;Avatar, Gebäude;ein Gebäude betreten 
+8_Video_ 13;Decentraland;8;2180.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 13;Decentraland;8;2275.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 13;Decentraland;8;2370.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 13;Decentraland;8;2450.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 13;Decentraland;8;2480.0;;A3;Avatar, Gebäude;ein Gebäude betreten 
+8_Video_ 13;Decentraland;8;2845.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 13;Decentraland;8;3038.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 13;Decentraland;8;3095.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 13;Decentraland;8;3345.0;;A3;Avatar, Gebäude;ein Gebäude betreten 
+8_Video_ 13;Decentraland;8;3404.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 13;Decentraland;8;3660.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 14;Decentraland;8;45.0;;A1;Avatar;durch die virtuelle Welt laufen 
+8_Video_ 14;Decentraland;8;99.0;;A6;Avatar, Parcel;RPG Spiel wird gestartet
+8_Video_ 14;Decentraland;8;215.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 14;Decentraland;8;256.0;;A6;Avatar, Menü;Interaktion mit dem RPG Menü
+8_Video_ 14;Decentraland;8;820.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 14;Decentraland;8;840.0;;A5;Avatar, NPC;NPC weil ich keine Spieler gefunden habe
+8_Video_ 14;Decentraland;8;1260.0;;A6;Avatar, Menü;Interaktion mit dem RPG Menü
+8_Video_ 14;Decentraland;8;1519.0;;A2;Avatar, Wand;gegen Wand gelaufen
+8_Video_ 14;Decentraland;8;1519.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 14;Decentraland;8;1550.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 14;Decentraland;8;1614.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 14;Decentraland;8;1620.0;;A5;Avatar, NPC;NPC weil ich keine Spieler gefunden habe
+8_Video_ 14;Decentraland;8;1990.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 14;Decentraland;8;2119.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 14;Decentraland;8;2140.0;;A5;Avatar, NPC;NPC weil ich keine Spieler gefunden habe
+8_Video_ 14;Decentraland;8;2675.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 14;Decentraland;8;2821.0;;A5;Avatar, NPC;NPC weil ich keine Spieler gefunden habe
+8_Video_ 14;Decentraland;8;3410.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 14;Decentraland;8;3430.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 14;Decentraland;8;3500.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 14;Decentraland;8;3630.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 15;Decentraland;8;120.0;;A4;Avatar;Emote: Wave
+8_Video_ 15;Decentraland;8;221.0;;A4;Avatar;Emote: Wave
+8_Video_ 15;Decentraland;8;347.0;;A4;Avatar;Emote: Wave
+8_Video_ 15;Decentraland;8;520.0;;A4;Avatar;Emote: Fist Pump
+8_Video_ 15;Decentraland;8;620.0;;A4;Avatar;Emote: Wave
+8_Video_ 15;Decentraland;8;730.0;;A4;Avatar;Emote: Wave
+8_Video_ 15;Decentraland;8;860.0;;A4;Avatar;Emote: Wave
+8_Video_ 15;Decentraland;8;1010.0;;A4;Avatar;Emote: Wave
+8_Video_ 15;Decentraland;8;1160.0;;A4;Avatar;Emote: Wave
+8_Video_ 15;Decentraland;8;1285.0;;A4;Avatar;Emote: Wave
+8_Video_ 15;Decentraland;8;1479.0;;A4;Avatar;Emote: Raise Hand
+8_Video_ 15;Decentraland;8;1680.0;;A4;Avatar;Emote: Hands Air
+8_Video_ 15;Decentraland;8;2727.0;;A4;Avatar;Emote: Clap
+8_Video_ 15;Decentraland;8;3036.0;;A4;Avatar;Emote: Hands Air
+8_Video_ 15;Decentraland;8;3210.0;;A4;Avatar;Emote: Wave
+8_Video_ 15;Decentraland;8;3380.0;;A4;Avatar;Emote: Wave
+8_Video_ 15;Decentraland;8;3500.0;;A4;Avatar;Emote: Wave
+8_Video_ 15;Decentraland;8;3613.0;;A4;Avatar;Emote: Wave
+8_Video_ 16;Decentraland;8;28.0;;A1;Avatar;durch die virtuelle Welt laufen 
+8_Video_ 16;Decentraland;8;164.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 16;Decentraland;8;410.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 16;Decentraland;8;740.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 16;Decentraland;8;900.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 16;Decentraland;8;910.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 16;Decentraland;8;940.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 16;Decentraland;8;980.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 16;Decentraland;8;1220.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 16;Decentraland;8;1460.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 16;Decentraland;8;1550.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 16;Decentraland;8;1760.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 16;Decentraland;8;2080.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 16;Decentraland;8;2100.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 16;Decentraland;8;2485.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 16;Decentraland;8;2520.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 16;Decentraland;8;2620.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 16;Decentraland;8;2870.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 16;Decentraland;8;3020.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 16;Decentraland;8;3307.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 16;Decentraland;8;3450.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 16;Decentraland;8;3600.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 17;Decentraland;8;60.0;;A1;Avatar;durch die virtuelle Welt laufen 
+8_Video_ 17;Decentraland;8;115.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 17;Decentraland;8;160.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 17;Decentraland;8;360.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 17;Decentraland;8;367.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 17;Decentraland;8;800.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 17;Decentraland;8;930.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 17;Decentraland;8;1030.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 17;Decentraland;8;1095.0;;A3;Avatar, Gebäude;ein Gebäude betreten 
+8_Video_ 17;Decentraland;8;1035.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 17;Decentraland;8;1165.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 17;Decentraland;8;1370.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 17;Decentraland;8;1426.0;;A2;Avatar, Wand;gegen Wand gelaufen
+8_Video_ 17;Decentraland;8;1490.0;;A2;Avatar, Wand;gegen Wand gelaufen
+8_Video_ 17;Decentraland;8;1490.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 17;Decentraland;8;1495.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 17;Decentraland;8;1560.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 17;Decentraland;8;1600.0;;A2;Avatar, Wand;gegen Wand gelaufen
+8_Video_ 17;Decentraland;8;1600.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 17;Decentraland;8;1610.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 17;Decentraland;8;1776.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 17;Decentraland;8;1964.0;;A3;Avatar, Gebäude;ein Gebäude betreten 
+8_Video_ 17;Decentraland;8;2015.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 17;Decentraland;8;2050.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 17;Decentraland;8;2320.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 17;Decentraland;8;2528.0;;A2;Avatar, Wand;gegen Wand gelaufen
+8_Video_ 17;Decentraland;8;2528.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 17;Decentraland;8;2695.0;;A7;Avatar, Map;"sich zu einem anderen Ort ""teleportieren"" "
+8_Video_ 17;Decentraland;8;2790.0;;A1;Avatar;durch die virtuelle Welt laufen 
+8_Video_ 17;Decentraland;8;2792.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 17;Decentraland;8;2910.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 17;Decentraland;8;3245.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 17;Decentraland;8;3607.0;;A3;Avatar, Gebäude;ein Gebäude betreten 
+8_Video_ 17;Decentraland;8;3660.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 17;Decentraland;8;3670.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 17;Decentraland;8;3680.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 17;Decentraland;8;3955.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 17;Decentraland;8;4020.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 17;Decentraland;8;4060.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 17;Decentraland;8;4299.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 17;Decentraland;8;4580.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 18;Decentraland;8;30.0;;A1;Avatar;durch die virtuelle Welt laufen 
+8_Video_ 18;Decentraland;8;474.0;;A2;Avatar, Parkbank;gegen Parkbank gelaufen
+8_Video_ 18;Decentraland;8;474.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 18;Decentraland;8;507.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 18;Decentraland;8;658.0;;A2;Avatar, Parkbank;gegen Parkbank gelaufen
+8_Video_ 18;Decentraland;8;658.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 18;Decentraland;8;690.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 18;Decentraland;8;911.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 18;Decentraland;8;1136.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 18;Decentraland;8;1180.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 18;Decentraland;8;1655.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 18;Decentraland;8;1710.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 18;Decentraland;8;1830.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 19;Decentraland;8;36.0;;A1;Avatar;durch die virtuelle Welt laufen 
+8_Video_ 19;Decentraland;8;86.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 19;Decentraland;8;220.0;;A7;Avatar, Map;"sich zu einem anderen Ort ""teleportieren"" "
+8_Video_ 19;Decentraland;8;420.0;;A7;Avatar, Map;"sich zu einem anderen Ort ""teleportieren"" "
+8_Video_ 19;Decentraland;8;660.0;;A7;Avatar, Map;"sich zu einem anderen Ort ""teleportieren"" "
+8_Video_ 19;Decentraland;8;770.0;;A1;Avatar;durch die virtuelle Welt laufen 
+8_Video_ 19;Decentraland;8;1217.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 19;Decentraland;8;1400.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 19;Decentraland;8;1470.0;;A8;Avatar;die Richtung wechseln 
+8_Video_ 19;Decentraland;8;1734.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 19;Decentraland;8;1993.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 19;Decentraland;8;2185.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 19;Decentraland;8;2350.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 19;Decentraland;8;2700.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 19;Decentraland;8;2929.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 19;Decentraland;8;3214.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 19;Decentraland;8;3224.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 19;Decentraland;8;3600.0;;A9;Avatar;stehen bleiben und weiter laufen 
+8_Video_ 20;Decentraland;8;120.0;;A4;Avatar;Emote: Wave
+8_Video_ 20;Decentraland;8;210.0;;A4;Avatar;Emote: Wave
+8_Video_ 20;Decentraland;8;310.0;;A4;Avatar;Emote: Wave
+8_Video_ 20;Decentraland;8;420.0;;A4;Avatar;Emote: Wave
+8_Video_ 20;Decentraland;8;530.0;;A4;Avatar;Emote: Wave
+8_Video_ 20;Decentraland;8;670.0;;A4;Avatar;Emote: Wave
+8_Video_ 20;Decentraland;8;800.0;;A4;Avatar;Emote: Wave
+8_Video_ 20;Decentraland;8;925.0;;A4;Avatar;Emote: Wave
+8_Video_ 20;Decentraland;8;1079.0;;A4;Avatar;Emote: Wave
+8_Video_ 20;Decentraland;8;1210.0;;A4;Avatar;Emote: Hands Air
