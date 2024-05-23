@@ -1,0 +1,190 @@
+Video;Editor;Scenestart (HH:MM:SS);Sceneend (HH:MM:SS);Eventtype;Additional Information
+5_TS_1;15;00:00:00;00:02:10;locationstay;walking,meadow
+5_TS_1;15;00:00:09;00:00:17;interaction;entering,lava,swimming
+5_TS_1;15;00:00:18;00:00:30;interaction;entering,water,swimming
+5_TS_1;15;00:00:36;00:00:38;interaction;walking,jumping,wall,stopping
+5_TS_1;15;00:00:41;00:00:43;interaction;walking,stone
+5_TS_1;15;00:00:44;00:00:49;interaction;walking,jumping,car,stopping
+5_TS_1;15;00:00:57;00:00:59;interaction;moving
+5_TS_1;15;00:01:39;00:01:47;locationstay;walking,jumping
+5_TS_1;15;00:01:48;00:01:51;locationstay;jumping
+5_TS_1;15;00:01:52;00:02:03;locationstay;jumping
+5_TS_2;15;00:00:00;00:02:44;locationstay;walking,meadow
+5_TS_2;15;00:00:07;00:00:09;interaction;walking,bicycle
+5_TS_2;15;00:00:31;00:00:32;interaction;moving
+5_TS_2;15;00:00:41;00:00:42;interaction;choping
+5_TS_2;15;00:00:49;00:00:51;locationstay;stone
+5_TS_2;15;00:00:51;00:00:55;locationstay;car
+5_TS_2;15;00:01:03;00:01:20;interaction;fighting
+5_TS_2;15;00:01:25;00:01:30;interaction;hiting
+5_TS_2;15;00:01:38;00:01:44;interaction;walking,bus
+5_TS_2;15;00:01:57;00:02:03;locationstay;tower
+5_TS_2;15;00:02:09;00:02:14;interaction;hiting
+5_TS_2;15;00:02:23;00:02:37;interaction;running,monster
+5_TS_2;15;00:02:38;00:02:44;interaction;fighting,killing,monster
+5_TS_3;15;00:00:00;00:01:51;locationstay;shopping street
+5_TS_3;15;00:00:07;00:00:16;dialog;talking,avatar
+5_TS_3;15;00:00:28;00:00:47;interaction;killing,warriors
+5_TS_3;15;00:00:48;00:00:49;interaction;opening,door
+5_TS_3;15;00:00:57;00:00:59;dialog;beggar
+5_TS_3;15;00:01:27;00:01:49;interaction;killing,warriors
+5_TS_3;15;00:01:50;00:01:51;interaction;collecting,drops
+5_TS_4;15;00:00:00;00:01:51;locationstay;meadow
+5_TS_4;15;00:00:40;00:00:41;interaction;hiting,wolf
+5_TS_4;15;00:00:42;00:00:46;locationstay;stone
+5_TS_4;15;00:00:47;00:00:50;interaction;entering,lava,swimming
+5_TS_4;15;00:00:54;00:01:16;interaction;entering,lava,swimming
+5_TS_4;15;00:01:46;00:01:51;interaction;entering,lava,swimming
+5_TS_5;15;00:00:00;00:02:12;locationstay;fantasy,land
+5_TS_5;15;00:00:18;00:00:22;teleport;teleporting,back
+5_TS_5;15;00:00:23;00:00:32;locationstay;fantasy,land
+5_TS_5;15;00:00:33;00:00:34;interaction;opening door
+5_TS_5;15;00:00:35;00:01:04;locationstay;alien mall
+5_TS_5;15;00:01:04;00:01:15;dialog;info
+5_TS_5;15;00:01:15;00:01:24;locationstay;alien mall
+5_TS_5;15;00:01:25;00:01:35;locationstay;fantasy land
+5_TS_5;15;00:01:36;00:02:12;interaction;swimming,walking,water
+5_TS_6;15;00:00:00;00:01:58;location stay;white,track
+5_TS_6;15;00:00:26;00:00:32;location stay;fire
+5_TS_6;15;00:00:37;00:00:38;interaction;jumping,falling
+5_TS_6;15;00:00:57;00:00:59;interaction;diving
+5_TS_6;15;00:01:00;00:01:01;teleport;teleporting
+5_TS_6;15;00:01:58;00:02:14;location stay;room with wizard
+5_TS_7;15;00:00:00;00:02:32;location stay;cave
+5_TS_7;15;00:00:17;00:00:28;dialog;talking,avatar
+5_TS_7;15;00:00:28;00:00:29;interaction;collecting,pickaxe
+5_TS_7;15;00:00:30;00:00:41;location stay;cave
+5_TS_7;15;00:00:42;00:00:55;mainmanu;checking,inventory
+5_TS_7;15;00:00:56;00:01:32;location stay;cave
+5_TS_7;15;00:01:33;00:01:37;mainmenu;equiping,pickaxe
+5_TS_7;15;00:01:51;00:01:53;mainmenu;eqiup,backpack
+5_TS_7;15;00:02:15;00:02:21;interaction;using,pickaxe
+5_TS_7;15;00:02:33;00:02:34;teleport;teleport,Icefall
+5_TS_7;15;00:02:35;00:02:43;location stay;Icefall
+5_TS_7;15;00:00:00;00:02:33;interaction;constant loss of life
+5_TS_8;15;00:00:00;00:00:17;location stay;castle
+5_TS_8;15;00:00:18;00:00:19;interaction;opening,door
+5_TS_8;15;00:00:20;00:01:38;location stay;castle
+5_TS_8;15;00:01:38;00:01:43;dialog;creator,info
+5_TS_8;15;00:01:44;00:02:01;location stay;castle
+5_TS_8;15;00:02:02;00:02:07;interaction;picking,word
+5_TS_8;15;00:02:08;00:02:19;mainmenu;uncertainty
+5_TS_9;15;00:00:00;00:00:14;location stay;maedow
+5_TS_9;15;00:00:15;00:00:29;interaction;entering,water,swimming
+5_TS_9;15;00:00:30;00:00:54;location stay;maedow
+5_TS_9;15;00:00:55;00:01:16;location stay;village
+5_TS_9;15;00:01:17;00:01:18;location stay;maedow
+5_TS_9;15;00:01:19;00:01:20;interaction;running
+5_TS_9;15;00:01:21;00:01:23;location stay;maedow
+5_TS_9;15;00:01:24;00:01:25;interaction;running
+5_TS_9;15;00:01:25;00:01:27;interaction;running,npc
+5_TS_9;15;00:01:28;00:01:35;location stay;maedow
+5_TS_9;15;00:01:36;00:01:40;interaction;running
+5_TS_9;15;00:01:41;00:01:43;location stay;village
+5_TS_9;15;00:01:44;00:01:45;teleport;teleporting,maedow
+5_TS_9;15;00:01:46;00:01:54;location stay;maedow
+5_TS_9;15;00:01:55;00:02:20;location stay;village
+5_TS_10;15;00:00:00;00:00:11;location stay;control,area
+5_TS_10;15;00:00:12;00:00:22;dialog;system,info
+5_TS_10;15;00:00:23;00:00:34;location stay;control,area
+5_TS_10;15;00:00:35;00:00:41;dialog;system,info
+5_TS_10;15;00:00:42;00:00:45;location stay;control area
+5_TS_10;15;00:00:46;00:00:50;interaction;hitting,control,panel
+5_TS_10;15;00:00:51;00:01:06;location stay;control,area
+5_TS_10;15;00:01:06;00:01:07;interaction;hiting
+5_TS_10;15;00:01:08;00:01:09;interaction;opening,door
+5_TS_10;15;00:01:10;00:01:14;location stay;elevator
+5_TS_10;15;00:01:15;00:01:24;location stay;first,floor
+5_TS_10;15;00:01:24;00:01:30;dialog;talking,avatar
+5_TS_10;15;00:01:31;00:01:36;location stay;first,floor
+5_TS_10;15;00:01:37;00:01:39;location stay;conference,room
+5_TS_10;15;00:01:40;00:01:56;dialog;talking,avatar
+5_TS_10;15;00:01:57;00:02:04;location stay;conference,room
+5_TS_10;15;00:02:05;00:02:07;location stay;first,floor
+5_TS_10;15;00:02:08;00:02:09;location stay;elevator
+5_TS_10;15;00:02:10;00:02:16;location stay;control,area
+5_TS_10;15;00:02:17;00:02:22;dialog;talking,avatar
+5_TS_10;15;00:02:23;00:02:25;location stay;control,area
+5_TS_10;15;00:02:26;00:02:45;teleport;time,capsule
+5_TS_11;15;00:00:00;00:00:16;location stay;white,platform
+5_TS_11;15;00:00:17;00:00:19;interaction;running
+5_TS_11;15;00:00:20;00:00:26;location stay;white,platform
+5_TS_11;15;00:00:27;00:01:49;location stay;landscape
+5_TS_11;15;00:00:48;00:01:05;interaction;fighting
+5_TS_11;15;00:01:17;00:01:18;interaction;hiting
+5_TS_11;15;00:01:27;00:01:32;interaction;walking,water
+5_TS_11;15;00:01:34;00:01:38;interaction;fighting,pig
+5_TS_11;15;00:01:39;00:01:40;teleport;teleporting,landscape
+5_TS_12;15;00:00:00;00:00:50;location stay;landscape
+5_TS_12;15;00:00:07;00:00:08;interaction;hiting
+5_TS_12;15;00:00:09;00:00:10;interaction;hiting,avatar
+5_TS_12;15;00:00:12;00:00:20;interaction;walking,water
+5_TS_12;15;00:00:36;00:00:50;interaction;diving
+5_TS_12;15;00:00:51;00:00:52;mainmenu;restarting
+5_TS_12;15;00:00:52;00:00:55;loadingscreen;reloading
+5_TS_12;15;00:00:55;00:02:39;location stay;landscape
+5_TS_12;15;00:01:01;00:01:02;interaction;walking,water
+5_TS_12;15;00:01:08;00:01:09;interaction;moving
+5_TS_12;15;00:01:18;00:01:20;interaction;killing,monkey
+5_TS_12;15;00:02:20;00:02:25;interaction;hiting
+5_TS_13;15;00:00:00;00:02:14;location stay;zombie,town
+5_TS_13;15;00:00:18;00:00:20;interaction;fighting,zombie
+5_TS_13;15;00:00:24;00:00:28;interaction;escaping,zombies
+5_TS_13;15;00:00:40;00:00:45;interaction;fighting,zombie,dogs
+5_TS_13;15;00:01:01;00:01:09;interaction;fighting,zombie
+5_TS_13;15;00:01:10;00:01:12;interaction;running,gas,pump
+5_TS_13;15;00:01:13;00:01:14;interaction;running,rock
+5_TS_13;15;00:01:19;00:01:20;interaction;teleport,car
+5_TS_13;15;00:01:22;00:01:32;interaction;fleeing,hunter
+5_TS_13;15;00:01:32;00:01:42;interaction;fighting,killing,officer
+5_TS_14;15;00:00:00;00:01:25;location stay;djungle
+5_TS_14;15;00:01:25;00:01:26;teleport;shuttle
+5_TS_14;15;00:01:27;00:02:07;location stay;shuttle
+5_TS_14;15;00:02:07;00:02:08;teleport;djungle
+5_TS_15;15;00:00:00;00:03:01;location stay;open,space
+5_TS_15;15;00:00:18;00:00:21;interaction;waving
+5_TS_15;15;00:00:27;00:00:30;interaction;agreeing
+5_TS_15;15;00:00:32;00:00:50;interaction;dancing
+5_TS_15;15;00:00:52;00:00:55;interaction;waving
+5_TS_15;15;00:01:04;00:01:07;interaction;running,wall
+5_TS_15;15;00:01:46;00:02:02;interaction;climbing
+5_TS_15;15;00:02:20;00:02:21;interaction;collecting,coin
+5_TS_15;15;00:02:40;00:02:41;interaction;collecting,coin
+5_TS_15;15;00:02:44;00:02:45;interaction;collectingcoin
+5_TS_16;15;00:00:00;00:02:34;location stay;everest,camp
+5_TS_16;15;00:00:05;00:00:08;interaction;waving
+5_TS_16;15;00:00:11;00:00:30;dialog;talking,avatar
+5_TS_16;15;00:01:09;00:01:29;dialog;talking,avatar
+5_TS_17;15;00:00:00;00:02:05;location stay;village
+5_TS_17;15;00:00:11;00:00:15;dialog;talking,avatar
+5_TS_17;15;00:00:29;00:00:30;interaction;collecting,item
+5_TS_17;15;00:00:37;00:00:39;interaction;entering water,walking
+5_TS_17;15;00:00:43;00:00:44;interaction;collecting,item
+5_TS_17;15;00:00:52;00:00:45;interaction;waving
+5_TS_17;15;00:01:06;00:01:09;dialog;talking,avatar
+5_TS_17;15;00:01:34;00:01:36;dialog;talking,avatar
+5_TS_17;15;00:01:57;00:01:59;dialog;talking,avatar
+5_TS_18;15;00:00:00;00:01:51;location stay;fortress
+5_TS_18;15;00:00:03;00:00:04;interaction;exploding,fragment
+5_TS_18;15;00:00:06;00:00:09;interaction;waving
+5_TS_18;15;00:00:13;00:00:24;dialog;talking,centipede
+5_TS_18;15;00:00:52;00:00:53;interaction;exploding,fragment
+5_TS_18;15;00:00:55;00:00:57;dialog;talking,centipede
+5_TS_19;15;00:00:00;00:02:08;location stay;Hong,Kong
+5_TS_19;15;00:00:09;00:00:10;teleport;first,floor
+5_TS_19;15;00:00:23;00:00:40;dialog;talking,advisor
+5_TS_19;15;00:01:04;00:01:05;teleport;second,floor
+5_TS_19;15;00:01:11;00:01:17;dialog;talking,advocator
+5_TS_19;15;00:01:34;00:01:36;dialog;reading,sign
+5_TS_19;15;00:01:42;00:01:59;dialog;talking,crypto native
+5_TS_19;15;00:02:02;00:02:05;interaction;waving
+5_TS_20;15;00:00:00;00:02:14;location stay;silk,road
+5_TS_20;15;00:00:14;00:00:17;interaction;waving
+5_TS_20;15;00:00:19;00:00:25;interaction;hitting,horse
+5_TS_20;15;00:00:32;00:00:52;interaction;dying
+5_TS_20;15;00:00:53;00:00:54;teleport;spawn,point
+5_TS_20;15;00:01:12;00:01:13;interaction;fighting,soldier
+5_TS_20;15;00:01:28;00:01:34;interaction;fighting,killing,wasp
+5_TS_20;15;00:01:40;00:01:43;interaction;waving
+5_TS_20;15;00:02:01;00:02:02;interaction;collecting,coin
+5_TS_20;15;00:02:07;00:02:10;interaction;fighting,killing,gibbon

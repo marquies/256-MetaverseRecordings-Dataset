@@ -1,0 +1,240 @@
+Video;Editor;Scenestart (HH:MM:SS);Sceneend (HH:MM:SS);Eventtype;Additional Information
+13_Video_01;23;00:00:00;00:00:08;mainmenu;starting game
+13_Video_01;23;00:00:09;00:01:01;loadingscreen;loading game
+13_Video_01;23;00:01:02;00:02:05;mainmenu;reading,scrolling
+13_Video_01;23;00:02:06;00:03:53;loadingscreen;loading game
+13_Video_01;23;00:03:54;00:04:37;locationstay;understand control, joining game
+13_Video_01;23;00:04:38;00:10:49;interaction;playing game
+13_Video_01;23;00:10:50;00:10:51;teleport;teleport,post game lobby
+13_Video_01;23;00:10:52;00:11:41;locationstay;post game lobby
+13_Video_01;23;00:11:42;00:21:43;interaction;playing game
+13_Video_01;23;00:21:44;00:21:45;teleport;teleport,post game lobby
+13_Video_01;23;00:21:45;00:21:57;locationstay;post game lobby
+13_Video_01;23;00:21:58;00:22:06;mainmenu;closing game
+13_Video_02;23;00:00:00;00:00:16;mainmenu;scrolling, reading
+13_Video_02;23;00:00:17;00:00:26;interaction;moving around
+13_Video_02;23;00:00:27;00:00:36;dialog;listening
+13_Video_02;23;00:00:37;00:01:24;interaction;moving around
+13_Video_02;23;00:01:25;00:01:27;interaction;starting game
+13_Video_02;23;00:01:28;00:01:40;loadingscreen;loading game
+13_Video_02;23;00:01:41;00:02:26;interaction;moving around
+13_Video_02;23;00:02:27;00:02:45;interaction;using switch
+13_Video_02;23;00:02:46;00:02:51;interaction;moving around
+13_Video_02;23;00:02:52;00:03:23;interaction;grabbing items
+13_Video_02;23;00:03:24;00:04:00;interaction;moving around
+13_Video_02;23;00:04:01;00:04:03;interaction;leaving game
+13_Video_02;23;00:04:04;00:04:22;loadingscreen;loading
+13_Video_02;23;00:04:23;00:04:48;interaction;moving around
+13_Video_02;23;00:04:49;00:05:19;interaction;examine switch
+13_Video_02;23;00:05:20;00:05:29;interaction;moving around
+13_Video_02;23;00:05:30;00:05:46;interaction;grabbing popcorn
+13_Video_02;23;00:05:47;00:06:51;dialog;greeting,talking
+13_Video_02;23;00:06:52;00:07:08;interaction;taking photo
+13_Video_02;23;00:07:09;00:07:25;locationstay;standing
+13_Video_02;23;00:07:26;00:07:30;mainmenu;stop recording
+13_Video_03;23;00:00:00;00:00:04;mainmenu;start recording
+13_Video_03;23;00:00:05;00:00:38;locationstay;standing
+13_Video_03;23;00:00:39;00:01:00;mainmenu;settings
+13_Video_03;23;00:01:01;00:01:32;interaction;using emotes
+13_Video_03;23;00:01:33;00:02:40;interaction;jumping
+13_Video_03;23;00:02:41;00:02:47;interaction;moving around
+13_Video_03;23;00:02:48;00:03:20;interaction;grabbing headphones
+13_Video_03;23;00:03:21;00:03:38;interaction;moving around
+13_Video_03;23;00:03:38;00:04:57;interaction;clicking buttons,jumping
+13_Video_04;23;00:04:58;00:04:59;mainmenu;stop recording
+13_Video_04;23;00:00:00;00:00:20;mainmenu;start application
+13_Video_04;23;00:00:21;00:02:02;loadingscreen;loading application
+13_Video_04;23;00:02:03;00:02:34;locationstay;looking
+13_Video_04;23;00:02:35;00:03:25;interaction;painting,items
+13_Video_04;23;00:03:26;00:03:45;interaction;moving around
+13_Video_04;23;00:03:46;00:04:14;loadingscreen;loading application
+13_Video_04;23;00:04:15;00:05:30;locationstay;inspecting area
+13_Video_04;23;00:05:31;00:05:48;interaction;settings
+13_Video_04;23;00:05:49;00:08:33;interaction;moving around
+13_Video_04;23;00:08:34;00:09:12;loadingscreen;loading application
+13_Video_04;23;00:09:13;00:09:47;interaction;moving around
+13_Video_04;23;00:09:48;00:09:57;interaction;settings
+13_Video_04;23;00:09:58;00:10:26;interaction;moving around
+13_Video_04;23;00:10:27;00:10:42;dialog;talking
+13_Video_04;23;00:10:43;00:12:46;interaction;playing game
+13_Video_04;23;00:12:47;00:13:05;dialog;talking
+13_Video_04;23;00:13:06;00:17:50;interaction;playing game
+13_Video_04;23;00:17:51;00:18:10;dialog;talking
+13_Video_04;23;00:18:10;00:20:04;interaction;playing game
+13_Video_04;23;00:20:05;00:20:22;dialog;talking
+13_Video_04;23;00:20:23;00:23:04;interaction;playing game
+13_Video_04;23;00:23:05;00:23:44;dialog;talking
+13_Video_04;23;00:23:45;00:25:10;mainmenu;settings,emotes
+13_Video_04;23;00:25:11;00:25:52;dialog;talking
+13_Video_04;23;00:25:53;00:28:28;interaction;playing game
+13_Video_04;23;00:28:29;00:28:57;dialog;talking
+13_Video_04;23;00:28:58;00:29:50;interaction;moving around
+13_Video_04;23;00:29:51;00:31:17;mainmenu;settings, closing application
+13_Video_05;23;00:00:00;00:00:30;mainmenu;start application
+13_Video_05;23;00:00:31;00:00:53;loadingscreen;loading application
+13_Video_05;23;00:00:54;00:01:32;mainmenu;claim reward, reading
+13_Video_05;23;00:01:33;00:01:56;loadingscreen;loading application
+13_Video_05;23;00:01:57;00:02:08;mainmenu;reading
+13_Video_05;23;00:02:09;00:02:55;interaction;moving around,grabbing items
+13_Video_05;23;00:02:56;00:03:25;dialog;talking
+13_Video_05;23;00:03:26;00:07:04;interaction;cooking,cutting,stiring
+13_Video_05;23;00:07:05;00:07:31;interaction;moving around,grabbing items
+13_Video_05;23;00:07:32;00:07:56;interaction;cooking
+13_Video_05;23;00:07:57;00:08:00;dialog;talking
+13_Video_05;23;00:08:01;00:09:02;interaction;moving around
+13_Video_05;23;00:09:03;00:09:17;mainmenu;closing application
+13_Video_05;23;00:09:18;00:09:35;loadingscreen;loading
+13_Video_05;23;00:09:36;00:10:08;interaction;moving around
+13_Video_05;23;00:10:09;00:10:22;interaction;shooting
+13_Video_05;23;00:10:23;00:10:26;mainmenu;stop recording
+13_Video_06;23;00:00:00;00:00:32;mainmenu;start application
+13_Video_06;23;00:00:33;00:00:53;loadingscreen;loading
+13_Video_06;23;00:00:54;00:01:23;interaction;moving around
+13_Video_06;23;00:01:24;00:03:22;interaction;moving around,jumping,grabbing items
+13_Video_06;23;00:03:23;00:05:42;interaction;taking photos,moving,jumping
+13_Video_06;23;00:05:43;00:05:46;interaction;leaderboard
+13_Video_06;23;00:05:47;00:06:55;interaction;feeding game
+13_Video_06;23;00:06:56;00:07:33;interaction;moving around,grabbing items
+13_Video_06;23;00:07:34;00:07:50;interaction;leaderboard
+13_Video_06;23;00:07:51;00:08:42;interaction;moving around,jumping
+13_Video_07;23;00:08:43;00:08:45;mainmenu;stop recording
+13_Video_07;23;00:00:00;00:00:17;mainmenu;start application
+13_Video_07;23;00:00:18;00:00:36;loadingscreen;loading
+13_Video_07;23;00:00:37;00:01:03;locationstay;looking
+13_Video_07;23;00:01:04;00:02:23;interaction;investigate area
+13_Video_07;23;00:02:24;00:02:27;interaction;grabbing micro
+13_Video_07;23;00:02:28;00:03:28;locationstay;looking
+13_Video_07;23;00:03:29;00:03:33;interaction;using button
+13_Video_07;23;00:03:34;00:04:49;interaction;investigate area
+13_Video_07;23;00:04:49;00:04:51;mainmenu;stop recording
+13_Video_08;23;00:00:00;00:01:13;interaction;investigate area
+13_Video_08;23;00:01:14;00:01:40;interaction;using lift buttons
+13_Video_08;23;00:01:41;00:02:20;interaction;investigate area
+13_Video_08;23;00:02:21;00:02:33;loadingscreen;loading
+13_Video_08;23;00:02:34;00:03:30;interaction;moving around,grab items
+13_Video_08;23;00:03:31;00:03:46;loadingscreen;loading
+13_Video_08;23;00:03:47;00:05:05;interaction;investigate area
+13_Video_08;23;00:05:06;00:05:14;dialog;talking
+13_Video_08;23;00:05:15;00:05:51;interaction;emotes
+13_Video_08;23;00:05:52;00:05:57;mainmenu;back home
+13_Video_08;23;00:05:58;00:06:15;loadingscreen;loading
+13_Video_08;23;00:06:16;00:06:20;mainmenu;closing menu
+13_Video_08;23;00:06:21;00:07:05;interaction;playing game
+13_Video_08;23;00:07:06;00:07:07;mainmenu;stop recording
+13_Video_09;23;00:00:00;00:00:11;interaction;investigate area,enter world
+13_Video_09;23;00:00:12;00:00:30;loadingscreen;loading
+13_Video_09;23;00:00:31;00:02:05;interaction;moving around,grabbing items, jumping
+13_Video_09;23;00:02:06;00:02:08;locationstay;reading
+13_Video_09;23;00:02:09;00:02:43;interaction;moving around,grabbing items
+13_Video_09;23;00:02:44;00:03:02;dialog;talking
+13_Video_09;23;00:03:03;00:07:35;interaction;playing game
+13_Video_09;23;00:07:36;00:07:37;mainmenu;stop recording
+13_Video_10;23;00:00:00;00:00:03;mainmenu;start application
+13_Video_10;23;00:00:04;00:00:19;loadingscreen;loading
+13_Video_10;23;00:00:20;00:02:20;interaction;moving around
+13_Video_10;23;00:02:21;00:02:32;dialog;talking
+13_Video_10;23;00:02:33;00:03:03;interaction;moving around
+13_Video_10;23;00:03:04;00:03:54;locationstay;looking
+13_Video_10;23;00:03:55;00:05:32;interaction;moving around, jumping
+13_Video_10;23;00:05:33;00:05:35;mainmenu;stop recording
+13_Video_11;23;00:00:00;00:00:05;loadingscreen;loading
+13_Video_11;23;00:00:06;00:02:12;interaction;moving around,grabbing items
+13_Video_11;23;00:02:13;00:02:44;interaction;taking photo
+13_Video_11;23;00:02:45;00:02:46;locationstay;looking
+13_Video_11;23;00:02:47;00:03:30;interaction;investigate area
+13_Video_11;23;00:03:31;00:04:37;interaction;feeding game
+13_Video_11;23;00:04:38;00:05:45;interaction;moving around,grabbing items
+13_Video_11;23;00:05:46;00:05:51;mainmenu;stop recording
+13_Video_12;23;00:00:00;00:00:05;loadingscreen;loading
+13_Video_12;23;00:00:06;00:01:17;interaction;investigate area
+13_Video_12;23;00:01:18;00:01:21;interaction;open door
+13_Video_12;23;00:01:22;00:01:42;interaction;investigate area
+13_Video_12;23;00:01:43;00:02:04;interaction;play with jukebox
+13_Video_12;23;00:02:05;00:02:34;interaction;investigate area
+13_Video_12;23;00:02:35;00:02:56;dialog;talking
+13_Video_12;23;00:02:57;00:03:22;interaction;investigate area,grabbing items
+13_Video_12;23;00:03:23;00:03:40;interaction;getting coffee
+13_Video_12;23;00:03:41;00:04:03;interaction;cooking
+13_Video_12;23;00:04:04;00:04:15;interaction;getting soda
+13_Video_12;23;00:04:16;00:06:29;interaction;investigate area,grabbing items
+13_Video_12;23;00:06:29;00:06:32;mainmenu;stop recording
+13_Video_13;23;00:00:00;00:00:30;loadingscreen;loading
+13_Video_13;23;00:00:31;00:03:16;interaction;investigate area,grabbing items
+13_Video_13;23;00:03:17;00:06:44;interaction;fishing
+13_Video_13;23;00:06:45;00:06:48;mainmenu;stop recording
+13_Video_14;23;00:00:00;00:00:24;loadingscreen;loading
+13_Video_14;23;00:00:25;00:04:12;interaction;fishing
+13_Video_14;23;00:04:13;00:04:27;interaction;moving around
+13_Video_14;23;00:04:28;00:05:37;interaction;fishing
+13_Video_14;23;00:05:38;00:05:55;interaction;moving around
+13_Video_14;23;00:05:56;00:06:42;interaction;fishing
+13_Video_14;23;00:06:43;00:06:45;mainmenu;stop recording
+13_Video_15;23;00:00:00;00:00:16;mainmenu;selecting world
+13_Video_15;23;00:00:17;00:00:29;loadingscreen;loading
+13_Video_15;23;00:00:30;00:01:00;interaction;moving around
+13_Video_15;23;00:01:01;00:01:15;locationstay;looking
+13_Video_15;23;00:01:16;00:02:50;interaction;investigate area
+13_Video_15;23;00:02:51;00:03:03;interaction;jumping
+13_Video_15;23;00:03:04;00:03:06;interaction;waving
+13_Video_15;23;00:03:07;00:03:15;locationstay;looking
+13_Video_15;23;00:03:16;00:04:01;interaction;investigate area,grabbing items
+13_Video_15;23;00:04:02;00:04:16;interaction;jumping
+13_Video_15;23;00:04:17;00:04:55;interaction;investigate area
+13_Video_15;23;00:04:56;00:05:12;interaction;jumping
+13_Video_15;23;00:05:13;00:05:25;interaction;using buttons
+13_Video_15;23;00:05:26;00:06:35;interaction;jumping
+13_Video_15;23;00:06:36;00:06:40;mainmenu;stop recording
+13_Video_16;23;00:00:00;00:00:15;locationstay;looking
+13_Video_16;23;00:00:16;00:00:17;dialog;talking
+13_Video_16;23;00:00:18;00:00:24;interaction;jumping
+13_Video_16;23;00:00:25;00:01:45;interaction;clicking buttons
+13_Video_16;23;00:01:46;00:01:51;locationstay;looking
+13_Video_16;23;00:01:52;00:02:04;interaction;clicking buttons
+13_Video_16;23;00:02:05;00:02:10;interaction;jumping
+13_Video_16;23;00:02:11;00:02:24;interaction;investigate area
+13_Video_16;23;00:02:25;00:03:22;dialog;talking,emote
+13_Video_16;23;00:03:23;00:04:00;interaction;jumping
+13_Video_16;23;00:04:01;00:05:15;interaction;investigate area
+13_Video_16;23;00:05:16;00:05:40;interaction;grab popcorn
+13_Video_16;23;00:05:41;00:05:57;locationstay;looking
+13_Video_16;23;00:05:58;00:06:24;dialog;talking
+13_Video_16;23;00:06:25;00:06:36;interaction;investigate area
+13_Video_16;23;00:06:37;00:06:41;mainmenu;stop recording
+13_Video_17;23;00:00:00;00:00:04;mainmenu;selecting world
+13_Video_17;23;00:00:05;00:00:28;loadingscreen;loading
+13_Video_17;23;00:00:29;00:00:58;interaction;moving around
+13_Video_17;23;00:00:59;00:06:03;interaction;fishing
+13_Video_17;23;00:06:04;00:06:07;mainmenu;stop recording
+13_Video_18;23;00:00:00;00:00:06;interaction;moving around
+13_Video_18;23;00:00:07;00:00:10;interaction;waving
+13_Video_18;23;00:00:11;00:00:40;interaction;moving around
+13_Video_18;23;00:00:41;00:04:42;interaction;fishing
+13_Video_18;23;00:04:43;00:05:15;interaction;moving around
+13_Video_18;23;00:05:16;00:05:46;interaction;driving boat
+13_Video_18;23;00:05:47;00:08:02;interaction;fishing
+13_Video_18;23;00:08:03;00:08:05;mainmenu;stop recording
+13_Video_19;23;00:00:00;00:00:14;mainmenu;selecting world
+13_Video_19;23;00:00:15;00:00:24;loadingscreen;loading
+13_Video_19;23;00:00:25;00:00:52;locationstay;looking
+13_Video_19;23;00:00:53;00:02:05;interaction;investigate area,grabbing items
+13_Video_19;23;00:02:06;00:02:45;interaction;hit block
+13_Video_19;23;00:02:46;00:03:18;interaction;grab sword,slash
+13_Video_19;23;00:03:19;00:03:55;interaction;grab hammer,hit
+13_Video_19;23;00:03:56;00:04:40;interaction;grab nail and hammer,hit
+13_Video_19;23;00:04:41;00:04:51;locationstay;looking
+13_Video_19;23;00:04:52;00:05:21;interaction;play tennis
+13_Video_19;23;00:05:22;00:05:47;interaction;pull weights
+13_Video_20;23;00:05:48;00:05:50;mainmenu;stop recording
+13_Video_20;23;00:00:00;00:00:11;mainmenu;selecting world
+13_Video_20;23;00:00:12;00:00:23;loadingscreen;loading
+13_Video_20;23;00:00:24;00:00:30;locationstay;looking
+13_Video_20;23;00:00:31;00:00:37;dialog;talking
+13_Video_20;23;00:00:38;00:01:54;interaction;investigate area
+13_Video_20;23;00:01:55;00:02:39;interaction;cooking,cutting,stiring
+13_Video_20;23;00:02:40;00:02:51;dialog;talking
+13_Video_20;23;00:02:52;00:03:48;interaction;grabing items
+13_Video_20;23;00:03:49;00:04:17;locationstay;reading
+13_Video_20;23;00:04:18;00:05:41;interaction;investigate area,grabbing items
+13_Video_20;23;00:05:42;00:06:08;interaction;cooking,stiring
+13_Video_20;23;00:06:09;00:06:22;interaction;moving around
+13_Video_20;23;00:06:22;00:06:25;mainmenu;stop recording

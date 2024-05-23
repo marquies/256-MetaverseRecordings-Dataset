@@ -1,0 +1,88 @@
+Video;Editor;Scenestart (HH:MM:SS);Sceneend (HH:MM:SS);Eventtype;Additional Information
+6_Video_001;17;00:00:00;00:00:16;mainmenu;Homepage Museum
+6_Video_001;17;00:00:16;00:00:19;loadingscreen;
+6_Video_001;17;00:00:19;00:00:22;mainmenu;
+6_Video_001;17;00:00:22;00:00:40;locationstay;showroom
+6_Video_001;17;00:00:40;00:00:41;teleport;
+6_Video_001;17;00:00:41;00:00:47;locationstay;painting,flowers
+6_Video_001;17;00:00:47;00:00:49;locationstay;showroom
+6_Video_001;17;00:00:49;00:01:02;locationstay;painting,flowers
+6_Video_001;17;00:01:02;00:01:17;locationstay;showroom
+6_Video_001;17;00:01:17;00:01:21;locationstay;painting,children
+6_Video_001;17;00:01:21;00:01:23;teleport;
+6_Video_001;17;00:01:23;00:01:26;locationstay;showroom
+6_Video_001;17;00:01:26;00:01:26;teleport;
+6_Video_001;17;00:01:26;00:01:36;locationstay;showroom
+6_Video_001;17;00:01:36;00:01:37;teleport;
+6_Video_001;17;00:01:37;00:01:40;locationstay;showroom
+6_Video_001;17;00:01:40;00:01:42;teleport;
+6_Video_001;17;00:01:42;00:02:02;locationstay;painting,girl,pearl,earring
+6_Video_001;17;00:02:02;00:02:11;teleport;
+6_Video_001;17;00:02:11;00:02:36;locationstay;website
+6_Video_001;17;00:02:36;00:02:51;locationstay;website
+6_Video_002;17;00:00:00;00:00:06;mainmenu;
+6_Video_002;17;00:00:06;00:01:09;locationstay;website,bird
+6_Video_002;17;00:01:09;00:01:45;undefined;html,code
+6_Video_003;17;00:00:00;00:00:02;mainmenu;
+6_Video_003;17;00:00:02;00:00:08;locationstay;email form
+6_Video_003;17;00:00:08;00:00:35;locationstay;website
+6_Video_003;17;00:00:35;00:00:42;locationstay;showroom
+6_Video_003;17;00:00:42;00:00:44;locationstay;website
+6_Video_003;17;00:00:44;00:01:12;locationstay;showroom
+6_Video_003;17;00:01:12;00:01:14;teleport;
+6_Video_003;17;00:01:14;00:02:09;locationstay;website
+6_Video_004;17;00:00:00;00:00:09;mainmenu;Homepage Museum
+6_Video_004;17;00:00:09;00:00:59;locationstay;website
+6_Video_004;17;00:00:59;00:01:17;undefined;html,code
+6_Video_004;17;00:01:17;00:01:48;locationstay;website
+6_Video_005;17;00:00:00;00:00:07;mainmenu;Homepage Museum
+6_Video_005;17;00:00:07;00:02:03;locationstay;website
+6_Video_006;17;00:00:00;00:00:10;mainmenu;Homepage Museum
+6_Video_006;17;00:00:10;00:01:15;locationstay;website
+6_Video_007;17;00:00:00;00:00:05;mainmenu;Homepage Museum
+6_Video_007;17;00:00:05;00:00:07;teleport;
+6_Video_007;17;00:00:07;00:01:15;locationstay;showroom
+6_Video_007;17;00:01:15;00:01:21;locationstay;picture, statue
+6_Video_007;17;00:01:21;00:02:12;locationstay;showroom
+6_Video_007;17;00:02:12;00:02:17;locationstay;picture,conference
+6_Video_008;17;00:00:00;00:00:16;mainmenu;Homepage Museum
+6_Video_008;17;00:00:16;00:00:18;teleport;
+6_Video_008;17;00:00:18;00:02:00;locationstay;showroom
+6_Video_008;17;00:02:00;00:02:04;locationstay;picture, statue
+6_Video_008;17;00:02:04;00:02:14;locationstay;showroom
+6_Video_009;17;00:00:00;00:00:08;mainmenu;Homepage Museum
+6_Video_009;17;00:00:08;00:00:09;teleport;
+6_Video_009;17;00:00:09;00:00:20;locationstay;showroom
+6_Video_009;17;00:00:20;00:00:59;locationstay;website
+6_Video_010;17;00:00:00;00:00:14;locationstay;showroom
+6_Video_010;17;00:00:14;00:00:16;mainmenu;map
+6_Video_010;17;00:00:16;00:00:18;locationstay;showroom
+6_Video_010;17;00:00:18;00:00:19;mainmenu;map
+6_Video_010;17;00:00:19;00:00:23;locationstay;showroom
+6_Video_010;17;00:00:23;00:00:29;locationstay;website
+6_Video_010;17;00:00:29;00:00:44;showroom;showroom
+6_Video_011;17;00:00:00;00:00:06;mainmenu;Homepage Museum
+6_Video_011;17;00:00:06;00:00:43;locationstay;showroom
+6_Video_011;17;00:00:43;00:00:46;locationstay;audioplayer
+6_Video_011;17;00:00:46;00:01:22;locationstay;showroom
+6_Video_012;17;00:00:00;00:00:05;mainmenu;Homepage Museum
+6_Video_012;17;00:00:05;00:00:11;locationstay;website
+6_Video_012;17;00:00:11;00:00:14;teleport;
+6_Video_012;17;00:00:14;00:00:37;locationstay;website
+6_Video_012;17;00:00:37;00:00:44;undefined;html,code
+6_Video_013;17;00:00:00;00:00:05;mainmenu;Homepage Museum
+6_Video_013;17;00:00:05;00:00:06;teleport;
+6_Video_013;17;00:00:06;00:00:11;teleport;
+6_Video_013;17;00:00:11;00:00:16;mainmenu;map
+6_Video_013;17;00:00:16;00:02:07;locationstay;showroom
+6_Video_014;17;00:00:00;00:00:05;mainmenu;Homepage Museum
+6_Video_014;17;00:00:05;00:00:08;locationstay;website
+6_Video_014;17;00:00:08;00:00:21;locationstay;picture,soldier
+6_Video_014;17;00:00:21;00:00:47;locationstay;website
+6_Video_015;17;00:00:00;00:00:03;mainmenu;Homepage Museum
+6_Video_015;17;00:00:03;00:00:43;locationstay;website
+6_Video_015;17;00:00:43;00:01:29;undefined;html,code
+6_Video_016;17;00:00:00;00:00:15;mainmenu;Homepage Museum
+6_Video_016;17;00:00:15;00:00:33;locationstay;showroom
+6_Video_016;17;00:00:33;00:00:36;locationstay;picture,woman,back
+6_Video_016;17;00:00:36;00:00:54;undefined;html,code

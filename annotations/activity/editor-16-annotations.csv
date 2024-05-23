@@ -1,0 +1,307 @@
+Video;Editor;Scenestart (HH:MM:SS);Sceneend (HH:MM:SS);Eventtype;Additional Information
+11_Video_1;16;00:00:00;00:00:02;locationstay;front yard,walking
+11_Video_1;16;00:00:02;00:00:05;interaction;open,door
+11_Video_1;16;00:00:05;00:00:07;locationstay;meadow,trees,walking
+11_Video_1;16;00:00:07;00:00:08;locationstay;front yard,walking
+11_Video_1;16;00:00:08;00:00:09;interaction;open,door
+11_Video_1;16;00:00:09;00:00:10;interaction;close,door
+11_Video_1;16;00:00:10;00:00:12;locationstay;workshop,walking
+11_Video_1;16;00:00:12;00:00:16;interaction;take,meat
+11_Video_1;16;00:00:16;00:00:18;locationstay;workshop,walking
+11_Video_1;16;00:00:18;00:00:23;interaction;crafting,axe
+11_Video_1;16;00:00:23;00:00:24;interaction;take,axe
+11_Video_1;16;00:00:24;00:00:26;interaction;storing,meat
+11_Video_1;16;00:00:26;00:00:27;locationstay;workshop,walking
+11_Video_1;16;00:00:27;00:00:28;interaction;open,door
+11_Video_1;16;00:00:28;00:00:30;interaction;close,door
+11_Video_1;16;00:00:30;00:00:32;locationstay;front yard,walking
+11_Video_1;16;00:00:32;00:00:57;locationstay;meadow,trees,walking
+11_Video_1;16;00:00:57;00:01:02;locationstay;lake,water,swimming
+11_Video_2;16;00:00:00;00:00:07;interaction;cut,tree
+11_Video_2;16;00:00:07;00:00:10;locationstay;meadow,trees,walking
+11_Video_2;16;00:00:10;00:00:11;locationstay;meadow,trees,running
+11_Video_2;16;00:00:10;00:00:19;locationstay;meadow,trees,jumping
+11_Video_2;16;00:00:19;00:00:21;locationstay;meadow,trees,standing
+11_Video_2;16;00:00:21;00:00:33;locationstay;meadow,trees,walking
+11_Video_2;16;00:00:33;00:00:34;locationstay;meadow,trees,standing
+11_Video_2;16;00:00:34;00:00:33;locationstay;meadow,trees,walking
+11_Video_2;16;00:01:01;00:01:03;locationstay;front yard,walking
+11_Video_2;16;00:01:03;00:01:04;interaction;open,door
+11_Video_2;16;00:01:04;00:01:05;interaction;close,door
+11_Video_2;16;00:01:05;00:01:15;interaction;storing,items
+11_Video_2;16;00:01:16;00:01:17;locationstay;workshop,walking
+11_Video_2;16;00:01:17;00:01:23;interaction;crafting,planks
+11_Video_3;16;00:00:00;00:00:03;locationstay;village,desert,walking
+11_Video_3;16;00:00:03;00:00:04;interaction;open,door
+11_Video_3;16;00:00:03;00:00:06;interaction;close,door
+11_Video_3;16;00:00:06;00:00:08;locationstay;house,bed
+11_Video_3;16;00:00:08;00:00:09;interaction;try,sleeping,bed
+11_Video_3;16;00:00:09;00:00:11;dialog;alert,failed
+11_Video_3;16;00:00:11;00:00:15;interaction;choose,weapon
+11_Video_3;16;00:00:15;00:00:16;interaction;open,door
+11_Video_3;16;00:00:16;00:00:19;interaction;fight,zombie,child
+11_Video_3;16;00:00:19;00:00:20;interaction;close,door
+11_Video_3;16;00:00:20;00:00:21;locationstay;house,bed
+11_Video_3;16;00:00:21;00:00:29;teleport;sleeping
+11_Video_3;16;00:00:29;00:00:30;interaction;open,door
+11_Video_3;16;00:00:30;00:00:32;interaction;close,door
+11_Video_3;16;00:00:32;00:00:40;locationstay;village,desert,running
+11_Video_3;16;00:00:40;00:00:41;interaction;open,door
+11_Video_3;16;00:00:41;00:00:43;locationstay;house,chest
+11_Video_3;16;00:00:43;00:00:45;interaction;close,door
+11_Video_3;16;00:00:45;00:00:52;interaction;crafting,axe
+11_Video_3;16;00:00:52;00:00:54;interaction;take,axe
+11_Video_3;16;00:00:40;00:00:41;interaction;open,door
+11_Video_3;16;00:00:41;00:00:57;locationstay;village,desert,walking
+11_Video_3;16;00:00:57;00:00:59;locationstay;village,desert,running
+11_Video_3;16;00:00:59;00:01:07;locationstay;desert,running
+11_Video_3;16;00:01:07;00:01:08;locationstay;desert,standing
+11_Video_3;16;00:01:08;00:01:25;locationstay;desert,running
+11_Video_3;16;00:01:25;00:01:38;locationstay;meadow,trees,running
+11_Video_3;16;00:01:38;00:01:39;locationstay;choose,axe
+11_Video_3;16;00:01:39;00:01:45;interaction;cut,tree
+11_Video_3;16;00:01:45;00:02:01;locationstay;meadow,trees,running
+11_Video_4;16;00:00:00;00:00:08;locationstay;village,forest,walking
+11_Video_4;16;00:00:08;00:00:10;interaction;open,door
+11_Video_4;16;00:00:10;00:00:11;interaction;open,chest
+11_Video_4;16;00:00:11;00:00:18;interaction;take,gunpowder,music disc,iron ingot,name tag,gold ingot,bread
+11_Video_4;16;00:00:18;00:00:19;interaction;close,chest
+11_Video_4;16;00:00:19;00:00:23;locationstay;house,living room,walking
+11_Video_4;16;00:00:23;00:00:26;locationstay;house,staircase,walking
+11_Video_4;16;00:00:26;00:00:27;locationstay;house,bedroom,walking
+11_Video_4;16;00:00:27;00:00:28;interaction;open,door
+11_Video_4;16;00:00:28;00:00:32;locationstay;house,balcony,forest,sea,standing
+11_Video_4;16;00:00:32;00:00:34;locationstay;house,bedroom,walking
+11_Video_4;16;00:00:34;00:00:35;interaction;open,door
+11_Video_4;16;00:00:35;00:00:37;locationstay;house,bedroom,walking
+11_Video_4;16;00:00:37;00:00:39;locationstay;house,staircase,jumping
+11_Video_4;16;00:00:39;00:00:43;locationstay;house,living room,walking
+11_Video_4;16;00:00:43;00:01:01;locationstay;village,forest,walking
+11_Video_5;16;00:00:00;00:00:04;locationstay;village,forest,walking
+11_Video_5;16;00:00:04;00:00:05;interaction;open,chest
+11_Video_5;16;00:00:05;00:00:06;interaction;close,chest
+11_Video_5;16;00:00:06;00:00:15;locationstay;village,forest,walking
+11_Video_5;16;00:00:15;00:00:16;locationstay;house,living room,walking
+11_Video_5;16;00:00:16;00:00:17;interaction;open,chest
+11_Video_5;16;00:00:17;00:00:20;interaction;take,saddle
+11_Video_5;16;00:00:20;00:00:21;interaction;close,chest
+11_Video_5;16;00:00:21;00:00:23;locationstay;house,living room,walking
+11_Video_5;16;00:00:23;00:00:42;locationstay;village,forest,walking
+11_Video_5;16;00:00:42;00:00:43;locationstay;village,forest,standing
+11_Video_5;16;00:00:43;00:00:48;locationstay;village,forest,walking
+11_Video_5;16;00:00:48;00:00:52;locationstay;village,stable,walking
+11_Video_6;16;00:00:00;00:00:02;locationstay;village,wheat field,walking
+11_Video_6;16;00:00:02;00:00:18;locationstay;village,forest,walking
+11_Video_6;16;00:00:18;00:00:19;interaction;open,large chest
+11_Video_6;16;00:00:19;00:00:21;interaction;close,large chest
+11_Video_6;16;00:00:21;00:00:29;locationstay;village,forest,walking
+11_Video_6;16;00:00:29;00:00:30;interaction;open,chest
+11_Video_6;16;00:00:30;00:00:31;interaction;close,chest
+11_Video_6;16;00:00:31;00:00:40;locationstay;village,forest,walking
+11_Video_6;16;00:00:40;00:00:41;interaction;open,door
+11_Video_6;16;00:00:41;00:00:42;locationstay;house,living room,walking
+11_Video_6;16;00:00:42;00:00:43;interaction;open,chest
+11_Video_6;16;00:00:43;00:00:45;interaction;take,iron horse armor
+11_Video_6;16;00:00:45;00:00:46;interaction;close,chest
+11_Video_6;16;00:00:46;00:00:48;locationstay;house,living room,walking
+11_Video_6;16;00:00:48;00:01:21;locationstay;village,forest,walking
+11_Video_6;16;00:01:21;00:01:27;locationstay;castle,forest,walking
+11_Video_6;16;00:01:27;00:01:30;locationstay;castle,forest,standing
+11_Video_6;16;00:01:30;00:01:36;locationstay;castle,forest,walking
+11_Video_6;16;00:01:36;00:01:43;locationstay;library,castle,walking
+11_Video_6;16;00:01:36;00:01:43;locationstay;castle,balcony,forest,clouds,standing
+11_Video_7;16;00:00:00;00:00:03;locationstay;meadow,trees,running
+11_Video_7;16;00:00:03;00:00:20;locationstay;desert,running
+11_Video_7;16;00:00:20;00:00:21;interaction;choose,cooked salmon
+11_Video_7;16;00:00:21;00:00:26;interaction;eat,cooked salmon
+11_Video_7;16;00:00:26;00:00:27;interaction;choose,diamond sword
+11_Video_7;16;00:00:27;00:00:38;locationstay;desert,running
+11_Video_7;16;00:00:26;00:00:44;teleport;nether,portal
+11_Video_7;16;00:00:44;00:00:46;loadingscreen;building
+11_Video_7;16;00:00:46;00:00:49;teleport;nether,portal
+11_Video_7;16;00:00:49;00:00:56;locationstay;nether,running
+11_Video_7;16;00:00:56;00:00:57;interaction;choose,bow
+11_Video_7;16;00:00:57;00:01:01;interaction;fight,ghast
+11_Video_7;16;00:01:01;00:01:02;interaction;choose,crafting table
+11_Video_7;16;00:01:02;00:01:04;interaction;place,crafting table
+11_Video_7;16;00:01:04;00:01:06;interaction;open,crafting table
+11_Video_7;16;00:01:06;00:01:12;interaction;crafting,chest
+11_Video_7;16;00:01:12;00:01:13;interaction;close,crafting table
+11_Video_7;16;00:01:13;00:01:21;locationstay;desert,walking
+11_Video_7;16;00:01:21;00:01:25;interaction;choose,diamond sword
+11_Video_7;16;00:01:25;00:01:37;locationstay;desert,running
+11_Video_7;16;00:01:37;00:01:39;interaction;choose,diamond pickaxe
+11_Video_7;16;00:01:39;00:01:54;interaction;mine,glowstone dust
+11_Video_7;16;00:01:54;00:02:04;locationstay;desert,walking
+11_Video_7;16;00:02:04;00:02:09;locationstay;desert,running
+11_Video_7;16;00:02:09;00:02:10;interaction;choose,bow
+11_Video_7;16;00:02:10;00:02:13;interaction;fight,ghast
+11_Video_7;16;00:02:13;00:02:18;locationstay;desert,running
+11_Video_7;16;00:02:18;00:02:19;interaction;open,crafting table
+11_Video_7;16;00:02:19;00:02:31;interaction;crafting,glowstone
+11_Video_7;16;00:02:31;00:02:32;interaction;close,crafting table
+11_Video_7;16;00:02:32;00:02:39;locationstay;desert,walking
+11_Video_7;16;00:02:39;00:02:40;locationstay;choose,diamond sword
+11_Video_7;16;00:02:40;00:02:45;teleport;nether,portal
+11_Video_7;16;00:02:45;00:02:47;loadingscreen;building
+11_Video_7;16;00:02:47;00:02:50;teleport;nether,portal
+11_Video_7;16;00:02:50;00:02:55;locationstay;desert,running
+11_Video_8;16;00:00:00;00:00:08;locationstay;desert,running
+11_Video_8;16;00:00:09;00:00:10;locationstay;desert,diveing
+11_Video_8;16;00:00:10;00:00:31;locationstay;desert,running
+11_Video_8;16;00:00:31;00:00:33;interaction;open,door,button
+11_Video_8;16;00:00:33;00:00:48;locationstay;cave,running
+11_Video_8;16;00:00:48;00:00:49;interaction;open,door
+11_Video_8;16;00:00:49;00:00:51;interaction;close,door
+11_Video_8;16;00:00:51;00:00:54;locationstay;cave,walking
+11_Video_8;16;00:00:54;00:00:55;interaction;open,chest
+11_Video_8;16;00:00:55;00:00:56;interaction;storing,rotten flesh
+11_Video_8;16;00:00:56;00:00:58;interaction;storing,melon
+11_Video_8;16;00:00:58;00:01:00;interaction;clean up,chest
+11_Video_8;16;00:01:00;00:01:04;interaction;storing,iron helmet, seeds
+11_Video_8;16;00:01:04;00:01:05;interaction;take,axe
+11_Video_8;16;00:01:05;00:01:07;interaction;storing,water bucket
+11_Video_8;16;00:01:07;00:01:08;interaction;storing,oak boat
+11_Video_8;16;00:01:08;00:01:08;interaction;take,water bucket
+11_Video_8;16;00:01:08;00:01:09;interaction;close,chest
+11_Video_8;16;00:01:09;00:01:11;interaction;choose,axe
+11_Video_8;16;00:01:11;00:01:15;locationstay;cave,running
+11_Video_8;16;00:01:15;00:01:20;interaction;cut,stone
+11_Video_8;16;00:01:20;00:01:21;interaction;set,torch
+11_Video_8;16;00:01:21;00:01:35;interaction;cut,stone
+11_Video_8;16;00:01:35;00:01:36;interaction;open,inventory
+11_Video_8;16;00:01:36;00:01:37;interaction;close,inventory
+11_Video_8;16;00:01:37;00:01:57;interaction;cut,stone
+11_Video_9;16;00:00:00;00:00:15;interaction;cut,flowers
+11_Video_8;16;00:00:15;00:00:28;dialog;chat
+11_Video_9;16;00:00:28;00:00:42;locationstay;meadow,running
+11_Video_9;16;00:00:42;00:00:43;interaction;open,door
+11_Video_9;16;00:00:43;00:00:45;interaction;open,crafting table
+11_Video_9;16;00:00:45;00:00:51;interaction;crafting,chest
+11_Video_9;16;00:00:51;00:00:52;interaction;take,chest
+11_Video_9;16;00:00:52;00:00:53;interaction;close,crafting table
+11_Video_9;16;00:00:53;00:00:55;interaction;choose,chest
+11_Video_9;16;00:00:55;00:00:57;interaction;set,chest
+11_Video_9;16;00:00:57;00:00:58;interaction;open,large chest
+11_Video_9;16;00:00:58;00:01:02;interaction;storing,flowers
+11_Video_9;16;00:01:02;00:01:05;interaction;close,large chest
+11_Video_10;16;00:00:00;00:00:15;locationstay;meadow,running
+11_Video_10;16;00:00:15;00:00:24;dialog;command
+11_Video_10;16;00:00:24;00:00:28;teleport;lake,wate
+11_Video_10;16;00:00:28;00:00:40;locationstay;lake,water,swimming
+11_Video_10;16;00:00:40;00:00:48;locationstay;meadow,running
+11_Video_10;16;00:00:48;00:00:56;locationstay;beach,running
+11_Video_10;16;00:00:56;00:00:57;interaction;open,inventory
+11_Video_10;16;00:00:56;00:00:58;interaction;take,acacia boat
+11_Video_10;16;00:00:58;00:00:59;interaction;close,inventory
+11_Video_10;16;00:00:59;00:01:01;interaction;set,acacia boat
+11_Video_10;16;00:01:01;00:01:11;locationstay;lake,water,driveing,acacia boat
+11_Video_11;16;00:00:00;00:00:01;locationstay;house,running
+11_Video_11;16;00:00:01;00:00:02;interaction;open,door
+11_Video_11;16;00:00:02;00:00:03;interaction;close,door
+11_Video_11;16;00:00:03;00:00:22;locationstay;meadow,running
+11_Video_11;16;00:00:22;00:00:23;interaction;choose,iron shovel
+11_Video_11;16;00:00:23;00:00:42;interaction;cut,snow
+11_Video_11;16;00:00:42;00:01:02;locationstay;meadow,running
+11_Video_11;16;00:01:02;00:01:04;interaction;open,door
+11_Video_11;16;00:01:04;00:01:05;interaction;close,door
+11_Video_11;16;00:01:05;00:01:05;interaction;open,large chest
+11_Video_11;16;00:01:05;00:01:13;interaction;storing,snowball
+11_Video_11;16;00:01:13;00:01:15;interaction;close,large chest
+11_Video_11;16;00:01:15;00:01:17;interaction;open,door
+11_Video_11;16;00:01:17;00:01:20;interaction;close,door
+11_Video_11;16;00:01:20;00:01:24;locationstay;meadow,running
+11_Video_11;16;00:01:24;00:01:26;interaction;open,door
+11_Video_11;16;00:01:26;00:01:29;interaction;close,door
+11_Video_11;16;00:01:29;00:01:34;teleport;nether,portal
+11_Video_11;16;00:01:34;00:01:37;loadingscreen;building
+11_Video_11;16;00:01:37;00:01:39;teleport;nether,portal
+11_Video_11;16;00:01:39;00:01:42;locationstay;nether,walking
+11_Video_12;16;00:00:00;00:00:23;interaction;crafting,portal
+11_Video_12;16;00:00:23;00:00:27;teleport;nether,portal
+11_Video_12;16;00:00:27;00:00:32;loadingscreen;building
+11_Video_12;16;00:00:32;00:00:35;teleport;nether,portal
+11_Video_12;16;00:00:35;00:00:46;locationstay;nether,running
+11_Video_12;16;00:00:35;00:00:53;locationstay;nether,walking
+11_Video_12;16;00:00:53;00:01:05;interaction;fight,hoglin
+11_Video_13;16;00:00:00;00:00:05;locationstay;meadow,running
+11_Video_13;16;00:00:05;00:00:10;interaction;cut,flowers
+11_Video_13;16;00:00:10;00:00:23;locationstay;meadow,running
+11_Video_13;16;00:00:23;00:00:27;interaction;cut,leaves
+11_Video_13;16;00:00:27;00:00:37;locationstay;meadow,running
+11_Video_13;16;00:00:37;00:00:46;interaction;set,flowers
+11_Video_13;16;00:00:46;00:00:47;locationstay;front yard,walking
+11_Video_13;16;00:00:47;00:00:49;interaction;open,door
+11_Video_13;16;00:00:49;00:00:50;interaction;close,door
+11_Video_14;16;00:00:00;00:00:01;locationstay;forest,walking
+11_Video_14;16;00:00:01;00:00:03;interaction;cut,leaves
+11_Video_14;16;00:00:03;00:00:24;locationstay;forest,walking
+11_Video_14;16;00:00:24;00:00:43;locationstay;mansion,walking
+11_Video_14;16;00:00:43;00:00:45;interaction;open,chest
+11_Video_14;16;00:00:45;00:00:46;interaction;storing,poppy
+11_Video_14;16;00:00:46;00:00:47;interaction;close,chest
+11_Video_14;16;00:00:47;00:00:50;locationstay;mansion,walking
+11_Video_14;16;00:00:50;00:00:54;teleport;nether,portal
+11_Video_14;16;00:00:54;00:00:57;loadingscreen;building
+11_Video_14;16;00:00:57;00:01:09;teleport;nether,portal
+11_Video_15;16;00:00:00;00:00:02;locationstay;village,walking
+11_Video_15;16;00:00:02;00:00:03;interaction;open,door
+11_Video_15;16;00:00:03;00:00:06;locationstay;house,walking
+11_Video_15;16;00:00:06;00:00:07;interaction;close,door
+11_Video_15;16;00:00:07;00:00:10;locationstay;village,walking
+11_Video_15;16;00:00:10;00:00:11;interaction;open,door
+11_Video_15;16;00:00:11;00:00:16;locationstay;house,walking
+11_Video_15;16;00:00:16;00:00:18;interaction;close,door
+11_Video_15;16;00:00:18;00:00:25;dialog;chat
+11_Video_15;16;00:00:25;00:00:42;locationstay;village,walking
+11_Video_15;16;00:00:42;00:00:43;interaction;choose,bow
+11_Video_15;16;00:00:43;00:00:56;interaction;fight,diener
+11_Video_16;16;00:00:00;00:00:08;interaction;cut,sand
+11_Video_16;16;00:00:08;00:00:23;dialog;chat
+11_Video_16;16;00:00:23;00:00:30;interaction;cut,sand
+11_Video_16;16;00:00:30;00:00:59;locationstay;desert,running
+11_Video_17;16;00:00:00;00:00:02;interaction;open,chest
+11_Video_17;16;00:00:02;00:00:05;interaction;take,golden apple,name tag,detector rail,rail
+11_Video_17;16;00:00:05;00:00:07;interaction;close,chest
+11_Video_17;16;00:00:07;00:00:10;locationstay;mine,walking
+11_Video_17;16;00:00:10;00:00:12;interaction;open,chest
+11_Video_17;16;00:00:12;00:00:16;interaction;take,diamond,detector rail,rail
+11_Video_17;16;00:00:16;00:00:17;interaction;close,chest
+11_Video_17;16;00:00:17;00:00:23;locationstay;mine,running
+11_Video_17;16;00:00:23;00:00:28;locationstay;desert,walking
+11_Video_17;16;00:00:28;00:00:31;locationstay;mine,walking
+11_Video_17;16;00:00:31;00:00:33;interaction;open,chest
+11_Video_17;16;00:00:33;00:00:35;interaction;take,name tag,rail
+11_Video_17;16;00:00:35;00:00:36;interaction;close,chest
+11_Video_17;16;00:00:36;00:00:42;locationstay;mine,running
+11_Video_17;16;00:00:42;00:00:44;interaction;choose,diamond pickaxe
+11_Video_17;16;00:00:44;00:00:54;interaction;cut,sand,stone
+11_Video_17;16;00:00:54;00:01:00;interaction;fight,zombie
+11_Video_17;16;00:01:00;00:01:01;interaction;set,torch
+11_Video_17;16;00:01:01;00:01:10;interaction;fight,zombie
+11_Video_18;16;00:00:00;00:00:28;interaction;cut,ice
+11_Video_18;16;00:00:28;00:00:33;dialog;chat
+11_Video_18;16;00:00:33;00:00:39;interaction;cut,ice
+11_Video_18;16;00:00:39;00:00:44;locationstay;ice,walking
+11_Video_18;16;00:00:44;00:00:52;locationstay;ice,running
+11_Video_18;16;00:00:52;00:00:56;locationstay;sea,water,driveing,boat
+11_Video_19;16;00:00:00;00:00:04;locationstay;jungle,walking
+11_Video_19;16;00:00:04;00:00:15;locationstay;jungle,running
+11_Video_19;16;00:00:15;00:00:17;interaction;throw,ender pearl
+11_Video_19;16;00:00:17;00:00:18;teleport;village,ender pearl
+11_Video_19;16;00:00:18;00:00:29;locationstay;village,running
+11_Video_19;16;00:00:29;00:00:31;interaction;open,door
+11_Video_19;16;00:00:31;00:00:32;interaction;close,door
+11_Video_19;16;00:00:32;00:00:33;locationstay;house,walking
+11_Video_19;16;00:00:33;00:00:35;interaction;open,door
+11_Video_19;16;00:00:35;00:00:36;interaction;close,door
+11_Video_19;16;00:00:36;00:00:40;locationstay;village,running
+11_Video_20;16;00:00:00;00:00:11;locationstay;ice,stand
+11_Video_20;16;00:00:11;00:00:17;dialog;chat
+11_Video_20;16;00:00:17;00:00:30;locationstay;ice,running
+11_Video_20;16;00:00:30;00:00:32;locationstay;igloo,walking
+11_Video_20;16;00:00:32;00:00:33;interaction;open,furnace
+11_Video_20;16;00:00:33;00:00:35;interaction;grill,raw salmon
+11_Video_20;16;00:00:35;00:00:36;interaction;close,furnace
+11_Video_20;16;00:00:36;00:00:38;locationstay;igloo,running
+11_Video_20;16;00:00:38;00:00:40;locationstay;ice,running
